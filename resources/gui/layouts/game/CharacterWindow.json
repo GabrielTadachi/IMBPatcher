@@ -1,5 +1,5 @@
 {
-  "Bounds": "1134,368,220,340",
+  "Bounds": "1694,680,220,340",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,116,31",
+    "Bounds": "0,0,134,31",
     "Padding": "40,7,4,4",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -253,7 +253,7 @@
         "TextScale": 1.0
       },
       "StatsLabel": {
-        "Bounds": "4,188,34,16",
+        "Bounds": "4,188,38,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
