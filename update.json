@@ -723,6 +723,11 @@
       "Size": 7182
     },
     {
+      "Path": "resources/entities/Antonieta.png",
+      "Hash": "bcdefd8998e3a23d3d93b063aba9b71f",
+      "Size": 9620
+    },
+    {
       "Path": "resources/entities/antonieta1.png",
       "Hash": "bcdefd8998e3a23d3d93b063aba9b71f",
       "Size": 9620
@@ -733,7 +738,7 @@
       "Size": 9056
     },
     {
-      "Path": "resources/entities/baco.png",
+      "Path": "resources/entities/Baco.png",
       "Hash": "e3af704c03d50694862b5cdf7cd924d6",
       "Size": 8497
     },
@@ -758,7 +763,7 @@
       "Size": 4890
     },
     {
-      "Path": "resources/entities/delfina.png",
+      "Path": "resources/entities/Delfina.png",
       "Hash": "68f55b58676c5096a7fe6b3376ae49d6",
       "Size": 9320
     },
@@ -786,6 +791,21 @@
       "Path": "resources/entities/fivela-pai.png",
       "Hash": "545ed6894ca9cdace75d0a321533477a",
       "Size": 8423
+    },
+    {
+      "Path": "resources/entities/FivelaFilho.png",
+      "Hash": "8a59c3d8bcfc575bdb39c55c9c285544",
+      "Size": 8335
+    },
+    {
+      "Path": "resources/entities/FivelaPai.png",
+      "Hash": "545ed6894ca9cdace75d0a321533477a",
+      "Size": 8423
+    },
+    {
+      "Path": "resources/entities/Floriano.png",
+      "Hash": "d5584448bca26c443f63c104e245d5ef",
+      "Size": 6962
     },
     {
       "Path": "resources/entities/Floriano1.png",
@@ -873,6 +893,11 @@
       "Size": 2277
     },
     {
+      "Path": "resources/entities/Pegaso.png",
+      "Hash": "c7b779be89961336131f493985aab56c",
+      "Size": 10834
+    },
+    {
       "Path": "resources/entities/Phoenix.png",
       "Hash": "2905df285b28caaa3b7368e580f66e06",
       "Size": 26723
@@ -918,7 +943,7 @@
       "Size": 7331
     },
     {
-      "Path": "resources/entities/Unicórnio.png",
+      "Path": "resources/entities/Unicornio.png",
       "Hash": "fbe788f9f6a8f804797ba5ffe81d8fcb",
       "Size": 8666
     },
