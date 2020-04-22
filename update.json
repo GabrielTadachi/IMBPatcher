@@ -2180,7 +2180,7 @@
     {
       "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
       "Hash": "1197e49c81986b0b686a20b12ff5a570",
-      "Size": 13329
+      "Size": 12934
     },
     {
       "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
