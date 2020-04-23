@@ -2004,7 +2004,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "9f0d2b455518ddb02ede3f56e32c0ff1",
+      "Hash": "19046c67be187deeabf15e44b4036e63",
       "Size": 11281
     },
     {
@@ -2094,7 +2094,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "6dc0936241eacf43df6698d3a60e68d5",
+      "Hash": "27925382ed1816e0db4f939c86f3652f",
       "Size": 24309
     },
     {
@@ -2139,8 +2139,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "fb3812d8a1f038dc17edb19e08be23e9",
-      "Size": 11357
+      "Hash": "4ae7f882f0a5ae2628babe852d8b370a",
+      "Size": 11358
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -9618,6 +9618,131 @@
       "Size": 623
     },
     {
+      "Path": "resources/items/Varinha1.1.png",
+      "Hash": "d54f703716049ee4711419d00d3581d4",
+      "Size": 1400
+    },
+    {
+      "Path": "resources/items/Varinha1.2.png",
+      "Hash": "6e02b70d6a4b085d9c9a8c81186b5901",
+      "Size": 1296
+    },
+    {
+      "Path": "resources/items/Varinha1.3.png",
+      "Hash": "70c3003ca3823019f04994eb261547a9",
+      "Size": 1277
+    },
+    {
+      "Path": "resources/items/Varinha1.4.png",
+      "Hash": "bf3efa23b13d96b5ddaa78c73c620151",
+      "Size": 1296
+    },
+    {
+      "Path": "resources/items/Varinha1.5.png",
+      "Hash": "cece8aff3c966336db9c033065f1e9dc",
+      "Size": 1288
+    },
+    {
+      "Path": "resources/items/Varinha2.1.png",
+      "Hash": "fa3f26820c1bb1e49f1cd27ad73828e6",
+      "Size": 1460
+    },
+    {
+      "Path": "resources/items/Varinha2.2.png",
+      "Hash": "82f647c752b2568193e1f2a6d36f8d58",
+      "Size": 1297
+    },
+    {
+      "Path": "resources/items/Varinha2.3.png",
+      "Hash": "d2bd7be8125795440bd6304e5df4d7f9",
+      "Size": 1295
+    },
+    {
+      "Path": "resources/items/Varinha2.4.png",
+      "Hash": "c98b01f3e78af1b551ffd7508ddb89e7",
+      "Size": 1294
+    },
+    {
+      "Path": "resources/items/Varinha2.5.png",
+      "Hash": "5e7eaf6a68ca69305e758a552b1bec9b",
+      "Size": 1291
+    },
+    {
+      "Path": "resources/items/Varinha3.1.png",
+      "Hash": "49b117ab8dde67d5081be2e6442a7ffa",
+      "Size": 1402
+    },
+    {
+      "Path": "resources/items/Varinha3.2.png",
+      "Hash": "0ddc25c56a436d157618bdbcd7249600",
+      "Size": 1287
+    },
+    {
+      "Path": "resources/items/Varinha3.3.png",
+      "Hash": "6c396421cc6c226ca4ce2ad9c61b0160",
+      "Size": 1287
+    },
+    {
+      "Path": "resources/items/Varinha3.4.png",
+      "Hash": "49ee5d2517239b5606797522a9fe4f44",
+      "Size": 1285
+    },
+    {
+      "Path": "resources/items/Varinha3.5.png",
+      "Hash": "71cf7f54d3bdd4cca662031fe14e88bc",
+      "Size": 1295
+    },
+    {
+      "Path": "resources/items/Varinha4.1.png",
+      "Hash": "5077cbbf193e3abe15577d6f439dd7be",
+      "Size": 1440
+    },
+    {
+      "Path": "resources/items/Varinha4.2.png",
+      "Hash": "52d3fb80f43b99194404d61bce6e5729",
+      "Size": 1290
+    },
+    {
+      "Path": "resources/items/Varinha4.3.png",
+      "Hash": "0bf1d7807b45f62e2cb14997553fb82f",
+      "Size": 1283
+    },
+    {
+      "Path": "resources/items/Varinha4.4.png",
+      "Hash": "8d8fc1a237c65428d6c1da27bce3fc0f",
+      "Size": 1290
+    },
+    {
+      "Path": "resources/items/Varinha4.5.png",
+      "Hash": "469a6cb404776a589b00a0b48f1d8394",
+      "Size": 1285
+    },
+    {
+      "Path": "resources/items/Varinha5.1.png",
+      "Hash": "a12f1d3f15c9089eb4b59539b46dc35c",
+      "Size": 1422
+    },
+    {
+      "Path": "resources/items/Varinha5.2.png",
+      "Hash": "7fcb830e06c0a09cb7c7d1394576288d",
+      "Size": 1283
+    },
+    {
+      "Path": "resources/items/Varinha5.3.png",
+      "Hash": "321c157f52fe3aaaebd6510db4ef1458",
+      "Size": 1292
+    },
+    {
+      "Path": "resources/items/Varinha5.4.png",
+      "Hash": "fc68af220668df864387068d29a331eb",
+      "Size": 1300
+    },
+    {
+      "Path": "resources/items/Varinha5.5.png",
+      "Hash": "5bc28b1b92d750530c7c2732104bb559",
+      "Size": 1288
+    },
+    {
       "Path": "resources/misc/attributes.png",
       "Hash": "133bb3e1a8e496fe1df9161b2825a3c6",
       "Size": 3790
@@ -10151,6 +10276,31 @@
       "Path": "resources/paperdolls/SignatusM.png",
       "Hash": "da46cc04934522c0b7cdc0a2363b3b3e",
       "Size": 4731
+    },
+    {
+      "Path": "resources/paperdolls/varinha1.png",
+      "Hash": "22e29f71a627e589ee439a4ebf2caa78",
+      "Size": 799
+    },
+    {
+      "Path": "resources/paperdolls/varinha2.png",
+      "Hash": "af82614e20bb7b86624cb86e3028b783",
+      "Size": 801
+    },
+    {
+      "Path": "resources/paperdolls/varinha3.png",
+      "Hash": "5297a955b488eb9fd579f1dc71b865de",
+      "Size": 797
+    },
+    {
+      "Path": "resources/paperdolls/varinha4.png",
+      "Hash": "f976b5b344fdd90988f26a7b899b1bf3",
+      "Size": 799
+    },
+    {
+      "Path": "resources/paperdolls/varinha5.png",
+      "Hash": "6e00cf017166b2cc72fc8934e6abe030",
+      "Size": 799
     },
     {
       "Path": "resources/shaders/radialgradient.xnb",
