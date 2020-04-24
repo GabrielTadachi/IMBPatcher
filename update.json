@@ -728,11 +728,6 @@
       "Size": 9620
     },
     {
-      "Path": "resources/entities/antonieta1.png",
-      "Hash": "bcdefd8998e3a23d3d93b063aba9b71f",
-      "Size": 9620
-    },
-    {
       "Path": "resources/entities/Autumn.png",
       "Hash": "006722709c9a916696d258c1dd257e28",
       "Size": 9056
@@ -746,6 +741,66 @@
       "Path": "resources/entities/Belife.png",
       "Hash": "018fe6992c2a469ead9c5352a9a0da88",
       "Size": 9383
+    },
+    {
+      "Path": "resources/entities/Bruxo1.png",
+      "Hash": "cc78c4a127fe8fbbbbf20268a7587676",
+      "Size": 9755
+    },
+    {
+      "Path": "resources/entities/Bruxo10.png",
+      "Hash": "a4406114f2cd7262e4f64156a5f518d0",
+      "Size": 10048
+    },
+    {
+      "Path": "resources/entities/Bruxo11.png",
+      "Hash": "21c7815aa25231ba35e11629f34fc22e",
+      "Size": 8806
+    },
+    {
+      "Path": "resources/entities/Bruxo12.png",
+      "Hash": "2e86282cf338491995218c40bbcf24b1",
+      "Size": 9809
+    },
+    {
+      "Path": "resources/entities/Bruxo2.png",
+      "Hash": "18dc6079cc02e3d218995801632625ea",
+      "Size": 10994
+    },
+    {
+      "Path": "resources/entities/Bruxo3.png",
+      "Hash": "2e230227d5bdb1c1667c96f53612d9a9",
+      "Size": 9057
+    },
+    {
+      "Path": "resources/entities/Bruxo4.png",
+      "Hash": "52580c6f6736f25c8c9bdd8e565b6170",
+      "Size": 9047
+    },
+    {
+      "Path": "resources/entities/Bruxo5.png",
+      "Hash": "6c1d086461f3fc91f426480fdbdd2cc9",
+      "Size": 9838
+    },
+    {
+      "Path": "resources/entities/Bruxo6.png",
+      "Hash": "6ca522e41c643fa171556b513730aef5",
+      "Size": 8374
+    },
+    {
+      "Path": "resources/entities/Bruxo7.png",
+      "Hash": "8df7db28a8e518a37cb0550f377966b1",
+      "Size": 8223
+    },
+    {
+      "Path": "resources/entities/Bruxo8.png",
+      "Hash": "8fbd69073e986e4f92b5c62e8d745462",
+      "Size": 7570
+    },
+    {
+      "Path": "resources/entities/Bruxo9.png",
+      "Hash": "3cf04faf543eef0fa71a685d9e93b824",
+      "Size": 8484
     },
     {
       "Path": "resources/entities/Click.png",
@@ -788,16 +843,6 @@
       "Size": 44938
     },
     {
-      "Path": "resources/entities/fivela-filho.png",
-      "Hash": "8a59c3d8bcfc575bdb39c55c9c285544",
-      "Size": 8335
-    },
-    {
-      "Path": "resources/entities/fivela-pai.png",
-      "Hash": "545ed6894ca9cdace75d0a321533477a",
-      "Size": 8423
-    },
-    {
       "Path": "resources/entities/FivelaFilho.png",
       "Hash": "8a59c3d8bcfc575bdb39c55c9c285544",
       "Size": 8335
@@ -809,11 +854,6 @@
     },
     {
       "Path": "resources/entities/Floriano.png",
-      "Hash": "d5584448bca26c443f63c104e245d5ef",
-      "Size": 6962
-    },
-    {
-      "Path": "resources/entities/Floriano1.png",
       "Hash": "d5584448bca26c443f63c104e245d5ef",
       "Size": 6962
     },
@@ -993,6 +1033,61 @@
       "Size": 4570
     },
     {
+      "Path": "resources/entities/Muggle1.png",
+      "Hash": "14a58f4c6b19bc3daa64aafb9f44b282",
+      "Size": 9613
+    },
+    {
+      "Path": "resources/entities/Muggle10.png",
+      "Hash": "7f223a1e1043dd20869517b909eada1b",
+      "Size": 9014
+    },
+    {
+      "Path": "resources/entities/Muggle11.png",
+      "Hash": "f82eb0fa3d9c52aeb5016e7e4890d749",
+      "Size": 8571
+    },
+    {
+      "Path": "resources/entities/Muggle2.png",
+      "Hash": "05e7fdaba99a8a11ede28100edd71ac1",
+      "Size": 6944
+    },
+    {
+      "Path": "resources/entities/Muggle3.png",
+      "Hash": "fd20469f0e44d95cc7d301370a429ebb",
+      "Size": 8138
+    },
+    {
+      "Path": "resources/entities/Muggle4.png",
+      "Hash": "50de92d034b9b81cd5df225e6202779a",
+      "Size": 8652
+    },
+    {
+      "Path": "resources/entities/Muggle5.png",
+      "Hash": "3679fc285e19c0c8a8d1a79b7a538abf",
+      "Size": 8076
+    },
+    {
+      "Path": "resources/entities/Muggle6.png",
+      "Hash": "bde283713107ae71d62b54288ab8188e",
+      "Size": 7360
+    },
+    {
+      "Path": "resources/entities/Muggle7.png",
+      "Hash": "1bfdacb324886252c2b8be1418ce1bff",
+      "Size": 6652
+    },
+    {
+      "Path": "resources/entities/Muggle8.png",
+      "Hash": "768edf58d0c118b0d38d02807814de17",
+      "Size": 6315
+    },
+    {
+      "Path": "resources/entities/Muggle9.png",
+      "Hash": "44e0917e58e9bc490556333edf71aaad",
+      "Size": 7862
+    },
+    {
       "Path": "resources/entities/Mulher1.png",
       "Hash": "49b2b02e649d87782f3ba6a8de0caeb1",
       "Size": 5690
@@ -1101,6 +1196,126 @@
       "Path": "resources/entities/Winged Horse.png",
       "Hash": "c7b779be89961336131f493985aab56c",
       "Size": 10834
+    },
+    {
+      "Path": "resources/entities/_0000s_0000_AlunaSignatus1.png",
+      "Hash": "69da09c01463de46f2787a0f9daf6e3d",
+      "Size": 8286
+    },
+    {
+      "Path": "resources/entities/_0000s_0001_AlunaMartes3.png",
+      "Hash": "be77b73961e41e5fc5e3dd0c0d96257a",
+      "Size": 9412
+    },
+    {
+      "Path": "resources/entities/_0000s_0002_AlunaMartes2.png",
+      "Hash": "b9923d7a3d4ed6a383a0324cd712b425",
+      "Size": 8791
+    },
+    {
+      "Path": "resources/entities/_0000s_0003_AlunaMartes1.png",
+      "Hash": "303a5b6e52a304410db4aa47c1c9c10c",
+      "Size": 7620
+    },
+    {
+      "Path": "resources/entities/_0000s_0004_AlunaLacerta3.png",
+      "Hash": "5ccbf5adb3f1c19c53dc551366545f1e",
+      "Size": 8791
+    },
+    {
+      "Path": "resources/entities/_0000s_0005_AlunaLacerta2.png",
+      "Hash": "15e802565fa97435ec664c3b1470be45",
+      "Size": 9920
+    },
+    {
+      "Path": "resources/entities/_0000s_0006_AlunaLacerta1.png",
+      "Hash": "f4ed0b903c1ead69f3639516213891ac",
+      "Size": 10316
+    },
+    {
+      "Path": "resources/entities/_0000s_0007_Aluna3.png",
+      "Hash": "eee3b9780dd588232cf38c50b7337f93",
+      "Size": 8849
+    },
+    {
+      "Path": "resources/entities/_0000s_0008_Aluna2.png",
+      "Hash": "913947b2289406f8ec33c63ea5f8f7f1",
+      "Size": 8311
+    },
+    {
+      "Path": "resources/entities/_0000s_0009_Aluna1.png",
+      "Hash": "2b5838683d2123bc61c36e2cb0bd8ec1",
+      "Size": 9116
+    },
+    {
+      "Path": "resources/entities/_0000s_0010_AlunoSignatus3.png",
+      "Hash": "c226f162c257a761f0af7df02d7dd0f1",
+      "Size": 8014
+    },
+    {
+      "Path": "resources/entities/_0000s_0011_AlunoSignatus2.png",
+      "Hash": "05ef0d07dddb524d8a1d2a7ca7de0241",
+      "Size": 11779
+    },
+    {
+      "Path": "resources/entities/_0000s_0012_AlunoSignatus1.png",
+      "Hash": "716b204f1b136de0f03678b9a8379973",
+      "Size": 9328
+    },
+    {
+      "Path": "resources/entities/_0000s_0013_AlunoMartes3.png",
+      "Hash": "643a1d4417369ca9771604bee71c0449",
+      "Size": 10025
+    },
+    {
+      "Path": "resources/entities/_0000s_0014_AlunoMartes2.png",
+      "Hash": "dcdae2fd9bdf958e848a215f27e33e13",
+      "Size": 9617
+    },
+    {
+      "Path": "resources/entities/_0000s_0015_AlunoMartes1.png",
+      "Hash": "15ef96bee960f2aa8cbf3fd0dd0fff8c",
+      "Size": 10512
+    },
+    {
+      "Path": "resources/entities/_0000s_0016_AlunoLacerta3.png",
+      "Hash": "6b41d9878e13988015098df8c3f6646f",
+      "Size": 8904
+    },
+    {
+      "Path": "resources/entities/_0000s_0017_AlunoLacerta2.png",
+      "Hash": "904092fb24e9e844b73f44cbadd2c767",
+      "Size": 7655
+    },
+    {
+      "Path": "resources/entities/_0000s_0018_AlunoLacerta1.png",
+      "Hash": "bda9c1d2322974f07424bd590f9440d6",
+      "Size": 8335
+    },
+    {
+      "Path": "resources/entities/_0000s_0019_Aluno3.png",
+      "Hash": "f320bc0543793cad452cf0e4fa32beb6",
+      "Size": 9786
+    },
+    {
+      "Path": "resources/entities/_0000s_0020_Aluno2.png",
+      "Hash": "40452c64344c3ebe26cc1b1eb3f41266",
+      "Size": 8988
+    },
+    {
+      "Path": "resources/entities/_0000s_0021_Aluno1.png",
+      "Hash": "180d3f6738ee1976b6fff5dbf394b59b",
+      "Size": 10051
+    },
+    {
+      "Path": "resources/entities/_0000s_0022_AlunaSignatus3.png",
+      "Hash": "8f5ecd9c86c581e4a727e01f4bd90673",
+      "Size": 9705
+    },
+    {
+      "Path": "resources/entities/_0000s_0023_AlunaSignatus2.png",
+      "Hash": "d7d78f8ae9fc71048fe3dc716b2bbfe6",
+      "Size": 8715
     },
     {
       "Path": "resources/faces/antonieta.png",
@@ -2169,7 +2384,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_3Responses.json",
-      "Hash": "86ed3a34baa65bc589f956e2c0708ca8",
+      "Hash": "0ef9215e49bde2df19385788ffa00f68",
       "Size": 27855
     },
     {
@@ -2254,7 +2469,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "578e232de983fd53b4a03e80fe55f159",
+      "Hash": "09b7284831fca27a01142f5f6a10149f",
       "Size": 14737
     },
     {
@@ -2324,8 +2539,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "4ae7f882f0a5ae2628babe852d8b370a",
-      "Size": 11358
+      "Hash": "fb3812d8a1f038dc17edb19e08be23e9",
+      "Size": 11357
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
