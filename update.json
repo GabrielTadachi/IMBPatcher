@@ -748,6 +748,11 @@
       "Size": 9383
     },
     {
+      "Path": "resources/entities/Click.png",
+      "Hash": "a937d5612a938681dc0be008aba0d868",
+      "Size": 9813
+    },
+    {
       "Path": "resources/entities/Cocatriz.png",
       "Hash": "f0cad02a06482ffe48b157332c89e90d",
       "Size": 7871
@@ -766,6 +771,11 @@
       "Path": "resources/entities/Dementor.png",
       "Hash": "d1cdce7a46cd4b6e2b82e8d489bef809",
       "Size": 7058
+    },
+    {
+      "Path": "resources/entities/Donna.png",
+      "Hash": "4bdbefbcc755b12b0f6b35fc9174bc59",
+      "Size": 7835
     },
     {
       "Path": "resources/entities/Fairy.png",
@@ -813,6 +823,11 @@
       "Size": 9770
     },
     {
+      "Path": "resources/entities/Holkins.png",
+      "Hash": "339b99340b259c51ab6eac095050dfcc",
+      "Size": 8953
+    },
+    {
       "Path": "resources/entities/Homem1.png",
       "Hash": "c65f812bab6ef8de47b8396501e74cbd",
       "Size": 5892
@@ -838,6 +853,111 @@
       "Size": 6380
     },
     {
+      "Path": "resources/entities/Kid01.png",
+      "Hash": "c8164e4cff78d52fefe8d2cd436b5a2c",
+      "Size": 7586
+    },
+    {
+      "Path": "resources/entities/Kid02.png",
+      "Hash": "1f96806f3792031cbb7f445e485e1f56",
+      "Size": 8437
+    },
+    {
+      "Path": "resources/entities/Kid03.png",
+      "Hash": "fd5edfe3c6de6a3d0b7473de2e2572f6",
+      "Size": 7690
+    },
+    {
+      "Path": "resources/entities/Kid04.png",
+      "Hash": "f1b92ccec398f89bb8e5d5bcfb8d9c2c",
+      "Size": 8180
+    },
+    {
+      "Path": "resources/entities/Kid05.png",
+      "Hash": "e8326993f3a262166c4046dabdc47b7a",
+      "Size": 7622
+    },
+    {
+      "Path": "resources/entities/Kid06.png",
+      "Hash": "6878c49cee2481073730dc1934ed4b40",
+      "Size": 8882
+    },
+    {
+      "Path": "resources/entities/Kid07.png",
+      "Hash": "e96d59d2c888736075a027bc188f07e2",
+      "Size": 7855
+    },
+    {
+      "Path": "resources/entities/Kid08.png",
+      "Hash": "de31e82351649b6fb2a3d160fd8d303d",
+      "Size": 8784
+    },
+    {
+      "Path": "resources/entities/Kid09.png",
+      "Hash": "07bf14846d3b1f708cdd66b7232321b6",
+      "Size": 7341
+    },
+    {
+      "Path": "resources/entities/Kid10.png",
+      "Hash": "8e8522ab4e727cfd53e4c282f42e734f",
+      "Size": 7627
+    },
+    {
+      "Path": "resources/entities/Kid11.png",
+      "Hash": "f4d3d0b535aabf928271ae3bc06eacaf",
+      "Size": 7378
+    },
+    {
+      "Path": "resources/entities/Kid12.png",
+      "Hash": "e79f929c5a327ed9cd8bb33e17bd1d7f",
+      "Size": 7666
+    },
+    {
+      "Path": "resources/entities/Kid13.png",
+      "Hash": "6fedeab6abe3fb8cab5fa1a3f16c29b7",
+      "Size": 7023
+    },
+    {
+      "Path": "resources/entities/Kid14.png",
+      "Hash": "4dc6b4151287c7d2e8748590edc76624",
+      "Size": 9278
+    },
+    {
+      "Path": "resources/entities/Kid15.png",
+      "Hash": "dd505a4540af1dcfb149c2abecd889d4",
+      "Size": 7332
+    },
+    {
+      "Path": "resources/entities/Kid16.png",
+      "Hash": "0a92255d196095427424d9fd2cd7f5dd",
+      "Size": 7843
+    },
+    {
+      "Path": "resources/entities/Kid17.png",
+      "Hash": "2a96303521d61b31b2bc367c27d25602",
+      "Size": 8933
+    },
+    {
+      "Path": "resources/entities/Kid18.png",
+      "Hash": "00a5571007c36748ae62f4d7fd3c241d",
+      "Size": 8936
+    },
+    {
+      "Path": "resources/entities/Kid19.png",
+      "Hash": "4005fcde8129dd8c26a2b35b9cdc95aa",
+      "Size": 8934
+    },
+    {
+      "Path": "resources/entities/Kid20.png",
+      "Hash": "a4974a7feea7bcc906824a64d535475c",
+      "Size": 7702
+    },
+    {
+      "Path": "resources/entities/Kid21.png",
+      "Hash": "76726f6de1bb41d53b845cb401b5cc18",
+      "Size": 7708
+    },
+    {
       "Path": "resources/entities/Kneazle.png",
       "Hash": "7fdf6d1aaea563df57e16f24f0ec8ec1",
       "Size": 6470
@@ -853,9 +973,19 @@
       "Size": 18987
     },
     {
+      "Path": "resources/entities/Lucas.png",
+      "Hash": "ca8de4c49571709585356e0b71e2b1b6",
+      "Size": 10276
+    },
+    {
       "Path": "resources/entities/marcia.png",
       "Hash": "c79962f235887c9b4a737dd89cff170f",
       "Size": 22627
+    },
+    {
+      "Path": "resources/entities/Matheus.png",
+      "Hash": "67557dddeb624582d05bfa6667d9e8db",
+      "Size": 10708
     },
     {
       "Path": "resources/entities/Morcego.png",
@@ -888,9 +1018,19 @@
       "Size": 2277
     },
     {
+      "Path": "resources/entities/Pablo.png",
+      "Hash": "a77e8fcf06fd55e44e4e5a126d9acfb7",
+      "Size": 9385
+    },
+    {
       "Path": "resources/entities/Pegaso.png",
       "Hash": "c7b779be89961336131f493985aab56c",
       "Size": 10834
+    },
+    {
+      "Path": "resources/entities/Peter.png",
+      "Hash": "22fe4636340f210f6ca212c41905c260",
+      "Size": 11240
     },
     {
       "Path": "resources/entities/Phoenix.png",
@@ -911,6 +1051,11 @@
       "Path": "resources/entities/Sphinx.png",
       "Hash": "5ae5840169f06c5c825a9fc474bed903",
       "Size": 9417
+    },
+    {
+      "Path": "resources/entities/Superboy.png",
+      "Hash": "aa2e48e47bfd57717fae031356c473b5",
+      "Size": 8418
     },
     {
       "Path": "resources/entities/Tadachi.png",
@@ -978,9 +1123,19 @@
       "Size": 30036
     },
     {
+      "Path": "resources/faces/Click.png",
+      "Hash": "1bc893092b204e037f8440639da62ddf",
+      "Size": 37484
+    },
+    {
       "Path": "resources/faces/delfina2.png",
       "Hash": "720b2440690f24c9fccbb5e326c8de22",
       "Size": 50702
+    },
+    {
+      "Path": "resources/faces/Donna.png",
+      "Hash": "3e7b92f158763ef29cc1848103162152",
+      "Size": 35313
     },
     {
       "Path": "resources/faces/fivela-filho2.png",
@@ -998,14 +1153,44 @@
       "Size": 35513
     },
     {
+      "Path": "resources/faces/Holkins.png",
+      "Hash": "9a676194443a003092584a901b2971f5",
+      "Size": 40301
+    },
+    {
       "Path": "resources/faces/Lily2.png",
       "Hash": "3fe2bb0a72f4aba51065d2e806599424",
       "Size": 24231
     },
     {
+      "Path": "resources/faces/Lucas.png",
+      "Hash": "f8716a3f62f6c0b3eeb8bbcb38d9b1a2",
+      "Size": 51294
+    },
+    {
       "Path": "resources/faces/Marcia2.png",
       "Hash": "c9249f14678927ccf2ce965858acf2f3",
       "Size": 41345
+    },
+    {
+      "Path": "resources/faces/Matheus.png",
+      "Hash": "f15d6c44db54b040c6ce3e5d2c1eaf6b",
+      "Size": 42237
+    },
+    {
+      "Path": "resources/faces/Pablo.png",
+      "Hash": "6c352959115f544bd9d80716f627295b",
+      "Size": 45255
+    },
+    {
+      "Path": "resources/faces/Peter.png",
+      "Hash": "fbb93cba5baed89a8edbb78f283c782e",
+      "Size": 48764
+    },
+    {
+      "Path": "resources/faces/SuperBoy.png",
+      "Hash": "a06e42760c92f22c5e0e26bc76fa4877",
+      "Size": 45031
     },
     {
       "Path": "resources/faces/Tadachi.png",
