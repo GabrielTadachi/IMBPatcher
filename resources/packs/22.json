@@ -1,0 +1,211 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/recovery5.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/animations/revival1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 960
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 960,
+        "h": 960
+      }
+    },
+    {
+      "filename": "resources/animations/slashthunder.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 960,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/song.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1152,
+        "w": 960,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/animations/sonic.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 1536,
+        "w": 960,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/paperdolls/2ml.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1728,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/2mm.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 192,
+        "y": 1728,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/2mp.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 384,
+        "y": 1728,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/2mr.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 576,
+        "y": 1728,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/3fc.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 768,
+        "y": 1728,
+        "w": 192,
+        "h": 192
+      }
+    }
+  ],
+  "meta": {
+    "image": "22.png",
+    "size": {
+      "w": 1920,
+      "h": 1920
+    }
+  }
+}

@@ -1,0 +1,691 @@
+{
+  "frames": [
+    {
+      "filename": "resources/images/darkspace1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 816
+      },
+      "sourceSize": {
+        "w": 816,
+        "h": 816
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 816
+      }
+    },
+    {
+      "filename": "resources/images/darkspace2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 816
+      },
+      "sourceSize": {
+        "w": 816,
+        "h": 816
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 816,
+        "w": 816,
+        "h": 816
+      }
+    },
+    {
+      "filename": "resources/images/mountains1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 816
+      },
+      "sourceSize": {
+        "w": 816,
+        "h": 816
+      },
+      "rotated": false,
+      "frame": {
+        "x": 816,
+        "y": 0,
+        "w": 816,
+        "h": 816
+      }
+    },
+    {
+      "filename": "resources/images/mountains2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 816
+      },
+      "sourceSize": {
+        "w": 816,
+        "h": 816
+      },
+      "rotated": false,
+      "frame": {
+        "x": 816,
+        "y": 816,
+        "w": 816,
+        "h": 816
+      }
+    },
+    {
+      "filename": "resources/paperdolls/lacerta f.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1632,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/lacerta m.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1824,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/lacertaf.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 188,
+        "y": 1632,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/lacertam.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 188,
+        "y": 1824,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/martes f.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 376,
+        "y": 1632,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/martes m.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 376,
+        "y": 1824,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/martesf.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 564,
+        "y": 1632,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/martesm.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 564,
+        "y": 1824,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/padraof.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 752,
+        "y": 1632,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/padraom.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 752,
+        "y": 1824,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/signatus f.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 940,
+        "y": 1632,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/signatus m.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 940,
+        "y": 1824,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/signatusf.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1128,
+        "y": 1632,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/signatusm.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1128,
+        "y": 1824,
+        "w": 188,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/varinha1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1316,
+        "y": 1632,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/varinha2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1316,
+        "y": 1824,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/varinha3.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1508,
+        "y": 1632,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/varinha4.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1508,
+        "y": 1824,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/varinha5.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1632,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/gui/bag.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 254
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 254
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1824,
+        "y": 0,
+        "w": 192,
+        "h": 254
+      }
+    },
+    {
+      "filename": "resources/gui/character.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 340
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1632,
+        "y": 254,
+        "w": 340,
+        "h": 220
+      }
+    },
+    {
+      "filename": "resources/gui/createchar_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 198
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1632,
+        "y": 474,
+        "w": 198,
+        "h": 452
+      }
+    },
+    {
+      "filename": "resources/gui/credits_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 262
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1632,
+        "y": 926,
+        "w": 262,
+        "h": 452
+      }
+    },
+    {
+      "filename": "resources/gui/error_window.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 452,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 452,
+        "h": 198
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1830,
+        "y": 474,
+        "w": 198,
+        "h": 452
+      }
+    },
+    {
+      "filename": "resources/gui/event2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 520,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 520,
+        "h": 208
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1700,
+        "y": 1378,
+        "w": 208,
+        "h": 520
+      }
+    },
+    {
+      "filename": "resources/faces/fivela-pai2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 144
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1700,
+        "y": 1898,
+        "w": 144,
+        "h": 144
+      }
+    },
+    {
+      "filename": "resources/faces/floriano2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 144
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1844,
+        "y": 1898,
+        "w": 144,
+        "h": 144
+      }
+    },
+    {
+      "filename": "resources/faces/holkins.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 144
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1894,
+        "y": 926,
+        "w": 144,
+        "h": 144
+      }
+    },
+    {
+      "filename": "resources/faces/lily2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 144
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1894,
+        "y": 1070,
+        "w": 144,
+        "h": 144
+      }
+    },
+    {
+      "filename": "resources/faces/lucas.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 144
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1894,
+        "y": 1214,
+        "w": 144,
+        "h": 144
+      }
+    }
+  ],
+  "meta": {
+    "image": "31.png",
+    "size": {
+      "w": 2038,
+      "h": 2042
+    }
+  }
+}

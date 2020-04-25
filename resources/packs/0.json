@@ -1,0 +1,2431 @@
+{
+  "frames": [
+    {
+      "filename": "resources/tilesets/dungeon_a1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 768,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/tilesets/dungeon_a2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 768,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 768,
+        "y": 0,
+        "w": 768,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/tilesets/dungeon_a4.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 720
+      },
+      "sourceSize": {
+        "w": 768,
+        "h": 720
+      },
+      "rotated": true,
+      "frame": {
+        "x": 0,
+        "y": 576,
+        "w": 720,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/tilesets/dungeon_a5.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 384,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1536,
+        "y": 0,
+        "w": 384,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/tilesets/dungeon_b.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 768,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 720,
+        "y": 576,
+        "w": 768,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/tilesets/inside_a1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 768,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1344,
+        "w": 768,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/tilesets/inside_a2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 576
+      },
+      "sourceSize": {
+        "w": 768,
+        "h": 576
+      },
+      "rotated": false,
+      "frame": {
+        "x": 768,
+        "y": 1344,
+        "w": 768,
+        "h": 576
+      }
+    },
+    {
+      "filename": "resources/tilesets/inside_a5.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 384,
+        "h": 768
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1536,
+        "y": 768,
+        "w": 384,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/tilesets/porta_expresso.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 384
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1536,
+        "y": 1536,
+        "w": 288,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/tilesets/paredes4.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 384,
+        "h": 192
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1824,
+        "y": 1536,
+        "w": 192,
+        "h": 384
+      }
+    },
+    {
+      "filename": "resources/tilesets/paredes5.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 768,
+        "h": 96
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1920,
+        "y": 0,
+        "w": 96,
+        "h": 768
+      }
+    },
+    {
+      "filename": "resources/tilesets/paredes6.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 96
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1920,
+        "y": 768,
+        "w": 96,
+        "h": 288
+      }
+    },
+    {
+      "filename": "resources/spells/aguamenti.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 576,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/alohomora.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 608,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/avis.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 640,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/confundo.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 672,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/diffindo.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 704,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/duro.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 736,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/engorgio.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 768,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/expectopatronum.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 800,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/expelliarmus.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 832,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/finiteincantatem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 864,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/flipendo.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 896,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/fumos.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 928,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/immobulus.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 960,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/impedimenta.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 992,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/incendio.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 1024,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/locomotormortis.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 1056,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/lumos.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 1088,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/nox.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 1120,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/obliviate.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 1152,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/petrificustotalus.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 1184,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/protego.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 1216,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/reducio.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 1248,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/reducto.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 1280,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/reparo.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1488,
+        "y": 1312,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/rictusempra.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1056,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/stupefy.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1056,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/tarantallegra.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1984,
+        "y": 1056,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/vermillious.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1088,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/spells/wingardiumleviosa.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1088,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/animations/blood.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 544,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 544,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2016,
+        "y": 0,
+        "w": 32,
+        "h": 544
+      }
+    },
+    {
+      "filename": "resources/animations/bonetoss.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 128,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1984,
+        "y": 1088,
+        "w": 32,
+        "h": 128
+      }
+    },
+    {
+      "filename": "resources/animations/bubbles.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1920,
+        "w": 512,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/animations/campfire.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 42
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1920,
+        "y": 1120,
+        "w": 42,
+        "h": 160
+      }
+    },
+    {
+      "filename": "resources/animations/campfire_alt.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 42
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1962,
+        "y": 1216,
+        "w": 42,
+        "h": 160
+      }
+    },
+    {
+      "filename": "resources/animations/emote_concern.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1920,
+        "y": 1280,
+        "w": 32,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/animations/emote_laugh.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2004,
+        "y": 1216,
+        "w": 32,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/animations/emote_lookaround.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2016,
+        "y": 1408,
+        "w": 32,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/animations/emote_smile.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2016,
+        "y": 1600,
+        "w": 32,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/animations/emote_wink.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2016,
+        "y": 1792,
+        "w": 32,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/animations/healing.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 512,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 512,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2016,
+        "y": 544,
+        "w": 32,
+        "h": 512
+      }
+    },
+    {
+      "filename": "resources/animations/ice4.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 480,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 96
+      },
+      "rotated": false,
+      "frame": {
+        "x": 512,
+        "y": 1920,
+        "w": 480,
+        "h": 96
+      }
+    },
+    {
+      "filename": "resources/animations/particles.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1984,
+        "w": 256,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/animations/protego.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 479,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 479,
+        "h": 94
+      },
+      "rotated": false,
+      "frame": {
+        "x": 992,
+        "y": 1920,
+        "w": 479,
+        "h": 94
+      }
+    },
+    {
+      "filename": "resources/animations/rings.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 992,
+        "y": 2014,
+        "w": 288,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/animations/rings_reversed.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 288,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1280,
+        "y": 2014,
+        "w": 288,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/animations/spell.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 42
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1952,
+        "y": 1376,
+        "w": 42,
+        "h": 160
+      }
+    },
+    {
+      "filename": "resources/animations/strike.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 64
+      },
+      "sourceSize": {
+        "w": 384,
+        "h": 64
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1568,
+        "y": 1984,
+        "w": 384,
+        "h": 64
+      }
+    },
+    {
+      "filename": "resources/gui/addstatclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 9
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 9
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1280,
+        "w": 9,
+        "h": 9
+      }
+    },
+    {
+      "filename": "resources/gui/addstathover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 9
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 9
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1289,
+        "w": 9,
+        "h": 9
+      }
+    },
+    {
+      "filename": "resources/gui/addstatnormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 9
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 9
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1298,
+        "w": 9,
+        "h": 9
+      }
+    },
+    {
+      "filename": "resources/gui/bagitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1984,
+        "w": 34,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/bankitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1986,
+        "y": 1984,
+        "w": 35,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/gui/charactericon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1472,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/chatbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 386,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 386,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 2016,
+        "w": 386,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/checkboxempty.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1504,
+        "w": 24,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/checkboxfull.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 25
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2021,
+        "y": 1984,
+        "w": 25,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/closeclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 25
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2021,
+        "y": 2008,
+        "w": 26,
+        "h": 25
+      }
+    },
+    {
+      "filename": "resources/gui/closehover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 25
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1986,
+        "y": 2018,
+        "w": 25,
+        "h": 26
+      }
+    },
+    {
+      "filename": "resources/gui/closelargeclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2016,
+        "y": 1056,
+        "w": 32,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/gui/closelargehover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2016,
+        "y": 1090,
+        "w": 32,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/gui/closelargenormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 32
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2016,
+        "y": 1124,
+        "w": 32,
+        "h": 34
+      }
+    },
+    {
+      "filename": "resources/gui/closenormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 26,
+        "h": 25
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1952,
+        "y": 2019,
+        "w": 25,
+        "h": 26
+      }
+    },
+    {
+      "filename": "resources/gui/control_button.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 28
+      },
+      "rotated": false,
+      "frame": {
+        "x": 386,
+        "y": 1984,
+        "w": 120,
+        "h": 28
+      }
+    },
+    {
+      "filename": "resources/gui/control_button_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 28
+      },
+      "rotated": false,
+      "frame": {
+        "x": 256,
+        "y": 1984,
+        "w": 120,
+        "h": 28
+      }
+    },
+    {
+      "filename": "resources/gui/control_button_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 28
+      },
+      "sourceSize": {
+        "w": 120,
+        "h": 28
+      },
+      "rotated": false,
+      "frame": {
+        "x": 386,
+        "y": 2012,
+        "w": 120,
+        "h": 28
+      }
+    },
+    {
+      "filename": "resources/gui/craftbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 247,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 247,
+        "h": 5
+      },
+      "rotated": true,
+      "frame": {
+        "x": 2036,
+        "y": 1158,
+        "w": 5,
+        "h": 247
+      }
+    },
+    {
+      "filename": "resources/gui/craftitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1471,
+        "y": 1920,
+        "w": 34,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/downarrowclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2011,
+        "y": 2033,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/downarrowhover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2026,
+        "y": 2033,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/downarrownormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2016,
+        "y": 1158,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/dropdownbg.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2041,
+        "y": 2033,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/edit_controls_clicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 24
+      },
+      "rotated": false,
+      "frame": {
+        "x": 506,
+        "y": 2016,
+        "w": 200,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/edit_controls_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 24
+      },
+      "rotated": false,
+      "frame": {
+        "x": 706,
+        "y": 2016,
+        "w": 200,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/edit_controls_normal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 24
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1471,
+        "y": 1955,
+        "w": 200,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/emptybar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 16
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1520,
+        "y": 576,
+        "w": 16,
+        "h": 168
+      }
+    },
+    {
+      "filename": "resources/gui/equipmentitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 36,
+        "h": 36
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1671,
+        "y": 1920,
+        "w": 36,
+        "h": 36
+      }
+    },
+    {
+      "filename": "resources/gui/equipped.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2041,
+        "y": 2038,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/expbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 14
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1520,
+        "y": 744,
+        "w": 14,
+        "h": 168
+      }
+    },
+    {
+      "filename": "resources/gui/friendsicon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 906,
+        "y": 2016,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/gamemenu.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 289,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 289,
+        "h": 42
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1707,
+        "y": 1920,
+        "w": 289,
+        "h": 42
+      }
+    },
+    {
+      "filename": "resources/gui/hotbaritem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1471,
+        "y": 1979,
+        "w": 34,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/hotbar_label.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2041,
+        "y": 2043,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/hpbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 14
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1520,
+        "y": 912,
+        "w": 14,
+        "h": 168
+      }
+    },
+    {
+      "filename": "resources/gui/inputfield_slim.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 308,
+        "h": 22
+      },
+      "sourceSize": {
+        "w": 308,
+        "h": 22
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1671,
+        "y": 1962,
+        "w": 308,
+        "h": 22
+      }
+    },
+    {
+      "filename": "resources/gui/inventoryicon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 938,
+        "y": 2016,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/inventoryitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1505,
+        "y": 1979,
+        "w": 34,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/leftarrowclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1505,
+        "y": 1920,
+        "w": 30,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/leftarrowhover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1535,
+        "y": 1920,
+        "w": 30,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/leftarrownormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 30,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1565,
+        "y": 1920,
+        "w": 30,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/manabar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 14
+      },
+      "sourceSize": {
+        "w": 168,
+        "h": 14
+      },
+      "rotated": true,
+      "frame": {
+        "x": 1520,
+        "y": 1080,
+        "w": 14,
+        "h": 168
+      }
+    },
+    {
+      "filename": "resources/gui/menuicon.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 32
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 32
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1595,
+        "y": 1920,
+        "w": 32,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/gui/menuitem.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 34,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1627,
+        "y": 1920,
+        "w": 34,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/quantity.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2011,
+        "y": 2018,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/scrollbarbg.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2016,
+        "y": 2018,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/scrollbarclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2011,
+        "y": 2023,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/scrollbarhover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2011,
+        "y": 2028,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/scrollbarnormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 5
+      },
+      "sourceSize": {
+        "w": 5,
+        "h": 5
+      },
+      "rotated": false,
+      "frame": {
+        "x": 2016,
+        "y": 2023,
+        "w": 5,
+        "h": 5
+      }
+    },
+    {
+      "filename": "resources/gui/tooltip.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 24
+      },
+      "sourceSize": {
+        "w": 24,
+        "h": 24
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1539,
+        "y": 1979,
+        "w": 24,
+        "h": 24
+      }
+    },
+    {
+      "filename": "resources/gui/uparrowclicked.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 970,
+        "y": 2016,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/uparrowhover.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 970,
+        "y": 2031,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/uparrownormal.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 15
+      },
+      "sourceSize": {
+        "w": 15,
+        "h": 15
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1979,
+        "y": 1962,
+        "w": 15,
+        "h": 15
+      }
+    },
+    {
+      "filename": "resources/gui/uparrownormal_medium.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 20,
+        "h": 20
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1994,
+        "y": 1962,
+        "w": 20,
+        "h": 20
+      }
+    },
+    {
+      "filename": "resources/gui/volume_slider.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1661,
+        "y": 1920,
+        "w": 9,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/gui/volume_slider_hovered.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 9,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 9,
+        "h": 35
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1952,
+        "y": 1307,
+        "w": 9,
+        "h": 35
+      }
+    },
+    {
+      "filename": "resources/misc/castbackground.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 6
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 6
+      },
+      "rotated": true,
+      "frame": {
+        "x": 506,
+        "y": 1984,
+        "w": 6,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/misc/castbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 6
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 6
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1671,
+        "y": 1956,
+        "w": 32,
+        "h": 6
+      }
+    },
+    {
+      "filename": "resources/misc/hpbackground.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 6
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 6
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1920,
+        "y": 1529,
+        "w": 32,
+        "h": 6
+      }
+    },
+    {
+      "filename": "resources/misc/hpbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 6
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 6
+      },
+      "rotated": true,
+      "frame": {
+        "x": 985,
+        "y": 2016,
+        "w": 6,
+        "h": 32
+      }
+    },
+    {
+      "filename": "resources/misc/shieldbar.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 32,
+        "h": 6
+      },
+      "sourceSize": {
+        "w": 32,
+        "h": 6
+      },
+      "rotated": true,
+      "frame": {
+        "x": 376,
+        "y": 1984,
+        "w": 6,
+        "h": 32
+      }
+    }
+  ],
+  "meta": {
+    "image": "0.png",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    }
+  }
+}

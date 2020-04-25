@@ -1,0 +1,551 @@
+{
+  "frames": [
+    {
+      "filename": "resources/animations/wind5.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1152
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1152
+      }
+    },
+    {
+      "filename": "resources/images/bluesky.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 816
+      },
+      "sourceSize": {
+        "w": 816,
+        "h": 816
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 1152,
+        "w": 816,
+        "h": 816
+      }
+    },
+    {
+      "filename": "resources/images/cloudysky1.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 816
+      },
+      "sourceSize": {
+        "w": 816,
+        "h": 816
+      },
+      "rotated": false,
+      "frame": {
+        "x": 816,
+        "y": 1152,
+        "w": 816,
+        "h": 816
+      }
+    },
+    {
+      "filename": "resources/images/cloudysky2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 816,
+        "h": 816
+      },
+      "sourceSize": {
+        "w": 816,
+        "h": 816
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 0,
+        "w": 816,
+        "h": 816
+      }
+    },
+    {
+      "filename": "resources/paperdolls/7fl.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 816,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/7fm.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1152,
+        "y": 816,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/7fp.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1344,
+        "y": 816,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/7fr.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1536,
+        "y": 816,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/7mc.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1728,
+        "y": 816,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/7ml.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1776,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/7mm.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1776,
+        "y": 192,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/7mp.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1776,
+        "y": 384,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/7mr.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1776,
+        "y": 576,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/8fc.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1632,
+        "y": 1008,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/8fl.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1824,
+        "y": 1008,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/8fm.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1632,
+        "y": 1200,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/8fp.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1824,
+        "y": 1200,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/8fr.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1632,
+        "y": 1392,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/8mc.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1824,
+        "y": 1392,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/8ml.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1632,
+        "y": 1584,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/8mm.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1824,
+        "y": 1584,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/8mp.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1632,
+        "y": 1776,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/paperdolls/8mr.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 192
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1824,
+        "y": 1776,
+        "w": 192,
+        "h": 192
+      }
+    },
+    {
+      "filename": "resources/faces/click.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 144
+      },
+      "rotated": false,
+      "frame": {
+        "x": 960,
+        "y": 1008,
+        "w": 144,
+        "h": 144
+      }
+    },
+    {
+      "filename": "resources/faces/delfina2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 144
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1104,
+        "y": 1008,
+        "w": 144,
+        "h": 144
+      }
+    },
+    {
+      "filename": "resources/faces/donna.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 145,
+        "h": 144
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1248,
+        "y": 1008,
+        "w": 145,
+        "h": 144
+      }
+    },
+    {
+      "filename": "resources/faces/fivela-filho2.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 144
+      },
+      "rotated": false,
+      "frame": {
+        "x": 1393,
+        "y": 1008,
+        "w": 144,
+        "h": 144
+      }
+    }
+  ],
+  "meta": {
+    "image": "30.png",
+    "size": {
+      "w": 2016,
+      "h": 1968
+    }
+  }
+}
