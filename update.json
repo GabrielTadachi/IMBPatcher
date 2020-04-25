@@ -2329,7 +2329,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/BankWindow.json",
-      "Hash": "884977e6690a0111c6e9804d4f8a4ecf",
+      "Hash": "8b0dca25ed9bf62d1bd34cffa5c2a925",
       "Size": 14736
     },
     {
@@ -2379,7 +2379,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_2Responses.json",
-      "Hash": "fc856f06668a8862f3ffb10a215167bd",
+      "Hash": "df9d15ca907ad4e7c2e9b5046756d994",
       "Size": 26554
     },
     {
@@ -2469,7 +2469,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "09b7284831fca27a01142f5f6a10149f",
+      "Hash": "0f00c610a6c160c5b662f2156b9fff3b",
       "Size": 14737
     },
     {
@@ -10206,6 +10206,11 @@
       "Path": "resources/misc/transtile.png",
       "Hash": "7f5832d5e5dcf18d876d885f56bf9ba7",
       "Size": 195
+    },
+    {
+      "Path": "resources/music/LargoArruaceiro.ogg",
+      "Hash": "6343303b39818f2852a1694efdce230d",
+      "Size": 2502686
     },
     {
       "Path": "resources/paperdolls/1FC.png",
