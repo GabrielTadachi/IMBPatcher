@@ -11873,6 +11873,11 @@
       "Size": 256960
     },
     {
+      "Path": "resources/tilesets/Caldeirao.png",
+      "Hash": "8347d57d4795226bb12df6520dea66a8",
+      "Size": 88753
+    },
+    {
       "Path": "resources/tilesets/Celianna_Nature.png",
       "Hash": "48209d63d9d5d68b47402c822914c999",
       "Size": 357018
@@ -12013,6 +12018,31 @@
       "Size": 489999
     },
     {
+      "Path": "resources/tilesets/Paredes2.png",
+      "Hash": "5291b8139065c4e034650c230c48185c",
+      "Size": 225720
+    },
+    {
+      "Path": "resources/tilesets/Paredes3.png",
+      "Hash": "2f4f52bb8b5cc726aa24c09f57cc18c6",
+      "Size": 215432
+    },
+    {
+      "Path": "resources/tilesets/Paredes4.png",
+      "Hash": "a2afb52eb8a0887780bf4658b3b57d16",
+      "Size": 11549
+    },
+    {
+      "Path": "resources/tilesets/Paredes5.png",
+      "Hash": "66830a05e26845d1cdb972c247a9b596",
+      "Size": 23104
+    },
+    {
+      "Path": "resources/tilesets/Paredes6.png",
+      "Hash": "418091864d207f705d05b901fc0fd13f",
+      "Size": 28188
+    },
+    {
       "Path": "resources/tilesets/Porta1.png",
       "Hash": "180d6baaacb4f1c566b8b6c784a8e91a",
       "Size": 171119
@@ -12073,9 +12103,29 @@
       "Size": 953063
     },
     {
+      "Path": "resources/tilesets/Sofas.png",
+      "Hash": "f756a2cd35a481d92c35f1c9d17d01cf",
+      "Size": 341076
+    },
+    {
+      "Path": "resources/tilesets/Tapetes.png",
+      "Hash": "cf70163bacdafd38b6b1c60834636d76",
+      "Size": 525163
+    },
+    {
+      "Path": "resources/tilesets/Tapetes2.png",
+      "Hash": "4280bbdf3f0d036b97fc16e5d9f8c320",
+      "Size": 365447
+    },
+    {
       "Path": "resources/tilesets/Telhas.png",
       "Hash": "274e56ec9ef862bd240f9faa07d32715",
       "Size": 1168706
+    },
+    {
+      "Path": "resources/tilesets/Telhas2.png",
+      "Hash": "28928cc6873b29d637a8846932c7d658",
+      "Size": 370884
     },
     {
       "Path": "resources/tilesets/trem.png",
