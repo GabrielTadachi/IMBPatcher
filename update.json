@@ -1308,6 +1308,11 @@
       "Size": 8219
     },
     {
+      "Path": "resources/entities/Valdez.png",
+      "Hash": "d02ff011150134bf56d251570c08b9bf",
+      "Size": 9427
+    },
+    {
       "Path": "resources/entities/VermeCego.png",
       "Hash": "0c7d49d56af6069cbdece8ea6d8f5c65",
       "Size": 3843
@@ -1411,6 +1416,11 @@
       "Path": "resources/faces/Tadachi.png",
       "Hash": "09c9c328315be63b73be578b5fad4043",
       "Size": 40087
+    },
+    {
+      "Path": "resources/faces/Valdez.png",
+      "Hash": "bb0d1fe40112eef21d1532343c7a9251",
+      "Size": 45545
     },
     {
       "Path": "resources/fonts/sourcesansproblack_10.xnb",
