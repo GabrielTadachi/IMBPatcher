@@ -888,9 +888,69 @@
       "Size": 9809
     },
     {
+      "Path": "resources/entities/Bruxo13.png",
+      "Hash": "d52bf4b8b140f8b74afac82fade42b6e",
+      "Size": 9977
+    },
+    {
+      "Path": "resources/entities/Bruxo14.png",
+      "Hash": "3adf0d33882748b64df716d5b821dcde",
+      "Size": 15486
+    },
+    {
+      "Path": "resources/entities/Bruxo15.png",
+      "Hash": "0f8f1a05df1a60c67cf0d20faac7f0af",
+      "Size": 8560
+    },
+    {
+      "Path": "resources/entities/Bruxo16.png",
+      "Hash": "811a0821e3efd5b4bde722bba9780daa",
+      "Size": 6445
+    },
+    {
+      "Path": "resources/entities/Bruxo17.png",
+      "Hash": "343a093f88d3c66fec124112d802b0d5",
+      "Size": 7250
+    },
+    {
+      "Path": "resources/entities/Bruxo18.png",
+      "Hash": "bba25532c85ba311c5b15c2eed33b33f",
+      "Size": 14245
+    },
+    {
+      "Path": "resources/entities/Bruxo19.png",
+      "Hash": "f0379aa2ded8fc06ef75e458ba3ce9c7",
+      "Size": 12234
+    },
+    {
       "Path": "resources/entities/Bruxo2.png",
       "Hash": "18dc6079cc02e3d218995801632625ea",
       "Size": 10994
+    },
+    {
+      "Path": "resources/entities/Bruxo20.png",
+      "Hash": "82533b707eb502625581c46a9582d953",
+      "Size": 14756
+    },
+    {
+      "Path": "resources/entities/Bruxo21.png",
+      "Hash": "3dcae4873669ef797f46dd18d1ff448a",
+      "Size": 10362
+    },
+    {
+      "Path": "resources/entities/Bruxo22.png",
+      "Hash": "fac070f807b3c46a5e927a4e07632fab",
+      "Size": 8660
+    },
+    {
+      "Path": "resources/entities/Bruxo24.png",
+      "Hash": "bd333cb26f3578909b1414e37cf37dc1",
+      "Size": 8293
+    },
+    {
+      "Path": "resources/entities/Bruxo25.png",
+      "Hash": "b0b7964a2b8f20ff92f3fb7866097591",
+      "Size": 6657
     },
     {
       "Path": "resources/entities/Bruxo3.png",
