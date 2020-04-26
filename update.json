@@ -2754,7 +2754,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "08ef93c7681dc1e8dd6ad93c13f9d049",
+      "Hash": "c207dca69c1f742cf4d45aa15bf90fb1",
       "Size": 14737
     },
     {
@@ -3338,49 +3338,49 @@
       "Size": 618
     },
     {
-      "Path": "resources/items/icon_02.png",
-      "Hash": "5797a1eef53756d9aee93761db5b59d5",
-      "Size": 1641
+      "Path": "resources/items/BalancaLatao.png",
+      "Hash": "225d8c5c8d2ed4d32c7787115d517438",
+      "Size": 3666
     },
     {
-      "Path": "resources/items/icon_03.png",
-      "Hash": "d86aa93b15f6c623ab4657835799e66c",
-      "Size": 1585
+      "Path": "resources/items/chapeu1.png",
+      "Hash": "cf243d6afbae547a12757350baf62220",
+      "Size": 671
     },
     {
-      "Path": "resources/items/icon_04.png",
-      "Hash": "daa11eb7b0d6c46027d459fa2dc52653",
-      "Size": 1599
+      "Path": "resources/items/chapeu2.png",
+      "Hash": "41494c4e293ccd7410ad99c1cc70df35",
+      "Size": 495
     },
     {
-      "Path": "resources/items/icon_05.png",
-      "Hash": "045d25beffe8dd9e0aa3fdd557f66542",
-      "Size": 1343
+      "Path": "resources/items/chapeu3.png",
+      "Hash": "56f7b47a51df9cf9ad28b09b771419dd",
+      "Size": 654
     },
     {
-      "Path": "resources/items/icon_06.png",
-      "Hash": "016a0e3313c23c4696db42877fe1dd9e",
-      "Size": 1459
+      "Path": "resources/items/chapeu4.png",
+      "Hash": "0308e97b1672e1f4b28c6dc2368c8460",
+      "Size": 472
     },
     {
-      "Path": "resources/items/icon_07.png",
-      "Hash": "4d7f1d007378e545d6c36a1fad6dbc19",
-      "Size": 1705
+      "Path": "resources/items/chapeu5.png",
+      "Hash": "42929f71e365a0eebdef76abe0d505f3",
+      "Size": 486
     },
     {
-      "Path": "resources/items/icon_08.png",
-      "Hash": "7a10bc770c6842ee8329ea50c29cea8e",
-      "Size": 1478
+      "Path": "resources/items/chapeu6.png",
+      "Hash": "4e3eb4d6c802a3f51fe4d8160cbe82a8",
+      "Size": 605
     },
     {
-      "Path": "resources/items/icon_09.png",
-      "Hash": "2d14e1dc9435a7bfad8e193fee985cf6",
-      "Size": 1330
+      "Path": "resources/items/chapeu7.png",
+      "Hash": "09225fcef192aa03429414fd146cada0",
+      "Size": 475
     },
     {
-      "Path": "resources/items/icon_10.png",
-      "Hash": "8f4272ad796d60732076bacdae7909bd",
-      "Size": 1300
+      "Path": "resources/items/Chapeu8.png",
+      "Hash": "4c1de21cf1dba0d9e8e13a46c30d734d",
+      "Size": 447
     },
     {
       "Path": "resources/items/icon_1000.png",
@@ -3833,21 +3833,6 @@
       "Size": 1447
     },
     {
-      "Path": "resources/items/icon_11.png",
-      "Hash": "9a2f59762e9e716d0b1dc206e7386504",
-      "Size": 1669
-    },
-    {
-      "Path": "resources/items/icon_119.png",
-      "Hash": "dbd53658d7875bbb2daa0b037e2c375e",
-      "Size": 1604
-    },
-    {
-      "Path": "resources/items/icon_12.png",
-      "Hash": "8533dc421ae5fc591df752e4eb0af309",
-      "Size": 1399
-    },
-    {
       "Path": "resources/items/icon_122.png",
       "Hash": "700bd63c8710f16d366e6f766726a016",
       "Size": 1523
@@ -3938,11 +3923,6 @@
       "Size": 1628
     },
     {
-      "Path": "resources/items/icon_13.png",
-      "Hash": "df8f76100a2451aed22c0b3c9a08a1c2",
-      "Size": 1512
-    },
-    {
       "Path": "resources/items/icon_130.png",
       "Hash": "5ce98ed428fe81d07df405f0fcbe09fe",
       "Size": 1744
@@ -3993,104 +3973,14 @@
       "Size": 1595
     },
     {
-      "Path": "resources/items/icon_1393.png",
-      "Hash": "4ee62feb469299bfa3d8a78c319168cd",
-      "Size": 1730
-    },
-    {
-      "Path": "resources/items/icon_1394.png",
-      "Hash": "272791b6e962c073aa7f8dcb1dd105b9",
-      "Size": 1550
-    },
-    {
-      "Path": "resources/items/icon_1395.png",
-      "Hash": "b90ccb8fac06217a40ceec279e8dcc8f",
-      "Size": 1529
-    },
-    {
-      "Path": "resources/items/icon_1396.png",
-      "Hash": "0a3722856b3803f07aebac6b89bb0669",
-      "Size": 1724
-    },
-    {
-      "Path": "resources/items/icon_1397.png",
-      "Hash": "84767754b553e971b7d37219ddd03eb0",
-      "Size": 1647
-    },
-    {
-      "Path": "resources/items/icon_1398.png",
-      "Hash": "03b7909c9cd6d6937989af2e7e59ef1f",
-      "Size": 1512
-    },
-    {
-      "Path": "resources/items/icon_1399.png",
-      "Hash": "7d2a2219afc36315914072858eed8193",
-      "Size": 1654
-    },
-    {
       "Path": "resources/items/icon_140.png",
       "Hash": "6b097fbdf46aefc31badd4055e25efde",
       "Size": 1496
     },
     {
-      "Path": "resources/items/icon_1400.png",
-      "Hash": "9796ad439e7b00d6c2b1080dafb15dc8",
-      "Size": 1669
-    },
-    {
-      "Path": "resources/items/icon_1401.png",
-      "Hash": "974781454c436f8e3975a42f059560e6",
-      "Size": 1756
-    },
-    {
-      "Path": "resources/items/icon_1402.png",
-      "Hash": "ed18eff8fd9a39292887b02c023cfe30",
-      "Size": 1668
-    },
-    {
-      "Path": "resources/items/icon_1403.png",
-      "Hash": "9020ac1596f778187142841b9ced4064",
-      "Size": 1692
-    },
-    {
-      "Path": "resources/items/icon_1404.png",
-      "Hash": "271e3331ca516b1bfe149f70642a4826",
-      "Size": 1644
-    },
-    {
-      "Path": "resources/items/icon_1405.png",
-      "Hash": "1afd67ad23fbbfae42f691bb9c0e064c",
-      "Size": 1734
-    },
-    {
-      "Path": "resources/items/icon_1406.png",
-      "Hash": "0f19ce9697de5f8385c940c0d72b59a2",
-      "Size": 1683
-    },
-    {
-      "Path": "resources/items/icon_1407.png",
-      "Hash": "30f68882805cab9965f7f1089a75fe6a",
-      "Size": 1628
-    },
-    {
-      "Path": "resources/items/icon_1408.png",
-      "Hash": "dda7ff20793328525f5022a97531dfa1",
-      "Size": 1681
-    },
-    {
-      "Path": "resources/items/icon_1409.png",
-      "Hash": "79f5af3bc581ddc512547211ec8a7d57",
-      "Size": 1549
-    },
-    {
       "Path": "resources/items/icon_141.png",
       "Hash": "c1e3937fb44d0da95837a176cba63411",
       "Size": 1778
-    },
-    {
-      "Path": "resources/items/icon_1410.png",
-      "Hash": "d4a6916f7596b4c30357dce89f2b7d3d",
-      "Size": 1546
     },
     {
       "Path": "resources/items/icon_142.png",
@@ -4138,84 +4028,9 @@
       "Size": 1800
     },
     {
-      "Path": "resources/items/icon_1505.png",
-      "Hash": "0ed2ac2c7d12d899e923b73ad69413c8",
-      "Size": 1622
-    },
-    {
-      "Path": "resources/items/icon_1506.png",
-      "Hash": "0b1146ac09acc33de83c091490dd3c60",
-      "Size": 1607
-    },
-    {
-      "Path": "resources/items/icon_1507.png",
-      "Hash": "0255eda3e6e884542f19a15ab37a1135",
-      "Size": 1593
-    },
-    {
-      "Path": "resources/items/icon_1508.png",
-      "Hash": "b6b6d869250dff64205adb1348cab607",
-      "Size": 1604
-    },
-    {
-      "Path": "resources/items/icon_1509.png",
-      "Hash": "e307a347fc1d89475b822cac85931c2d",
-      "Size": 1574
-    },
-    {
       "Path": "resources/items/icon_151.png",
       "Hash": "767919b1dd43b6d4ee0d52cd36f1ed14",
       "Size": 1487
-    },
-    {
-      "Path": "resources/items/icon_1510.png",
-      "Hash": "f310f25d42aa36fd73fac506ae1f5498",
-      "Size": 1621
-    },
-    {
-      "Path": "resources/items/icon_1511.png",
-      "Hash": "70ca3a92041abc652389f15892634c93",
-      "Size": 1639
-    },
-    {
-      "Path": "resources/items/icon_1512.png",
-      "Hash": "f7e1c8cdafac24c8a0b1e8151cca99db",
-      "Size": 1634
-    },
-    {
-      "Path": "resources/items/icon_1513.png",
-      "Hash": "09ee06bc8da6d715045596bfe3d53919",
-      "Size": 1660
-    },
-    {
-      "Path": "resources/items/icon_1514.png",
-      "Hash": "34448092fe81a3f1411e6501d569a65f",
-      "Size": 1665
-    },
-    {
-      "Path": "resources/items/icon_1515.png",
-      "Hash": "067b13e6eadfb045b1dd2e159bd1c95f",
-      "Size": 1593
-    },
-    {
-      "Path": "resources/items/icon_1516.png",
-      "Hash": "73de36c204e1c2e6260d6ca586790ed6",
-      "Size": 1620
-    },
-    {
-      "Path": "resources/items/icon_1517.png",
-      "Hash": "69c0a8ce03f41ccfde120f65e9c8ead7",
-      "Size": 1577
-    },
-    {
-      "Path": "resources/items/icon_1518.png",
-      "Hash": "3847961ac9cddd99fc00f036af34e91d",
-      "Size": 1658
-    },
-    {
-      "Path": "resources/items/icon_1519.png",
-      "Hash": "1ea923965b480a6752bdf14ba1067255",
-      "Size": 1672
     },
     {
       "Path": "resources/items/icon_152.png",
@@ -4223,94 +4038,9 @@
       "Size": 1592
     },
     {
-      "Path": "resources/items/icon_1520.png",
-      "Hash": "32549b659b5aff238747e02a63a6f966",
-      "Size": 1671
-    },
-    {
-      "Path": "resources/items/icon_1521.png",
-      "Hash": "5d4dae1cab21830e336751930841b944",
-      "Size": 1809
-    },
-    {
-      "Path": "resources/items/icon_1522.png",
-      "Hash": "b3af9a0e23c06350a8c499e4b60b929d",
-      "Size": 1720
-    },
-    {
-      "Path": "resources/items/icon_1523.png",
-      "Hash": "1529587b00d34fcee21a0563229f80da",
-      "Size": 1672
-    },
-    {
-      "Path": "resources/items/icon_1524.png",
-      "Hash": "2b09e006ad5b35850e74e4eaa325ae3b",
-      "Size": 1774
-    },
-    {
-      "Path": "resources/items/icon_1525.png",
-      "Hash": "22758244ea76dc5b581665943871e15d",
-      "Size": 1766
-    },
-    {
-      "Path": "resources/items/icon_1526.png",
-      "Hash": "0885822257266a280ce2248ddcf523fc",
-      "Size": 1750
-    },
-    {
-      "Path": "resources/items/icon_1527.png",
-      "Hash": "eac27429b972354c22e7b0ab4467719f",
-      "Size": 1752
-    },
-    {
-      "Path": "resources/items/icon_1528.png",
-      "Hash": "b92949482cee0148a437422d1ae72c3f",
-      "Size": 1756
-    },
-    {
-      "Path": "resources/items/icon_1529.png",
-      "Hash": "05168b9a92670532b42a637d82524a12",
-      "Size": 1755
-    },
-    {
       "Path": "resources/items/icon_153.png",
       "Hash": "aab55b494f3b76eed4ad257faae4865b",
       "Size": 1444
-    },
-    {
-      "Path": "resources/items/icon_1530.png",
-      "Hash": "88cdb6bf3de8460de44f61965ec0be11",
-      "Size": 1738
-    },
-    {
-      "Path": "resources/items/icon_1531.png",
-      "Hash": "3d749ef06e9b08eeb06146ef197d48d3",
-      "Size": 1770
-    },
-    {
-      "Path": "resources/items/icon_1532.png",
-      "Hash": "729aa401c1fc47b1ebc387e8bbcf58de",
-      "Size": 1731
-    },
-    {
-      "Path": "resources/items/icon_1533.png",
-      "Hash": "0bc1760f37209004a51e0072fa540ed9",
-      "Size": 1739
-    },
-    {
-      "Path": "resources/items/icon_1534.png",
-      "Hash": "c49909990425a4887fe24088109b9cea",
-      "Size": 1718
-    },
-    {
-      "Path": "resources/items/icon_1535.png",
-      "Hash": "054b09c76111cd4f95af1be0486cb3e4",
-      "Size": 1714
-    },
-    {
-      "Path": "resources/items/icon_1536.png",
-      "Hash": "b7b71868770a489d3898395cf7426751",
-      "Size": 1784
     },
     {
       "Path": "resources/items/icon_1537.png",
@@ -4403,56 +4133,6 @@
       "Size": 1543
     },
     {
-      "Path": "resources/items/icon_156.png",
-      "Hash": "0ad58eb1c3fce5017997118c1b66d3ff",
-      "Size": 1480
-    },
-    {
-      "Path": "resources/items/icon_161.png",
-      "Hash": "9d67e703c03d8d4fad3e7a72cef58064",
-      "Size": 1331
-    },
-    {
-      "Path": "resources/items/icon_162.png",
-      "Hash": "e30d4504744727f3574e8bb29e83ae42",
-      "Size": 1327
-    },
-    {
-      "Path": "resources/items/icon_163.png",
-      "Hash": "fbfab2c530e91b60d9f7f3ab31ce6811",
-      "Size": 1323
-    },
-    {
-      "Path": "resources/items/icon_164.png",
-      "Hash": "6277b58fa6cef3c253a610d9a9056c2a",
-      "Size": 1345
-    },
-    {
-      "Path": "resources/items/icon_165.png",
-      "Hash": "3db4cdda02a63a0438ce8b58cc7d6f23",
-      "Size": 1323
-    },
-    {
-      "Path": "resources/items/icon_166.png",
-      "Hash": "71dc4331a029fb12417337808bc85999",
-      "Size": 1334
-    },
-    {
-      "Path": "resources/items/icon_167.png",
-      "Hash": "da43949c4894a442f9a91a97376aa057",
-      "Size": 1385
-    },
-    {
-      "Path": "resources/items/icon_168.png",
-      "Hash": "0ceef9c0e08c89c37f4084b4fe687083",
-      "Size": 1371
-    },
-    {
-      "Path": "resources/items/icon_169.png",
-      "Hash": "17483ee9db05ecd5a34be93dbcef4407",
-      "Size": 1416
-    },
-    {
       "Path": "resources/items/icon_1697.png",
       "Hash": "13b8ce967a756ae0fafade7e55a141d1",
       "Size": 1785
@@ -4466,16 +4146,6 @@
       "Path": "resources/items/icon_1699.png",
       "Hash": "f7479382bd601b06858cadba21dc9d87",
       "Size": 1704
-    },
-    {
-      "Path": "resources/items/icon_17.png",
-      "Hash": "c140e2b2fe7435714f7ea44c6a420477",
-      "Size": 1190
-    },
-    {
-      "Path": "resources/items/icon_170.png",
-      "Hash": "fbf9c079850d4996514dacfa30b723d1",
-      "Size": 1399
     },
     {
       "Path": "resources/items/icon_1700.png",
@@ -4496,11 +4166,6 @@
       "Path": "resources/items/icon_1703.png",
       "Hash": "1c33613d5e1ff5b25600a2d741e32cba",
       "Size": 1732
-    },
-    {
-      "Path": "resources/items/icon_1704.png",
-      "Hash": "e1934c827a91950e11ce20485bedd23f",
-      "Size": 1447
     },
     {
       "Path": "resources/items/icon_1705.png",
@@ -4526,11 +4191,6 @@
       "Path": "resources/items/icon_1709.png",
       "Hash": "cb8feedad7986a7e3be6b170bd2a5b77",
       "Size": 1784
-    },
-    {
-      "Path": "resources/items/icon_171.png",
-      "Hash": "0e8c619967084ed6df3bf3c5c5db7cf5",
-      "Size": 1403
     },
     {
       "Path": "resources/items/icon_1710.png",
@@ -4583,11 +4243,6 @@
       "Size": 1710
     },
     {
-      "Path": "resources/items/icon_172.png",
-      "Hash": "345e7f73a13bb6c79e96ea3590881496",
-      "Size": 1395
-    },
-    {
       "Path": "resources/items/icon_1720.png",
       "Hash": "18be9605281157e550cc33560c9641da",
       "Size": 1498
@@ -4636,11 +4291,6 @@
       "Path": "resources/items/icon_1729.png",
       "Hash": "277dbd3ba9836127c6acef1668bf5e0f",
       "Size": 1545
-    },
-    {
-      "Path": "resources/items/icon_173.png",
-      "Hash": "b64a46508805cca346eefe67f92cb01b",
-      "Size": 1399
     },
     {
       "Path": "resources/items/icon_1730.png",
@@ -4693,11 +4343,6 @@
       "Size": 1569
     },
     {
-      "Path": "resources/items/icon_174.png",
-      "Hash": "cf655537f5f9baa92bd97e68fc5112db",
-      "Size": 1403
-    },
-    {
       "Path": "resources/items/icon_1740.png",
       "Hash": "c1bddf35efe5d3bc69e944a5c50b7e15",
       "Size": 1613
@@ -4746,11 +4391,6 @@
       "Path": "resources/items/icon_1749.png",
       "Hash": "4c0758021b75d71ddc5d9f8cfa1f4dcc",
       "Size": 1614
-    },
-    {
-      "Path": "resources/items/icon_175.png",
-      "Hash": "3a7e9863428af45b5015d382fa0b899a",
-      "Size": 1395
     },
     {
       "Path": "resources/items/icon_1750.png",
@@ -4851,11 +4491,6 @@
       "Path": "resources/items/icon_1794.png",
       "Hash": "5a88e8cfc1e70d208a68bab53b5a4641",
       "Size": 1861
-    },
-    {
-      "Path": "resources/items/icon_18.png",
-      "Hash": "1127739c0fab0605aae6dc3a24fc54ba",
-      "Size": 1749
     },
     {
       "Path": "resources/items/icon_180.png",
@@ -5073,11 +4708,6 @@
       "Size": 1403
     },
     {
-      "Path": "resources/items/icon_19.png",
-      "Hash": "c5c25e033c345868b9aaab44f5f74c47",
-      "Size": 1811
-    },
-    {
       "Path": "resources/items/icon_190.png",
       "Hash": "ca2c3ab2a6830f65a65875c72a9546f2",
       "Size": 1854
@@ -5253,11 +4883,6 @@
       "Size": 1663
     },
     {
-      "Path": "resources/items/icon_20.png",
-      "Hash": "891122b11a52c239dbf2882074e6e624",
-      "Size": 1775
-    },
-    {
       "Path": "resources/items/icon_200.png",
       "Hash": "0ec3aaa1610e8b686e896e84feba4be2",
       "Size": 1611
@@ -5268,104 +4893,9 @@
       "Size": 1636
     },
     {
-      "Path": "resources/items/icon_2001.png",
-      "Hash": "49d64880465ed5f64aa8de93dea2c14b",
-      "Size": 1674
-    },
-    {
-      "Path": "resources/items/icon_2002.png",
-      "Hash": "8b60e37db8ae54ec838b4b3331d8641c",
-      "Size": 1507
-    },
-    {
-      "Path": "resources/items/icon_2003.png",
-      "Hash": "43097e8fb7e3c29993faad3fe9d33c48",
-      "Size": 1884
-    },
-    {
-      "Path": "resources/items/icon_2004.png",
-      "Hash": "67100b6a0cc2fc9d11a98fdf8578bdf7",
-      "Size": 1687
-    },
-    {
-      "Path": "resources/items/icon_2005.png",
-      "Hash": "f1d4ef16fd755ec6aa76133a82f9a845",
-      "Size": 1653
-    },
-    {
-      "Path": "resources/items/icon_2006.png",
-      "Hash": "d52c7deda61e807c8db75b8c25f9b31a",
-      "Size": 1414
-    },
-    {
-      "Path": "resources/items/icon_2007.png",
-      "Hash": "8282520822a867b798451c395cfbe281",
-      "Size": 1757
-    },
-    {
-      "Path": "resources/items/icon_2008.png",
-      "Hash": "79ffbddd425a66b00cacc904e7b947e9",
-      "Size": 1632
-    },
-    {
-      "Path": "resources/items/icon_2009.png",
-      "Hash": "31d6039a77a64a0b6ad02e73ab8e8fe7",
-      "Size": 1725
-    },
-    {
       "Path": "resources/items/icon_201.png",
       "Hash": "144acb46ef0193fd95d3e1124f8c0a16",
       "Size": 1617
-    },
-    {
-      "Path": "resources/items/icon_2010.png",
-      "Hash": "3b2884462254fe0a910e7aad39d22e53",
-      "Size": 1504
-    },
-    {
-      "Path": "resources/items/icon_2011.png",
-      "Hash": "55058c28b1c1c1a04e9f10e08c163369",
-      "Size": 1614
-    },
-    {
-      "Path": "resources/items/icon_2012.png",
-      "Hash": "ba7155a6cbd518e758ac28f92040b433",
-      "Size": 1563
-    },
-    {
-      "Path": "resources/items/icon_2013.png",
-      "Hash": "737b4a3c51bf45c7b410f80472662f4f",
-      "Size": 1639
-    },
-    {
-      "Path": "resources/items/icon_2014.png",
-      "Hash": "5f56519317fa9fd6815204d03ba5321d",
-      "Size": 1619
-    },
-    {
-      "Path": "resources/items/icon_2015.png",
-      "Hash": "c5564bc6ac740d303ac94f97da09a7b0",
-      "Size": 1741
-    },
-    {
-      "Path": "resources/items/icon_2016.png",
-      "Hash": "fd0445dd7690491f32f4e38c12e9718d",
-      "Size": 1694
-    },
-    {
-      "Path": "resources/items/icon_2017.png",
-      "Hash": "263ca397c04017d2040e8be79b2a454d",
-      "Size": 1886
-    },
-    {
-      "Path": "resources/items/icon_2018.png",
-      "Hash": "962356f14f0fc92c9701ac0d982a5ae2",
-      "Size": 1689
-    },
-    {
-      "Path": "resources/items/icon_2019.png",
-      "Hash": "87f31ae1c51afb937fd0ce7a5c7e6690",
-      "Size": 1639
     },
     {
       "Path": "resources/items/icon_202.png",
@@ -5373,109 +4903,9 @@
       "Size": 1444
     },
     {
-      "Path": "resources/items/icon_2020.png",
-      "Hash": "a7eb99ec49045317df8d9044a06032ed",
-      "Size": 1694
-    },
-    {
-      "Path": "resources/items/icon_2021.png",
-      "Hash": "bc1415bfed26cad63aa7501a098dfdfe",
-      "Size": 1662
-    },
-    {
-      "Path": "resources/items/icon_2022.png",
-      "Hash": "43430d06109e9108efefb82e58d5aded",
-      "Size": 1678
-    },
-    {
-      "Path": "resources/items/icon_2023.png",
-      "Hash": "29e5ce37887f42ff44d900c899d1350c",
-      "Size": 1532
-    },
-    {
-      "Path": "resources/items/icon_2024.png",
-      "Hash": "044b877f3ef314971d429906bd21633d",
-      "Size": 1660
-    },
-    {
-      "Path": "resources/items/icon_2025.png",
-      "Hash": "077f1a422f76b86382bdec7007bb63a7",
-      "Size": 1838
-    },
-    {
-      "Path": "resources/items/icon_2026.png",
-      "Hash": "446bc5442aee0789c501e19d16711725",
-      "Size": 1589
-    },
-    {
-      "Path": "resources/items/icon_2027.png",
-      "Hash": "0d0332fda21230ba435534dceca1c146",
-      "Size": 1720
-    },
-    {
-      "Path": "resources/items/icon_2028.png",
-      "Hash": "31347b4a03dc8044a94a690877d9491c",
-      "Size": 1582
-    },
-    {
-      "Path": "resources/items/icon_2029.png",
-      "Hash": "8e1f6cb038be09a03b1350107c34ad6a",
-      "Size": 1770
-    },
-    {
       "Path": "resources/items/icon_203.png",
       "Hash": "949c6b44fe8836082887aef91eb4e124",
       "Size": 1276
-    },
-    {
-      "Path": "resources/items/icon_2030.png",
-      "Hash": "65bba8dca44dd35b5ac672e2c2b7fe7f",
-      "Size": 1738
-    },
-    {
-      "Path": "resources/items/icon_2031.png",
-      "Hash": "ed1969ae845b4ac87f17868e235a5dcd",
-      "Size": 1820
-    },
-    {
-      "Path": "resources/items/icon_2032.png",
-      "Hash": "6119a8303f3f4c896d1fbf756374dac7",
-      "Size": 1758
-    },
-    {
-      "Path": "resources/items/icon_2033.png",
-      "Hash": "159d76f08e9d9fed5cd8c524b2a621e8",
-      "Size": 1443
-    },
-    {
-      "Path": "resources/items/icon_2034.png",
-      "Hash": "bd504c0af6c55bbc64bb0c6b36023234",
-      "Size": 1442
-    },
-    {
-      "Path": "resources/items/icon_2035.png",
-      "Hash": "fa425b56bee0a9fd391882cb7eb4f0a6",
-      "Size": 1351
-    },
-    {
-      "Path": "resources/items/icon_2036.png",
-      "Hash": "f61041249ed8423acdfe11d59761f550",
-      "Size": 1393
-    },
-    {
-      "Path": "resources/items/icon_2037.png",
-      "Hash": "0bc39e4d841b1116ae84fdf3a71231f9",
-      "Size": 1419
-    },
-    {
-      "Path": "resources/items/icon_2038.png",
-      "Hash": "1ecc714255efd5dfaa372ffb98dba246",
-      "Size": 1437
-    },
-    {
-      "Path": "resources/items/icon_2039.png",
-      "Hash": "95d6d4206a813269d788f12cb058a03a",
-      "Size": 1445
     },
     {
       "Path": "resources/items/icon_204.png",
@@ -5483,94 +4913,9 @@
       "Size": 1598
     },
     {
-      "Path": "resources/items/icon_2040.png",
-      "Hash": "95680c613e9ab382e7ad4d97be091668",
-      "Size": 1418
-    },
-    {
-      "Path": "resources/items/icon_2041.png",
-      "Hash": "ce30723f9bbcfcd7fa76510a47f4f45d",
-      "Size": 1861
-    },
-    {
-      "Path": "resources/items/icon_2042.png",
-      "Hash": "99380733d2ffd93797b1e8330b53f919",
-      "Size": 1566
-    },
-    {
-      "Path": "resources/items/icon_2043.png",
-      "Hash": "4a3750cae7ac823a8de0b98f63c02f67",
-      "Size": 1682
-    },
-    {
-      "Path": "resources/items/icon_2044.png",
-      "Hash": "2ea0fb93d9eded7696a2c081dcae9084",
-      "Size": 1596
-    },
-    {
-      "Path": "resources/items/icon_2045.png",
-      "Hash": "9e17ceab79731a0848b20ef5a45628df",
-      "Size": 1766
-    },
-    {
-      "Path": "resources/items/icon_2046.png",
-      "Hash": "04307b78cd5769bd7da23740d58e2b00",
-      "Size": 1691
-    },
-    {
-      "Path": "resources/items/icon_2047.png",
-      "Hash": "e5658b90f844ef4b3d8f276808012f30",
-      "Size": 1786
-    },
-    {
-      "Path": "resources/items/icon_2048.png",
-      "Hash": "b039cce276944be134f94ea9a184ef77",
-      "Size": 1731
-    },
-    {
-      "Path": "resources/items/icon_2049.png",
-      "Hash": "dbb2c250aa35397fc49cc7660e93c859",
-      "Size": 1524
-    },
-    {
       "Path": "resources/items/icon_205.png",
       "Hash": "a2ceef25f7783b347af0575f8e831b5b",
       "Size": 1726
-    },
-    {
-      "Path": "resources/items/icon_2050.png",
-      "Hash": "586a88f21b8531543257610b52298b06",
-      "Size": 1559
-    },
-    {
-      "Path": "resources/items/icon_2051.png",
-      "Hash": "7437a8de82cd50b489027494a744bcb5",
-      "Size": 1491
-    },
-    {
-      "Path": "resources/items/icon_2052.png",
-      "Hash": "5c06c10b595b9a7901fb43892d7337a1",
-      "Size": 1598
-    },
-    {
-      "Path": "resources/items/icon_2053.png",
-      "Hash": "8b67217aa26bed6242f9327381a6fed7",
-      "Size": 1530
-    },
-    {
-      "Path": "resources/items/icon_2054.png",
-      "Hash": "1bfdd329e11b93cc606a1839cdce7438",
-      "Size": 1507
-    },
-    {
-      "Path": "resources/items/icon_2055.png",
-      "Hash": "84494f05f4a7ae04a28ee3ff0dc84a7b",
-      "Size": 1533
-    },
-    {
-      "Path": "resources/items/icon_2056.png",
-      "Hash": "e61a896dd56dcf3c72a15f915abf2fe9",
-      "Size": 1530
     },
     {
       "Path": "resources/items/icon_2057.png",
@@ -5641,11 +4986,6 @@
       "Path": "resources/items/icon_209.png",
       "Hash": "8638236bdbdf40d5ab82e595b08e5d58",
       "Size": 1543
-    },
-    {
-      "Path": "resources/items/icon_21.png",
-      "Hash": "da27dcdb29dbc9e4efccd64ff52bb9b8",
-      "Size": 1512
     },
     {
       "Path": "resources/items/icon_210.png",
@@ -5813,69 +5153,9 @@
       "Size": 2106
     },
     {
-      "Path": "resources/items/icon_2177.png",
-      "Hash": "0fed9a2b406b00fc4dc153b3be866706",
-      "Size": 1991
-    },
-    {
-      "Path": "resources/items/icon_2178.png",
-      "Hash": "268e2531f175347f152d80b5512bc377",
-      "Size": 2004
-    },
-    {
-      "Path": "resources/items/icon_2179.png",
-      "Hash": "032e1d1e7c88135f5c596840db165365",
-      "Size": 1952
-    },
-    {
       "Path": "resources/items/icon_218.png",
       "Hash": "e36698698be784e99833f420037dbab9",
       "Size": 1481
-    },
-    {
-      "Path": "resources/items/icon_2180.png",
-      "Hash": "6c207ea3ce7c48dfaa9a6e3a2a0aec8b",
-      "Size": 1961
-    },
-    {
-      "Path": "resources/items/icon_2181.png",
-      "Hash": "dc0a05226b6bcb511329f3224ed1e958",
-      "Size": 2034
-    },
-    {
-      "Path": "resources/items/icon_2182.png",
-      "Hash": "82c720014d974026d4b23f236d7bdc57",
-      "Size": 2047
-    },
-    {
-      "Path": "resources/items/icon_2183.png",
-      "Hash": "ec75589f0a094a8e6be8745e05d5bcb2",
-      "Size": 1680
-    },
-    {
-      "Path": "resources/items/icon_2184.png",
-      "Hash": "3211a630bb28ca63f148d74aff42a18e",
-      "Size": 1686
-    },
-    {
-      "Path": "resources/items/icon_2185.png",
-      "Hash": "0bf8a7198b2a8942426cedf1b375270c",
-      "Size": 1820
-    },
-    {
-      "Path": "resources/items/icon_2186.png",
-      "Hash": "2febe8d8db311631976352da53b7cef0",
-      "Size": 1465
-    },
-    {
-      "Path": "resources/items/icon_2187.png",
-      "Hash": "7dc94dde2b7c549a79cfedfa33a12140",
-      "Size": 1613
-    },
-    {
-      "Path": "resources/items/icon_2188.png",
-      "Hash": "fc23ddfcc9819e7b15b37052d31f9c6c",
-      "Size": 1386
     },
     {
       "Path": "resources/items/icon_2189.png",
@@ -5893,11 +5173,6 @@
       "Size": 1618
     },
     {
-      "Path": "resources/items/icon_22.png",
-      "Hash": "d3310cd45cf79e09e4057a6bdf0ac4f5",
-      "Size": 1679
-    },
-    {
       "Path": "resources/items/icon_220.png",
       "Hash": "2577878a2cce7df805e7c16ab5388a9f",
       "Size": 1541
@@ -5913,94 +5188,14 @@
       "Size": 1481
     },
     {
-      "Path": "resources/items/icon_2225.png",
-      "Hash": "0d346ac3dd24d6406473d05e31af20f1",
-      "Size": 1259
-    },
-    {
-      "Path": "resources/items/icon_2226.png",
-      "Hash": "91c7c7c6156228f6ac90724e844b7fe4",
-      "Size": 1259
-    },
-    {
-      "Path": "resources/items/icon_2227.png",
-      "Hash": "292eeb770446d4d2137b239e3f7c8e56",
-      "Size": 1256
-    },
-    {
-      "Path": "resources/items/icon_2228.png",
-      "Hash": "d3ae53875efc394ac720cb7001e1c3da",
-      "Size": 1263
-    },
-    {
-      "Path": "resources/items/icon_2229.png",
-      "Hash": "e890de93fe12195ef7805499da9dd716",
-      "Size": 1315
-    },
-    {
       "Path": "resources/items/icon_223.png",
       "Hash": "a5ae1ec02a837adf3c832d5d6a5ff459",
       "Size": 1610
     },
     {
-      "Path": "resources/items/icon_2230.png",
-      "Hash": "ed2e0649b56b5b6072966f5f03bcc5a6",
-      "Size": 1139
-    },
-    {
-      "Path": "resources/items/icon_2231.png",
-      "Hash": "1aed9536593e43348ad3d3f71ca6932a",
-      "Size": 1312
-    },
-    {
-      "Path": "resources/items/icon_2232.png",
-      "Hash": "65ab8bb7955a0adbb8f004f7bd9bdf7e",
-      "Size": 1351
-    },
-    {
-      "Path": "resources/items/icon_2233.png",
-      "Hash": "c863bade4717f688454a76a273cd4506",
-      "Size": 1313
-    },
-    {
-      "Path": "resources/items/icon_2234.png",
-      "Hash": "a27352b4e41ed12f85af3b8192c8d519",
-      "Size": 1298
-    },
-    {
-      "Path": "resources/items/icon_2235.png",
-      "Hash": "79827e8fd66b6fcb90347c37a844e94b",
-      "Size": 1301
-    },
-    {
-      "Path": "resources/items/icon_2236.png",
-      "Hash": "da1f8f05f5bff1d6e3d0f1da21ebe38a",
-      "Size": 1278
-    },
-    {
-      "Path": "resources/items/icon_2237.png",
-      "Hash": "321fd633db9b4392d059bd3141c26193",
-      "Size": 1299
-    },
-    {
-      "Path": "resources/items/icon_2238.png",
-      "Hash": "1dd5f1e6f58836a560a938baa1effb34",
-      "Size": 1310
-    },
-    {
-      "Path": "resources/items/icon_2239.png",
-      "Hash": "5d5165e5eefff58b64919b58a339d6f0",
-      "Size": 1273
-    },
-    {
       "Path": "resources/items/icon_224.png",
       "Hash": "3d5ca2e514d6714ece81a50676be1374",
       "Size": 1387
-    },
-    {
-      "Path": "resources/items/icon_2240.png",
-      "Hash": "b8d0cadc7133d8523f0469eb6166e4de",
-      "Size": 1493
     },
     {
       "Path": "resources/items/icon_2241.png",
@@ -6078,11 +5273,6 @@
       "Size": 1699
     },
     {
-      "Path": "resources/items/icon_23.png",
-      "Hash": "2e229028a510a6717f9792a87c64705a",
-      "Size": 1979
-    },
-    {
       "Path": "resources/items/icon_230.png",
       "Hash": "03bb836b417fcb72c8696d0def54545d",
       "Size": 1336
@@ -6098,79 +5288,9 @@
       "Size": 1364
     },
     {
-      "Path": "resources/items/icon_2321.png",
-      "Hash": "2f0584efcd82ab17c90a483fc6389b1c",
-      "Size": 1403
-    },
-    {
-      "Path": "resources/items/icon_2322.png",
-      "Hash": "71f5fbfa32b0769375f0a8bcc07d5dd1",
-      "Size": 1464
-    },
-    {
-      "Path": "resources/items/icon_2323.png",
-      "Hash": "ea9c16db16ec6bafbc95206622af616f",
-      "Size": 1408
-    },
-    {
-      "Path": "resources/items/icon_2324.png",
-      "Hash": "3849b35cec97398174e5cc231c973bdf",
-      "Size": 1760
-    },
-    {
-      "Path": "resources/items/icon_2325.png",
-      "Hash": "ae6a7defc12d6a771ad113ce34060405",
-      "Size": 1555
-    },
-    {
-      "Path": "resources/items/icon_2326.png",
-      "Hash": "5568098f50f58c6fe1a547644570637a",
-      "Size": 1732
-    },
-    {
-      "Path": "resources/items/icon_2327.png",
-      "Hash": "3fd86c3f9f50975cf7777befed6bd1a2",
-      "Size": 1685
-    },
-    {
-      "Path": "resources/items/icon_2328.png",
-      "Hash": "062a1f7bb631f451085609a276d13718",
-      "Size": 1592
-    },
-    {
-      "Path": "resources/items/icon_2329.png",
-      "Hash": "28dab6a0b07ceab1b5cfcfbe9528d3b6",
-      "Size": 1372
-    },
-    {
       "Path": "resources/items/icon_233.png",
       "Hash": "cbca3adf3d5c1c182970dbf3b2ab88eb",
       "Size": 1362
-    },
-    {
-      "Path": "resources/items/icon_2330.png",
-      "Hash": "49644f5c9276ffa7af69f88bbe5db936",
-      "Size": 1453
-    },
-    {
-      "Path": "resources/items/icon_2331.png",
-      "Hash": "cf1e819b58687795486021cc2e5a5046",
-      "Size": 1124
-    },
-    {
-      "Path": "resources/items/icon_2337.png",
-      "Hash": "45c9e1cb2e0c480212a510ebdd0f4132",
-      "Size": 1430
-    },
-    {
-      "Path": "resources/items/icon_2338.png",
-      "Hash": "95225ba48cb79927b79a97a89dbd091f",
-      "Size": 1495
-    },
-    {
-      "Path": "resources/items/icon_2339.png",
-      "Hash": "9cd3158d9df8159ed8fdf11697ab3995",
-      "Size": 1489
     },
     {
       "Path": "resources/items/icon_234.png",
@@ -6178,109 +5298,9 @@
       "Size": 1349
     },
     {
-      "Path": "resources/items/icon_2340.png",
-      "Hash": "0657b719eb12f8eae2c7145fb4d4298b",
-      "Size": 1499
-    },
-    {
-      "Path": "resources/items/icon_2341.png",
-      "Hash": "b0272e945a757287a73133f8b40944f1",
-      "Size": 1493
-    },
-    {
-      "Path": "resources/items/icon_2342.png",
-      "Hash": "fe49c335c8aef6c1c6a0d63d7a0f4170",
-      "Size": 1506
-    },
-    {
-      "Path": "resources/items/icon_2343.png",
-      "Hash": "32eabe8689baf77721247e2220545f22",
-      "Size": 1515
-    },
-    {
-      "Path": "resources/items/icon_2344.png",
-      "Hash": "87dfa8847ed788b685e14181df7e9928",
-      "Size": 1488
-    },
-    {
-      "Path": "resources/items/icon_2345.png",
-      "Hash": "3c8b92091c5c39faaf81a0936e5826c6",
-      "Size": 1529
-    },
-    {
-      "Path": "resources/items/icon_2346.png",
-      "Hash": "8e5886ba3dad71cb0f3369551a223e6a",
-      "Size": 1661
-    },
-    {
-      "Path": "resources/items/icon_2347.png",
-      "Hash": "3fdbf006f8a11a0bd0a7cb09fe35e677",
-      "Size": 1703
-    },
-    {
-      "Path": "resources/items/icon_2348.png",
-      "Hash": "37fd6aa86ed6a1731f281e54540427f5",
-      "Size": 1493
-    },
-    {
-      "Path": "resources/items/icon_2349.png",
-      "Hash": "b620aa93e62822d36f717b2222f1d522",
-      "Size": 1433
-    },
-    {
       "Path": "resources/items/icon_235.png",
       "Hash": "ba85e081c90055b4dfd19699484a0de1",
       "Size": 1347
-    },
-    {
-      "Path": "resources/items/icon_2350.png",
-      "Hash": "d2cc581e21288e6956d2fb4f636758fc",
-      "Size": 1565
-    },
-    {
-      "Path": "resources/items/icon_2351.png",
-      "Hash": "93bff0394b43ada28fdac670a365a342",
-      "Size": 1474
-    },
-    {
-      "Path": "resources/items/icon_2352.png",
-      "Hash": "36f22b78eaf126c9861decc8c0fa2d01",
-      "Size": 1200
-    },
-    {
-      "Path": "resources/items/icon_2353.png",
-      "Hash": "95a7f0c963f3a89717e9735d42412d2b",
-      "Size": 1362
-    },
-    {
-      "Path": "resources/items/icon_2354.png",
-      "Hash": "6d3c476e83ac9f153f7f3e062d0a4919",
-      "Size": 1414
-    },
-    {
-      "Path": "resources/items/icon_2355.png",
-      "Hash": "7c41b9238698426166e39bd8259becd5",
-      "Size": 1417
-    },
-    {
-      "Path": "resources/items/icon_2356.png",
-      "Hash": "092caddfea33235e6e4ee1018dc20329",
-      "Size": 1409
-    },
-    {
-      "Path": "resources/items/icon_2357.png",
-      "Hash": "729faaa14b7b12f77e886dae16b9d685",
-      "Size": 1436
-    },
-    {
-      "Path": "resources/items/icon_2358.png",
-      "Hash": "c48eecf4aa54c36c8b50dfff0e2d20d0",
-      "Size": 1445
-    },
-    {
-      "Path": "resources/items/icon_2359.png",
-      "Hash": "7de9166447e78aa85961ec1523d04bd1",
-      "Size": 1444
     },
     {
       "Path": "resources/items/icon_236.png",
@@ -6288,109 +5308,9 @@
       "Size": 1487
     },
     {
-      "Path": "resources/items/icon_2360.png",
-      "Hash": "7cf3b76735478bfcf69f3c9b02a9d8e4",
-      "Size": 1425
-    },
-    {
-      "Path": "resources/items/icon_2361.png",
-      "Hash": "2e0391579e1ceb1a2df974f995adef4b",
-      "Size": 1453
-    },
-    {
-      "Path": "resources/items/icon_2362.png",
-      "Hash": "a77bd6339ce30de027df6ec9c5e10d4b",
-      "Size": 1544
-    },
-    {
-      "Path": "resources/items/icon_2363.png",
-      "Hash": "9b8dcb32ac2e8e1d5c65b95cc9d32014",
-      "Size": 1604
-    },
-    {
-      "Path": "resources/items/icon_2364.png",
-      "Hash": "028c98072a68eabfeaee087aa8cbf02c",
-      "Size": 1399
-    },
-    {
-      "Path": "resources/items/icon_2365.png",
-      "Hash": "443ed69c4dd6597d43a6d7670cd046e9",
-      "Size": 1366
-    },
-    {
-      "Path": "resources/items/icon_2366.png",
-      "Hash": "49a45659014ee5f7031fe774d3449638",
-      "Size": 1509
-    },
-    {
-      "Path": "resources/items/icon_2367.png",
-      "Hash": "0722678635803ad86ad13a413b134eef",
-      "Size": 1406
-    },
-    {
-      "Path": "resources/items/icon_2368.png",
-      "Hash": "9fa33ae1860454d209e208bd31ef6d26",
-      "Size": 1178
-    },
-    {
-      "Path": "resources/items/icon_2369.png",
-      "Hash": "85a2193bb929a122c5ac4f7faba2fb80",
-      "Size": 1381
-    },
-    {
       "Path": "resources/items/icon_237.png",
       "Hash": "558b5d8455e288a2c89d75fa2ab2d432",
       "Size": 1664
-    },
-    {
-      "Path": "resources/items/icon_2370.png",
-      "Hash": "424bbb71efdc950465a7c8fc4861d98c",
-      "Size": 1404
-    },
-    {
-      "Path": "resources/items/icon_2371.png",
-      "Hash": "04be742fc59c29e193f2698f6cbd5f14",
-      "Size": 1430
-    },
-    {
-      "Path": "resources/items/icon_2372.png",
-      "Hash": "0434b1d6e32700a45efcb86fd9123fb6",
-      "Size": 1394
-    },
-    {
-      "Path": "resources/items/icon_2373.png",
-      "Hash": "895412d3f3e7f8765e0d0c0eab582177",
-      "Size": 1394
-    },
-    {
-      "Path": "resources/items/icon_2374.png",
-      "Hash": "e576383de4553ca980a30616f6c8c14e",
-      "Size": 1417
-    },
-    {
-      "Path": "resources/items/icon_2375.png",
-      "Hash": "544278e4383e5946583da34700b75d0d",
-      "Size": 1437
-    },
-    {
-      "Path": "resources/items/icon_2376.png",
-      "Hash": "49c325be6d565191036daaea5e5f4f03",
-      "Size": 1412
-    },
-    {
-      "Path": "resources/items/icon_2377.png",
-      "Hash": "e995bc9af894769f5b4ce712b38f73ee",
-      "Size": 1433
-    },
-    {
-      "Path": "resources/items/icon_2378.png",
-      "Hash": "00e656598de0d6df8cc5657ddd9be63e",
-      "Size": 1532
-    },
-    {
-      "Path": "resources/items/icon_2379.png",
-      "Hash": "73cc781a025034855afb67b7ae2df3fb",
-      "Size": 1596
     },
     {
       "Path": "resources/items/icon_238.png",
@@ -6398,54 +5318,9 @@
       "Size": 1741
     },
     {
-      "Path": "resources/items/icon_2380.png",
-      "Hash": "c0b755d6c8d1cbae247fe15772960907",
-      "Size": 1416
-    },
-    {
-      "Path": "resources/items/icon_2381.png",
-      "Hash": "1409c6e416ecc84409b66f40d73d3955",
-      "Size": 1377
-    },
-    {
-      "Path": "resources/items/icon_2382.png",
-      "Hash": "92bcb32ac3c13042b49c7474d2d51760",
-      "Size": 1497
-    },
-    {
-      "Path": "resources/items/icon_2383.png",
-      "Hash": "6f2f97154143a9ca420fade1a320a109",
-      "Size": 1410
-    },
-    {
-      "Path": "resources/items/icon_2384.png",
-      "Hash": "a56437305cca3c0b56ba49dad92bbaf2",
-      "Size": 1226
-    },
-    {
-      "Path": "resources/items/icon_2385.png",
-      "Hash": "1c83deb8f1ad8874b72ba82ae8b1f4fb",
-      "Size": 1850
-    },
-    {
-      "Path": "resources/items/icon_2386.png",
-      "Hash": "fcf9ab39d95d0d3e50a7775a7f8399aa",
-      "Size": 1731
-    },
-    {
-      "Path": "resources/items/icon_2387.png",
-      "Hash": "c6e1a728574e35c312fce78187386d04",
-      "Size": 1543
-    },
-    {
       "Path": "resources/items/icon_239.png",
       "Hash": "2ffc4e7be2685d3a05e1d670fd945683",
       "Size": 1801
-    },
-    {
-      "Path": "resources/items/icon_24.png",
-      "Hash": "0c967afa2699a554c5d6990ac16c7471",
-      "Size": 1674
     },
     {
       "Path": "resources/items/icon_240.png",
@@ -6468,59 +5343,9 @@
       "Size": 1382
     },
     {
-      "Path": "resources/items/icon_2433.png",
-      "Hash": "d2a716d560f5ce44dbc9fb8d52fb4cab",
-      "Size": 1897
-    },
-    {
-      "Path": "resources/items/icon_2434.png",
-      "Hash": "71a5d74dac22a3c54b6ea12d5052f911",
-      "Size": 1746
-    },
-    {
-      "Path": "resources/items/icon_2435.png",
-      "Hash": "422fb71dac9ba1d63dab44da50e97046",
-      "Size": 1693
-    },
-    {
-      "Path": "resources/items/icon_2436.png",
-      "Hash": "2eab57cb19aecb1f34d6901c69a246cd",
-      "Size": 1773
-    },
-    {
-      "Path": "resources/items/icon_2437.png",
-      "Hash": "379b68d716d5252098d0180127ffdf90",
-      "Size": 1681
-    },
-    {
-      "Path": "resources/items/icon_2438.png",
-      "Hash": "215ce91eedd5dc15e3f391991beb82ac",
-      "Size": 1723
-    },
-    {
-      "Path": "resources/items/icon_2439.png",
-      "Hash": "709abf05954c8f7adf2b14235375ab2b",
-      "Size": 1707
-    },
-    {
       "Path": "resources/items/icon_244.png",
       "Hash": "1a35f67b61d91e0402a45e537bb41eff",
       "Size": 1494
-    },
-    {
-      "Path": "resources/items/icon_2440.png",
-      "Hash": "e01ccb715ee75d47b0d0f59049f32235",
-      "Size": 1754
-    },
-    {
-      "Path": "resources/items/icon_2441.png",
-      "Hash": "dc989f8c60c758fc3d82eb2c5ea93f0e",
-      "Size": 1770
-    },
-    {
-      "Path": "resources/items/icon_2449.png",
-      "Hash": "17dcc6aebd3514257c5ecf063c7739a5",
-      "Size": 1639
     },
     {
       "Path": "resources/items/icon_245.png",
@@ -6528,74 +5353,9 @@
       "Size": 1370
     },
     {
-      "Path": "resources/items/icon_2450.png",
-      "Hash": "e7d3d4c2d964e3152c7567a34e407af7",
-      "Size": 1859
-    },
-    {
-      "Path": "resources/items/icon_2451.png",
-      "Hash": "1f3c63722e5082f33efc1c4419728fce",
-      "Size": 1575
-    },
-    {
-      "Path": "resources/items/icon_2452.png",
-      "Hash": "51ba38d626c9e4d26129e1022f6f5de8",
-      "Size": 1591
-    },
-    {
-      "Path": "resources/items/icon_2453.png",
-      "Hash": "6dd0055123366c87026dc5264edf9a3c",
-      "Size": 1603
-    },
-    {
-      "Path": "resources/items/icon_2454.png",
-      "Hash": "85803ae2ecc01c3748e1b333ed2e9837",
-      "Size": 1716
-    },
-    {
-      "Path": "resources/items/icon_2455.png",
-      "Hash": "87f95899d00215b8554ec5e641e144fe",
-      "Size": 1883
-    },
-    {
-      "Path": "resources/items/icon_2456.png",
-      "Hash": "21ad481c8befbe9480c6b72eb18cebd9",
-      "Size": 1641
-    },
-    {
-      "Path": "resources/items/icon_2457.png",
-      "Hash": "a61c562a881e17adc8d72257cc679c37",
-      "Size": 1653
-    },
-    {
       "Path": "resources/items/icon_246.png",
       "Hash": "650f4ae9cf23b43ed9fb589397dabb08",
       "Size": 1471
-    },
-    {
-      "Path": "resources/items/icon_2465.png",
-      "Hash": "68f0b4f6c92b9f68c4a9bda28f22271d",
-      "Size": 1791
-    },
-    {
-      "Path": "resources/items/icon_2466.png",
-      "Hash": "65daaffc03226b11f0e9f34f7957f737",
-      "Size": 1752
-    },
-    {
-      "Path": "resources/items/icon_2467.png",
-      "Hash": "c8687a2eb9790abc1cd8759eb076082e",
-      "Size": 1683
-    },
-    {
-      "Path": "resources/items/icon_2468.png",
-      "Hash": "8dfc23b1a99c3e4290ed1a7d4ea661da",
-      "Size": 1697
-    },
-    {
-      "Path": "resources/items/icon_2469.png",
-      "Hash": "56523ae1fcc4f9a897de575367d924f8",
-      "Size": 1735
     },
     {
       "Path": "resources/items/icon_247.png",
@@ -6603,74 +5363,9 @@
       "Size": 1387
     },
     {
-      "Path": "resources/items/icon_2470.png",
-      "Hash": "cc925141075f00df6532d4299cd08897",
-      "Size": 1902
-    },
-    {
-      "Path": "resources/items/icon_2471.png",
-      "Hash": "bb5df24526b7721b74a521b98f7b9519",
-      "Size": 1772
-    },
-    {
-      "Path": "resources/items/icon_2472.png",
-      "Hash": "d2a47883e37236324496d9df4a30ca64",
-      "Size": 1802
-    },
-    {
-      "Path": "resources/items/icon_2473.png",
-      "Hash": "19b97d1388cb12df3e28b8b78125827c",
-      "Size": 1779
-    },
-    {
       "Path": "resources/items/icon_248.png",
       "Hash": "4d38165ecaf30e1d5cd1074049e49f4f",
       "Size": 1789
-    },
-    {
-      "Path": "resources/items/icon_2481.png",
-      "Hash": "e19279407f517a4c558f5ac899a8dc98",
-      "Size": 1689
-    },
-    {
-      "Path": "resources/items/icon_2482.png",
-      "Hash": "fee9cfd890247c39866f715c1c68c1ae",
-      "Size": 1665
-    },
-    {
-      "Path": "resources/items/icon_2483.png",
-      "Hash": "af04517fcc2eeb259459a5f0cecec7e3",
-      "Size": 1798
-    },
-    {
-      "Path": "resources/items/icon_2484.png",
-      "Hash": "f55a088b33f95bc79cf2d015ef076a1e",
-      "Size": 1632
-    },
-    {
-      "Path": "resources/items/icon_2485.png",
-      "Hash": "6a8d15efd5ddcae7cd81f60bd4f28967",
-      "Size": 1655
-    },
-    {
-      "Path": "resources/items/icon_2486.png",
-      "Hash": "3b5c7917c74627b5a9de5a3c95619eaa",
-      "Size": 1722
-    },
-    {
-      "Path": "resources/items/icon_2487.png",
-      "Hash": "a7c46ded2f17b8ab5ee1569cda2f8a13",
-      "Size": 1647
-    },
-    {
-      "Path": "resources/items/icon_2488.png",
-      "Hash": "5a0f8c437a67b8f0a3975daf27c68131",
-      "Size": 1882
-    },
-    {
-      "Path": "resources/items/icon_2489.png",
-      "Hash": "8b9939ad40a904a5c4dbbba23c503579",
-      "Size": 1693
     },
     {
       "Path": "resources/items/icon_249.png",
@@ -6678,59 +5373,9 @@
       "Size": 1637
     },
     {
-      "Path": "resources/items/icon_2497.png",
-      "Hash": "a9125161de9b2b46af1f96948961f93d",
-      "Size": 1869
-    },
-    {
-      "Path": "resources/items/icon_2498.png",
-      "Hash": "448528355229df2e7afb33f9954a6a55",
-      "Size": 1808
-    },
-    {
-      "Path": "resources/items/icon_2499.png",
-      "Hash": "a5b2429c099c07f533fd99b426321455",
-      "Size": 1748
-    },
-    {
-      "Path": "resources/items/icon_25.png",
-      "Hash": "ea2ed128fd87f7975829eb008769c137",
-      "Size": 1558
-    },
-    {
       "Path": "resources/items/icon_250.png",
       "Hash": "05eba040b67956068ac406e689d002ea",
       "Size": 1610
-    },
-    {
-      "Path": "resources/items/icon_2500.png",
-      "Hash": "32f07053bd481ac4e3b9e517ab32626a",
-      "Size": 1744
-    },
-    {
-      "Path": "resources/items/icon_2501.png",
-      "Hash": "f009c59d293f570289f703199faf05aa",
-      "Size": 1792
-    },
-    {
-      "Path": "resources/items/icon_2502.png",
-      "Hash": "e5291aae373d0af7bb20ee5c054b3b11",
-      "Size": 1857
-    },
-    {
-      "Path": "resources/items/icon_2503.png",
-      "Hash": "2fb874a78f577e508daf279199352b30",
-      "Size": 1831
-    },
-    {
-      "Path": "resources/items/icon_2504.png",
-      "Hash": "63561450b18b8d11f71998af1c1a37bf",
-      "Size": 1833
-    },
-    {
-      "Path": "resources/items/icon_2505.png",
-      "Hash": "e7c9fad4543d7f2300ae031fd175df9f",
-      "Size": 1825
     },
     {
       "Path": "resources/items/icon_251.png",
@@ -6738,54 +5383,9 @@
       "Size": 1707
     },
     {
-      "Path": "resources/items/icon_2513.png",
-      "Hash": "8cf1077f269f6265495e72c2928dab5a",
-      "Size": 1920
-    },
-    {
-      "Path": "resources/items/icon_2514.png",
-      "Hash": "b96a2766badff7ffd862730091b3c8e7",
-      "Size": 1830
-    },
-    {
-      "Path": "resources/items/icon_2515.png",
-      "Hash": "18e11f930c6c2e98c203a34c7f76077e",
-      "Size": 1769
-    },
-    {
-      "Path": "resources/items/icon_2516.png",
-      "Hash": "18b97cc04110e038fde5e9eb8333b19f",
-      "Size": 1805
-    },
-    {
-      "Path": "resources/items/icon_2517.png",
-      "Hash": "449a20f147cf0281fb1308af3ca92f3d",
-      "Size": 1827
-    },
-    {
-      "Path": "resources/items/icon_2518.png",
-      "Hash": "0682e9cc78da0222a0f0a29d6fe88dea",
-      "Size": 1868
-    },
-    {
-      "Path": "resources/items/icon_2519.png",
-      "Hash": "350605753865abe058598f790c1fc3a1",
-      "Size": 1830
-    },
-    {
       "Path": "resources/items/icon_252.png",
       "Hash": "dd3fa4779317acca80931adba3b3df28",
       "Size": 1760
-    },
-    {
-      "Path": "resources/items/icon_2520.png",
-      "Hash": "876a14ff7588cbc911cd39267f215a73",
-      "Size": 1822
-    },
-    {
-      "Path": "resources/items/icon_2521.png",
-      "Hash": "7fd73379fb6c077930ffe0ccc90375ed",
-      "Size": 1811
     },
     {
       "Path": "resources/items/icon_253.png",
@@ -6826,11 +5426,6 @@
       "Path": "resources/items/icon_259.png",
       "Hash": "ff7b6f4025edbf2ca7e8f456b0d9fa2e",
       "Size": 1522
-    },
-    {
-      "Path": "resources/items/icon_26.png",
-      "Hash": "b33b7fab823547a631b0955d56ae9923",
-      "Size": 1509
     },
     {
       "Path": "resources/items/icon_260.png",
@@ -6883,11 +5478,6 @@
       "Size": 1726
     },
     {
-      "Path": "resources/items/icon_27.png",
-      "Hash": "f5cb4e796e579028eb628a91eab1a5bc",
-      "Size": 1843
-    },
-    {
       "Path": "resources/items/icon_270.png",
       "Hash": "a6f3b45d296831ed17ab375dd98e063e",
       "Size": 1452
@@ -6938,11 +5528,6 @@
       "Size": 1758
     },
     {
-      "Path": "resources/items/icon_28.png",
-      "Hash": "cee02dff5811a7b78e18884920d2d767",
-      "Size": 1803
-    },
-    {
       "Path": "resources/items/icon_280.png",
       "Hash": "236a868f83e1bca050cb092347daa88f",
       "Size": 1487
@@ -6956,11 +5541,6 @@
       "Path": "resources/items/icon_289.png",
       "Hash": "fd732ad1a83585b3284c221537af5ef0",
       "Size": 1432
-    },
-    {
-      "Path": "resources/items/icon_29.png",
-      "Hash": "082a9c842d64f9495de361ae90a22cc6",
-      "Size": 1646
     },
     {
       "Path": "resources/items/icon_290.png",
@@ -7153,11 +5733,6 @@
       "Size": 1648
     },
     {
-      "Path": "resources/items/icon_33.png",
-      "Hash": "903613e614d20b6080ed7f4760f85875",
-      "Size": 1399
-    },
-    {
       "Path": "resources/items/icon_330.png",
       "Hash": "7c4e2a57091bd907b24e2687f5b83cb3",
       "Size": 1648
@@ -7206,11 +5781,6 @@
       "Path": "resources/items/icon_339.png",
       "Hash": "fce3a473eefee8272ad325ca6b4482f5",
       "Size": 1529
-    },
-    {
-      "Path": "resources/items/icon_34.png",
-      "Hash": "b94c066e95abbd43d5171facece44c55",
-      "Size": 1419
     },
     {
       "Path": "resources/items/icon_340.png",
@@ -7263,11 +5833,6 @@
       "Size": 1524
     },
     {
-      "Path": "resources/items/icon_35.png",
-      "Hash": "b91b2e93ed3ed8965aef1fb75250a25a",
-      "Size": 1475
-    },
-    {
       "Path": "resources/items/icon_350.png",
       "Hash": "0b1119b0ed520aa315fa9cdf01775995",
       "Size": 1541
@@ -7311,11 +5876,6 @@
       "Path": "resources/items/icon_359.png",
       "Hash": "f3000e1a2ec2515b96cef2575532fa33",
       "Size": 1616
-    },
-    {
-      "Path": "resources/items/icon_36.png",
-      "Hash": "a2b490916d709ad7eff08025fa635782",
-      "Size": 1491
     },
     {
       "Path": "resources/items/icon_360.png",
@@ -7368,11 +5928,6 @@
       "Size": 1414
     },
     {
-      "Path": "resources/items/icon_37.png",
-      "Hash": "50851675738bb2de8af04756d88f6336",
-      "Size": 1517
-    },
-    {
       "Path": "resources/items/icon_370.png",
       "Hash": "310d778ec63620209f005e01762ae44b",
       "Size": 1558
@@ -7421,11 +5976,6 @@
       "Path": "resources/items/icon_379.png",
       "Hash": "da7440f3da761a631225417d24012d67",
       "Size": 1548
-    },
-    {
-      "Path": "resources/items/icon_38.png",
-      "Hash": "d2e54b03d1eb6517194286009dedb0e8",
-      "Size": 1500
     },
     {
       "Path": "resources/items/icon_380.png",
@@ -7478,11 +6028,6 @@
       "Size": 1521
     },
     {
-      "Path": "resources/items/icon_39.png",
-      "Hash": "b068d97bd8ff4be940206ee5a20267ab",
-      "Size": 1489
-    },
-    {
       "Path": "resources/items/icon_390.png",
       "Hash": "4c52033041401eccb89cb15d4bc1e08a",
       "Size": 1525
@@ -7531,11 +6076,6 @@
       "Path": "resources/items/icon_399.png",
       "Hash": "b5d9be83f3c9cc4ef812000c344ae60f",
       "Size": 1621
-    },
-    {
-      "Path": "resources/items/icon_40.png",
-      "Hash": "60f51559734db0c7d1bbd5e748edbb1e",
-      "Size": 1502
     },
     {
       "Path": "resources/items/icon_400.png",
@@ -7588,11 +6128,6 @@
       "Size": 1520
     },
     {
-      "Path": "resources/items/icon_41.png",
-      "Hash": "7cd24e0a9e65e851b49acc9176a686eb",
-      "Size": 1442
-    },
-    {
       "Path": "resources/items/icon_410.png",
       "Hash": "2c5588705d0acb90e3b0f5e6c161dd6b",
       "Size": 1532
@@ -7636,11 +6171,6 @@
       "Path": "resources/items/icon_419.png",
       "Hash": "b57e51190a69ba1aa464749858a8e94a",
       "Size": 1641
-    },
-    {
-      "Path": "resources/items/icon_42.png",
-      "Hash": "f66d74d57d9000379a9eb683666b29e0",
-      "Size": 1431
     },
     {
       "Path": "resources/items/icon_420.png",
@@ -7693,11 +6223,6 @@
       "Size": 1596
     },
     {
-      "Path": "resources/items/icon_43.png",
-      "Hash": "db940471b97653e6096655ebb7d79bf1",
-      "Size": 1511
-    },
-    {
       "Path": "resources/items/icon_430.png",
       "Hash": "723817a672f0186fea06f09a563490cf",
       "Size": 1622
@@ -7743,11 +6268,6 @@
       "Size": 1656
     },
     {
-      "Path": "resources/items/icon_44.png",
-      "Hash": "dcdc251b7d820a18de56f98bf5af48d1",
-      "Size": 1518
-    },
-    {
       "Path": "resources/items/icon_440.png",
       "Hash": "9a56f40b35469ddf3bb9e0bb344805c0",
       "Size": 1658
@@ -7791,11 +6311,6 @@
       "Path": "resources/items/icon_448.png",
       "Hash": "37f3da82915a44918686f02194cdb163",
       "Size": 1665
-    },
-    {
-      "Path": "resources/items/icon_45.png",
-      "Hash": "91098a961a5f949d6fcf9558d23f7a06",
-      "Size": 1564
     },
     {
       "Path": "resources/items/icon_450.png",
@@ -7848,11 +6363,6 @@
       "Size": 1605
     },
     {
-      "Path": "resources/items/icon_46.png",
-      "Hash": "36e4387e6f2de912fb818a80e22c8028",
-      "Size": 1561
-    },
-    {
       "Path": "resources/items/icon_460.png",
       "Hash": "e2cc42658943932bdccc522fa82349e4",
       "Size": 1623
@@ -7896,11 +6406,6 @@
       "Path": "resources/items/icon_469.png",
       "Hash": "10cdf52924ba4730e506dafbef342ae0",
       "Size": 1585
-    },
-    {
-      "Path": "resources/items/icon_47.png",
-      "Hash": "d821a5758ec59f4ead718e8ccb323336",
-      "Size": 1505
     },
     {
       "Path": "resources/items/icon_470.png",
@@ -7953,11 +6458,6 @@
       "Size": 1637
     },
     {
-      "Path": "resources/items/icon_48.png",
-      "Hash": "81a4d30279933338b57554febad89ef9",
-      "Size": 1554
-    },
-    {
       "Path": "resources/items/icon_480.png",
       "Hash": "d5df807658baa42d1069b7db063078ba",
       "Size": 1619
@@ -8001,11 +6501,6 @@
       "Path": "resources/items/icon_489.png",
       "Hash": "9fb8fb347fa3da4c69c2aaf3fec55318",
       "Size": 1673
-    },
-    {
-      "Path": "resources/items/icon_49.png",
-      "Hash": "42f574897a42801908f45807d268f7c1",
-      "Size": 1422
     },
     {
       "Path": "resources/items/icon_490.png",
@@ -8058,11 +6553,6 @@
       "Size": 1482
     },
     {
-      "Path": "resources/items/icon_50.png",
-      "Hash": "4e3712043eec495ce4d3cbde82be0c2f",
-      "Size": 1406
-    },
-    {
       "Path": "resources/items/icon_500.png",
       "Hash": "8e3b86e486e8c7143e5ac4e34106cb03",
       "Size": 1490
@@ -8113,11 +6603,6 @@
       "Size": 1488
     },
     {
-      "Path": "resources/items/icon_51.png",
-      "Hash": "bb0bede7e4acca64da928bcb7d40571a",
-      "Size": 1502
-    },
-    {
       "Path": "resources/items/icon_510.png",
       "Hash": "d809a6605167350c8463f339797e88d7",
       "Size": 1487
@@ -8163,11 +6648,6 @@
       "Size": 1631
     },
     {
-      "Path": "resources/items/icon_52.png",
-      "Hash": "691a00f705e0448dcf6d5cf8f3612a97",
-      "Size": 1496
-    },
-    {
       "Path": "resources/items/icon_520.png",
       "Hash": "9c3656d0e431c09d418a611821e44b9f",
       "Size": 1658
@@ -8211,11 +6691,6 @@
       "Path": "resources/items/icon_528.png",
       "Hash": "533e2094f2ce616f56e4e007bb692696",
       "Size": 1660
-    },
-    {
-      "Path": "resources/items/icon_53.png",
-      "Hash": "1c8b3480122a2d38ed2f287d1188d2ea",
-      "Size": 1522
     },
     {
       "Path": "resources/items/icon_530.png",
@@ -8265,11 +6740,6 @@
     {
       "Path": "resources/items/icon_539.png",
       "Hash": "68f864fc00e3c3162064371309743a55",
-      "Size": 1512
-    },
-    {
-      "Path": "resources/items/icon_54.png",
-      "Hash": "d9d01357d881f5aec749ce9d849a390a",
       "Size": 1512
     },
     {
@@ -8323,11 +6793,6 @@
       "Size": 1578
     },
     {
-      "Path": "resources/items/icon_55.png",
-      "Hash": "6c06876f17af740fc562d9cd0c0bcfb3",
-      "Size": 1494
-    },
-    {
       "Path": "resources/items/icon_550.png",
       "Hash": "fdc93d6cf4681df3b0f1f76b15485feb",
       "Size": 1583
@@ -8378,11 +6843,6 @@
       "Size": 1572
     },
     {
-      "Path": "resources/items/icon_56.png",
-      "Hash": "df5f2ba472a0e5398d33644b6d16b900",
-      "Size": 1516
-    },
-    {
       "Path": "resources/items/icon_560.png",
       "Hash": "c6de9760bd0ce31dcceebed0da053225",
       "Size": 1580
@@ -8426,11 +6886,6 @@
       "Path": "resources/items/icon_569.png",
       "Hash": "5351446b824dac8425ead713792201fe",
       "Size": 1921
-    },
-    {
-      "Path": "resources/items/icon_57.png",
-      "Hash": "e99b00ae1b7a993e2ff9a1ef69a4d4fd",
-      "Size": 1498
     },
     {
       "Path": "resources/items/icon_570.png",
@@ -8483,11 +6938,6 @@
       "Size": 1408
     },
     {
-      "Path": "resources/items/icon_58.png",
-      "Hash": "237e63f4152428feedda8c38c49c3d84",
-      "Size": 1507
-    },
-    {
       "Path": "resources/items/icon_580.png",
       "Hash": "4518519096f3d896b22419e92047ecad",
       "Size": 1426
@@ -8536,11 +6986,6 @@
       "Path": "resources/items/icon_589.png",
       "Hash": "e53e043c1eb85e7ce7012b42bce88e65",
       "Size": 1466
-    },
-    {
-      "Path": "resources/items/icon_59.png",
-      "Hash": "3b407debe3cafc39f82b19b2e57aa3dd",
-      "Size": 1548
     },
     {
       "Path": "resources/items/icon_590.png",
@@ -8593,11 +7038,6 @@
       "Size": 1735
     },
     {
-      "Path": "resources/items/icon_60.png",
-      "Hash": "456d127d5075f6eb7644f66b6a0e5f60",
-      "Size": 1540
-    },
-    {
       "Path": "resources/items/icon_600.png",
       "Hash": "f2c9cd944454d3d83020ff8ac6db98bc",
       "Size": 1745
@@ -8646,11 +7086,6 @@
       "Path": "resources/items/icon_609.png",
       "Hash": "c279eeeea82c79df6f95ceec1d25a277",
       "Size": 1337
-    },
-    {
-      "Path": "resources/items/icon_61.png",
-      "Hash": "a83b05c85a527fb7b16a2b0c3bac716d",
-      "Size": 1557
     },
     {
       "Path": "resources/items/icon_610.png",
@@ -8703,11 +7138,6 @@
       "Size": 1413
     },
     {
-      "Path": "resources/items/icon_62.png",
-      "Hash": "de53c8b36be2b9834cfabc03c93f325c",
-      "Size": 1570
-    },
-    {
       "Path": "resources/items/icon_620.png",
       "Hash": "8f574bb3016b630eb1896be024d5db5d",
       "Size": 1443
@@ -8736,91 +7166,6 @@
       "Path": "resources/items/icon_625.png",
       "Hash": "dbef7b4d5ddb329753e7b8ddd12c8982",
       "Size": 1569
-    },
-    {
-      "Path": "resources/items/icon_626.png",
-      "Hash": "b58017d811930643d69069856dc161c7",
-      "Size": 1548
-    },
-    {
-      "Path": "resources/items/icon_627.png",
-      "Hash": "4f3a5a74f34b84c1ac02de2359864f55",
-      "Size": 1513
-    },
-    {
-      "Path": "resources/items/icon_628.png",
-      "Hash": "64650a2ca40fdf511a4ac09fc46a1ffd",
-      "Size": 1510
-    },
-    {
-      "Path": "resources/items/icon_629.png",
-      "Hash": "469160c6b2732504a7fc836505af783e",
-      "Size": 1535
-    },
-    {
-      "Path": "resources/items/icon_63.png",
-      "Hash": "9929615818f63742eec172c93b33877f",
-      "Size": 1560
-    },
-    {
-      "Path": "resources/items/icon_630.png",
-      "Hash": "15242fd9e6a09d946ea4f39061d0d1a4",
-      "Size": 1528
-    },
-    {
-      "Path": "resources/items/icon_631.png",
-      "Hash": "56f999359c5bce9d0cfc7a25b4f09488",
-      "Size": 1553
-    },
-    {
-      "Path": "resources/items/icon_632.png",
-      "Hash": "3fe59b93072a890a3f2f942a772ad704",
-      "Size": 1562
-    },
-    {
-      "Path": "resources/items/icon_633.png",
-      "Hash": "e43d7a7734ea139d9938c8e5fe8f8337",
-      "Size": 1517
-    },
-    {
-      "Path": "resources/items/icon_634.png",
-      "Hash": "cee909ee8790420f8154de0021054c49",
-      "Size": 1560
-    },
-    {
-      "Path": "resources/items/icon_635.png",
-      "Hash": "c5b7385e9bddabee86a613866141a334",
-      "Size": 1481
-    },
-    {
-      "Path": "resources/items/icon_636.png",
-      "Hash": "cb9056ccdb5da950da5c33ae0d672481",
-      "Size": 1498
-    },
-    {
-      "Path": "resources/items/icon_637.png",
-      "Hash": "79ad3347165ad8acc560d74d781cc2e5",
-      "Size": 1548
-    },
-    {
-      "Path": "resources/items/icon_638.png",
-      "Hash": "32b6228b2540e15315fa89c67dcec19c",
-      "Size": 1544
-    },
-    {
-      "Path": "resources/items/icon_639.png",
-      "Hash": "24eb8734116bb7ef50223a5928096642",
-      "Size": 1523
-    },
-    {
-      "Path": "resources/items/icon_64.png",
-      "Hash": "c3140922ee208d3ad30ea6a89f5876a7",
-      "Size": 1690
-    },
-    {
-      "Path": "resources/items/icon_640.png",
-      "Hash": "42d1640d2aa7d4aeca693f3040db92f9",
-      "Size": 1534
     },
     {
       "Path": "resources/items/icon_641.png",
@@ -8866,11 +7211,6 @@
       "Path": "resources/items/icon_649.png",
       "Hash": "e79a76f6077aaa0b3af194c7bf8fe5a7",
       "Size": 1704
-    },
-    {
-      "Path": "resources/items/icon_65.png",
-      "Hash": "ede9f668c2c2cb9957ff1e77c530cd3d",
-      "Size": 1600
     },
     {
       "Path": "resources/items/icon_650.png",
@@ -8923,11 +7263,6 @@
       "Size": 1456
     },
     {
-      "Path": "resources/items/icon_66.png",
-      "Hash": "522e22770072d4f63e1fc9809728e656",
-      "Size": 1541
-    },
-    {
       "Path": "resources/items/icon_660.png",
       "Hash": "ffea70c59ee55e7623d2a25e44fd695f",
       "Size": 1461
@@ -8978,11 +7313,6 @@
       "Size": 1532
     },
     {
-      "Path": "resources/items/icon_67.png",
-      "Hash": "f1f17d39289a59ebe8cda820fbebf56f",
-      "Size": 1531
-    },
-    {
       "Path": "resources/items/icon_670.png",
       "Hash": "74ad1e89bed27c188bcbc29ca824299f",
       "Size": 1522
@@ -8996,21 +7326,6 @@
       "Path": "resources/items/icon_672.png",
       "Hash": "c4f82940fc55bf18581d2637c09f1dc5",
       "Size": 1514
-    },
-    {
-      "Path": "resources/items/icon_68.png",
-      "Hash": "cc068baa43167ce50fad921dbb7051c7",
-      "Size": 1439
-    },
-    {
-      "Path": "resources/items/icon_69.png",
-      "Hash": "e140a795c0c90eba55a532f56ab1bfb3",
-      "Size": 1537
-    },
-    {
-      "Path": "resources/items/icon_70.png",
-      "Hash": "bb1ad10cd82e7dd527bf2d5e3e7513c5",
-      "Size": 1515
     },
     {
       "Path": "resources/items/icon_705.png",
@@ -9036,11 +7351,6 @@
       "Path": "resources/items/icon_709.png",
       "Hash": "c7b233f319ef5942ff7df6ce6b90c14a",
       "Size": 1617
-    },
-    {
-      "Path": "resources/items/icon_71.png",
-      "Hash": "8628eabb5fcce06fb7ac0c75cbd96197",
-      "Size": 1456
     },
     {
       "Path": "resources/items/icon_710.png",
@@ -9108,74 +7418,9 @@
       "Size": 1615
     },
     {
-      "Path": "resources/items/icon_737.png",
-      "Hash": "5c9d99f88b2f99788aca188d4a010994",
-      "Size": 1364
-    },
-    {
-      "Path": "resources/items/icon_738.png",
-      "Hash": "e9605fce0d106462e5625f86236e3955",
-      "Size": 1330
-    },
-    {
-      "Path": "resources/items/icon_739.png",
-      "Hash": "6f921ba9b06c7fe4a3693cda6ecdb2dc",
-      "Size": 1360
-    },
-    {
       "Path": "resources/items/icon_74.png",
       "Hash": "8e9f448e6be780b229b934fd9373df89",
       "Size": 1473
-    },
-    {
-      "Path": "resources/items/icon_740.png",
-      "Hash": "c677753379fc5775e3c1516679d1914c",
-      "Size": 1333
-    },
-    {
-      "Path": "resources/items/icon_741.png",
-      "Hash": "9f5813d7db8028e77e018b91336e61f2",
-      "Size": 1343
-    },
-    {
-      "Path": "resources/items/icon_742.png",
-      "Hash": "c355dd79e10a169b669aa262143bfce8",
-      "Size": 1306
-    },
-    {
-      "Path": "resources/items/icon_743.png",
-      "Hash": "a049d2debc05a7e458126aef0a71d033",
-      "Size": 1339
-    },
-    {
-      "Path": "resources/items/icon_744.png",
-      "Hash": "2fbe27a676af2c41b20c55ed82f8bdfb",
-      "Size": 1376
-    },
-    {
-      "Path": "resources/items/icon_745.png",
-      "Hash": "a4e0c07538e081e7cdca7802d705a349",
-      "Size": 1339
-    },
-    {
-      "Path": "resources/items/icon_746.png",
-      "Hash": "6b36710b5703de431fd64adcc38b151b",
-      "Size": 1339
-    },
-    {
-      "Path": "resources/items/icon_747.png",
-      "Hash": "e4c69cf1efa314444a9d73848b743c89",
-      "Size": 1373
-    },
-    {
-      "Path": "resources/items/icon_748.png",
-      "Hash": "e5458a0e4a38f5ccea4e6d65858c978d",
-      "Size": 1344
-    },
-    {
-      "Path": "resources/items/icon_749.png",
-      "Hash": "675ba15ea9652754b376a9fcef6b72ad",
-      "Size": 1337
     },
     {
       "Path": "resources/items/icon_75.png",
@@ -9183,159 +7428,9 @@
       "Size": 1496
     },
     {
-      "Path": "resources/items/icon_750.png",
-      "Hash": "6f79b20f40c18259b1d834daaed5f584",
-      "Size": 1358
-    },
-    {
-      "Path": "resources/items/icon_751.png",
-      "Hash": "b43b4acde5d15992ba551fe5316cfdd1",
-      "Size": 1350
-    },
-    {
-      "Path": "resources/items/icon_752.png",
-      "Hash": "307371fe789b50a8e8e29fe613cebdd4",
-      "Size": 1349
-    },
-    {
-      "Path": "resources/items/icon_753.png",
-      "Hash": "81ddf0b518c56fb22572b3f8a05839de",
-      "Size": 1464
-    },
-    {
-      "Path": "resources/items/icon_754.png",
-      "Hash": "d0925f5e4b33c6376922cbfaf8b2091a",
-      "Size": 1444
-    },
-    {
-      "Path": "resources/items/icon_755.png",
-      "Hash": "4f022007865f8e6e346b88d09d3badeb",
-      "Size": 1450
-    },
-    {
-      "Path": "resources/items/icon_756.png",
-      "Hash": "40149b2b8e49bd9e9c3ca9eb6771bc46",
-      "Size": 1403
-    },
-    {
-      "Path": "resources/items/icon_757.png",
-      "Hash": "875ca618f03955a2c63801bc1e2f1c85",
-      "Size": 1423
-    },
-    {
-      "Path": "resources/items/icon_758.png",
-      "Hash": "5760bc8182c2f7195d7a9cf239e44235",
-      "Size": 1382
-    },
-    {
-      "Path": "resources/items/icon_759.png",
-      "Hash": "8e66d5d15c332347b7e26b4245f6a471",
-      "Size": 1415
-    },
-    {
       "Path": "resources/items/icon_76.png",
       "Hash": "4bd496e2a026050967efb2c4ad128cf6",
       "Size": 1606
-    },
-    {
-      "Path": "resources/items/icon_760.png",
-      "Hash": "e758b43b32b5086407b115a5a53fb310",
-      "Size": 1463
-    },
-    {
-      "Path": "resources/items/icon_761.png",
-      "Hash": "aa702ca6849a976ec9fcaeed29ea6267",
-      "Size": 1427
-    },
-    {
-      "Path": "resources/items/icon_762.png",
-      "Hash": "53ddb0a3a774068fbbb565d682ffd59b",
-      "Size": 1424
-    },
-    {
-      "Path": "resources/items/icon_763.png",
-      "Hash": "93fbffc93a9c9005f9828a18613b587a",
-      "Size": 1428
-    },
-    {
-      "Path": "resources/items/icon_764.png",
-      "Hash": "d80db4eea18d6acbef16043e370cd74f",
-      "Size": 1425
-    },
-    {
-      "Path": "resources/items/icon_765.png",
-      "Hash": "cbb5a31b7715322f36ab931048a978bf",
-      "Size": 1403
-    },
-    {
-      "Path": "resources/items/icon_766.png",
-      "Hash": "8d44e2e2abe6a0fe4ea78efb809a369e",
-      "Size": 1435
-    },
-    {
-      "Path": "resources/items/icon_767.png",
-      "Hash": "50d8b95d4cf56249283703f0708f490b",
-      "Size": 1409
-    },
-    {
-      "Path": "resources/items/icon_768.png",
-      "Hash": "8266a48e6fd6d1070f5219e00211de39",
-      "Size": 1422
-    },
-    {
-      "Path": "resources/items/icon_769.png",
-      "Hash": "19b0ee3bfd9eb4577a1408ccccc3e464",
-      "Size": 1527
-    },
-    {
-      "Path": "resources/items/icon_770.png",
-      "Hash": "f5ced14b3448134568aab4d81b97fcf8",
-      "Size": 1503
-    },
-    {
-      "Path": "resources/items/icon_771.png",
-      "Hash": "d12dde7ba4ee92205de1bd2c6a67d8a8",
-      "Size": 1497
-    },
-    {
-      "Path": "resources/items/icon_772.png",
-      "Hash": "fd680599ade8e9e832d1a0cfaf1f09f7",
-      "Size": 1457
-    },
-    {
-      "Path": "resources/items/icon_773.png",
-      "Hash": "0eec2936e885483c11e535846b2232b7",
-      "Size": 1502
-    },
-    {
-      "Path": "resources/items/icon_774.png",
-      "Hash": "ba5ed61aa4328abc1ea9096c3af75369",
-      "Size": 1458
-    },
-    {
-      "Path": "resources/items/icon_775.png",
-      "Hash": "e76a75100024742b4a5d5e17c434669c",
-      "Size": 1477
-    },
-    {
-      "Path": "resources/items/icon_776.png",
-      "Hash": "21f54fc8bb1dd470d924040e6f043f82",
-      "Size": 1524
-    },
-    {
-      "Path": "resources/items/icon_777.png",
-      "Hash": "b3c3196733eda55add6daa1e235bdf18",
-      "Size": 1503
-    },
-    {
-      "Path": "resources/items/icon_778.png",
-      "Hash": "87312fa52945ce0498f7768c5353479a",
-      "Size": 1495
-    },
-    {
-      "Path": "resources/items/icon_779.png",
-      "Hash": "5ae54879cd8869c2758beda45c57cbe2",
-      "Size": 1519
     },
     {
       "Path": "resources/items/icon_78.png",
@@ -9343,109 +7438,9 @@
       "Size": 1617
     },
     {
-      "Path": "resources/items/icon_780.png",
-      "Hash": "f13c8835dcd13f95e832e25b2454f209",
-      "Size": 1471
-    },
-    {
-      "Path": "resources/items/icon_781.png",
-      "Hash": "e9c4d97688ae72aaf861875a2cafa805",
-      "Size": 1460
-    },
-    {
-      "Path": "resources/items/icon_782.png",
-      "Hash": "3eeeff0c092d9182cc33bc36c0484d29",
-      "Size": 1513
-    },
-    {
-      "Path": "resources/items/icon_783.png",
-      "Hash": "0335ec884f97c3edcfeaca75f6efef2e",
-      "Size": 1467
-    },
-    {
-      "Path": "resources/items/icon_784.png",
-      "Hash": "08d8e2597a552ccfaa7eae732c8f4647",
-      "Size": 1459
-    },
-    {
-      "Path": "resources/items/icon_785.png",
-      "Hash": "77167fdfea1e47d0f45c5b19de02dae4",
-      "Size": 1568
-    },
-    {
-      "Path": "resources/items/icon_786.png",
-      "Hash": "ea1d6577a830e555c8e5925e6e55fafa",
-      "Size": 1543
-    },
-    {
-      "Path": "resources/items/icon_787.png",
-      "Hash": "82d008a22f2542c69fa09bbb24cb9c40",
-      "Size": 1532
-    },
-    {
-      "Path": "resources/items/icon_788.png",
-      "Hash": "9856ef76274a07638901e4424cbec212",
-      "Size": 1486
-    },
-    {
-      "Path": "resources/items/icon_789.png",
-      "Hash": "8593f92249503173ede7744fb7153238",
-      "Size": 1548
-    },
-    {
       "Path": "resources/items/icon_79.png",
       "Hash": "dc004f3b222a3b6def2306a438824900",
       "Size": 1554
-    },
-    {
-      "Path": "resources/items/icon_790.png",
-      "Hash": "0d4d787fb678328c740ab7dce3415167",
-      "Size": 1496
-    },
-    {
-      "Path": "resources/items/icon_791.png",
-      "Hash": "f84560864cb2c0b7a609294c150d278e",
-      "Size": 1516
-    },
-    {
-      "Path": "resources/items/icon_792.png",
-      "Hash": "4df94fc708968f679faea4966500d274",
-      "Size": 1566
-    },
-    {
-      "Path": "resources/items/icon_793.png",
-      "Hash": "90429364e185dfce0467d2fc8933524b",
-      "Size": 1556
-    },
-    {
-      "Path": "resources/items/icon_794.png",
-      "Hash": "25d0eb1034900ece3cd5bb501c1e43bd",
-      "Size": 1536
-    },
-    {
-      "Path": "resources/items/icon_795.png",
-      "Hash": "aeb744257c625b152fa8581856af6777",
-      "Size": 1554
-    },
-    {
-      "Path": "resources/items/icon_796.png",
-      "Hash": "5496ef4e0b0aa905aa326316a3a098de",
-      "Size": 1499
-    },
-    {
-      "Path": "resources/items/icon_797.png",
-      "Hash": "5e7057203aa57759fd59c2f4cfa5be37",
-      "Size": 1503
-    },
-    {
-      "Path": "resources/items/icon_798.png",
-      "Hash": "f8fe6fd25d39240bcd00209c71ddda30",
-      "Size": 1555
-    },
-    {
-      "Path": "resources/items/icon_799.png",
-      "Hash": "4c3da7b8709ab593c41df1ad9779915d",
-      "Size": 1514
     },
     {
       "Path": "resources/items/icon_80.png",
@@ -9453,109 +7448,9 @@
       "Size": 1891
     },
     {
-      "Path": "resources/items/icon_800.png",
-      "Hash": "1c053203445de98d4e4618154721c995",
-      "Size": 1505
-    },
-    {
-      "Path": "resources/items/icon_801.png",
-      "Hash": "6a5bc5cb6a0f9b42f5548caa8b7bde1e",
-      "Size": 1626
-    },
-    {
-      "Path": "resources/items/icon_802.png",
-      "Hash": "a068e55337499ad556ef06ca8787c0e3",
-      "Size": 1607
-    },
-    {
-      "Path": "resources/items/icon_803.png",
-      "Hash": "cb8eadde030ff78dad67a96a33b55622",
-      "Size": 1610
-    },
-    {
-      "Path": "resources/items/icon_804.png",
-      "Hash": "1fef9b806c4253c355dcd6c765ca0a29",
-      "Size": 1546
-    },
-    {
-      "Path": "resources/items/icon_805.png",
-      "Hash": "14e404b0f6f3b3c940133c232f7f2e01",
-      "Size": 1612
-    },
-    {
-      "Path": "resources/items/icon_806.png",
-      "Hash": "1cacc825236385f4c6a21c180f8f2784",
-      "Size": 1534
-    },
-    {
-      "Path": "resources/items/icon_807.png",
-      "Hash": "86ba0e72c5bc8894814a30d14acc7135",
-      "Size": 1565
-    },
-    {
-      "Path": "resources/items/icon_808.png",
-      "Hash": "0fb4658f2312ad719fe362a6e6b38fb7",
-      "Size": 1616
-    },
-    {
-      "Path": "resources/items/icon_809.png",
-      "Hash": "6195f160e66e5c747114e72dad50946a",
-      "Size": 1613
-    },
-    {
       "Path": "resources/items/icon_81.png",
       "Hash": "523a4f2f6e5b4f6918f39e0dcd00ec87",
       "Size": 1290
-    },
-    {
-      "Path": "resources/items/icon_810.png",
-      "Hash": "c6c4c88248fd15e4d8063b98a1982e01",
-      "Size": 1600
-    },
-    {
-      "Path": "resources/items/icon_811.png",
-      "Hash": "cc9a3e498b590f70dbdf563f19a9180a",
-      "Size": 1615
-    },
-    {
-      "Path": "resources/items/icon_812.png",
-      "Hash": "e5f7291e34c8c5caba3b40d5b07a79b6",
-      "Size": 1541
-    },
-    {
-      "Path": "resources/items/icon_813.png",
-      "Hash": "2c31de62a333c4c1eab976030398a66d",
-      "Size": 1542
-    },
-    {
-      "Path": "resources/items/icon_814.png",
-      "Hash": "bfc847f2336dec2c26488e02c8c06db9",
-      "Size": 1617
-    },
-    {
-      "Path": "resources/items/icon_815.png",
-      "Hash": "42fd447a9e33483c3a647189348973a6",
-      "Size": 1560
-    },
-    {
-      "Path": "resources/items/icon_816.png",
-      "Hash": "40f664f23b3302f94610ae0e6e618007",
-      "Size": 1535
-    },
-    {
-      "Path": "resources/items/icon_817.png",
-      "Hash": "0f5e54376bf1f95bf379902aef5aef5f",
-      "Size": 1731
-    },
-    {
-      "Path": "resources/items/icon_818.png",
-      "Hash": "e088c6d850141bc2b348001fcff95c01",
-      "Size": 1745
-    },
-    {
-      "Path": "resources/items/icon_819.png",
-      "Hash": "9b75dd97acd6c491f242a8db5b7bfbd8",
-      "Size": 1687
     },
     {
       "Path": "resources/items/icon_82.png",
@@ -9563,74 +7458,9 @@
       "Size": 1721
     },
     {
-      "Path": "resources/items/icon_820.png",
-      "Hash": "b06022fc6d330ee2b0d40cd2a1717e26",
-      "Size": 1610
-    },
-    {
-      "Path": "resources/items/icon_821.png",
-      "Hash": "85659b043bc347d713c4345e87b62e2f",
-      "Size": 1698
-    },
-    {
-      "Path": "resources/items/icon_822.png",
-      "Hash": "42de41370ca6a2bde61a0654d4aa5268",
-      "Size": 1605
-    },
-    {
-      "Path": "resources/items/icon_823.png",
-      "Hash": "946600a3779117bba9d5f542d104bab7",
-      "Size": 1642
-    },
-    {
-      "Path": "resources/items/icon_824.png",
-      "Hash": "8ed624c13e938b7382179812bbf13b63",
-      "Size": 1713
-    },
-    {
-      "Path": "resources/items/icon_825.png",
-      "Hash": "1cf92d6fba0b41e2a70fba2d1caddea7",
-      "Size": 1717
-    },
-    {
-      "Path": "resources/items/icon_826.png",
-      "Hash": "c71e146a3f9424187e118c5ca929a0b4",
-      "Size": 1705
-    },
-    {
-      "Path": "resources/items/icon_827.png",
-      "Hash": "449b5133fccb35d0510bf701a294154e",
-      "Size": 1753
-    },
-    {
-      "Path": "resources/items/icon_828.png",
-      "Hash": "55e1dd153d48ae2a602e43bf4daf59d5",
-      "Size": 1622
-    },
-    {
-      "Path": "resources/items/icon_829.png",
-      "Hash": "695891b0e7a2e3126bb771006de6247f",
-      "Size": 1621
-    },
-    {
       "Path": "resources/items/icon_83.png",
       "Hash": "291aa61f7c1f55609ad6970e21e9b2e7",
       "Size": 1407
-    },
-    {
-      "Path": "resources/items/icon_830.png",
-      "Hash": "3ed28f9b3be0ab71ad94cef4bbffa574",
-      "Size": 1714
-    },
-    {
-      "Path": "resources/items/icon_831.png",
-      "Hash": "a8613bd037bb7224848ef70039b672e9",
-      "Size": 1649
-    },
-    {
-      "Path": "resources/items/icon_832.png",
-      "Hash": "f8a7414abefed60f8bd36b9f772797b8",
-      "Size": 1613
     },
     {
       "Path": "resources/items/icon_833.png",
@@ -10283,6 +8113,21 @@
       "Size": 583
     },
     {
+      "Path": "resources/items/oculos1.png",
+      "Hash": "11d9fedd85a03939733d4e58a81af342",
+      "Size": 181
+    },
+    {
+      "Path": "resources/items/oculos2.png",
+      "Hash": "2fcf4ec4f9e8ff8daeed20d8e409692d",
+      "Size": 205
+    },
+    {
+      "Path": "resources/items/oculos3.png",
+      "Hash": "e01bb3e35da1c04cd5efd29e76dc6eca",
+      "Size": 185
+    },
+    {
       "Path": "resources/items/PadraoF.png",
       "Hash": "51d5bca8fff9f422d2a8ff8ff3c99a12",
       "Size": 536
@@ -10898,6 +8743,46 @@
       "Size": 5488
     },
     {
+      "Path": "resources/paperdolls/chapeu1.png",
+      "Hash": "74b1da6a5b5fc45262ec545d374e79ec",
+      "Size": 5357
+    },
+    {
+      "Path": "resources/paperdolls/chapeu2.png",
+      "Hash": "96df170fd81480724a637c4fdd09398d",
+      "Size": 3413
+    },
+    {
+      "Path": "resources/paperdolls/chapeu3.png",
+      "Hash": "0c73ed89c931ee84b6fd1113e2e2fad5",
+      "Size": 5081
+    },
+    {
+      "Path": "resources/paperdolls/chapeu4.png",
+      "Hash": "a88335f22529094098628e70a2b65d88",
+      "Size": 3428
+    },
+    {
+      "Path": "resources/paperdolls/chapeu5.png",
+      "Hash": "d8220ecd2131c98c6583008d6b36ecd3",
+      "Size": 3320
+    },
+    {
+      "Path": "resources/paperdolls/chapeu6.png",
+      "Hash": "6090b434387e4af455cae73f30670497",
+      "Size": 5098
+    },
+    {
+      "Path": "resources/paperdolls/chapeu7.png",
+      "Hash": "5a55cec81395522794a4c6e9e1647fe5",
+      "Size": 2834
+    },
+    {
+      "Path": "resources/paperdolls/Chapeu8.png",
+      "Hash": "ae449c8300ff52c3df4c5e9cf50f519e",
+      "Size": 3513
+    },
+    {
       "Path": "resources/paperdolls/Lacerta F.png",
       "Hash": "5a804317b91c905bb20d2bf741072d98",
       "Size": 3855
@@ -10918,6 +8803,11 @@
       "Size": 4582
     },
     {
+      "Path": "resources/paperdolls/Luvas.png",
+      "Hash": "57060baba7ff7e0845a100e2ceb538bd",
+      "Size": 1441
+    },
+    {
       "Path": "resources/paperdolls/Martes F.png",
       "Hash": "0d910a9ad21403931b271c43aab44543",
       "Size": 3782
@@ -10936,6 +8826,21 @@
       "Path": "resources/paperdolls/MartesM.png",
       "Hash": "b3f2b9684b1c4b42770948d42ed3894b",
       "Size": 4570
+    },
+    {
+      "Path": "resources/paperdolls/oculos1.png",
+      "Hash": "fff523d4de978b31b585234222603a00",
+      "Size": 545
+    },
+    {
+      "Path": "resources/paperdolls/oculos2.png",
+      "Hash": "888ddcb993b4e47248ba1055665e2550",
+      "Size": 589
+    },
+    {
+      "Path": "resources/paperdolls/oculos3.png",
+      "Hash": "32c60270e628a4ac808e22add8751162",
+      "Size": 552
     },
     {
       "Path": "resources/paperdolls/PadraoF.png",
