@@ -723,6 +723,11 @@
       "Size": 7182
     },
     {
+      "Path": "resources/entities/Agatha.png",
+      "Hash": "381ed460c1b98ec13b9b32dc36d20a1e",
+      "Size": 9524
+    },
+    {
       "Path": "resources/entities/Aluna1.png",
       "Hash": "2b5838683d2123bc61c36e2cb0bd8ec1",
       "Size": 9116
@@ -1123,6 +1128,41 @@
       "Size": 6470
     },
     {
+      "Path": "resources/entities/Lacerta10.png",
+      "Hash": "d375db5c58181bfcf1f71320456c55a3",
+      "Size": 8271
+    },
+    {
+      "Path": "resources/entities/Lacerta4.png",
+      "Hash": "83e596229ed9d0f5b08d5028b3cf7757",
+      "Size": 11205
+    },
+    {
+      "Path": "resources/entities/Lacerta5.png",
+      "Hash": "b8513ec403ba52382200b64ab90e5969",
+      "Size": 9925
+    },
+    {
+      "Path": "resources/entities/Lacerta6.png",
+      "Hash": "cfdb44b87cbe2795f02906d99f382ba7",
+      "Size": 10650
+    },
+    {
+      "Path": "resources/entities/Lacerta7.png",
+      "Hash": "807e114413cfe3962468522b00377712",
+      "Size": 11197
+    },
+    {
+      "Path": "resources/entities/Lacerta8.png",
+      "Hash": "c71029d333b4d548d02811a670c224b6",
+      "Size": 9648
+    },
+    {
+      "Path": "resources/entities/Lacerta9.png",
+      "Hash": "2502e5d7f325121096221836be98ed02",
+      "Size": 8755
+    },
+    {
       "Path": "resources/entities/Lily.png",
       "Hash": "4d9e7ffa134ee9f7736df7ca3831a0ab",
       "Size": 9184
@@ -1141,6 +1181,41 @@
       "Path": "resources/entities/marcia.png",
       "Hash": "c79962f235887c9b4a737dd89cff170f",
       "Size": 22627
+    },
+    {
+      "Path": "resources/entities/Martes10.png",
+      "Hash": "4f69cb36078582ee5594de63c7424b13",
+      "Size": 10004
+    },
+    {
+      "Path": "resources/entities/Martes4.png",
+      "Hash": "3b58754176fcc2f46fd273e38944dbb9",
+      "Size": 10988
+    },
+    {
+      "Path": "resources/entities/Martes5.png",
+      "Hash": "bac9dc4f56639a0041d67510ad6bcd8f",
+      "Size": 11286
+    },
+    {
+      "Path": "resources/entities/Martes6.png",
+      "Hash": "331c68c1b0afedd4e24ae453bede32f7",
+      "Size": 9039
+    },
+    {
+      "Path": "resources/entities/Martes7.png",
+      "Hash": "78669ba31c4ec17ce820526b88369b5e",
+      "Size": 10395
+    },
+    {
+      "Path": "resources/entities/Martes8.png",
+      "Hash": "ced8af367c53e31630d1b08e823fc9cf",
+      "Size": 10404
+    },
+    {
+      "Path": "resources/entities/Martes9.png",
+      "Hash": "d8482422168f82b24fe2bb054b5779d9",
+      "Size": 9219
     },
     {
       "Path": "resources/entities/Matheus.png",
@@ -1168,9 +1243,99 @@
       "Size": 8571
     },
     {
+      "Path": "resources/entities/Muggle12.png",
+      "Hash": "1b1fdf6841489794bf9880fe31ac3d94",
+      "Size": 11286
+    },
+    {
+      "Path": "resources/entities/Muggle13.png",
+      "Hash": "6088d764f141ddc0a1f897ba909027c5",
+      "Size": 14729
+    },
+    {
+      "Path": "resources/entities/Muggle14.png",
+      "Hash": "c712309973b4f5db52b67770a8f0736c",
+      "Size": 11046
+    },
+    {
+      "Path": "resources/entities/Muggle15.png",
+      "Hash": "592618ca248602b20d0cd35a25d7cb7a",
+      "Size": 7235
+    },
+    {
+      "Path": "resources/entities/Muggle16.png",
+      "Hash": "0feae8ceeb11811bbe415a8182ff1e08",
+      "Size": 7369
+    },
+    {
+      "Path": "resources/entities/Muggle17.png",
+      "Hash": "4474e8e96a55fa733904ddcb235329a3",
+      "Size": 10863
+    },
+    {
+      "Path": "resources/entities/Muggle18.png",
+      "Hash": "eb484904e409c0711774d0fe68a6bcdf",
+      "Size": 12987
+    },
+    {
+      "Path": "resources/entities/Muggle19.png",
+      "Hash": "da76dd6515e689e761ef703ecad0be18",
+      "Size": 11316
+    },
+    {
       "Path": "resources/entities/Muggle2.png",
       "Hash": "05e7fdaba99a8a11ede28100edd71ac1",
       "Size": 6944
+    },
+    {
+      "Path": "resources/entities/Muggle20.png",
+      "Hash": "98dc59cf92c2a44b4e707067ef4fd3f9",
+      "Size": 10618
+    },
+    {
+      "Path": "resources/entities/Muggle21.png",
+      "Hash": "9523a1e0c6848110329c3891967605b5",
+      "Size": 12973
+    },
+    {
+      "Path": "resources/entities/Muggle22.png",
+      "Hash": "2c75935a76e94d22a93f5cbdbb5d0d1c",
+      "Size": 9409
+    },
+    {
+      "Path": "resources/entities/Muggle23.png",
+      "Hash": "3a10a3322f6d1c52c7d71084e29777ec",
+      "Size": 11888
+    },
+    {
+      "Path": "resources/entities/Muggle24.png",
+      "Hash": "9142436147228775e1519533c7d1efb5",
+      "Size": 14686
+    },
+    {
+      "Path": "resources/entities/Muggle25.png",
+      "Hash": "1b64edbe6c997cd8b7c261339aeb0d44",
+      "Size": 7210
+    },
+    {
+      "Path": "resources/entities/Muggle26.png",
+      "Hash": "6d6d0d08b5b2f7bb49c8590fbe949c46",
+      "Size": 7269
+    },
+    {
+      "Path": "resources/entities/Muggle27.png",
+      "Hash": "1d52779642baa34f69100b7c805636d7",
+      "Size": 7661
+    },
+    {
+      "Path": "resources/entities/Muggle28.png",
+      "Hash": "130f22585ada10f2f0023adaf9bc6f77",
+      "Size": 7571
+    },
+    {
+      "Path": "resources/entities/Muggle29.png",
+      "Hash": "d611d33c121c8f75f0954cc95cc4eb8a",
+      "Size": 7953
     },
     {
       "Path": "resources/entities/Muggle3.png",
@@ -1258,9 +1423,49 @@
       "Size": 6697
     },
     {
+      "Path": "resources/entities/Ramicyele.png",
+      "Hash": "00cc54354d19c948b227e7b544e7c970",
+      "Size": 11439
+    },
+    {
       "Path": "resources/entities/Sereia.png",
       "Hash": "84020a4f9d9769d095e4c0e2f43e7ef4",
       "Size": 8143
+    },
+    {
+      "Path": "resources/entities/Signatus10.png",
+      "Hash": "dd95994c3320a27f7825e7ed5552a9b5",
+      "Size": 9208
+    },
+    {
+      "Path": "resources/entities/Signatus4.png",
+      "Hash": "91e4a8660da96ff11722c1ad775800fe",
+      "Size": 10482
+    },
+    {
+      "Path": "resources/entities/Signatus5.png",
+      "Hash": "85bc75e761d15f9f56277ab9cfa619b5",
+      "Size": 8881
+    },
+    {
+      "Path": "resources/entities/Signatus6.png",
+      "Hash": "f78c19b6140bbeb78be762742d58986f",
+      "Size": 11161
+    },
+    {
+      "Path": "resources/entities/Signatus7.png",
+      "Hash": "27acaf8a29f919bed82969dc8a92a5a3",
+      "Size": 9087
+    },
+    {
+      "Path": "resources/entities/Signatus8.png",
+      "Hash": "c0dc0353a2ca58d3642d02655f882492",
+      "Size": 10524
+    },
+    {
+      "Path": "resources/entities/Signatus9.png",
+      "Hash": "c9083abffb2a862161fb5dee67d8a069",
+      "Size": 10923
     },
     {
       "Path": "resources/entities/Sphinx.png",
@@ -1321,6 +1526,11 @@
       "Path": "resources/entities/Winged Horse.png",
       "Hash": "c7b779be89961336131f493985aab56c",
       "Size": 10834
+    },
+    {
+      "Path": "resources/faces/Agatha.png",
+      "Hash": "c826f337be123e0202a0c30fdf296498",
+      "Size": 43962
     },
     {
       "Path": "resources/faces/antonieta.png",
@@ -1406,6 +1616,11 @@
       "Path": "resources/faces/Peter.png",
       "Hash": "fbb93cba5baed89a8edbb78f283c782e",
       "Size": 48764
+    },
+    {
+      "Path": "resources/faces/Ramicyele.png",
+      "Hash": "4e490e4ecfeae250d3c35992fb30f551",
+      "Size": 52468
     },
     {
       "Path": "resources/faces/SuperBoy.png",
@@ -2399,8 +2614,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_4Responses.json",
-      "Hash": "236ba504d64608908e3829ed79dc77b7",
-      "Size": 28968
+      "Hash": "6d0139fe4733fae92d858a64aac630ef",
+      "Size": 29156
     },
     {
       "Path": "resources/gui/layouts/game/FriendsWindow.json",
@@ -2479,7 +2694,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "0f00c610a6c160c5b662f2156b9fff3b",
+      "Hash": "08ef93c7681dc1e8dd6ad93c13f9d049",
       "Size": 14737
     },
     {
@@ -2504,7 +2719,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "27925382ed1816e0db4f939c86f3652f",
+      "Hash": "c176083b0b702e8cdb448e6ae78c0268",
       "Size": 24309
     },
     {
@@ -2549,8 +2764,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "fb3812d8a1f038dc17edb19e08be23e9",
-      "Size": 11357
+      "Hash": "4ae7f882f0a5ae2628babe852d8b370a",
+      "Size": 11358
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -10668,9 +10883,19 @@
       "Size": 3817
     },
     {
+      "Path": "resources/paperdolls/PadraoHomem.png",
+      "Hash": "c540d52633fe3c09c666f986527dbca7",
+      "Size": 2619
+    },
+    {
       "Path": "resources/paperdolls/PadraoM.png",
       "Hash": "a455599e4f47022ef4055ebfa930d698",
       "Size": 4362
+    },
+    {
+      "Path": "resources/paperdolls/PadraoMulher.png",
+      "Hash": "252fbf8ab4ed12a3dec686439b8a93ab",
+      "Size": 2015
     },
     {
       "Path": "resources/paperdolls/Signatus F.png",
