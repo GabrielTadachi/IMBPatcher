@@ -2824,8 +2824,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "4ae7f882f0a5ae2628babe852d8b370a",
-      "Size": 11358
+      "Hash": "fb3812d8a1f038dc17edb19e08be23e9",
+      "Size": 11357
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -8781,6 +8781,276 @@
       "Path": "resources/paperdolls/Chapeu8.png",
       "Hash": "ae449c8300ff52c3df4c5e9cf50f519e",
       "Size": 3513
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_1.1.png",
+      "Hash": "972cc14b1be8fafaa5ff975bee0a2582",
+      "Size": 2936
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_1.2.png",
+      "Hash": "6d42e7d5f2b7991561bf1455a4727129",
+      "Size": 2933
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_1.3.png",
+      "Hash": "e406a49d0d09d7622b4e55c901554903",
+      "Size": 2940
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_1.4.png",
+      "Hash": "031cf9b96e1c8f387b1d8df0589088d5",
+      "Size": 2920
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_1.5.png",
+      "Hash": "6d3562c270dfbfc052e171193b1c5b8e",
+      "Size": 2896
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_1.6.png",
+      "Hash": "c46c5f3cd50e4ae3d954417e0677369b",
+      "Size": 2890
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_2.1.png",
+      "Hash": "7ac87c6e34449a3c715dfc06ca640871",
+      "Size": 2808
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_2.2.png",
+      "Hash": "1da52ffdaf6d5035ab06a2066405f35c",
+      "Size": 2798
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_2.3.png",
+      "Hash": "e2cac3deeb0062886d725d97758c007b",
+      "Size": 2808
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_2.4.png",
+      "Hash": "67d6612a9c1e6f3aa393b0696eecf86a",
+      "Size": 2802
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_2.5.png",
+      "Hash": "2cd0e9932de104c862ce0929f7463e19",
+      "Size": 2812
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_3.1.png",
+      "Hash": "ea8b61765b8a0b79de2c8ab9c1efcbd6",
+      "Size": 3112
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_3.2.png",
+      "Hash": "141f533a5f9ec245db03c165b9a3cccf",
+      "Size": 3092
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_3.3.png",
+      "Hash": "543690a17c167b5e994a1155de511543",
+      "Size": 3107
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_3.4.png",
+      "Hash": "d87a1ffdf3a97086974d50d374fa93fb",
+      "Size": 3102
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_3.5.png",
+      "Hash": "1c52528e88c11e5ddab8fb7dc1b1bde1",
+      "Size": 3107
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_3.6.png",
+      "Hash": "41fd3f9e210e7046321d6e95914c0340",
+      "Size": 3110
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_4.1.png",
+      "Hash": "cc80edc5c9484ceb2c7f40a299d264c4",
+      "Size": 3728
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_4.2.png",
+      "Hash": "aede3bd71fa1bc2266ab7c9b06c8f204",
+      "Size": 3743
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_4.3.png",
+      "Hash": "8ba8965f99090b94b3a34848106fe188",
+      "Size": 3737
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_4.4.png",
+      "Hash": "8b34ed4e64ba1b955f53ca3922e1a910",
+      "Size": 3769
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_4.5.png",
+      "Hash": "9a0c109c0225d2417ed85b4bc5c99f69",
+      "Size": 3730
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_5.1.png",
+      "Hash": "5adf658f872eb5f286a0eae75b37ce75",
+      "Size": 5012
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_5.2.png",
+      "Hash": "3d124533b6d660730317e3ebfaf2a7cb",
+      "Size": 5045
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_5.3.png",
+      "Hash": "abec2d94521eeb9393c6a36c1f26e7f7",
+      "Size": 4976
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Female_5.4.png",
+      "Hash": "dd39e614e8c2414e9ee5c5b8c6b67b2b",
+      "Size": 4991
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_1.1.png",
+      "Hash": "f2b27efc0e1d8dc2be0df378fab1ab20",
+      "Size": 3586
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_1.2.png",
+      "Hash": "8ab039e610200a0404c7a7c2795a261f",
+      "Size": 3592
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_1.3.png",
+      "Hash": "8e310a409b434c035264cf33e26966c8",
+      "Size": 3591
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_1.4.png",
+      "Hash": "0e70e71a8173638386dad133b8c08f92",
+      "Size": 3586
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_1.5.png",
+      "Hash": "ac3056928c236bbc46a17fcdd0319d4c",
+      "Size": 3568
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_2.1.png",
+      "Hash": "0988e16cdd64fee8552708107c09c456",
+      "Size": 4623
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_2.2.png",
+      "Hash": "f4c9d7d9e9e922ce188c80f42ebf47e9",
+      "Size": 4981
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_2.3.png",
+      "Hash": "9ac3798b133d0ff81f5989d0ddcb4a46",
+      "Size": 4809
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_2.4.png",
+      "Hash": "c0bb0e1046dfaa7a4355a74c8a4725e4",
+      "Size": 4815
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_2.5.png",
+      "Hash": "3d72ffc7fc3c3145b8eaaf0bd1ea1e79",
+      "Size": 4074
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_2.6.png",
+      "Hash": "ee079ded81b0ec34da67b1587f69374f",
+      "Size": 4858
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_2.7.png",
+      "Hash": "341c01daa5c6d573c940ff827d691cce",
+      "Size": 4850
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_2.8.png",
+      "Hash": "126b5ad2836c98d1d1c4873eff9d3208",
+      "Size": 4759
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_3.1.png",
+      "Hash": "4e0ca06cfc613afc87654d33c626e479",
+      "Size": 3137
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_3.2.png",
+      "Hash": "cdc53fa95f8ae9edf03decb15fc2c88d",
+      "Size": 3142
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_3.3.png",
+      "Hash": "cde067151bc5658da8882183d51aa4d5",
+      "Size": 3142
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_3.4.png",
+      "Hash": "d0edd582114e9fcfbcdd1b3fe47866b5",
+      "Size": 3154
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_3.5.png",
+      "Hash": "33d8974be0ca8ad2066e974133f23736",
+      "Size": 3154
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_4.1.png",
+      "Hash": "6a186c3a3209389fa51748f5d26ac0f9",
+      "Size": 3288
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_4.2.png",
+      "Hash": "ab33800bd3fb99a8c9b1080bba120e3d",
+      "Size": 3250
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_4.3.png",
+      "Hash": "c7414c6741beca1e701498ac2f9c6ea0",
+      "Size": 3275
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_4.4.png",
+      "Hash": "adfee932dbf4d36f8fe8e9ce9474cf8f",
+      "Size": 3262
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_4.5.png",
+      "Hash": "ebe4c76facc5b36d188222274095e0bf",
+      "Size": 3262
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_5.1.png",
+      "Hash": "294047e823ae2cebe79fccf30c8b0e66",
+      "Size": 4080
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_5.2.png",
+      "Hash": "8de9da4aae05dee2d9648dd548cd6f3b",
+      "Size": 4072
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_5.3.png",
+      "Hash": "d39db97d667290bcf6b04c787738d574",
+      "Size": 4056
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_5.4.png",
+      "Hash": "a519b68081c0034b65b544f26abe160a",
+      "Size": 4055
+    },
+    {
+      "Path": "resources/paperdolls/Clothing_Male_5.5.png",
+      "Hash": "d6ed70cce302071dea6f57c606932e9e",
+      "Size": 3975
     },
     {
       "Path": "resources/paperdolls/Lacerta F.png",
