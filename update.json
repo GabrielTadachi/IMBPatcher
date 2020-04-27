@@ -3343,6 +3343,16 @@
       "Size": 3666
     },
     {
+      "Path": "resources/items/Bilhete-trem.png",
+      "Hash": "99ede261cf1cfd9929ebd5e49c777af9",
+      "Size": 2558
+    },
+    {
+      "Path": "resources/items/Carta.png",
+      "Hash": "1821e67412372978e86d0a6da238cf07",
+      "Size": 2910
+    },
+    {
       "Path": "resources/items/chapeu1.png",
       "Hash": "cf243d6afbae547a12757350baf62220",
       "Size": 671
@@ -8138,6 +8148,36 @@
       "Size": 583
     },
     {
+      "Path": "resources/items/Papel1.png",
+      "Hash": "c3a5bf2c9111d862bf822ad7191f2856",
+      "Size": 1312
+    },
+    {
+      "Path": "resources/items/Papel2.png",
+      "Hash": "8130ab876bd46a06011bb912f2fd6cfe",
+      "Size": 1754
+    },
+    {
+      "Path": "resources/items/Papel3.png",
+      "Hash": "ec9400dad1e5299022fadb7734f37d07",
+      "Size": 1987
+    },
+    {
+      "Path": "resources/items/Pergaminho.png",
+      "Hash": "3981dfc89bdbae1d01794daf4b6f6994",
+      "Size": 2325
+    },
+    {
+      "Path": "resources/items/Pergaminho2.png",
+      "Hash": "8e6e8195eb8e90661af1583b57e6b5b9",
+      "Size": 1819
+    },
+    {
+      "Path": "resources/items/Pergaminho3.png",
+      "Hash": "23a2d9e3b57f9c42f0d4c66fa34207f2",
+      "Size": 1490
+    },
+    {
       "Path": "resources/items/SignatusF.png",
       "Hash": "0c7f7f13c2736facdb4d183c7d754985",
       "Size": 573
@@ -8146,6 +8186,11 @@
       "Path": "resources/items/SignatusM.png",
       "Hash": "07e43a6707f1c0d1e6b1a5ee13423e1f",
       "Size": 623
+    },
+    {
+      "Path": "resources/items/Telescopio.png",
+      "Hash": "3ef9c0d8dea5c1ecb889e9977ed59856",
+      "Size": 3392
     },
     {
       "Path": "resources/items/Varinha1.1.png",
@@ -10398,6 +10443,16 @@
       "Size": 721004
     },
     {
+      "Path": "resources/tilesets/exterior.png",
+      "Hash": "f79cdb54eb17395ed8dd2dcfd1920c3e",
+      "Size": 1299648
+    },
+    {
+      "Path": "resources/tilesets/feira.png",
+      "Hash": "1a9dcafcc62cc682fe1808d8a7760521",
+      "Size": 1211699
+    },
+    {
       "Path": "resources/tilesets/Inside_A1.png",
       "Hash": "c6e60e1177cd01e4b2fc5b90e545cc77",
       "Size": 521531
@@ -10428,9 +10483,19 @@
       "Size": 393037
     },
     {
+      "Path": "resources/tilesets/interior.png",
+      "Hash": "f6b6b461d594f0be3a7a5cfdacc7ab85",
+      "Size": 1144295
+    },
+    {
       "Path": "resources/tilesets/Kadokawa-Enterbrain_Gothic.png",
       "Hash": "e332baa46df45449c6d4793af2bb83fb",
       "Size": 549591
+    },
+    {
+      "Path": "resources/tilesets/medievalhouses_1.png",
+      "Hash": "b4813198a67b1f347d4567cc9175f033",
+      "Size": 890191
     },
     {
       "Path": "resources/tilesets/Moveis.png",
