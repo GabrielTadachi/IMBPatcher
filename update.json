@@ -8178,6 +8178,121 @@
       "Size": 1490
     },
     {
+      "Path": "resources/items/Roupa-1.1.png",
+      "Hash": "fd26b3efb8df8f8b161f1975d93cd1bf",
+      "Size": 499
+    },
+    {
+      "Path": "resources/items/Roupa-1.2.png",
+      "Hash": "5645d40722597e7c24823fcdc36a974b",
+      "Size": 498
+    },
+    {
+      "Path": "resources/items/Roupa-1.3.png",
+      "Hash": "61afbca7efb90e459503b6456749da86",
+      "Size": 501
+    },
+    {
+      "Path": "resources/items/Roupa-1.4.png",
+      "Hash": "fbce15e4c4d6ff4b0dcfcb3f19094b8e",
+      "Size": 498
+    },
+    {
+      "Path": "resources/items/Roupa-1.5.png",
+      "Hash": "510178cbc526ee85130a458931dd7fb0",
+      "Size": 484
+    },
+    {
+      "Path": "resources/items/Roupa-2.1.png",
+      "Hash": "dceff332a2a08c9da2f0905f589aa1b1",
+      "Size": 530
+    },
+    {
+      "Path": "resources/items/Roupa-2.2.png",
+      "Hash": "315284a977806a93d9abba87faf4d35f",
+      "Size": 571
+    },
+    {
+      "Path": "resources/items/Roupa-2.3.png",
+      "Hash": "d398fc18e368a82a6ec2ee37d3cef7df",
+      "Size": 553
+    },
+    {
+      "Path": "resources/items/Roupa-2.4.png",
+      "Hash": "466c8b64a5788aa87ba97b1077108dc5",
+      "Size": 561
+    },
+    {
+      "Path": "resources/items/Roupa-2.5.png",
+      "Hash": "d8807007783bbb5ba96c3f80249941f0",
+      "Size": 556
+    },
+    {
+      "Path": "resources/items/Roupa-2.6.png",
+      "Hash": "cf6c9e9cca450ca1ca39866a18a86053",
+      "Size": 568
+    },
+    {
+      "Path": "resources/items/Roupa-2.7.png",
+      "Hash": "17907a11dd796c3d53c17f99f0f385a1",
+      "Size": 564
+    },
+    {
+      "Path": "resources/items/Roupa-2.8.png",
+      "Hash": "d8b2ad2b11d7ea51507b24ed6f02e9b7",
+      "Size": 554
+    },
+    {
+      "Path": "resources/items/Roupa-3.1.png",
+      "Hash": "4598f797356394e81fa07933c1e5ef6c",
+      "Size": 418
+    },
+    {
+      "Path": "resources/items/Roupa-3.2.png",
+      "Hash": "4a9dff5d1a903b3be914990c85f0177f",
+      "Size": 421
+    },
+    {
+      "Path": "resources/items/Roupa-3.3.png",
+      "Hash": "64c9352f64d112fc643c78d88819fd9d",
+      "Size": 421
+    },
+    {
+      "Path": "resources/items/Roupa-3.4.png",
+      "Hash": "0be96fde193d6ed4bdd73ace3af7e778",
+      "Size": 423
+    },
+    {
+      "Path": "resources/items/Roupa-3.5.png",
+      "Hash": "95cb7c6ae84a11cb359593d09161fbd7",
+      "Size": 421
+    },
+    {
+      "Path": "resources/items/Roupa4.1.png",
+      "Hash": "a615c8d3908427dfde088aa0cec0226e",
+      "Size": 516
+    },
+    {
+      "Path": "resources/items/Roupa4.2.png",
+      "Hash": "c092c11b6852880ce632dec9df16035a",
+      "Size": 508
+    },
+    {
+      "Path": "resources/items/Roupa4.3.png",
+      "Hash": "8aa73a6acb70b4ac1d2fd6639bb9faf3",
+      "Size": 513
+    },
+    {
+      "Path": "resources/items/Roupa4.4.png",
+      "Hash": "4a0bb85fb8c85e5465564aa45aa405bb",
+      "Size": 508
+    },
+    {
+      "Path": "resources/items/Roupa4.5.png",
+      "Hash": "6f4b1584bea266fcaa9dd2e61baffd1f",
+      "Size": 509
+    },
+    {
       "Path": "resources/items/SignatusF.png",
       "Hash": "0c7f7f13c2736facdb4d183c7d754985",
       "Size": 573
@@ -8191,6 +8306,31 @@
       "Path": "resources/items/Telescopio.png",
       "Hash": "3ef9c0d8dea5c1ecb889e9977ed59856",
       "Size": 3392
+    },
+    {
+      "Path": "resources/items/Traje-a-rigor-1.1.png",
+      "Hash": "c75c1b07d41ef036ed6306fc818eaf06",
+      "Size": 545
+    },
+    {
+      "Path": "resources/items/Traje-a-rigor-1.2.png",
+      "Hash": "48c44bfe763c21509b000f982ac55543",
+      "Size": 577
+    },
+    {
+      "Path": "resources/items/Traje-a-rigor-1.3.png",
+      "Hash": "87d3d0a2cf7bb6c1db6cda12fcc78da9",
+      "Size": 567
+    },
+    {
+      "Path": "resources/items/Traje-a-rigor-1.4.png",
+      "Hash": "f5206289343529b0b8261810d0fe120d",
+      "Size": 574
+    },
+    {
+      "Path": "resources/items/Traje-a-rigor-1.5.png",
+      "Hash": "41bb69f170db5f5b137633e837eaf6ba",
+      "Size": 584
     },
     {
       "Path": "resources/items/Varinha1.1.png",
