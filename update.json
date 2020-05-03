@@ -718,6 +718,11 @@
       "Size": 944586
     },
     {
+      "Path": "resources/entities/0qUvSri.png",
+      "Hash": "0f7d680c46b300b788b55a16e2bf8b74",
+      "Size": 2277
+    },
+    {
       "Path": "resources/entities/Acromantula.png",
       "Hash": "933f95e032507c4f52ac13e6c7925179",
       "Size": 7182
@@ -726,6 +731,11 @@
       "Path": "resources/entities/Agatha.png",
       "Hash": "381ed460c1b98ec13b9b32dc36d20a1e",
       "Size": 9524
+    },
+    {
+      "Path": "resources/entities/AJvljOG.png",
+      "Hash": "5ef33b93e67f34d10cc815927ab9ac00",
+      "Size": 3957
     },
     {
       "Path": "resources/entities/Aluna1.png",
@@ -988,6 +998,11 @@
       "Size": 8484
     },
     {
+      "Path": "resources/entities/bVWJTcc.png",
+      "Hash": "8a3b686b5d498bbc8f0b2d00e19f6dd2",
+      "Size": 7641
+    },
+    {
       "Path": "resources/entities/Click.png",
       "Hash": "a937d5612a938681dc0be008aba0d868",
       "Size": 9813
@@ -1001,6 +1016,11 @@
       "Path": "resources/entities/Crup.png",
       "Hash": "37b57f09c3905453c7babe751634908c",
       "Size": 4890
+    },
+    {
+      "Path": "resources/entities/d2Uw9Pn.png",
+      "Hash": "0961663c49de909a9f322d43fdd125fa",
+      "Size": 4487
     },
     {
       "Path": "resources/entities/Delfina.png",
@@ -1043,6 +1063,16 @@
       "Size": 6962
     },
     {
+      "Path": "resources/entities/gLwpzAp.png",
+      "Hash": "c4fb010d2627c445f05b8802174d5866",
+      "Size": 3589
+    },
+    {
+      "Path": "resources/entities/H0sZCKi.png",
+      "Hash": "f50ca51737fedf42c655bcc822751c96",
+      "Size": 7278
+    },
+    {
       "Path": "resources/entities/Hipogrifo.png",
       "Hash": "d80b2acafc5092c18bdd80f3188eb9bc",
       "Size": 9770
@@ -1076,6 +1106,16 @@
       "Path": "resources/entities/Horklump.png",
       "Hash": "232067024df2c8ed757a2b4148abd7b8",
       "Size": 6380
+    },
+    {
+      "Path": "resources/entities/jODGJn4.png",
+      "Hash": "c5c22e6fff9745d94953e5b923184135",
+      "Size": 8924
+    },
+    {
+      "Path": "resources/entities/KhXD3fq.png",
+      "Hash": "74a1c41a1328ad2df3e35620777726c6",
+      "Size": 3541
     },
     {
       "Path": "resources/entities/Kid01.png",
@@ -1223,6 +1263,11 @@
       "Size": 8755
     },
     {
+      "Path": "resources/entities/Lady.png",
+      "Hash": "f4a6d0a2f581bb441717fd9779a6e28e",
+      "Size": 8193
+    },
+    {
       "Path": "resources/entities/Lily.png",
       "Hash": "4d9e7ffa134ee9f7736df7ca3831a0ab",
       "Size": 9184
@@ -1283,9 +1328,19 @@
       "Size": 10708
     },
     {
+      "Path": "resources/entities/monster books.png",
+      "Hash": "3173fd7845515a12c05df3edd7c162a3",
+      "Size": 3694
+    },
+    {
       "Path": "resources/entities/Morcego.png",
       "Hash": "36201c182f42f07ec150193d5f1592bb",
       "Size": 4570
+    },
+    {
+      "Path": "resources/entities/mQIpxHT.png",
+      "Hash": "6f6004117d6320ca72111cad4280c1db",
+      "Size": 3678
     },
     {
       "Path": "resources/entities/Muggle1.png",
@@ -1453,6 +1508,16 @@
       "Size": 5692
     },
     {
+      "Path": "resources/entities/mWfj5g5.png",
+      "Hash": "b610e5dc168765912176906e02a37dbe",
+      "Size": 1594
+    },
+    {
+      "Path": "resources/entities/O8lS045.png",
+      "Hash": "18180996370d98c1799353c0806bc9c8",
+      "Size": 5601
+    },
+    {
       "Path": "resources/entities/Owl.png",
       "Hash": "0f7d680c46b300b788b55a16e2bf8b74",
       "Size": 2277
@@ -1568,6 +1633,11 @@
       "Size": 8666
     },
     {
+      "Path": "resources/entities/UTEnYye.png",
+      "Hash": "2497988c0a503d56c6357e532d016025",
+      "Size": 5813
+    },
+    {
       "Path": "resources/entities/v5xz3pi7.png",
       "Hash": "69719b311d1175b142b2d890f7a3bd65",
       "Size": 8219
@@ -1586,6 +1656,16 @@
       "Path": "resources/entities/Winged Horse.png",
       "Hash": "c7b779be89961336131f493985aab56c",
       "Size": 10834
+    },
+    {
+      "Path": "resources/entities/wk6kC6F.png",
+      "Hash": "812e04ef7ad703856bd2a75bcdfbf620",
+      "Size": 6067
+    },
+    {
+      "Path": "resources/entities/WYx15RV.png",
+      "Hash": "1bdebca1cf88440c281d6e712a9055e3",
+      "Size": 4181
     },
     {
       "Path": "resources/faces/Agatha.png",
@@ -1646,6 +1726,11 @@
       "Path": "resources/faces/Holkins.png",
       "Hash": "9a676194443a003092584a901b2971f5",
       "Size": 40301
+    },
+    {
+      "Path": "resources/faces/Lady1.png",
+      "Hash": "7983ff9cd5bf8f9def5bd6165de7afd6",
+      "Size": 24944
     },
     {
       "Path": "resources/faces/Lily2.png",
@@ -2779,7 +2864,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "c176083b0b702e8cdb448e6ae78c0268",
+      "Hash": "27925382ed1816e0db4f939c86f3652f",
       "Size": 24309
     },
     {
