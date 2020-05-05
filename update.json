@@ -10598,6 +10598,21 @@
       "Size": 5777
     },
     {
+      "Path": "resources/tilesets/172-1724320_-img-rpg-maker-mv-house-tileset-hd.png.jpg",
+      "Hash": "73751028e72a3cc8259f9066b9cad481",
+      "Size": 473081
+    },
+    {
+      "Path": "resources/tilesets/6e4ca76b9362911e798265e8568a4dd7a9933a8e.png",
+      "Hash": "f0dfbca12e643cfe04ba2005e7881c05",
+      "Size": 344617
+    },
+    {
+      "Path": "resources/tilesets/adc9b38cfd6dd91d0ce574ad428444c667ed6857.png",
+      "Hash": "7a75370518f08532b924b698f732c816",
+      "Size": 128827
+    },
+    {
       "Path": "resources/tilesets/Brasoes.png",
       "Hash": "b7ae428f35ffa066681fd87f72704a3e",
       "Size": 256960
@@ -10608,9 +10623,19 @@
       "Size": 88753
     },
     {
+      "Path": "resources/tilesets/celianna_castles.png",
+      "Hash": "231599994521688b673d19e1f7b834fc",
+      "Size": 640382
+    },
+    {
       "Path": "resources/tilesets/celianna_farmnature_farmtiles.png",
       "Hash": "aafc2b6f786b8883914318114ac37cf8",
       "Size": 1701733
+    },
+    {
+      "Path": "resources/tilesets/celianna_manatreehouse.png",
+      "Hash": "a332e0e4258a77defb41c7a0b60bfef6",
+      "Size": 809774
     },
     {
       "Path": "resources/tilesets/Celianna_Nature.png",
@@ -10651,6 +10676,11 @@
       "Path": "resources/tilesets/Dungeon_C.png",
       "Hash": "05c4318bf5cb9ec7458378fa3394d59d",
       "Size": 649991
+    },
+    {
+      "Path": "resources/tilesets/escola.png",
+      "Hash": "df4b754b09c36b8b5ad8b43617fb8b2b",
+      "Size": 289948
     },
     {
       "Path": "resources/tilesets/Expresso.png",
@@ -10738,6 +10768,11 @@
       "Size": 1032858
     },
     {
+      "Path": "resources/tilesets/oaz5u3y9.png",
+      "Hash": "a0e7909cf5f2d1b33ca445f4231a40cb",
+      "Size": 36688
+    },
+    {
       "Path": "resources/tilesets/Outside_A1.png",
       "Hash": "4a85cd734e8d7e0b835b6c08b41d2bea",
       "Size": 444078
@@ -10781,6 +10816,36 @@
       "Path": "resources/tilesets/Pandamaru_Arvores_2.png",
       "Hash": "97933455c728f5bc82430fc289b39bb1",
       "Size": 972536
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_cottage.png",
+      "Hash": "3be6a6add0012c6d394bdeaacd997b39",
+      "Size": 208341
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_market1.png",
+      "Hash": "b4826ee859988e4e02285dae95a554ea",
+      "Size": 498413
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_nobleinterior.png",
+      "Hash": "407a90fb5f4c5d718b636bed5b654959",
+      "Size": 603162
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_windmill.png",
+      "Hash": "10b852d86ec16a1f3667a68ab3bba824",
+      "Size": 171378
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_xmasdecoration.png",
+      "Hash": "d0be16debb6afb293e0e46de1db254dd",
+      "Size": 624917
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_xmasmarket.png",
+      "Hash": "d9959a48a17c7b46806057f8d5c49a4f",
+      "Size": 450504
     },
     {
       "Path": "resources/tilesets/Paredes.png",
@@ -10828,9 +10893,44 @@
       "Size": 74698
     },
     {
+      "Path": "resources/tilesets/Porta4.png",
+      "Hash": "688e7eea9f2efb1d41c8efc213a93e51",
+      "Size": 452525
+    },
+    {
+      "Path": "resources/tilesets/Porta5.png",
+      "Hash": "12f33aa4110fd37b6801d0f6801c5a5f",
+      "Size": 281061
+    },
+    {
+      "Path": "resources/tilesets/Porta6.png",
+      "Hash": "0dd6c21f5584b0b7db14b8fc18df45d7",
+      "Size": 278514
+    },
+    {
+      "Path": "resources/tilesets/Porta7.png",
+      "Hash": "94618625c1f0b4ea2d99848e03c8fe96",
+      "Size": 346709
+    },
+    {
+      "Path": "resources/tilesets/Porta8.png",
+      "Hash": "c3040b0b89a6b13cba775d1d9a8c26b6",
+      "Size": 404988
+    },
+    {
+      "Path": "resources/tilesets/Porta9.png",
+      "Hash": "0b691e276c31e438025c2937b3287d07",
+      "Size": 92306
+    },
+    {
       "Path": "resources/tilesets/Porta_Expresso.png",
       "Hash": "5126cc6433f20bd6085c516e3bda0a0a",
       "Size": 142778
+    },
+    {
+      "Path": "resources/tilesets/rpg_maker__grass__flowers_and_windows_tileset_by_xxjapozeroxx-dbpxkvy.png",
+      "Hash": "1c275ea16bfdc215630fd5f36979b2e2",
+      "Size": 268349
     },
     {
       "Path": "resources/tilesets/SF_Inside_A4.png",
