@@ -10598,21 +10598,6 @@
       "Size": 5777
     },
     {
-      "Path": "resources/tilesets/172-1724320_-img-rpg-maker-mv-house-tileset-hd.png.jpg",
-      "Hash": "73751028e72a3cc8259f9066b9cad481",
-      "Size": 473081
-    },
-    {
-      "Path": "resources/tilesets/6e4ca76b9362911e798265e8568a4dd7a9933a8e.png",
-      "Hash": "f0dfbca12e643cfe04ba2005e7881c05",
-      "Size": 344617
-    },
-    {
-      "Path": "resources/tilesets/adc9b38cfd6dd91d0ce574ad428444c667ed6857.png",
-      "Hash": "7a75370518f08532b924b698f732c816",
-      "Size": 128827
-    },
-    {
       "Path": "resources/tilesets/Brasoes.png",
       "Hash": "b7ae428f35ffa066681fd87f72704a3e",
       "Size": 256960
@@ -10621,6 +10606,11 @@
       "Path": "resources/tilesets/Caldeirao.png",
       "Hash": "8347d57d4795226bb12df6520dea66a8",
       "Size": 88753
+    },
+    {
+      "Path": "resources/tilesets/casas.jpg",
+      "Hash": "73751028e72a3cc8259f9066b9cad481",
+      "Size": 473081
     },
     {
       "Path": "resources/tilesets/celianna_castles.png",
@@ -10706,6 +10696,16 @@
       "Path": "resources/tilesets/feira.png",
       "Hash": "1a9dcafcc62cc682fe1808d8a7760521",
       "Size": 1211699
+    },
+    {
+      "Path": "resources/tilesets/gelo1.png",
+      "Hash": "f0dfbca12e643cfe04ba2005e7881c05",
+      "Size": 344617
+    },
+    {
+      "Path": "resources/tilesets/gelo2.png",
+      "Hash": "7a75370518f08532b924b698f732c816",
+      "Size": 128827
     },
     {
       "Path": "resources/tilesets/harvest_market1_Candacis.png",
@@ -10914,13 +10914,13 @@
     },
     {
       "Path": "resources/tilesets/Porta8.png",
-      "Hash": "c3040b0b89a6b13cba775d1d9a8c26b6",
-      "Size": 404988
+      "Hash": "721daf142191308d36c29ea5909dcb88",
+      "Size": 391812
     },
     {
       "Path": "resources/tilesets/Porta9.png",
-      "Hash": "0b691e276c31e438025c2937b3287d07",
-      "Size": 92306
+      "Hash": "c45204cc3ba6742e79bf4169e5c283ed",
+      "Size": 63805
     },
     {
       "Path": "resources/tilesets/Porta_Expresso.png",
