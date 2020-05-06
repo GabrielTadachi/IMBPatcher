@@ -10598,6 +10598,11 @@
       "Size": 5777
     },
     {
+      "Path": "resources/tilesets/bancos jardim.png",
+      "Hash": "aff3f789241bd01189e3280a1a753320",
+      "Size": 100630
+    },
+    {
       "Path": "resources/tilesets/Brasoes.png",
       "Hash": "b7ae428f35ffa066681fd87f72704a3e",
       "Size": 256960
@@ -10706,6 +10711,11 @@
       "Path": "resources/tilesets/gelo2.png",
       "Hash": "7a75370518f08532b924b698f732c816",
       "Size": 128827
+    },
+    {
+      "Path": "resources/tilesets/hanzo town.png",
+      "Hash": "7ea82885a03050d8aba485e974311595",
+      "Size": 974678
     },
     {
       "Path": "resources/tilesets/harvest_market1_Candacis.png",
@@ -10878,6 +10888,11 @@
       "Size": 28188
     },
     {
+      "Path": "resources/tilesets/plantas.png",
+      "Hash": "55f2e970e03160dd5c6fa292ec085002",
+      "Size": 1658620
+    },
+    {
       "Path": "resources/tilesets/Porta1.png",
       "Hash": "180d6baaacb4f1c566b8b6c784a8e91a",
       "Size": 171119
@@ -10913,19 +10928,19 @@
       "Size": 346709
     },
     {
-      "Path": "resources/tilesets/Porta8.png",
-      "Hash": "721daf142191308d36c29ea5909dcb88",
-      "Size": 391812
-    },
-    {
-      "Path": "resources/tilesets/Porta9.png",
-      "Hash": "c45204cc3ba6742e79bf4169e5c283ed",
-      "Size": 63805
-    },
-    {
       "Path": "resources/tilesets/Porta_Expresso.png",
       "Hash": "5126cc6433f20bd6085c516e3bda0a0a",
       "Size": 142778
+    },
+    {
+      "Path": "resources/tilesets/Quadros 1.png",
+      "Hash": "e178f3ecf33ec7abc27ba9d9807167de",
+      "Size": 101414
+    },
+    {
+      "Path": "resources/tilesets/quadros 2.png",
+      "Hash": "f2961a50b4110cabf3b3df2a1fa40876",
+      "Size": 332109
     },
     {
       "Path": "resources/tilesets/rpg_maker__grass__flowers_and_windows_tileset_by_xxjapozeroxx-dbpxkvy.png",
@@ -10971,6 +10986,11 @@
       "Path": "resources/tilesets/SF_Outside_C.png",
       "Hash": "6d8288eef2b0c529baa04f22a136fdcf",
       "Size": 953063
+    },
+    {
+      "Path": "resources/tilesets/sofas cores.png",
+      "Hash": "8a41cace22e0061b6ca80687591b369b",
+      "Size": 293559
     },
     {
       "Path": "resources/tilesets/Sofas.png",
