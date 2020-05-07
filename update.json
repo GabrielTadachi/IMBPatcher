@@ -10598,6 +10598,16 @@
       "Size": 5777
     },
     {
+      "Path": "resources/tilesets/Arvores.png",
+      "Hash": "25fc537c392f4afa6e25fd60fdc0cf05",
+      "Size": 753380
+    },
+    {
+      "Path": "resources/tilesets/Arvores2.png",
+      "Hash": "c0990c4b3839d385fc5a08366a33f8f1",
+      "Size": 23475
+    },
+    {
       "Path": "resources/tilesets/bancos jardim.png",
       "Hash": "aff3f789241bd01189e3280a1a753320",
       "Size": 100630
@@ -10616,6 +10626,11 @@
       "Path": "resources/tilesets/casas.jpg",
       "Hash": "73751028e72a3cc8259f9066b9cad481",
       "Size": 473081
+    },
+    {
+      "Path": "resources/tilesets/CasteloTorre.png",
+      "Hash": "3e45d77931b08d27248b18b99ba86155",
+      "Size": 248068
     },
     {
       "Path": "resources/tilesets/celianna_castles.png",
@@ -10671,6 +10686,11 @@
       "Path": "resources/tilesets/Dungeon_C.png",
       "Hash": "05c4318bf5cb9ec7458378fa3394d59d",
       "Size": 649991
+    },
+    {
+      "Path": "resources/tilesets/Escadas.png",
+      "Hash": "9306302044ce3a88b5f4bbec9c26125c",
+      "Size": 217632
     },
     {
       "Path": "resources/tilesets/escola.png",
@@ -10771,6 +10791,11 @@
       "Path": "resources/tilesets/luzes2.png",
       "Hash": "42dfbd9c5a012f09a8360b749d00d6fe",
       "Size": 86396
+    },
+    {
+      "Path": "resources/tilesets/Mansao.png",
+      "Hash": "001b428af172ae8767c108a347ad2f82",
+      "Size": 421894
     },
     {
       "Path": "resources/tilesets/medievalhouses_1.png",
@@ -10896,6 +10921,11 @@
       "Path": "resources/tilesets/Paredes6.png",
       "Hash": "418091864d207f705d05b901fc0fd13f",
       "Size": 28188
+    },
+    {
+      "Path": "resources/tilesets/Paredes7.png",
+      "Hash": "37ca2177b4e66ffc035ace1b3372e585",
+      "Size": 57097
     },
     {
       "Path": "resources/tilesets/plantas.png",
@@ -11026,6 +11056,11 @@
       "Path": "resources/tilesets/Telhas2.png",
       "Hash": "28928cc6873b29d637a8846932c7d658",
       "Size": 370884
+    },
+    {
+      "Path": "resources/tilesets/Terras.png",
+      "Hash": "1c03bbd8b9bd6a4ef688b99fb4a29274",
+      "Size": 216565
     },
     {
       "Path": "resources/tilesets/trem.png",
