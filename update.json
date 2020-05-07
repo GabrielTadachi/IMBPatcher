@@ -10763,6 +10763,16 @@
       "Size": 549591
     },
     {
+      "Path": "resources/tilesets/luzes.png",
+      "Hash": "fd6c8e34d76eb0d4732217c6f352d8d6",
+      "Size": 106704
+    },
+    {
+      "Path": "resources/tilesets/luzes2.png",
+      "Hash": "42dfbd9c5a012f09a8360b749d00d6fe",
+      "Size": 86396
+    },
+    {
       "Path": "resources/tilesets/medievalhouses_1.png",
       "Hash": "b4813198a67b1f347d4567cc9175f033",
       "Size": 890191
