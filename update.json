@@ -10708,6 +10708,16 @@
       "Size": 220049
     },
     {
+      "Path": "resources/tilesets/estufas2.png",
+      "Hash": "55c66323866177192adbb6e8640a481b",
+      "Size": 633578
+    },
+    {
+      "Path": "resources/tilesets/estufas3.png",
+      "Hash": "c05567b3401462ee267f73a3596cc03b",
+      "Size": 1200883
+    },
+    {
       "Path": "resources/tilesets/Expresso.png",
       "Hash": "380c46e411013de2553312152bc88bae",
       "Size": 721004
