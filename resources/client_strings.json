@@ -44,7 +44,7 @@
   "Bank": {
     "deposititem": "Depositar Item",
     "deposititemprompt": "Quantos {00} você gostaria de depositar?",
-    "title": "Baú",
+    "title": "Cofre",
     "withdrawitem": "Retirar Item",
     "withdrawitemprompt": "Quantos {00} você gostaria de retirar?"
   },
@@ -768,13 +768,13 @@
     "comma": ","
   },
   "Update": {
-    "checking": "Checking for updates, please wait!",
-    "updating": "Downloading updates, please wait!",
-    "restart": "Update complete! Relaunch {00} to play!",
-    "done": "Update complete! Launching game!",
-    "error": "Update Error! Check logs for more info!",
-    "files": "{00} Files Remaining",
-    "size": "{00} Left",
+    "checking": "Procurando Atualizações!",
+    "updating": "Baixando Atualizações!",
+    "restart": "Atualização completa! Reabra {00} para jogar!",
+    "done": "Atualização completa! Abrindo jogo!",
+    "error": "Erro na Atualização! Verifique logs para mais informações!",
+    "files": "{00} Arquivos Restantes",
+    "size": "{00} Restante",
     "percent": "{00}%"
   }
 }

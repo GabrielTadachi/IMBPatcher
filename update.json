@@ -24,8 +24,8 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "200a29a6eb472068c58cbbdf409e2486",
-      "Size": 23965
+      "Hash": "b3a40ccf6f30ebc801bf1afa6b7936fc",
+      "Size": 23992
     },
     {
       "Path": "resources/config.json",
@@ -2849,7 +2849,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "27925382ed1816e0db4f939c86f3652f",
+      "Hash": "6aeeeeba1f402430097f896638c1c350",
       "Size": 24309
     },
     {
@@ -2894,8 +2894,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "fb3812d8a1f038dc17edb19e08be23e9",
-      "Size": 11357
+      "Hash": "4ae7f882f0a5ae2628babe852d8b370a",
+      "Size": 11358
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -2946,6 +2946,11 @@
       "Path": "resources/images/CloudySky2.png",
       "Hash": "b73abab4ae2a783401694f27217da322",
       "Size": 726223
+    },
+    {
+      "Path": "resources/images/Comboio.png",
+      "Hash": "ea3e0077f3110641a339b0d61bf2e775",
+      "Size": 1828733
     },
     {
       "Path": "resources/images/DarkSpace1.png",
@@ -10696,6 +10701,11 @@
       "Path": "resources/tilesets/escola.png",
       "Hash": "df4b754b09c36b8b5ad8b43617fb8b2b",
       "Size": 289948
+    },
+    {
+      "Path": "resources/tilesets/estufas1.png",
+      "Hash": "14dfce53e9ba6f09ca074d0162c75dd2",
+      "Size": 220049
     },
     {
       "Path": "resources/tilesets/Expresso.png",
