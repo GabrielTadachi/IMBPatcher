@@ -848,6 +848,11 @@
       "Size": 8014
     },
     {
+      "Path": "resources/entities/ana_granger.png",
+      "Hash": "3e056abbb51f9259cfef302723843883",
+      "Size": 11818
+    },
+    {
       "Path": "resources/entities/Antonieta.png",
       "Hash": "bcdefd8998e3a23d3d93b063aba9b71f",
       "Size": 9620
@@ -1048,6 +1053,11 @@
       "Size": 44938
     },
     {
+      "Path": "resources/entities/fernanda.png",
+      "Hash": "39a55ab3a6c154b15c4ba628dad66a09",
+      "Size": 14006
+    },
+    {
       "Path": "resources/entities/FivelaFilho.png",
       "Hash": "8a59c3d8bcfc575bdb39c55c9c285544",
       "Size": 8335
@@ -1071,6 +1081,11 @@
       "Path": "resources/entities/Gato.png",
       "Hash": "0961663c49de909a9f322d43fdd125fa",
       "Size": 4487
+    },
+    {
+      "Path": "resources/entities/hatake.png",
+      "Hash": "6b72005ae5d71740fa7bdbe415637ffd",
+      "Size": 12934
     },
     {
       "Path": "resources/entities/Hipogrifo.png",
@@ -1658,6 +1673,11 @@
       "Size": 43962
     },
     {
+      "Path": "resources/faces/anag.png",
+      "Hash": "ef6aae66c60ace3ea0b93090790eeabb",
+      "Size": 28514
+    },
+    {
       "Path": "resources/faces/antonieta.png",
       "Hash": "c09c835594573d107361aed9f84e4466",
       "Size": 56415
@@ -1693,6 +1713,11 @@
       "Size": 35313
     },
     {
+      "Path": "resources/faces/fernanda1.png",
+      "Hash": "7745659f8923139f0a9bf5cece13916e",
+      "Size": 32845
+    },
+    {
       "Path": "resources/faces/fivela-filho2.png",
       "Hash": "de922332cdd3603fe1f2296defaa1c5a",
       "Size": 43741
@@ -1706,6 +1731,11 @@
       "Path": "resources/faces/Floriano2.png",
       "Hash": "35999946092ade885f37ab7f85e36096",
       "Size": 35513
+    },
+    {
+      "Path": "resources/faces/hatake1_.png",
+      "Hash": "2cdea3297c17000defa04f41365309b5",
+      "Size": 33561
     },
     {
       "Path": "resources/faces/Holkins.png",
@@ -2849,8 +2879,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "6aeeeeba1f402430097f896638c1c350",
-      "Size": 24309
+      "Hash": "13e005c82aa120b6392c9b5329f659a8",
+      "Size": 24310
     },
     {
       "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
