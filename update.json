@@ -1658,6 +1658,11 @@
       "Size": 9427
     },
     {
+      "Path": "resources/entities/vany1.png",
+      "Hash": "3714d718384a61853ac585a0cccb019f",
+      "Size": 9274
+    },
+    {
       "Path": "resources/entities/VermeCego.png",
       "Hash": "0c7d49d56af6069cbdece8ea6d8f5c65",
       "Size": 3843
@@ -1796,6 +1801,11 @@
       "Path": "resources/faces/Valdez.png",
       "Hash": "bb0d1fe40112eef21d1532343c7a9251",
       "Size": 45545
+    },
+    {
+      "Path": "resources/faces/vany.png",
+      "Hash": "7d699b4507ba53d3f5db9c4bb3934c3e",
+      "Size": 44461
     },
     {
       "Path": "resources/fonts/sourcesansproblack_10.xnb",
@@ -10646,6 +10656,11 @@
       "Path": "resources/tilesets/bancos jardim.png",
       "Hash": "aff3f789241bd01189e3280a1a753320",
       "Size": 100630
+    },
+    {
+      "Path": "resources/tilesets/Bandeiras.png",
+      "Hash": "b9624326fa22fb577b0a5954addd0817",
+      "Size": 70047
     },
     {
       "Path": "resources/tilesets/Brasoes.png",
