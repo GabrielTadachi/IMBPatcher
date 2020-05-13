@@ -238,6 +238,11 @@
       "Size": 323754
     },
     {
+      "Path": "resources/animations/floo.png",
+      "Hash": "e6c1eaf918c2fae88eedf0e709b6a150",
+      "Size": 1454
+    },
+    {
       "Path": "resources/animations/Gun1.png",
       "Hash": "461da53afac0672b4e15698c136f17ac",
       "Size": 738400
@@ -2839,7 +2844,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "87e2752c3e264de63db91d48e647257c",
+      "Hash": "0c52dfbb90c67f3f2a5bb44bbf5f705c",
       "Size": 24139
     },
     {
@@ -2889,8 +2894,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "d714fd0e57c30ae57c5e4d24cfe1dc0e",
-      "Size": 24309
+      "Hash": "13e005c82aa120b6392c9b5329f659a8",
+      "Size": 24310
     },
     {
       "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
@@ -8638,6 +8643,11 @@
       "Size": 195
     },
     {
+      "Path": "resources/music/CasaAbandonada.ogg",
+      "Hash": "f6a7625ae8422dffca5e7992d5f08186",
+      "Size": 1745012
+    },
+    {
       "Path": "resources/music/LargoArruaceiro.ogg",
       "Hash": "6343303b39818f2852a1694efdce230d",
       "Size": 2502686
@@ -10866,6 +10876,11 @@
       "Path": "resources/tilesets/medievalhouses_1.png",
       "Hash": "b4813198a67b1f347d4567cc9175f033",
       "Size": 890191
+    },
+    {
+      "Path": "resources/tilesets/MesasSalao.png",
+      "Hash": "7197ffb86c3dcebdff31ba0e81511056",
+      "Size": 236504
     },
     {
       "Path": "resources/tilesets/Moveis.png",
