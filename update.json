@@ -723,129 +723,44 @@
       "Size": 7182
     },
     {
-      "Path": "resources/entities/Agatha.png",
-      "Hash": "381ed460c1b98ec13b9b32dc36d20a1e",
-      "Size": 9524
-    },
-    {
-      "Path": "resources/entities/Aluna1.png",
-      "Hash": "2b5838683d2123bc61c36e2cb0bd8ec1",
-      "Size": 9116
-    },
-    {
-      "Path": "resources/entities/Aluna2.png",
-      "Hash": "913947b2289406f8ec33c63ea5f8f7f1",
-      "Size": 8311
-    },
-    {
-      "Path": "resources/entities/Aluna3.png",
-      "Hash": "eee3b9780dd588232cf38c50b7337f93",
-      "Size": 8849
-    },
-    {
-      "Path": "resources/entities/AlunaLacerta1.png",
-      "Hash": "f4ed0b903c1ead69f3639516213891ac",
-      "Size": 10316
-    },
-    {
-      "Path": "resources/entities/AlunaLacerta2.png",
-      "Hash": "15e802565fa97435ec664c3b1470be45",
-      "Size": 9920
-    },
-    {
-      "Path": "resources/entities/AlunaLacerta3.png",
-      "Hash": "5ccbf5adb3f1c19c53dc551366545f1e",
-      "Size": 8791
-    },
-    {
-      "Path": "resources/entities/AlunaMartes1.png",
-      "Hash": "303a5b6e52a304410db4aa47c1c9c10c",
-      "Size": 7620
-    },
-    {
-      "Path": "resources/entities/AlunaMartes2.png",
-      "Hash": "b9923d7a3d4ed6a383a0324cd712b425",
-      "Size": 8791
-    },
-    {
-      "Path": "resources/entities/AlunaMartes3.png",
-      "Hash": "be77b73961e41e5fc5e3dd0c0d96257a",
-      "Size": 9412
-    },
-    {
-      "Path": "resources/entities/AlunaSignatus1.png",
-      "Hash": "69da09c01463de46f2787a0f9daf6e3d",
-      "Size": 8286
-    },
-    {
-      "Path": "resources/entities/AlunaSignatus2.png",
-      "Hash": "d7d78f8ae9fc71048fe3dc716b2bbfe6",
-      "Size": 8715
-    },
-    {
-      "Path": "resources/entities/AlunaSignatus3.png",
-      "Hash": "8f5ecd9c86c581e4a727e01f4bd90673",
-      "Size": 9705
-    },
-    {
-      "Path": "resources/entities/Aluno1.png",
-      "Hash": "180d3f6738ee1976b6fff5dbf394b59b",
-      "Size": 10051
-    },
-    {
-      "Path": "resources/entities/Aluno2.png",
-      "Hash": "40452c64344c3ebe26cc1b1eb3f41266",
-      "Size": 8988
-    },
-    {
-      "Path": "resources/entities/Aluno3.png",
+      "Path": "resources/entities/AmigoAfonso.png",
       "Hash": "f320bc0543793cad452cf0e4fa32beb6",
       "Size": 9786
     },
     {
-      "Path": "resources/entities/AlunoLacerta1.png",
-      "Hash": "bda9c1d2322974f07424bd590f9440d6",
-      "Size": 8335
+      "Path": "resources/entities/AmigoAgatha.png",
+      "Hash": "381ed460c1b98ec13b9b32dc36d20a1e",
+      "Size": 9524
     },
     {
-      "Path": "resources/entities/AlunoLacerta2.png",
-      "Hash": "904092fb24e9e844b73f44cbadd2c767",
-      "Size": 7655
+      "Path": "resources/entities/AmigoClara.png",
+      "Hash": "913947b2289406f8ec33c63ea5f8f7f1",
+      "Size": 8311
     },
     {
-      "Path": "resources/entities/AlunoLacerta3.png",
-      "Hash": "6b41d9878e13988015098df8c3f6646f",
-      "Size": 8904
+      "Path": "resources/entities/AmigoDaniela.png",
+      "Hash": "eee3b9780dd588232cf38c50b7337f93",
+      "Size": 8849
     },
     {
-      "Path": "resources/entities/AlunoMartes1.png",
-      "Hash": "15ef96bee960f2aa8cbf3fd0dd0fff8c",
-      "Size": 10512
+      "Path": "resources/entities/AmigoJaime.png",
+      "Hash": "40452c64344c3ebe26cc1b1eb3f41266",
+      "Size": 8988
     },
     {
-      "Path": "resources/entities/AlunoMartes2.png",
-      "Hash": "dcdae2fd9bdf958e848a215f27e33e13",
-      "Size": 9617
+      "Path": "resources/entities/AmigoRamicyele.png",
+      "Hash": "00cc54354d19c948b227e7b544e7c970",
+      "Size": 11439
     },
     {
-      "Path": "resources/entities/AlunoMartes3.png",
-      "Hash": "643a1d4417369ca9771604bee71c0449",
-      "Size": 10025
+      "Path": "resources/entities/AmigoSara.png",
+      "Hash": "2b5838683d2123bc61c36e2cb0bd8ec1",
+      "Size": 9116
     },
     {
-      "Path": "resources/entities/AlunoSignatus1.png",
-      "Hash": "716b204f1b136de0f03678b9a8379973",
-      "Size": 9328
-    },
-    {
-      "Path": "resources/entities/AlunoSignatus2.png",
-      "Hash": "05ef0d07dddb524d8a1d2a7ca7de0241",
-      "Size": 11779
-    },
-    {
-      "Path": "resources/entities/AlunoSignatus3.png",
-      "Hash": "c226f162c257a761f0af7df02d7dd0f1",
-      "Size": 8014
+      "Path": "resources/entities/AmigoThiago.png",
+      "Hash": "180d3f6738ee1976b6fff5dbf394b59b",
+      "Size": 10051
     },
     {
       "Path": "resources/entities/ana_granger.png",
@@ -1233,9 +1148,39 @@
       "Size": 6470
     },
     {
+      "Path": "resources/entities/Lacerta1.png",
+      "Hash": "f4ed0b903c1ead69f3639516213891ac",
+      "Size": 10316
+    },
+    {
       "Path": "resources/entities/Lacerta10.png",
       "Hash": "d375db5c58181bfcf1f71320456c55a3",
       "Size": 8271
+    },
+    {
+      "Path": "resources/entities/Lacerta11.png",
+      "Hash": "bda9c1d2322974f07424bd590f9440d6",
+      "Size": 8335
+    },
+    {
+      "Path": "resources/entities/Lacerta12.png",
+      "Hash": "904092fb24e9e844b73f44cbadd2c767",
+      "Size": 7655
+    },
+    {
+      "Path": "resources/entities/Lacerta13.png",
+      "Hash": "6b41d9878e13988015098df8c3f6646f",
+      "Size": 8904
+    },
+    {
+      "Path": "resources/entities/Lacerta2.png",
+      "Hash": "15e802565fa97435ec664c3b1470be45",
+      "Size": 9920
+    },
+    {
+      "Path": "resources/entities/Lacerta3.png",
+      "Hash": "5ccbf5adb3f1c19c53dc551366545f1e",
+      "Size": 8791
     },
     {
       "Path": "resources/entities/Lacerta4.png",
@@ -1293,9 +1238,39 @@
       "Size": 22627
     },
     {
+      "Path": "resources/entities/Martes1.png",
+      "Hash": "303a5b6e52a304410db4aa47c1c9c10c",
+      "Size": 7620
+    },
+    {
       "Path": "resources/entities/Martes10.png",
       "Hash": "4f69cb36078582ee5594de63c7424b13",
       "Size": 10004
+    },
+    {
+      "Path": "resources/entities/Martes11.png",
+      "Hash": "15ef96bee960f2aa8cbf3fd0dd0fff8c",
+      "Size": 10512
+    },
+    {
+      "Path": "resources/entities/Martes12.png",
+      "Hash": "dcdae2fd9bdf958e848a215f27e33e13",
+      "Size": 9617
+    },
+    {
+      "Path": "resources/entities/Martes13.png",
+      "Hash": "643a1d4417369ca9771604bee71c0449",
+      "Size": 10025
+    },
+    {
+      "Path": "resources/entities/Martes2.png",
+      "Hash": "b9923d7a3d4ed6a383a0324cd712b425",
+      "Size": 8791
+    },
+    {
+      "Path": "resources/entities/Martes3.png",
+      "Hash": "be77b73961e41e5fc5e3dd0c0d96257a",
+      "Size": 9412
     },
     {
       "Path": "resources/entities/Martes4.png",
@@ -1558,11 +1533,6 @@
       "Size": 5813
     },
     {
-      "Path": "resources/entities/Ramicyele.png",
-      "Hash": "00cc54354d19c948b227e7b544e7c970",
-      "Size": 11439
-    },
-    {
       "Path": "resources/entities/Sapo.png",
       "Hash": "b610e5dc168765912176906e02a37dbe",
       "Size": 1594
@@ -1573,9 +1543,39 @@
       "Size": 8143
     },
     {
+      "Path": "resources/entities/Signatus1.png",
+      "Hash": "69da09c01463de46f2787a0f9daf6e3d",
+      "Size": 8286
+    },
+    {
       "Path": "resources/entities/Signatus10.png",
       "Hash": "dd95994c3320a27f7825e7ed5552a9b5",
       "Size": 9208
+    },
+    {
+      "Path": "resources/entities/Signatus11.png",
+      "Hash": "716b204f1b136de0f03678b9a8379973",
+      "Size": 9328
+    },
+    {
+      "Path": "resources/entities/Signatus12.png",
+      "Hash": "05ef0d07dddb524d8a1d2a7ca7de0241",
+      "Size": 11779
+    },
+    {
+      "Path": "resources/entities/Signatus13.png",
+      "Hash": "c226f162c257a761f0af7df02d7dd0f1",
+      "Size": 8014
+    },
+    {
+      "Path": "resources/entities/Signatus2.png",
+      "Hash": "d7d78f8ae9fc71048fe3dc716b2bbfe6",
+      "Size": 8715
+    },
+    {
+      "Path": "resources/entities/Signatus3.png",
+      "Hash": "8f5ecd9c86c581e4a727e01f4bd90673",
+      "Size": 9705
     },
     {
       "Path": "resources/entities/Signatus4.png",
@@ -2889,8 +2889,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "13e005c82aa120b6392c9b5329f659a8",
-      "Size": 24310
+      "Hash": "d714fd0e57c30ae57c5e4d24cfe1dc0e",
+      "Size": 24309
     },
     {
       "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
