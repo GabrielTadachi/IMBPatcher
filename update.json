@@ -2,24 +2,24 @@
   "Files": [
     {
       "Path": "Instituto de Magia Bandelugo.exe",
-      "Hash": "9f36d439c03fe2df4b697303885db7c8",
-      "Size": 12829184
+      "Hash": "51b6c514e7775c31817563871f45dbdc",
+      "Size": 12833792
     },
     {
       "Path": "Instituto de Magia Bandelugo.pdb",
-      "Hash": "3e98ddd9211ca93b35a7d6b39c6790a3",
-      "Size": 882176
+      "Hash": "f722068e137c9da709283d3363434bd0",
+      "Size": 888320
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "af151582918788bfa5ed9eeb84ed274b",
-      "Size": 11346432,
+      "Hash": "671674a45c1d8d2e0418df1712c4b4a3",
+      "Size": 11354624,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "de07f4865293ce9552c884c4d2b37b8a",
-      "Size": 1582592,
+      "Hash": "02819677c5c92187f0b0c63ca28aca71",
+      "Size": 1590784,
       "ClientIgnore": true
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "Path": "resources/editor_strings.json",
-      "Hash": "00b4c456102b614e024862a5284de9d4",
-      "Size": 69090
+      "Hash": "d475c92c6358105c73ded9424ed4ba14",
+      "Size": 69396
     },
     {
       "Path": "resources/animations/Absorb.png",
