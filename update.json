@@ -2939,8 +2939,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "4ae7f882f0a5ae2628babe852d8b370a",
-      "Size": 11358
+      "Hash": "fb3812d8a1f038dc17edb19e08be23e9",
+      "Size": 11357
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -10879,8 +10879,8 @@
     },
     {
       "Path": "resources/tilesets/MesasSalao.png",
-      "Hash": "2ec0c8bda344a71996cbbf5a5a241d53",
-      "Size": 234304
+      "Hash": "7dd8639f8859460ea6efe9e9305a5623",
+      "Size": 235310
     },
     {
       "Path": "resources/tilesets/Moveis.png",
