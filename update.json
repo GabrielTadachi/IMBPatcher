@@ -2844,7 +2844,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "0c52dfbb90c67f3f2a5bb44bbf5f705c",
+      "Hash": "87e2752c3e264de63db91d48e647257c",
       "Size": 24139
     },
     {
@@ -10879,8 +10879,8 @@
     },
     {
       "Path": "resources/tilesets/MesasSalao.png",
-      "Hash": "7197ffb86c3dcebdff31ba0e81511056",
-      "Size": 236504
+      "Hash": "2ec0c8bda344a71996cbbf5a5a241d53",
+      "Size": 234304
     },
     {
       "Path": "resources/tilesets/Moveis.png",
