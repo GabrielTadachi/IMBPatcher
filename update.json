@@ -2894,7 +2894,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "32dc531897f30e2a31bbf96e2896da86",
+      "Hash": "d714fd0e57c30ae57c5e4d24cfe1dc0e",
       "Size": 24309
     },
     {
@@ -10688,6 +10688,11 @@
       "Size": 256960
     },
     {
+      "Path": "resources/tilesets/Cadeiras.png",
+      "Hash": "ddd79d4a5918ef27cb488180ddb5342b",
+      "Size": 209563
+    },
+    {
       "Path": "resources/tilesets/Caldeirao.png",
       "Hash": "8347d57d4795226bb12df6520dea66a8",
       "Size": 88753
@@ -11074,8 +11079,8 @@
     },
     {
       "Path": "resources/tilesets/SalaoNobre.png",
-      "Hash": "15727e743b720704f9ba0802c922e64f",
-      "Size": 513420
+      "Hash": "9f1387678665d56a7b3e9fc4e769e3de",
+      "Size": 513556
     },
     {
       "Path": "resources/tilesets/SF_Inside_A4.png",
