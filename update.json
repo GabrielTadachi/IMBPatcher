@@ -10888,11 +10888,6 @@
       "Size": 890191
     },
     {
-      "Path": "resources/tilesets/MesasSalao.png",
-      "Hash": "7dd8639f8859460ea6efe9e9305a5623",
-      "Size": 235310
-    },
-    {
       "Path": "resources/tilesets/Moveis.png",
       "Hash": "f833315c9ef0c6ddf953dba94607885e",
       "Size": 1088171
@@ -11079,8 +11074,8 @@
     },
     {
       "Path": "resources/tilesets/SalaoNobre.png",
-      "Hash": "f52a71751fe2030db067979077f2dd4e",
-      "Size": 469703
+      "Hash": "5eada8499e09d50ca9bdff122c452ea2",
+      "Size": 496912
     },
     {
       "Path": "resources/tilesets/SF_Inside_A4.png",
