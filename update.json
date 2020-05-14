@@ -10878,11 +10878,6 @@
       "Size": 890191
     },
     {
-      "Path": "resources/tilesets/MesasSalao.png",
-      "Hash": "7dd8639f8859460ea6efe9e9305a5623",
-      "Size": 235310
-    },
-    {
       "Path": "resources/tilesets/Moveis.png",
       "Hash": "f833315c9ef0c6ddf953dba94607885e",
       "Size": 1088171
@@ -11066,6 +11061,11 @@
       "Path": "resources/tilesets/rpg_maker__grass__flowers_and_windows_tileset_by_xxjapozeroxx-dbpxkvy.png",
       "Hash": "1c275ea16bfdc215630fd5f36979b2e2",
       "Size": 268349
+    },
+    {
+      "Path": "resources/tilesets/SalaoNobre.png",
+      "Hash": "f52a71751fe2030db067979077f2dd4e",
+      "Size": 469703
     },
     {
       "Path": "resources/tilesets/SF_Inside_A4.png",
