@@ -53,6 +53,76 @@
       "Size": 154747
     },
     {
+      "Path": "resources/animations/Balao1.png",
+      "Hash": "a278cd0fb6e52c9511ceb17a7077221a",
+      "Size": 3793
+    },
+    {
+      "Path": "resources/animations/Balao10.png",
+      "Hash": "80993ba26f1a1cbeb950eb7acada4d8e",
+      "Size": 3476
+    },
+    {
+      "Path": "resources/animations/Balao11.png",
+      "Hash": "872dd420975665a4705b82f5ac89d382",
+      "Size": 4480
+    },
+    {
+      "Path": "resources/animations/Balao12.png",
+      "Hash": "72b3c3ff6e74ae1835b54abf9b838622",
+      "Size": 5605
+    },
+    {
+      "Path": "resources/animations/Balao13.png",
+      "Hash": "f2d3be45d06588601e182d82b290a758",
+      "Size": 5169
+    },
+    {
+      "Path": "resources/animations/Balao14.png",
+      "Hash": "b31bdf20ccbec6aaa76ecf1f8b887a73",
+      "Size": 3961
+    },
+    {
+      "Path": "resources/animations/Balao2.png",
+      "Hash": "caa7f652f1583d71ca0ebf8f023bc316",
+      "Size": 4461
+    },
+    {
+      "Path": "resources/animations/Balao3.png",
+      "Hash": "6a0cdee1d323ca027c54e27bb8ab89d6",
+      "Size": 4340
+    },
+    {
+      "Path": "resources/animations/Balao4.png",
+      "Hash": "0f56a6b70f3e12f82ff1169ce11bd32a",
+      "Size": 3802
+    },
+    {
+      "Path": "resources/animations/Balao5.png",
+      "Hash": "827f7eed3732a5dea5213536313836f8",
+      "Size": 4489
+    },
+    {
+      "Path": "resources/animations/Balao6.png",
+      "Hash": "b895faa5262a05532e37004501600068",
+      "Size": 4096
+    },
+    {
+      "Path": "resources/animations/Balao7.png",
+      "Hash": "c114096bec7d2b177672b63ac8b3de83",
+      "Size": 5206
+    },
+    {
+      "Path": "resources/animations/Balao8.png",
+      "Hash": "dc1dab549a34d96666d9d120527b715d",
+      "Size": 3086
+    },
+    {
+      "Path": "resources/animations/Balao9.png",
+      "Hash": "18ae51c07aa73a44e5a12c5ab3e9e64e",
+      "Size": 4111
+    },
+    {
       "Path": "resources/animations/Blood.png",
       "Hash": "6a48fed1ea1e0786f7e240d655d54ddf",
       "Size": 3621
