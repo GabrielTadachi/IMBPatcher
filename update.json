@@ -10743,6 +10743,16 @@
       "Size": 23475
     },
     {
+      "Path": "resources/tilesets/arvores_celianna.png",
+      "Hash": "c4ae0338323e51d48673b938d2ea1e2b",
+      "Size": 226780
+    },
+    {
+      "Path": "resources/tilesets/Arvores_Hanzo.png",
+      "Hash": "9f0c6c6a2cc75faea6b6e9a147d8c532",
+      "Size": 88734
+    },
+    {
       "Path": "resources/tilesets/bancos jardim.png",
       "Hash": "aff3f789241bd01189e3280a1a753320",
       "Size": 100630
@@ -10778,6 +10788,11 @@
       "Size": 248068
     },
     {
+      "Path": "resources/tilesets/celianna_bakery.png",
+      "Hash": "b100a6fd41853a5fa991a46e72e0d576",
+      "Size": 828559
+    },
+    {
       "Path": "resources/tilesets/celianna_castles.png",
       "Hash": "231599994521688b673d19e1f7b834fc",
       "Size": 640382
@@ -10793,9 +10808,54 @@
       "Size": 809774
     },
     {
+      "Path": "resources/tilesets/celianna_MV_interior_house.png",
+      "Hash": "09a9d8caa806c9a9939a95937a978d0e",
+      "Size": 535125
+    },
+    {
+      "Path": "resources/tilesets/celianna_MV_interior_house2.png",
+      "Hash": "529814afb9670781b86e59b008cc1afe",
+      "Size": 53809
+    },
+    {
       "Path": "resources/tilesets/Celianna_Nature.png",
       "Hash": "48209d63d9d5d68b47402c822914c999",
       "Size": 357018
+    },
+    {
+      "Path": "resources/tilesets/celianna_taverntiles.png",
+      "Hash": "4e8ac060516f43f86ac03b788dcd774f",
+      "Size": 895940
+    },
+    {
+      "Path": "resources/tilesets/celianna_TileA2.png",
+      "Hash": "f5a518e9fe7f5548ed1a8edaedeb8617",
+      "Size": 883827
+    },
+    {
+      "Path": "resources/tilesets/celianna_TileA3.png",
+      "Hash": "69fd499e75cccf20512d76f658ef494b",
+      "Size": 447897
+    },
+    {
+      "Path": "resources/tilesets/celianna_TileA4.png",
+      "Hash": "65763f8d429d9fc807c6b4ae9f0fc2f3",
+      "Size": 1106389
+    },
+    {
+      "Path": "resources/tilesets/celianna_TileA5.png",
+      "Hash": "9c56fb8cb78aad6f965245d63ed6654e",
+      "Size": 552487
+    },
+    {
+      "Path": "resources/tilesets/Celianna_TileC.png",
+      "Hash": "ce3c29902be38239e9af68b086cc1cf2",
+      "Size": 1001029
+    },
+    {
+      "Path": "resources/tilesets/celianna_walls2.png",
+      "Hash": "982336197513b1066f360f00e6380093",
+      "Size": 974980
     },
     {
       "Path": "resources/tilesets/chao.png",
@@ -10896,6 +10956,26 @@
       "Path": "resources/tilesets/hanzo town.png",
       "Hash": "7ea82885a03050d8aba485e974311595",
       "Size": 974678
+    },
+    {
+      "Path": "resources/tilesets/Hanzo-MansionSet.png",
+      "Hash": "588da28dd0133d045ed9680763d29e62",
+      "Size": 1015438
+    },
+    {
+      "Path": "resources/tilesets/Hanzo-RuinsTown.png",
+      "Hash": "4e064b5926358022dc22b990a68ed9b7",
+      "Size": 1080185
+    },
+    {
+      "Path": "resources/tilesets/Hanzo-TownSet.png",
+      "Hash": "4788d8a51074b92af50d45719b564634",
+      "Size": 1079972
+    },
+    {
+      "Path": "resources/tilesets/Hanzo-TownSet2.png",
+      "Hash": "9b09bc2b9c62efb7daf90de6708c247b",
+      "Size": 970465
     },
     {
       "Path": "resources/tilesets/harvest_market1_Candacis.png",
@@ -11013,6 +11093,36 @@
       "Size": 912673
     },
     {
+      "Path": "resources/tilesets/pandamaru bathroom.png",
+      "Hash": "3336fb7f3914f850ccd2c8728d104757",
+      "Size": 103358
+    },
+    {
+      "Path": "resources/tilesets/pandamaru boot1.png",
+      "Hash": "72601b97b924c01f7b9474dc343a6f34",
+      "Size": 36220
+    },
+    {
+      "Path": "resources/tilesets/pandamaru boot2.png",
+      "Hash": "0c07b34fe0239742f79cb8495f48b419",
+      "Size": 63545
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru nature3.png",
+      "Hash": "3b66319a424509f84eeabde173a4f808",
+      "Size": 970881
+    },
+    {
+      "Path": "resources/tilesets/pandamaru tent.png",
+      "Hash": "5b267507291195278b8ae3624123ac7b",
+      "Size": 102873
+    },
+    {
+      "Path": "resources/tilesets/pandamaru tent2.png",
+      "Hash": "02eef141bfb248d6e267d6a7120d4616",
+      "Size": 74546
+    },
+    {
       "Path": "resources/tilesets/Pandamaru_Arvores.png",
       "Hash": "9dfea8872f747282ec5ab1ff146becc7",
       "Size": 983031
@@ -11051,6 +11161,11 @@
       "Path": "resources/tilesets/PandaMaru_MV_xmasmarket.png",
       "Hash": "d9959a48a17c7b46806057f8d5c49a4f",
       "Size": 450504
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_urban streets.png",
+      "Hash": "0b5d34384ca2fab3d96e30ed323af1f2",
+      "Size": 719672
     },
     {
       "Path": "resources/tilesets/Paredes.png",
@@ -11133,6 +11248,11 @@
       "Size": 142778
     },
     {
+      "Path": "resources/tilesets/quadro.png",
+      "Hash": "dd503c87069fce227c24f34f4a656a12",
+      "Size": 69904
+    },
+    {
       "Path": "resources/tilesets/Quadros 1.png",
       "Hash": "e178f3ecf33ec7abc27ba9d9807167de",
       "Size": 101414
@@ -11201,6 +11321,21 @@
       "Path": "resources/tilesets/Sofas.png",
       "Hash": "f756a2cd35a481d92c35f1c9d17d01cf",
       "Size": 341076
+    },
+    {
+      "Path": "resources/tilesets/StarbierdResources-1.png",
+      "Hash": "c5d7c672d713735851628ea9f4b0643a",
+      "Size": 631126
+    },
+    {
+      "Path": "resources/tilesets/starbird1.png",
+      "Hash": "dca9534de7531a6d39a9854e970ab3a2",
+      "Size": 429945
+    },
+    {
+      "Path": "resources/tilesets/starbird2.png",
+      "Hash": "abc5ba65983fa95d5f009f2ee86200e3",
+      "Size": 319116
     },
     {
       "Path": "resources/tilesets/Tapetes.png",
