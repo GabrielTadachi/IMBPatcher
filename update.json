@@ -2994,22 +2994,22 @@
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
-      "Hash": "00f8a674a0c6e3b7720e668fb584bbf8",
+      "Hash": "269c1ef01bca9f1011156ce54f4bf785",
       "Size": 38169
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterSelectionWindow.json",
-      "Hash": "9479bdbaa679fcd198ad5c5c741e382a",
+      "Hash": "5aafa3590c467ae28c82f351e60a4815",
       "Size": 12341
     },
     {
       "Path": "resources/gui/layouts/menu/CreditsWindow.json",
-      "Hash": "dac154b17f569a152cf3646cdf561319",
+      "Hash": "ff9319fb06e96867af9e58700f9d3735",
       "Size": 13816
     },
     {
       "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
-      "Hash": "3fa67ea1fe7053024b3a939c61df32f3",
+      "Hash": "6f8351e36f9eb28969872724b18316ac",
       "Size": 8194
     },
     {
@@ -3019,32 +3019,32 @@
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Hash": "35e03387d627ebea646527c674af9036",
+      "Hash": "5ac21861aff11e6d156ec57ec6db58bf",
       "Size": 14497
     },
     {
       "Path": "resources/gui/layouts/menu/Logo.json",
-      "Hash": "4fdd57ba2d24e98d5a6741f3d48715b8",
+      "Hash": "0e11fc4364da1d119769b3fceb875896",
       "Size": 628
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
-      "Hash": "a4791ba538745e70125b69ec5c50e6bb",
+      "Hash": "7c0621a8dca432287dabfb0b284a42ba",
       "Size": 9188
     },
     {
       "Path": "resources/gui/layouts/menu/OptionsWindow.json",
-      "Hash": "05ea203adbc0c1ac80338218d70b2982",
+      "Hash": "b83f86d1d74d3d6dc4d67bc15d94a73b",
       "Size": 211411
     },
     {
       "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
-      "Hash": "f8472ea8a780e20334d915212f3bc375",
+      "Hash": "888408d43cf4349ee68f0c73b9834dd5",
       "Size": 16384
     },
     {
       "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
-      "Hash": "f748f1362210c863b018fc109cc3ee92",
+      "Hash": "1197e49c81986b0b686a20b12ff5a570",
       "Size": 13329
     },
     {
