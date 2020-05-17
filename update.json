@@ -1723,6 +1723,11 @@
       "Size": 8666
     },
     {
+      "Path": "resources/entities/v5xz3pi7.png",
+      "Hash": "69719b311d1175b142b2d890f7a3bd65",
+      "Size": 8219
+    },
+    {
       "Path": "resources/entities/Vaca.png",
       "Hash": "f50ca51737fedf42c655bcc822751c96",
       "Size": 7278
@@ -2804,12 +2809,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "31b1b1a47f81cd102a13e43badaaba56",
+      "Hash": "7ece050d7e42375f45220b199aeaa556",
       "Size": 30131
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
-      "Hash": "6ec3532106aee3acdbc1a60069ddf3f7",
+      "Hash": "18b58ef7da2244e4d8004cce5c49ada3",
       "Size": 29674
     },
     {
@@ -2839,7 +2844,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EscapeMenu.json",
-      "Hash": "309dcc1df7de5109818780d70400209d",
+      "Hash": "796c8951e97392c4b79253965c78441c",
       "Size": 8286
     },
     {
@@ -2864,13 +2869,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/FriendsWindow.json",
-      "Hash": "4d50b942e9bb652d8cf605f6d6738520",
+      "Hash": "10f6fa9f208135a8ff7047a033d8fce3",
       "Size": 19830
     },
     {
       "Path": "resources/gui/layouts/game/HotbarWindow.json",
-      "Hash": "697fb758e2806572c7c4a7e78db71660",
-      "Size": 59355
+      "Hash": "5d77c882d2e44562bc9648c8c7c99d0f",
+      "Size": 59354
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
@@ -2884,7 +2889,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InventoryWindow.json",
-      "Hash": "25b581de60e3e88e291f81070199bfb5",
+      "Hash": "01eb35ad9162ff39f25a58849a84a977",
       "Size": 14734
     },
     {
@@ -2899,22 +2904,22 @@
     },
     {
       "Path": "resources/gui/layouts/game/MenuContainer.json",
-      "Hash": "813505ef5a01fc5af926b98ca979e436",
-      "Size": 15743
+      "Hash": "1d61c4b820f4c8e7712872bb9848b507",
+      "Size": 15742
     },
     {
       "Path": "resources/gui/layouts/game/OptionsWindow.json",
-      "Hash": "b83f86d1d74d3d6dc4d67bc15d94a73b",
+      "Hash": "05ea203adbc0c1ac80338218d70b2982",
       "Size": 211411
     },
     {
       "Path": "resources/gui/layouts/game/PartyWindow.json",
-      "Hash": "29328cc7b9298516a00e3d61a185130b",
+      "Hash": "da7d2cfd5578ec342f872106ea9ed54a",
       "Size": 44795
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "87e2752c3e264de63db91d48e647257c",
+      "Hash": "67277ba3bf3a94412fe79755788d3d64",
       "Size": 24139
     },
     {
@@ -2924,12 +2929,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Hash": "76bc6561c6db0d7da00e2d61dfbaf218",
+      "Hash": "b71df00f8d3b3949f65c989246837734",
       "Size": 19745
     },
     {
       "Path": "resources/gui/layouts/game/QuestsWindow.json",
-      "Hash": "cdbc3e38071da6a93b35631d448a97b8",
+      "Hash": "daf3d16d6e86a9e3bc8bcbd719e758b4",
       "Size": 31516
     },
     {
@@ -2959,7 +2964,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/SpellsWindow.json",
-      "Hash": "5ee521669df926ab5a60aeff6cccfa8f",
+      "Hash": "735f3d508cd3999c97e917de52835ec0",
       "Size": 14717
     },
     {
@@ -10738,6 +10743,21 @@
       "Size": 5777
     },
     {
+      "Path": "resources/tilesets/172-1724320_-img-rpg-maker-mv-house-tileset-hd.png.jpg",
+      "Hash": "73751028e72a3cc8259f9066b9cad481",
+      "Size": 473081
+    },
+    {
+      "Path": "resources/tilesets/6e4ca76b9362911e798265e8568a4dd7a9933a8e.png",
+      "Hash": "f0dfbca12e643cfe04ba2005e7881c05",
+      "Size": 344617
+    },
+    {
+      "Path": "resources/tilesets/adc9b38cfd6dd91d0ce574ad428444c667ed6857.png",
+      "Hash": "7a75370518f08532b924b698f732c816",
+      "Size": 128827
+    },
+    {
       "Path": "resources/tilesets/Arvores.png",
       "Hash": "25fc537c392f4afa6e25fd60fdc0cf05",
       "Size": 753380
@@ -11246,6 +11266,16 @@
       "Path": "resources/tilesets/Porta7.png",
       "Hash": "94618625c1f0b4ea2d99848e03c8fe96",
       "Size": 346709
+    },
+    {
+      "Path": "resources/tilesets/Porta8.png",
+      "Hash": "721daf142191308d36c29ea5909dcb88",
+      "Size": 391812
+    },
+    {
+      "Path": "resources/tilesets/Porta9.png",
+      "Hash": "c45204cc3ba6742e79bf4169e5c283ed",
+      "Size": 63805
     },
     {
       "Path": "resources/tilesets/Porta_Expresso.png",
