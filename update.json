@@ -2994,22 +2994,22 @@
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
-      "Hash": "269c1ef01bca9f1011156ce54f4bf785",
+      "Hash": "00f8a674a0c6e3b7720e668fb584bbf8",
       "Size": 38169
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterSelectionWindow.json",
-      "Hash": "5aafa3590c467ae28c82f351e60a4815",
+      "Hash": "9479bdbaa679fcd198ad5c5c741e382a",
       "Size": 12341
     },
     {
       "Path": "resources/gui/layouts/menu/CreditsWindow.json",
-      "Hash": "ff9319fb06e96867af9e58700f9d3735",
+      "Hash": "dac154b17f569a152cf3646cdf561319",
       "Size": 13816
     },
     {
       "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
-      "Hash": "6f8351e36f9eb28969872724b18316ac",
+      "Hash": "3fa67ea1fe7053024b3a939c61df32f3",
       "Size": 8194
     },
     {
@@ -3019,38 +3019,38 @@
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Hash": "5ac21861aff11e6d156ec57ec6db58bf",
+      "Hash": "35e03387d627ebea646527c674af9036",
       "Size": 14497
     },
     {
       "Path": "resources/gui/layouts/menu/Logo.json",
-      "Hash": "0e11fc4364da1d119769b3fceb875896",
+      "Hash": "4fdd57ba2d24e98d5a6741f3d48715b8",
       "Size": 628
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
-      "Hash": "7c0621a8dca432287dabfb0b284a42ba",
+      "Hash": "a4791ba538745e70125b69ec5c50e6bb",
       "Size": 9188
     },
     {
       "Path": "resources/gui/layouts/menu/OptionsWindow.json",
-      "Hash": "b83f86d1d74d3d6dc4d67bc15d94a73b",
+      "Hash": "05ea203adbc0c1ac80338218d70b2982",
       "Size": 211411
     },
     {
       "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
-      "Hash": "888408d43cf4349ee68f0c73b9834dd5",
+      "Hash": "f8472ea8a780e20334d915212f3bc375",
       "Size": 16384
     },
     {
       "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
-      "Hash": "1197e49c81986b0b686a20b12ff5a570",
+      "Hash": "f748f1362210c863b018fc109cc3ee92",
       "Size": 13329
     },
     {
       "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
-      "Hash": "e597ad5543e2f0f8da653ae06731f0d4",
-      "Size": 1612
+      "Hash": "eeacfada7f46e7a6e845fd031a0a5369",
+      "Size": 1611
     },
     {
       "Path": "resources/images/BlueSky.png",
@@ -10823,6 +10823,16 @@
       "Size": 640382
     },
     {
+      "Path": "resources/tilesets/celianna_castletiles.png",
+      "Hash": "0c0afc3587da8721a76fcaba27455efd",
+      "Size": 1212837
+    },
+    {
+      "Path": "resources/tilesets/celianna_castletiles_roxo.png",
+      "Hash": "dafebd8fa5c606c83ce479d08087fa16",
+      "Size": 1193951
+    },
+    {
       "Path": "resources/tilesets/celianna_farmnature_farmtiles.png",
       "Hash": "aafc2b6f786b8883914318114ac37cf8",
       "Size": 1701733
@@ -10846,6 +10856,11 @@
       "Path": "resources/tilesets/Celianna_Nature.png",
       "Hash": "48209d63d9d5d68b47402c822914c999",
       "Size": 357018
+    },
+    {
+      "Path": "resources/tilesets/celianna_swamptiles.png",
+      "Hash": "9deb4e76d4fba51078a5ab856d326c4f",
+      "Size": 621945
     },
     {
       "Path": "resources/tilesets/celianna_taverntiles.png",
@@ -11119,8 +11134,8 @@
     },
     {
       "Path": "resources/tilesets/pandamaru bathroom.png",
-      "Hash": "3336fb7f3914f850ccd2c8728d104757",
-      "Size": 103358
+      "Hash": "a1f00dad50728bbbea5220359fff398d",
+      "Size": 121700
     },
     {
       "Path": "resources/tilesets/pandamaru boot1.png",
