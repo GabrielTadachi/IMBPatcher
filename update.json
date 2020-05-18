@@ -1033,6 +1033,11 @@
       "Size": 7835
     },
     {
+      "Path": "resources/entities/ElenaShut.png",
+      "Hash": "cbad791ada05227d758831a5f885bd1a",
+      "Size": 9382
+    },
+    {
       "Path": "resources/entities/elfo.png",
       "Hash": "f48d24ac8902fc15c28a913e42a063da",
       "Size": 6845
@@ -1091,6 +1096,11 @@
       "Path": "resources/entities/Holkins.png",
       "Hash": "339b99340b259c51ab6eac095050dfcc",
       "Size": 8953
+    },
+    {
+      "Path": "resources/entities/HoMaoTseng.png",
+      "Hash": "4f7ea119aa025e4637af17311b9a893d",
+      "Size": 8640
     },
     {
       "Path": "resources/entities/Homem1.png",
@@ -1728,6 +1738,11 @@
       "Size": 8666
     },
     {
+      "Path": "resources/entities/UnoMas.png",
+      "Hash": "7933779ed1bf5dde4b9bf31385d84c0b",
+      "Size": 7311
+    },
+    {
       "Path": "resources/entities/v5xz3pi7.png",
       "Hash": "69719b311d1175b142b2d890f7a3bd65",
       "Size": 8219
@@ -1803,6 +1818,11 @@
       "Size": 35313
     },
     {
+      "Path": "resources/faces/ElenaShutFace.png",
+      "Hash": "70e52948955003c62558cf1b9af718b2",
+      "Size": 36836
+    },
+    {
       "Path": "resources/faces/fernanda1.png",
       "Hash": "7745659f8923139f0a9bf5cece13916e",
       "Size": 32845
@@ -1831,6 +1851,11 @@
       "Path": "resources/faces/Holkins.png",
       "Hash": "9a676194443a003092584a901b2971f5",
       "Size": 40301
+    },
+    {
+      "Path": "resources/faces/HoMaoTsengface.png",
+      "Hash": "39abef0049446f25fb4d430c55d4869a",
+      "Size": 28173
     },
     {
       "Path": "resources/faces/Lady1.png",
@@ -1881,6 +1906,11 @@
       "Path": "resources/faces/Tadachi.png",
       "Hash": "09c9c328315be63b73be578b5fad4043",
       "Size": 40087
+    },
+    {
+      "Path": "resources/faces/UnoMasFace.png",
+      "Hash": "fa74c725056985be582959143a43648e",
+      "Size": 29392
     },
     {
       "Path": "resources/faces/Valdez.png",
