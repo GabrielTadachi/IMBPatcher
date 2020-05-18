@@ -10753,16 +10753,6 @@
       "Size": 473081
     },
     {
-      "Path": "resources/tilesets/6e4ca76b9362911e798265e8568a4dd7a9933a8e.png",
-      "Hash": "f0dfbca12e643cfe04ba2005e7881c05",
-      "Size": 344617
-    },
-    {
-      "Path": "resources/tilesets/adc9b38cfd6dd91d0ce574ad428444c667ed6857.png",
-      "Hash": "7a75370518f08532b924b698f732c816",
-      "Size": 128827
-    },
-    {
       "Path": "resources/tilesets/Arvores.png",
       "Hash": "25fc537c392f4afa6e25fd60fdc0cf05",
       "Size": 753380
@@ -10781,6 +10771,76 @@
       "Path": "resources/tilesets/Arvores_Hanzo.png",
       "Hash": "9f0c6c6a2cc75faea6b6e9a147d8c532",
       "Size": 88734
+    },
+    {
+      "Path": "resources/tilesets/Avery Kitchen.png",
+      "Hash": "b42bda163ff73687940569f260d0cf43",
+      "Size": 122483
+    },
+    {
+      "Path": "resources/tilesets/Avery.png",
+      "Hash": "9bb383dfe1263519f4b8d00ccfb4e59b",
+      "Size": 29800
+    },
+    {
+      "Path": "resources/tilesets/Avery_Ceiling additions.png",
+      "Hash": "6aad437a9dbbccf0d9450e5dc1e51b60",
+      "Size": 121788
+    },
+    {
+      "Path": "resources/tilesets/Avery_Crops, nests.png",
+      "Hash": "96e209dbc7987cdb30c58b32247be02d",
+      "Size": 129907
+    },
+    {
+      "Path": "resources/tilesets/Avery_Doors.png",
+      "Hash": "67765dc3323bd37183aab197d628836a",
+      "Size": 75808
+    },
+    {
+      "Path": "resources/tilesets/Avery_Farmhouse.png",
+      "Hash": "7e261e4f9626f1cdd7d3caa71b7aed42",
+      "Size": 214670
+    },
+    {
+      "Path": "resources/tilesets/Avery_Half-timbered houses.png",
+      "Hash": "d09e21c5a151f2c0d85542aa60109908",
+      "Size": 834540
+    },
+    {
+      "Path": "resources/tilesets/Avery_Ice Cavern.png",
+      "Hash": "0204d456ec03cfa066a0a9e2f7b9a92a",
+      "Size": 626091
+    },
+    {
+      "Path": "resources/tilesets/Avery_item1.png",
+      "Hash": "b6cc1be759e911054fba5d789b472691",
+      "Size": 28284
+    },
+    {
+      "Path": "resources/tilesets/Avery_item2.png",
+      "Hash": "3847c5d5672080538f90824bb8b5ad08",
+      "Size": 132281
+    },
+    {
+      "Path": "resources/tilesets/Avery_item3.png",
+      "Hash": "bbeb8dc2aca1e60b4593b5251e0d4a2e",
+      "Size": 48794
+    },
+    {
+      "Path": "resources/tilesets/Avery_JungleCave.png",
+      "Hash": "a9dc37de8bc4b779f24779915934403d",
+      "Size": 1019693
+    },
+    {
+      "Path": "resources/tilesets/Avery_Ship.png",
+      "Hash": "9bb6b253eb142a6d20b022887565891d",
+      "Size": 597299
+    },
+    {
+      "Path": "resources/tilesets/Avery_WaterCave.png",
+      "Hash": "e5744119875eaf5d283d74512aeb0dc6",
+      "Size": 563972
     },
     {
       "Path": "resources/tilesets/bancos jardim.png",
@@ -10829,13 +10889,13 @@
     },
     {
       "Path": "resources/tilesets/celianna_castletiles.png",
-      "Hash": "0c0afc3587da8721a76fcaba27455efd",
-      "Size": 1212837
+      "Hash": "f274082aa734659baaf7c2cdb6383da5",
+      "Size": 1211178
     },
     {
       "Path": "resources/tilesets/celianna_castletiles_roxo.png",
-      "Hash": "dafebd8fa5c606c83ce479d08087fa16",
-      "Size": 1193951
+      "Hash": "3ba03d07119dd617e3e390893a8359a1",
+      "Size": 1192230
     },
     {
       "Path": "resources/tilesets/celianna_farmnature_farmtiles.png",
@@ -10906,6 +10966,111 @@
       "Path": "resources/tilesets/chao.png",
       "Hash": "51b2e7e686a6b982f7609aef9b7a2075",
       "Size": 288401
+    },
+    {
+      "Path": "resources/tilesets/Cyanide-Noble-Interior-1.png",
+      "Hash": "e77cbc1bd3dba3449e9851c7c83a2595",
+      "Size": 601952
+    },
+    {
+      "Path": "resources/tilesets/cyanide-tilemix-11-nature-2.png",
+      "Hash": "7b19e2ccc10ece2a14fcfcbfae58571e",
+      "Size": 527485
+    },
+    {
+      "Path": "resources/tilesets/cyanide_a24sk6v.png",
+      "Hash": "4a6a5b8a27896f8e8dd41ba251d5d0d1",
+      "Size": 430913
+    },
+    {
+      "Path": "resources/tilesets/cyanide_artdeco1s8kzn.png",
+      "Hash": "407154a302ea7a89ff4a9b5433599da3",
+      "Size": 455356
+    },
+    {
+      "Path": "resources/tilesets/cyanide_artdeco_2b5k6l.png",
+      "Hash": "4ed990d718f8fce233b61a40d0722104",
+      "Size": 537971
+    },
+    {
+      "Path": "resources/tilesets/cyanide_artdeco_3jkj0v.png",
+      "Hash": "c7049b591ca82b21c5ca2aaa47f8a07f",
+      "Size": 545791
+    },
+    {
+      "Path": "resources/tilesets/cyanide_desert_outsida2j0q.png",
+      "Hash": "5b84f7f748d957387bc107145bc1aadb",
+      "Size": 771849
+    },
+    {
+      "Path": "resources/tilesets/cyanide_rtp_edits_01_02.png",
+      "Hash": "2a47556dd7d79a31a97c17aaf519f672",
+      "Size": 325247
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix02_02.png",
+      "Hash": "d33f6056bb7d6b3e34c6faab2860d385",
+      "Size": 363367
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemixasia_08.png",
+      "Hash": "1eb8ede5cfb956db0fb428d31df17de5",
+      "Size": 349805
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix_03_02.png",
+      "Hash": "c2527019db41a6a5bb732ed647acf547",
+      "Size": 386116
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix_04.png",
+      "Hash": "2b786ff648d2aa6eca653da3a0346362",
+      "Size": 314294
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix_05.png",
+      "Hash": "e21bb9a70e564a0a197f4614bf85c7f8",
+      "Size": 283692
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix_06.png",
+      "Hash": "d8e6be86d13eb0f4b96a82d5f12eb929",
+      "Size": 305781
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix_07_02.png",
+      "Hash": "b93c74b9bf071a729e77c566c957c885",
+      "Size": 334698
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix_09_02.png",
+      "Hash": "61a023cef34789591f7cae97265cfc0a",
+      "Size": 460511
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix_10_02.png",
+      "Hash": "9580354d210563092660e934d70de8f7",
+      "Size": 174839
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix_14twj2p.png",
+      "Hash": "af991abe63fc85b63368c365d64ceaf6",
+      "Size": 483512
+    },
+    {
+      "Path": "resources/tilesets/dbernl4-1a8774ed-e814-4f34-80ea-aaebb072f8bc.png",
+      "Hash": "8eb89ba4a2b895001b57fdf6b889a1f4",
+      "Size": 59146
+    },
+    {
+      "Path": "resources/tilesets/dbudrch-169c7c10-9f9a-4986-8b1b-dc1991653e09.png",
+      "Hash": "5f9005545230b61bcc421e9a98ef91f4",
+      "Size": 52304
+    },
+    {
+      "Path": "resources/tilesets/dck28ru-18418a92-ae7a-43aa-99f2-117a3effe9fd.png",
+      "Hash": "86da410021326549b4ee429fdec49366",
+      "Size": 38781
     },
     {
       "Path": "resources/tilesets/Dungeon_A1.png",
@@ -10983,19 +11148,19 @@
       "Size": 326114
     },
     {
+      "Path": "resources/tilesets/farm_cyanidec8kur.png",
+      "Hash": "f55e373a21060cd24e5cbdbe8b99384f",
+      "Size": 869013
+    },
+    {
       "Path": "resources/tilesets/feira.png",
       "Hash": "1a9dcafcc62cc682fe1808d8a7760521",
       "Size": 1211699
     },
     {
-      "Path": "resources/tilesets/gelo1.png",
-      "Hash": "f0dfbca12e643cfe04ba2005e7881c05",
-      "Size": 344617
-    },
-    {
-      "Path": "resources/tilesets/gelo2.png",
-      "Hash": "7a75370518f08532b924b698f732c816",
-      "Size": 128827
+      "Path": "resources/tilesets/Guardinthena_OldPrintingPress.png",
+      "Hash": "7728aceaca5b280d0740824180ab5620",
+      "Size": 132487
     },
     {
       "Path": "resources/tilesets/hanzo town.png",
@@ -11086,6 +11251,11 @@
       "Path": "resources/tilesets/medievalhouses_1.png",
       "Hash": "b4813198a67b1f347d4567cc9175f033",
       "Size": 890191
+    },
+    {
+      "Path": "resources/tilesets/modern_cyberpunk_cyanlqjr3.png",
+      "Hash": "a9e3117c594d47a53482f98db4f82909",
+      "Size": 670105
     },
     {
       "Path": "resources/tilesets/Moveis.png",
@@ -11253,6 +11423,11 @@
       "Size": 640204
     },
     {
+      "Path": "resources/tilesets/Platsch_Colosseum.png",
+      "Hash": "e7db9f857ea4ac9a4b0803695c8f744f",
+      "Size": 510229
+    },
+    {
       "Path": "resources/tilesets/Porta1.png",
       "Hash": "180d6baaacb4f1c566b8b6c784a8e91a",
       "Size": 171119
@@ -11391,6 +11566,51 @@
       "Path": "resources/tilesets/starbird2.png",
       "Hash": "abc5ba65983fa95d5f009f2ee86200e3",
       "Size": 319116
+    },
+    {
+      "Path": "resources/tilesets/Starbird_.png",
+      "Hash": "52bea56e59872410bdfaecb5ef0e6e25",
+      "Size": 163084
+    },
+    {
+      "Path": "resources/tilesets/Starbird_A4.png",
+      "Hash": "bffb0107673f7826329e2569c4416cfb",
+      "Size": 529330
+    },
+    {
+      "Path": "resources/tilesets/Starbird_ChurchInterior.png",
+      "Hash": "4bf0d9612c886c197820846c61dedc30",
+      "Size": 689961
+    },
+    {
+      "Path": "resources/tilesets/Starbird_Farm.png",
+      "Hash": "a0dbfd2db4a0cf6e5ecb73b30900b912",
+      "Size": 443072
+    },
+    {
+      "Path": "resources/tilesets/Starbird_Graveyard.png",
+      "Hash": "4b57c11bc03ca1def02928c6d261a68c",
+      "Size": 373582
+    },
+    {
+      "Path": "resources/tilesets/Starbird_LoggingVillage.png",
+      "Hash": "0a755f350a922ccc4c393fe4aa7f4a04",
+      "Size": 494878
+    },
+    {
+      "Path": "resources/tilesets/Starbird_OfficeSpace.png",
+      "Hash": "17aaeebbd905d6e1e2fd1c8cd95c8527",
+      "Size": 96283
+    },
+    {
+      "Path": "resources/tilesets/Starbird_OutdoorMarket.png",
+      "Hash": "bbbb7f68403e4e06f3d909f1cd94530f",
+      "Size": 507613
+    },
+    {
+      "Path": "resources/tilesets/Starbird_Windows.png",
+      "Hash": "08d4cc01f07f1affa6ec7af4157e3dcd",
+      "Size": 432460
     },
     {
       "Path": "resources/tilesets/Tapetes.png",
