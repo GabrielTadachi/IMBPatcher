@@ -190,7 +190,7 @@
     "title": "Controls"
   },
   "Crafting": {
-    "craft": "Poções",
+    "craft": "Criar",
     "incorrectresources": "Você não tem os ingredientes correctos para criar esta poção.",
     "ingredients": "Requer:",
     "product": "Poção:",

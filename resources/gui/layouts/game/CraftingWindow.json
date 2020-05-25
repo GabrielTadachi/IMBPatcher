@@ -460,7 +460,7 @@
         "TextScale": 1.0
       },
       "IngredientsTitle": {
-        "Bounds": "216,62,57,16",
+        "Bounds": "216,62,47,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -490,7 +490,7 @@
         "TextScale": 1.0
       },
       "ProductLabel": {
-        "Bounds": "216,20,53,16",
+        "Bounds": "216,20,39,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
