@@ -190,12 +190,12 @@
     "title": "Controls"
   },
   "Crafting": {
-    "craft": "Craft",
-    "incorrectresources": "You do not have the correct resources to craft this item.",
-    "ingredients": "Requires:",
-    "product": "Crafting:",
-    "recipes": "Recipes:",
-    "title": "Crafting Table"
+    "craft": "Poções",
+    "incorrectresources": "Você não tem os ingredientes correctos para criar esta poção.",
+    "ingredients": "Requer:",
+    "product": "Poção:",
+    "recipes": "Receitas:",
+    "title": "Confecção de Poções"
   },
   "Credits": {
     "back": "Menu Principal",

@@ -24,8 +24,8 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "b3a40ccf6f30ebc801bf1afa6b7936fc",
-      "Size": 23992
+      "Hash": "a7cf34d34eb02745a715a3f7a42c9c87",
+      "Size": 24010
     },
     {
       "Path": "resources/config.json",
@@ -2874,7 +2874,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "fc881e6861dc3b759658328f17138f7a",
+      "Hash": "9ea3fbbde2a79843c19f63921a8259e2",
       "Size": 31814
     },
     {
