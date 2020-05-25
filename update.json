@@ -3059,7 +3059,7 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "70f232b46a61c3742bd8b6d1c0825fba",
+      "Hash": "511cfdace11905ccab0493e10fba1281",
       "Size": 11357
     },
     {
@@ -3643,7 +3643,7 @@
       "Size": 447
     },
     {
-      "Path": "resources/items/Fósforo.png",
+      "Path": "resources/items/Fosforo.png",
       "Hash": "bf6c471ab5bcae30a399675b7d7ebd25",
       "Size": 2931
     },
