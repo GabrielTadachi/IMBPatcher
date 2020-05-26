@@ -2869,8 +2869,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Hash": "38f6d65dddb657d692a7341dee431c0f",
-      "Size": 2369
+      "Hash": "45635f0a5ea0e38ad0c68eb3bdee9112",
+      "Size": 2370
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
@@ -4131,6 +4131,196 @@
       "Path": "resources/items/Frasco_073.png",
       "Hash": "8d21bc3b06b587a29f0daa56387eb0f9",
       "Size": 1543
+    },
+    {
+      "Path": "resources/items/Ingrediente01.png",
+      "Hash": "00fdd261d17050eea3e3e8bcf278010e",
+      "Size": 1762
+    },
+    {
+      "Path": "resources/items/Ingrediente02.png",
+      "Hash": "d252ead5e2f70fa7dffdcd08809cf39d",
+      "Size": 1750
+    },
+    {
+      "Path": "resources/items/Ingrediente03.png",
+      "Hash": "6a264d61f69ca34ac3f19526b417827d",
+      "Size": 1496
+    },
+    {
+      "Path": "resources/items/Ingrediente04.png",
+      "Hash": "c343afa1f8ff8d7e00c1a9c6c35c6625",
+      "Size": 1611
+    },
+    {
+      "Path": "resources/items/Ingrediente05.png",
+      "Hash": "8115293d22bb51e85da8a3f97e93b52f",
+      "Size": 1617
+    },
+    {
+      "Path": "resources/items/Ingrediente06.png",
+      "Hash": "99fd8d02355372c27ef21139970ff2c9",
+      "Size": 1838
+    },
+    {
+      "Path": "resources/items/Ingrediente07.png",
+      "Hash": "085a0e22ed8147aba4e8a60cd85d620a",
+      "Size": 1668
+    },
+    {
+      "Path": "resources/items/Ingrediente08.png",
+      "Hash": "d019ce597bc07d2d41c555acbff417ed",
+      "Size": 1652
+    },
+    {
+      "Path": "resources/items/Ingrediente09.png",
+      "Hash": "a2feebf711e95b2404e991c0834ceb57",
+      "Size": 1506
+    },
+    {
+      "Path": "resources/items/Ingrediente10.png",
+      "Hash": "e902b4a3ac2bef9e399b1896c8ccab0a",
+      "Size": 1346
+    },
+    {
+      "Path": "resources/items/Ingrediente11.png",
+      "Hash": "8bc06425ce621f90b1eb0d8382719dfa",
+      "Size": 1586
+    },
+    {
+      "Path": "resources/items/Ingrediente12.png",
+      "Hash": "051624f21bb022ba5c61aa3d5c18fa7a",
+      "Size": 1618
+    },
+    {
+      "Path": "resources/items/Ingrediente13.png",
+      "Hash": "19e5d31854337fe94a669b8520df1d6a",
+      "Size": 1661
+    },
+    {
+      "Path": "resources/items/Ingrediente14.png",
+      "Hash": "b37bf917b3695d844bfa128de2f3a55c",
+      "Size": 1761
+    },
+    {
+      "Path": "resources/items/Ingrediente15.png",
+      "Hash": "ff7b6f4025edbf2ca7e8f456b0d9fa2e",
+      "Size": 1522
+    },
+    {
+      "Path": "resources/items/Ingrediente16.png",
+      "Hash": "02acb27d03e2cc3faa775eb66d8236f3",
+      "Size": 1816
+    },
+    {
+      "Path": "resources/items/Ingrediente17.png",
+      "Hash": "68641ecd78888588970e2dbf638d39b0",
+      "Size": 1840
+    },
+    {
+      "Path": "resources/items/Ingrediente18.png",
+      "Hash": "e0481f10c19e3e9a45bb16e8f014b57a",
+      "Size": 1779
+    },
+    {
+      "Path": "resources/items/Ingrediente19.png",
+      "Hash": "1f59bbebf72b2af26eb196b8649de113",
+      "Size": 1722
+    },
+    {
+      "Path": "resources/items/Ingrediente20.png",
+      "Hash": "7c4533e6f6ad46f2b67f42a6e3f77cb4",
+      "Size": 1760
+    },
+    {
+      "Path": "resources/items/Ingrediente21.png",
+      "Hash": "9ff76ac4b983fb3576893c8fc8996bf6",
+      "Size": 1851
+    },
+    {
+      "Path": "resources/items/Ingrediente22.png",
+      "Hash": "13651fbc691086ed1302c40d0979470e",
+      "Size": 1538
+    },
+    {
+      "Path": "resources/items/Ingrediente23.png",
+      "Hash": "7903377a6f33868915f6525497866845",
+      "Size": 1500
+    },
+    {
+      "Path": "resources/items/Ingrediente24.png",
+      "Hash": "40a24b793ae3508210829e26cc07eef5",
+      "Size": 1319
+    },
+    {
+      "Path": "resources/items/Ingrediente25.png",
+      "Hash": "d5731cb5db6b8b7ea4562e3b9094ee25",
+      "Size": 1726
+    },
+    {
+      "Path": "resources/items/Ingrediente26.png",
+      "Hash": "a6f3b45d296831ed17ab375dd98e063e",
+      "Size": 1452
+    },
+    {
+      "Path": "resources/items/Ingrediente27.png",
+      "Hash": "c7bd74cf428f817bd0c85a901689b9bc",
+      "Size": 1644
+    },
+    {
+      "Path": "resources/items/Ingrediente28.png",
+      "Hash": "6b70f1b5e3edf34dd4550092a6c8d5c8",
+      "Size": 1596
+    },
+    {
+      "Path": "resources/items/Ingrediente29.png",
+      "Hash": "8d01b397fab69b6c5b80439180eb0d4f",
+      "Size": 1419
+    },
+    {
+      "Path": "resources/items/Ingrediente30.png",
+      "Hash": "824f253b36276d342728051df0eaf571",
+      "Size": 1705
+    },
+    {
+      "Path": "resources/items/Ingrediente31.png",
+      "Hash": "1d6ad57d1369d85131e0056014bb5409",
+      "Size": 1597
+    },
+    {
+      "Path": "resources/items/Ingrediente32.png",
+      "Hash": "c8e27b7b00136fa3ac5148331e8543ae",
+      "Size": 1758
+    },
+    {
+      "Path": "resources/items/Ingrediente33.png",
+      "Hash": "236a868f83e1bca050cb092347daa88f",
+      "Size": 1487
+    },
+    {
+      "Path": "resources/items/Ingrediente34.png",
+      "Hash": "80476db6e82b194eaedff8f96ae2d6f7",
+      "Size": 1585
+    },
+    {
+      "Path": "resources/items/Ingrediente35.png",
+      "Hash": "53e6e83075f4bc041282984b765869db",
+      "Size": 1539
+    },
+    {
+      "Path": "resources/items/Ingrediente36.png",
+      "Hash": "fbfc78982830ffdd6426f1924a555514",
+      "Size": 1499
+    },
+    {
+      "Path": "resources/items/Ingrediente37.png",
+      "Hash": "bd43f01d25569be5a5aa8fb38bcdd294",
+      "Size": 1334
+    },
+    {
+      "Path": "resources/items/Ingrediente38.png",
+      "Hash": "8959e84475d76cbed831f7470735f3af",
+      "Size": 1453
     },
     {
       "Path": "resources/items/LacertaF.png",
