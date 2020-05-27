@@ -793,6 +793,11 @@
       "Size": 944586
     },
     {
+      "Path": "resources/entities/Abelha.png",
+      "Hash": "46a249d99f9f801258e5c196c0ee963c",
+      "Size": 29973
+    },
+    {
       "Path": "resources/entities/Acromantula.png",
       "Hash": "933f95e032507c4f52ac13e6c7925179",
       "Size": 7182
@@ -846,6 +851,11 @@
       "Path": "resources/entities/Antonieta.png",
       "Hash": "bcdefd8998e3a23d3d93b063aba9b71f",
       "Size": 9620
+    },
+    {
+      "Path": "resources/entities/Aranha.png",
+      "Hash": "7cf10dc688301ed1560be3dce21072dd",
+      "Size": 59546
     },
     {
       "Path": "resources/entities/Autumn.png",
@@ -1043,6 +1053,11 @@
       "Size": 6845
     },
     {
+      "Path": "resources/entities/Escorpiao.png",
+      "Hash": "6e58baef87216f2d66e57ce8e61c804b",
+      "Size": 51697
+    },
+    {
       "Path": "resources/entities/Fairy.png",
       "Hash": "245da878bd85e8482c8e2cfe28ebd0a2",
       "Size": 6609
@@ -1078,9 +1093,19 @@
       "Size": 4561
     },
     {
+      "Path": "resources/entities/Galo.png",
+      "Hash": "3d0961bc11c912ce02a00f356d7fd81c",
+      "Size": 22492
+    },
+    {
       "Path": "resources/entities/Gato.png",
       "Hash": "0961663c49de909a9f322d43fdd125fa",
       "Size": 4487
+    },
+    {
+      "Path": "resources/entities/Gato2.png",
+      "Hash": "0989fbaa0dc8bf077e946c542de28186",
+      "Size": 23122
     },
     {
       "Path": "resources/entities/hatake.png",
@@ -1413,6 +1438,11 @@
       "Size": 4570
     },
     {
+      "Path": "resources/entities/Morcego2.png",
+      "Hash": "6ce0a28e7bbeabc3c865ec5f9d3ae5b5",
+      "Size": 26592
+    },
+    {
       "Path": "resources/entities/Muggle1.png",
       "Hash": "14a58f4c6b19bc3daa64aafb9f44b282",
       "Size": 9613
@@ -1618,9 +1648,19 @@
       "Size": 26723
     },
     {
+      "Path": "resources/entities/Pintinho.png",
+      "Hash": "923a1403324a56758e38e12fcd344612",
+      "Size": 4371
+    },
+    {
       "Path": "resources/entities/Pixie.png",
       "Hash": "eeceb71e28fb04ced0dbac216767071a",
       "Size": 6697
+    },
+    {
+      "Path": "resources/entities/Pomba.png",
+      "Hash": "e1d7e9c27f76e1df364dc915b4cdb651",
+      "Size": 13213
     },
     {
       "Path": "resources/entities/Porco.png",
@@ -1628,9 +1668,14 @@
       "Size": 5813
     },
     {
+      "Path": "resources/entities/Rato.png",
+      "Hash": "a6fb99babe6c0fda4c5649b879b91be7",
+      "Size": 23193
+    },
+    {
       "Path": "resources/entities/Sapo.png",
-      "Hash": "b610e5dc168765912176906e02a37dbe",
-      "Size": 1594
+      "Hash": "e5d59544e4885387312d2523a77df7ce",
+      "Size": 27281
     },
     {
       "Path": "resources/entities/Sereia.png",
@@ -2874,7 +2919,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "1fce413f8099782edc2e27306741c665",
+      "Hash": "e143b9711e42201af4117097aa21cd5b",
       "Size": 31814
     },
     {
