@@ -629,23 +629,23 @@
     },
     {
       "Path": "resources/animations/Spell_Expelliarmus.png",
-      "Hash": "f95773a935b360e17c6de56f6f8fdec8",
-      "Size": 14852
+      "Hash": "8fb067a525ddc3ea723f4765bd72f74e",
+      "Size": 15736
     },
     {
       "Path": "resources/animations/Spell_Flipendo.png",
-      "Hash": "d39a11387e5452c69278a098244ce949",
-      "Size": 12575
+      "Hash": "b0bbbc0cbbfb8e0c3d773d687a9d96f3",
+      "Size": 12330
     },
     {
       "Path": "resources/animations/Spell_Incendio.png",
-      "Hash": "10a948023733489e4b5124f82544af14",
-      "Size": 13540
+      "Hash": "0f4623ae96d510ec5b255a7964a60ef8",
+      "Size": 12191
     },
     {
       "Path": "resources/animations/Spell_Rictusempra.png",
-      "Hash": "c8a2e362b69e1308a12ab40857f894c8",
-      "Size": 15471
+      "Hash": "dfeddb334be2764a45ee3d4f4f0f3ba6",
+      "Size": 15654
     },
     {
       "Path": "resources/animations/StateChaos.png",
