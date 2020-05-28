@@ -48,6 +48,26 @@
       "Size": 495269
     },
     {
+      "Path": "resources/animations/animation.png",
+      "Hash": "1701d983017548a21fbbfbf3cbee9868",
+      "Size": 106960
+    },
+    {
+      "Path": "resources/animations/Animation_Alohomora.png",
+      "Hash": "a88eb137e0f32a17eed91f23154a5999",
+      "Size": 9035
+    },
+    {
+      "Path": "resources/animations/Animation_Incendio.png",
+      "Hash": "6bfc80ae21ae3fb5d89698af69308963",
+      "Size": 46930
+    },
+    {
+      "Path": "resources/animations/Animation_Stupefy.png",
+      "Hash": "c4a096dead576a51476c6f9d83e3943b",
+      "Size": 58061
+    },
+    {
       "Path": "resources/animations/ArrowSpecial.png",
       "Hash": "8c6ad17373651f63d67697bb9fdfe596",
       "Size": 154747
@@ -503,6 +523,31 @@
       "Size": 896103
     },
     {
+      "Path": "resources/animations/Projetil_Expelliarmus.png",
+      "Hash": "8fb067a525ddc3ea723f4765bd72f74e",
+      "Size": 15736
+    },
+    {
+      "Path": "resources/animations/Projetil_Flipendo.png",
+      "Hash": "b0bbbc0cbbfb8e0c3d773d687a9d96f3",
+      "Size": 12330
+    },
+    {
+      "Path": "resources/animations/Projetil_Incendio.png",
+      "Hash": "0f4623ae96d510ec5b255a7964a60ef8",
+      "Size": 12191
+    },
+    {
+      "Path": "resources/animations/Projetil_Rictusempra.png",
+      "Hash": "dfeddb334be2764a45ee3d4f4f0f3ba6",
+      "Size": 15654
+    },
+    {
+      "Path": "resources/animations/Projetil_Stupefy.png",
+      "Hash": "418698953741b61b3c3501291d93c6ea",
+      "Size": 15675
+    },
+    {
       "Path": "resources/animations/Protego.png",
       "Hash": "6a28d87bf3bcad65768c30d1e893ebef",
       "Size": 60248
@@ -626,26 +671,6 @@
       "Path": "resources/animations/Spell.png",
       "Hash": "a7297f60e727b2f144694774900f4fbb",
       "Size": 660
-    },
-    {
-      "Path": "resources/animations/Spell_Expelliarmus.png",
-      "Hash": "8fb067a525ddc3ea723f4765bd72f74e",
-      "Size": 15736
-    },
-    {
-      "Path": "resources/animations/Spell_Flipendo.png",
-      "Hash": "b0bbbc0cbbfb8e0c3d773d687a9d96f3",
-      "Size": 12330
-    },
-    {
-      "Path": "resources/animations/Spell_Incendio.png",
-      "Hash": "0f4623ae96d510ec5b255a7964a60ef8",
-      "Size": 12191
-    },
-    {
-      "Path": "resources/animations/Spell_Rictusempra.png",
-      "Hash": "dfeddb334be2764a45ee3d4f4f0f3ba6",
-      "Size": 15654
     },
     {
       "Path": "resources/animations/StateChaos.png",
