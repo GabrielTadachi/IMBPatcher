@@ -6133,6 +6133,21 @@
       "Size": 80718
     },
     {
+      "Path": "resources/sounds/Fireplace-SoundBible.wav",
+      "Hash": "9d4e43511746a4cc7420bf1aa0e1937b",
+      "Size": 2248748
+    },
+    {
+      "Path": "resources/sounds/Fire_Burning.wav",
+      "Hash": "6bad6c7a5323b207750a9ad28cf32f02",
+      "Size": 1551136
+    },
+    {
+      "Path": "resources/sounds/Fishtank_Bubbles.wav",
+      "Hash": "6dab478c1a12755f8017cf8a54281625",
+      "Size": 4156460
+    },
+    {
       "Path": "resources/sounds/footstep00.wav",
       "Hash": "f0163a7bd384b6e50ea2ab5f710bdeb5",
       "Size": 49486
@@ -6266,6 +6281,11 @@
       "Path": "resources/sounds/knifeSlice2.wav",
       "Hash": "12f566a9b2a6841d0d640c45c599bd29",
       "Size": 111950
+    },
+    {
+      "Path": "resources/sounds/Large Fireball.wav",
+      "Hash": "d3b1dba56773eefb1045f16ed5b1f6db",
+      "Size": 264604
     },
     {
       "Path": "resources/sounds/magic1.wav",
@@ -6866,6 +6886,11 @@
       "Path": "resources/sounds/sword-unsheathe5.wav",
       "Hash": "d99808a565a705542437d024a1dcf482",
       "Size": 123006
+    },
+    {
+      "Path": "resources/sounds/Water Splash.wav",
+      "Hash": "227511b1519428550ca1c2789e7b99b2",
+      "Size": 199612
     },
     {
       "Path": "resources/sounds/wolfman.wav",
