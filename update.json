@@ -53,14 +53,14 @@
       "Size": 6765
     },
     {
+      "Path": "resources/animations/Animation_Aguamenti.png",
+      "Hash": "dbca0d244177150aa71c9148b9ffe3b2",
+      "Size": 13378
+    },
+    {
       "Path": "resources/animations/Animation_Alohomora.png",
       "Hash": "a88eb137e0f32a17eed91f23154a5999",
       "Size": 9035
-    },
-    {
-      "Path": "resources/animations/Animation_Aquamenti.png",
-      "Hash": "dbca0d244177150aa71c9148b9ffe3b2",
-      "Size": 13378
     },
     {
       "Path": "resources/animations/Animation_Avisfors.png",
@@ -578,7 +578,7 @@
       "Size": 896103
     },
     {
-      "Path": "resources/animations/Projetil_Aquamenti.png",
+      "Path": "resources/animations/Projetil_Aguamenti.png",
       "Hash": "6b7d97fc87140f0ded03d615d45d1c0b",
       "Size": 10495
     },
@@ -5903,6 +5903,21 @@
       "Size": 149290
     },
     {
+      "Path": "resources/sounds/Bone Breaking.wav",
+      "Hash": "52bb7063f2ab9f3bc2a5c03ad3f6d045",
+      "Size": 152544
+    },
+    {
+      "Path": "resources/sounds/Bone Crack.wav",
+      "Hash": "695cf0c132f9c6fa51789deaf3b4fd23",
+      "Size": 29804
+    },
+    {
+      "Path": "resources/sounds/Bone Crushing.wav",
+      "Hash": "db40b8acc62e68552f59f40ca2efb137",
+      "Size": 95256
+    },
+    {
       "Path": "resources/sounds/bookClose.wav",
       "Hash": "794852651ea5c7054594c2482cc922df",
       "Size": 46414
@@ -5966,6 +5981,11 @@
       "Path": "resources/sounds/burp.wav",
       "Hash": "dc738834e9ff3379b12e10ad9c3d8561",
       "Size": 349200
+    },
+    {
+      "Path": "resources/sounds/Cargo_Train.wav",
+      "Hash": "48a39cc5c5266195724bf7dbec53be8b",
+      "Size": 8013360
     },
     {
       "Path": "resources/sounds/chainmail1.wav",
@@ -6133,6 +6153,11 @@
       "Size": 80718
     },
     {
+      "Path": "resources/sounds/Fireball+1.wav",
+      "Hash": "fe600d6d33e0aa7b3e3f8ad6184a1920",
+      "Size": 152108
+    },
+    {
       "Path": "resources/sounds/Fireplace-SoundBible.wav",
       "Hash": "9d4e43511746a4cc7420bf1aa0e1937b",
       "Size": 2248748
@@ -6221,6 +6246,11 @@
       "Path": "resources/sounds/giant5.wav",
       "Hash": "056ace2f2bedec6fd9c953ba03dc423a",
       "Size": 205314
+    },
+    {
+      "Path": "resources/sounds/Glass_Break.wav",
+      "Hash": "ccbf14ed1ddff86ff73bf1b6f67bf5a1",
+      "Size": 200680
     },
     {
       "Path": "resources/sounds/handleCoins.wav",
@@ -6653,9 +6683,24 @@
       "Size": 86694
     },
     {
+      "Path": "resources/sounds/spell .wav",
+      "Hash": "16878a821ba0a54d87010fc659ad2260",
+      "Size": 605262
+    },
+    {
       "Path": "resources/sounds/spell.wav",
       "Hash": "506f0c015dea581840c470e7d91bad75",
       "Size": 861816
+    },
+    {
+      "Path": "resources/sounds/steam-train-whistle.wav",
+      "Hash": "5b1716e7cc233cdf2e167ae6b304b82f",
+      "Size": 1107736
+    },
+    {
+      "Path": "resources/sounds/steam-train.wav",
+      "Hash": "3b0df50618a14cffbf7e6d26fba6864c",
+      "Size": 8437116
     },
     {
       "Path": "resources/sounds/swing.wav",
@@ -6886,6 +6931,11 @@
       "Path": "resources/sounds/sword-unsheathe5.wav",
       "Hash": "d99808a565a705542437d024a1dcf482",
       "Size": 123006
+    },
+    {
+      "Path": "resources/sounds/Thunderstorm 2 minute.wav",
+      "Hash": "fff02dd637d60a5c060b09d5af7aa660",
+      "Size": 26760682
     },
     {
       "Path": "resources/sounds/Water Splash.wav",
