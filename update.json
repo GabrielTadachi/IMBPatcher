@@ -58,9 +58,29 @@
       "Size": 9035
     },
     {
+      "Path": "resources/animations/Animation_Aquamenti.png",
+      "Hash": "dbca0d244177150aa71c9148b9ffe3b2",
+      "Size": 13378
+    },
+    {
+      "Path": "resources/animations/Animation_Flipendo.png",
+      "Hash": "afa78d845fa3ff536d25758f7b45dd86",
+      "Size": 72766
+    },
+    {
       "Path": "resources/animations/Animation_Incendio.png",
-      "Hash": "6bfc80ae21ae3fb5d89698af69308963",
-      "Size": 46930
+      "Hash": "3ff1b00286649a62e51bfd96f861b5ca",
+      "Size": 22395
+    },
+    {
+      "Path": "resources/animations/Animation_PetrificusTotalis.png",
+      "Hash": "a5d1692412549449b46e503c1794194e",
+      "Size": 7401
+    },
+    {
+      "Path": "resources/animations/Animation_Rictusempra.png",
+      "Hash": "4aade94b09c21b85a93e9e2cffd04eb1",
+      "Size": 54772
     },
     {
       "Path": "resources/animations/Animation_Stupefy.png",
@@ -353,6 +373,11 @@
       "Size": 3669
     },
     {
+      "Path": "resources/animations/Hit1.2.png",
+      "Hash": "8a4734f2a8eea36436a76b9da75a5763",
+      "Size": 79626
+    },
+    {
       "Path": "resources/animations/Hit1.png",
       "Hash": "d46e829d3a287d8cd5ecf90e5f4b6db0",
       "Size": 119901
@@ -523,6 +548,11 @@
       "Size": 896103
     },
     {
+      "Path": "resources/animations/Projetil_Aquamenti.png",
+      "Hash": "6b7d97fc87140f0ded03d615d45d1c0b",
+      "Size": 10495
+    },
+    {
       "Path": "resources/animations/Projetil_Expelliarmus.png",
       "Hash": "8fb067a525ddc3ea723f4765bd72f74e",
       "Size": 15736
@@ -536,6 +566,11 @@
       "Path": "resources/animations/Projetil_Incendio.png",
       "Hash": "0f4623ae96d510ec5b255a7964a60ef8",
       "Size": 12191
+    },
+    {
+      "Path": "resources/animations/Projetil_PetrificusTotalis.png",
+      "Hash": "2007ce339af0e7cf1a5f0b6d2ef32e15",
+      "Size": 5535
     },
     {
       "Path": "resources/animations/Projetil_Rictusempra.png",
@@ -3014,7 +3049,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "19046c67be187deeabf15e44b4036e63",
+      "Hash": "ef62e12c0a7fb009eb0445337868e324",
       "Size": 11281
     },
     {
@@ -3104,13 +3139,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "4611fcc3d1199c9c9f297fa7b3287e0c",
+      "Hash": "32dc531897f30e2a31bbf96e2896da86",
       "Size": 24309
     },
     {
       "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
-      "Hash": "65d16fac16c4705c25edace4ec89b525",
-      "Size": 2137
+      "Hash": "cc9ddec2c2a09e2fcd69cf649c7437d9",
+      "Size": 2325
     },
     {
       "Path": "resources/gui/layouts/game/TheirTradeItem.json",
