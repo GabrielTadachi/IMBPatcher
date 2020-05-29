@@ -48,9 +48,9 @@
       "Size": 495269
     },
     {
-      "Path": "resources/animations/animation.png",
-      "Hash": "1701d983017548a21fbbfbf3cbee9868",
-      "Size": 106960
+      "Path": "resources/animations/Animation_Acufors-Flintifors.png",
+      "Hash": "d4fba0823563cec14d2573a1f9b91221",
+      "Size": 6765
     },
     {
       "Path": "resources/animations/Animation_Alohomora.png",
@@ -63,6 +63,21 @@
       "Size": 13378
     },
     {
+      "Path": "resources/animations/Animation_Avisfors.png",
+      "Hash": "34f8f5b165f948e7b35d3995ee9a1f7f",
+      "Size": 18196
+    },
+    {
+      "Path": "resources/animations/Animation_Diffindo.png",
+      "Hash": "a442653245f950f6072de197f02d29fa",
+      "Size": 8087
+    },
+    {
+      "Path": "resources/animations/Animation_Evanesco.png",
+      "Hash": "b9d08af61626dde0b52e509a65231178",
+      "Size": 14154
+    },
+    {
       "Path": "resources/animations/Animation_Flipendo.png",
       "Hash": "afa78d845fa3ff536d25758f7b45dd86",
       "Size": 72766
@@ -73,6 +88,11 @@
       "Size": 22395
     },
     {
+      "Path": "resources/animations/Animation_LacarnumInflamari.png",
+      "Hash": "b08de6a6ccb21a7e427829d1cede54d6",
+      "Size": 14263
+    },
+    {
       "Path": "resources/animations/Animation_PetrificusTotalis.png",
       "Hash": "a5d1692412549449b46e503c1794194e",
       "Size": 7401
@@ -81,6 +101,16 @@
       "Path": "resources/animations/Animation_Rictusempra.png",
       "Hash": "4aade94b09c21b85a93e9e2cffd04eb1",
       "Size": 54772
+    },
+    {
+      "Path": "resources/animations/Animation_Serpensortia.png",
+      "Hash": "a6edfac7b3cbfa39cd3ba83e029e22ab",
+      "Size": 37322
+    },
+    {
+      "Path": "resources/animations/Animation_Snufflifors.png",
+      "Hash": "551699d64a876be3cd290d8bb8feaf67",
+      "Size": 9916
     },
     {
       "Path": "resources/animations/Animation_Stupefy.png",
