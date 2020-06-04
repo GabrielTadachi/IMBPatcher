@@ -7128,9 +7128,19 @@
       "Size": 5777
     },
     {
-      "Path": "resources/tilesets/172-1724320_-img-rpg-maker-mv-house-tileset-hd.png.jpg",
-      "Hash": "73751028e72a3cc8259f9066b9cad481",
-      "Size": 473081
+      "Path": "resources/tilesets/1Janelas.png",
+      "Hash": "cd847c49ca686cd8fdf87df9bb902e12",
+      "Size": 317214
+    },
+    {
+      "Path": "resources/tilesets/1Portas.png",
+      "Hash": "5fb8c87d01b4794c3cc94c6c48f1ac31",
+      "Size": 182398
+    },
+    {
+      "Path": "resources/tilesets/1Vitrine.png",
+      "Hash": "48f15838f661b7d7cd05599831fa98f0",
+      "Size": 41252
     },
     {
       "Path": "resources/tilesets/Arvores.png",
@@ -7174,8 +7184,8 @@
     },
     {
       "Path": "resources/tilesets/Avery_Doors.png",
-      "Hash": "67765dc3323bd37183aab197d628836a",
-      "Size": 75808
+      "Hash": "4680224ced58652ec2f1de67b457e5e2",
+      "Size": 78803
     },
     {
       "Path": "resources/tilesets/Avery_Farmhouse.png",
@@ -7246,11 +7256,6 @@
       "Path": "resources/tilesets/Caldeirao.png",
       "Hash": "8347d57d4795226bb12df6520dea66a8",
       "Size": 88753
-    },
-    {
-      "Path": "resources/tilesets/casas.jpg",
-      "Hash": "73751028e72a3cc8259f9066b9cad481",
-      "Size": 473081
     },
     {
       "Path": "resources/tilesets/CasteloTorre.png",
