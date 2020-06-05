@@ -7543,6 +7543,11 @@
       "Size": 1211699
     },
     {
+      "Path": "resources/tilesets/Guarda-sol.png",
+      "Hash": "484bf432360f5d624cc70cf8f71b4e29",
+      "Size": 165435
+    },
+    {
       "Path": "resources/tilesets/Guardinthena_OldPrintingPress.png",
       "Hash": "7728aceaca5b280d0740824180ab5620",
       "Size": 132487
@@ -7771,6 +7776,11 @@
       "Path": "resources/tilesets/Paredes.png",
       "Hash": "308a975174f6c7548af0db6fc75a44b0",
       "Size": 489999
+    },
+    {
+      "Path": "resources/tilesets/Paredes1.png",
+      "Hash": "9691541c25e39e7ac4006545e6200058",
+      "Size": 330616
     },
     {
       "Path": "resources/tilesets/Paredes2.png",
