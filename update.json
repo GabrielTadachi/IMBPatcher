@@ -7353,6 +7353,11 @@
       "Size": 288401
     },
     {
+      "Path": "resources/tilesets/Cidade.png",
+      "Hash": "178fb83b2448ac6eaae26861c17c3e35",
+      "Size": 991686
+    },
+    {
       "Path": "resources/tilesets/Cyanide-Noble-Interior-1.png",
       "Hash": "e77cbc1bd3dba3449e9851c7c83a2595",
       "Size": 601952
@@ -7621,6 +7626,11 @@
       "Path": "resources/tilesets/Kadokawa-Enterbrain_Gothic.png",
       "Hash": "e332baa46df45449c6d4793af2bb83fb",
       "Size": 549591
+    },
+    {
+      "Path": "resources/tilesets/kissclipart-landmark-clipart-rpg-maker-mv-tilefb1b.png",
+      "Hash": "37477015d7c7fe1a546f5bd52ccc636f",
+      "Size": 978581
     },
     {
       "Path": "resources/tilesets/luzes.png",
