@@ -3199,7 +3199,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "32dc531897f30e2a31bbf96e2896da86",
+      "Hash": "769e59f77b0ca5b8dbf304d82ff40858",
       "Size": 24309
     },
     {
@@ -7503,6 +7503,11 @@
       "Size": 311241
     },
     {
+      "Path": "resources/tilesets/Estante varinhas.png",
+      "Hash": "b2b69d177f8c6f5da4daa0ed8e304ec9",
+      "Size": 16324
+    },
+    {
       "Path": "resources/tilesets/estufas1.png",
       "Hash": "14dfce53e9ba6f09ca074d0162c75dd2",
       "Size": 220049
@@ -7656,6 +7661,11 @@
       "Path": "resources/tilesets/modern_cyberpunk_cyanlqjr3.png",
       "Hash": "a9e3117c594d47a53482f98db4f82909",
       "Size": 670105
+    },
+    {
+      "Path": "resources/tilesets/moveis comunais.png",
+      "Hash": "520f03da607949088e0c14f235a23540",
+      "Size": 549786
     },
     {
       "Path": "resources/tilesets/Moveis.png",
