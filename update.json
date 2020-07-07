@@ -1179,8 +1179,8 @@
     },
     {
       "Path": "resources/entities/fernanda.png",
-      "Hash": "e58f603858db19727afd6d15e6e173d6",
-      "Size": 9523
+      "Hash": "3aea5e971187ea96eda20c6978156d9d",
+      "Size": 12018
     },
     {
       "Path": "resources/entities/FivelaFilho.png",
@@ -3109,8 +3109,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "ef62e12c0a7fb009eb0445337868e324",
-      "Size": 11281
+      "Hash": "7b983b4118b87d7af70602c0c3056c64",
+      "Size": 11280
     },
     {
       "Path": "resources/gui/layouts/game/InventoryItem.json",
