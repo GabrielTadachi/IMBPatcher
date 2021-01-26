@@ -365,6 +365,11 @@
       "1": "Take"
     },
     "amount": "Amount:",
+    "amounttype": "Amount Type",
+    "variable": "Variable",
+    "manual": "Manual",
+    "playervariable": "Player Variable",
+    "servervariable": "Global Variable",
     "cancel": "Cancel",
     "item": "Item:",
     "method": "Method:",
@@ -583,7 +588,17 @@
     "wait": "Wait {00}ms",
     "waitforroute": "Wait for Move Route Completion of {00}",
     "warp": "Warp Player [Map: {00} X: {01} Y: {02} Dir: {03}]",
-    "whenoption": "When [{00}]"
+    "whenoption": "When [{00}]",
+    "changeplayercolor": "Change Player Color to: R: {00} G: {01} B: {02} A: {03}"
+  },
+  "EventChangePlayerColor": {
+    "cancel": "Cancel",
+    "okay": "Ok",
+    "title": "Change Player Color",
+    "red": "Red:",
+    "green": "Green:",
+    "blue": "Blue:",
+    "alpha": "Alpha:"
   },
   "EventCommands": {
     "commands": {
@@ -645,6 +660,7 @@
       "changenamecolor": "Change Name Color",
       "inputvariable": "Input Variable",
       "changeplayerlabel": "Change Player Label",
+      "changeplayercolor": "Change Player Color",
       "changehair": "Change Hair"
     }
   },
@@ -761,7 +777,10 @@
     "type": "Condition Type:",
     "value": "Static Value:",
     "variable": "Variable Is...",
-    "freeinventoryslots": "Has X free Inventory slots"
+    "freeinventoryslots": "Has X free Inventory slots",
+    "amounttype": "Amount Type",
+    "variablelabel": "Variable",
+    "manual": "Manual"
   },
   "EventConditionDesc": {
     "admin": "Admin",
@@ -913,7 +932,12 @@
     "cancel": "Cancel",
     "label": "Give Experience:",
     "okay": "Ok",
-    "title": "Give Experience"
+    "title": "Give Experience",
+    "amounttype": "Amount Type",
+    "variable": "Variable",
+    "manual": "Manual",
+    "playervariable": "Player Variable",
+    "servervariable": "Global Variable"
   },
   "EventGotoLabel": {
     "cancel": "Cancel",
@@ -1192,7 +1216,8 @@
     "title": "Warp"
   },
   "General": {
-    "none": "None"
+    "none": "None",
+    "missing": "Missing Translation"
   },
   "ItemEditor": {
     "abilitypowerbonus": "Ability Pwr:",
@@ -1227,6 +1252,10 @@
     "consumeablepanel": "Consumable",
     "consumeamount": "Amount:",
     "cooldown": "Cooldown (ms):",
+    "cooldowngroup": "Cooldown Group:",
+    "cooldowngrouptitle": "Add Cooldown Group",
+    "cooldowngroupprompt": "Enter a name for the cooldown group you'd like to add:",
+    "ignoreglobalcooldown": "Ignore Global Cooldown?",
     "copy": "Copy Item",
     "critchance": "Crit Chance (%):",
     "critmultiplier": "Crit Multiplier (Default 1.5x):",
@@ -1258,6 +1287,10 @@
     "new": "New Item",
     "paste": "Paste Item",
     "picture": "Pic:",
+    "red": "Red:",
+    "green": "Green:",
+    "blue": "Blue:",
+    "alpha": "Alpha:",
     "price": "Price:",
     "rarity": {
       "0": "None",
@@ -1361,7 +1394,6 @@
     "npceditor": "Npc Editor",
     "options": "Options",
     "overlay": "Overlay",
-    "packtextures": "Pack Client Textures",
     "paste": "Paste",
     "pen": "Pen Tool",
     "postquestion": "Post Question",
@@ -1559,6 +1591,10 @@
     "spell": "Spell:",
     "spells": "Spells",
     "sprite": "Sprite",
+    "red": "Red:",
+    "green": "Green:",
+    "blue": "Blue:",
+    "alpha": "Alpha:",
     "stats": "Stats:",
     "swarm": "Swarm",
     "title": "Npc Editor",
@@ -1584,7 +1620,13 @@
     "generaltab": "General",
     "pathgroup": "Client Path",
     "tilesetwarning": "Suppress large tileset size warning.",
-    "title": "Options"
+    "title": "Options",
+    "updatetab": "Update",
+    "packageupdates": "Package assets when generating updates.",
+    "packageoptions": "Asset Packing Options",
+    "musicbatch": "Music Batch Size",
+    "soundbatch": "Sound Batch Size",
+    "texturesize": "Texture Pack Size"
   },
   "ProgressForm": {
     "cancel": "Cancel"
@@ -1776,6 +1818,10 @@
     "casttime": "Cast Time (ms):",
     "combatspell": "Combat Spell",
     "cooldown": "Cooldown (ms):",
+    "cooldowngroup": "Cooldown Group:",
+    "cooldowngrouptitle": "Add Cooldown Group",
+    "cooldowngroupprompt": "Enter a name for the cooldown group you'd like to add:",
+    "ignoreglobalcooldown": "Ignore Global Cooldown?",
     "copy": "Copy Spell",
     "cost": "Spell Cost:",
     "critchance": "Crit Chance (%):",
@@ -1930,12 +1976,14 @@
       "2": "Kill Npc(s) [{00} x{01}] - {02}"
     }
   },
-  "TexturePacking": {
-    "title": "Packing textures, please wait!",
+  "AssetPacking": {
+    "title": "Packing assets, please wait!",
     "deleting": "Deleting old packs...",
-    "collecting": "Creating packing list...",
-    "calculating": "Calculating rects...",
+    "collecting": "Creating texture packing list...",
+    "calculating": "Calculating texture rects...",
     "exporting": "Exporting textures...",
+    "sounds": "Packing up sounds...",
+    "music": "Packing up music...",
     "done": "Done!"
   },
   "Tiles": {
@@ -1946,12 +1994,12 @@
     "cliff": "Cliff           [VX Format]",
     "fake": "Fake         [VX Format]",
     "layer": "Layer:",
-    "layers": {
-      "0": "Ground",
-      "1": "Mask",
-      "2": "Mask 2",
-      "3": "Fringe",
-      "4": "Fringe 2"
+    "maplayers": {
+      "ground": "Ground",
+      "mask 1": "Mask 1",
+      "mask 2": "Mask 2",
+      "fringe 1": "Fringe 1",
+      "fringe 2": "Fringe 2"
     },
     "normal": "Normal",
     "tileset": "Tileset:",

@@ -118,7 +118,8 @@
     "enterchat2": "Pressione {00} ou {01} para conversar.",
     "send": "Enviar",
     "title": "Conversas",
-    "toofast": "Você está enviando mensagens muito rapído!"
+    "toofast": "Você está enviando mensagens muito rapído!",
+    "unabletocopy": "It appears you are not able to copy/paste on this platform. Please make sure you have either the 'xclip' or 'wl-clipboard' packages installed if you are running Linux."
   },
   "Colors": {
     "presets": {
