@@ -24,13 +24,13 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "1306d4aa2da5e978b55c5774766fc2ff",
-      "Size": 24199
+      "Hash": "b3dd20686ce1f1739f1ad693dfe7d5cb",
+      "Size": 24433
     },
     {
       "Path": "resources/config.json",
-      "Hash": "eab7343faee4366e06873af54bbc4628",
-      "Size": 437
+      "Hash": "966d05f5d4f9b539478461f293c27587",
+      "Size": 459
     },
     {
       "Path": "resources/credits.json",
@@ -3018,6 +3018,11 @@
       "Size": 290
     },
     {
+      "Path": "resources/gui/layouts/game/AnnouncementWindow.json",
+      "Hash": "8729c11b9c7b0a649141e99d54c98d14",
+      "Size": 1558
+    },
+    {
       "Path": "resources/gui/layouts/game/BagItem.json",
       "Hash": "e7e42211fb1e4ef97121d6b4366a80ec",
       "Size": 2390
@@ -3034,7 +3039,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/BankWindow.json",
-      "Hash": "8b0dca25ed9bf62d1bd34cffa5c2a925",
+      "Hash": "3c423b00ac8deaf73278579d596afbd4",
       "Size": 14736
     },
     {
@@ -3044,8 +3049,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
-      "Hash": "6ec3532106aee3acdbc1a60069ddf3f7",
-      "Size": 29674
+      "Hash": "776e32b5306c916c078c590974c4655a",
+      "Size": 35409
     },
     {
       "Path": "resources/gui/layouts/game/CraftedItem.json",
@@ -3133,6 +3138,16 @@
       "Size": 8299
     },
     {
+      "Path": "resources/gui/layouts/game/MapItemIcon.json",
+      "Hash": "63a6d05b1c63ec35af393bc905c6d25d",
+      "Size": 2274
+    },
+    {
+      "Path": "resources/gui/layouts/game/MapItemWindow.json",
+      "Hash": "eb9fdb4ddaf93e488e1e581392db075d",
+      "Size": 12375
+    },
+    {
       "Path": "resources/gui/layouts/game/MenuContainer.json",
       "Hash": "813505ef5a01fc5af926b98ca979e436",
       "Size": 15743
@@ -3149,7 +3164,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "0c52dfbb90c67f3f2a5bb44bbf5f705c",
+      "Hash": "a963dc3e249030f6c3081e0b1b79cc54",
       "Size": 24139
     },
     {
@@ -3174,7 +3189,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "c207dca69c1f742cf4d45aa15bf90fb1",
+      "Hash": "49f291db8fd2492f08ff13123a00b9c5",
       "Size": 14737
     },
     {
@@ -5034,18 +5049,23 @@
     },
     {
       "Path": "resources/music/BomBocado.ogg",
-      "Hash": "7b00c43530c7945a05a4d744a8d88fc6",
-      "Size": 1156550
+      "Hash": "9cdf6871209d58d231f9a18d9e5bbc03",
+      "Size": 1042473
     },
     {
       "Path": "resources/music/CasaAbandonada.ogg",
-      "Hash": "f6a7625ae8422dffca5e7992d5f08186",
-      "Size": 1745012
+      "Hash": "b2e7ba74689441827b78d9c1286548c9",
+      "Size": 1454229
+    },
+    {
+      "Path": "resources/music/Estacao.ogg",
+      "Hash": "8a41b64bf6983acf4c0acf265b7a50eb",
+      "Size": 2093678
     },
     {
       "Path": "resources/music/LargoArruaceiro.ogg",
-      "Hash": "6343303b39818f2852a1694efdce230d",
-      "Size": 2502686
+      "Hash": "dcdaf065ea6b716a379eedeb14a49acc",
+      "Size": 1207811
     },
     {
       "Path": "resources/packs/6.png",
@@ -6971,6 +6991,11 @@
       "Path": "resources/sounds/Thunderstorm 2 minute.wav",
       "Hash": "fff02dd637d60a5c060b09d5af7aa660",
       "Size": 26760682
+    },
+    {
+      "Path": "resources/sounds/wandChoose.wav",
+      "Hash": "8fb6a51b6094197cde2687e4f215ebaf",
+      "Size": 7023680
     },
     {
       "Path": "resources/sounds/Water Splash.wav",

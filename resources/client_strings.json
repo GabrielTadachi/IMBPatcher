@@ -288,13 +288,18 @@
     "spells": "Livro de Encantamentos"
   },
   "General": {
-    "none": "Nenhum"
+    "none": "Nenhum",
+    "mapitemstackable": "{01} {00}"
   },
   "InputBox": {
     "cancel": "Cancelar",
     "no": "Não",
     "okay": "Okay",
     "yes": "Sim"
+  },
+  "MapItemWindow": {
+    "title": "Loot",
+    "lootbutton": "Loot All"
   },
   "Inventory": {
     "cooldown": "{00}s",
@@ -578,6 +583,7 @@
     "autoclosewindows": "Auto-close Windows",
     "musicvolume": "Music Volume: {00}%",
     "resolution": "Resolution:",
+    "resolutioncustom": "Custom Resolution",
     "restore": "Restore Defaults",
     "soundvolume": "Sound Volume: {00}%",
     "targetfps": "Target FPS:",
@@ -777,5 +783,8 @@
     "files": "{00} Arquivos Restantes",
     "size": "{00} Restante",
     "percent": "{00}%"
+  },
+  "GameWindow": {
+    "entitynameandlevel": "{00} [Lv. {01}]"
   }
 }
