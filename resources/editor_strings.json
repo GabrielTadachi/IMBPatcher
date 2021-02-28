@@ -385,7 +385,8 @@
     "cancel": "Cancel",
     "item": "Item:",
     "okay": "Ok",
-    "title": "Equip Player Items"
+    "title": "Equip Player Items",
+    "unequip": "Unequip?"
   },
   "EventChangeVital": {
     "cancel": "Cancel",
@@ -407,6 +408,12 @@
     "select": "Select Color",
     "adminoverride": "Override Admin Name Color?",
     "remove": "Remove Name Color?"
+  },
+  "EventChangeName": {
+    "cancel": "Cancel",
+    "okay": "Ok",
+    "title": "Change Name",
+    "variable": "Player Variable:"
   },
   "EventChangeSpells": {
     "action": "Action: ",
@@ -462,8 +469,10 @@
     "animationrelativedir": "Spawn Relative To Direction",
     "animationrelativerotate": "Spawn And Rotate Relative To Direction",
     "animationrotatedir": "Rotate Relative To Direction",
+    "changename": "Change Name to Variable: {00}",
     "changeitems": "Change Player Items [{00}]",
     "equipitem": "Equip Player Item [{00}]",
+    "unequipitem": "Unequip Player Item [{00}]",
     "changespells": "Change Player Spells [{00}]",
     "chatboxtext": "Show Chatbox Text [Channel: {00}, Color: {01}] - {02}",
     "chatglobal": "Global",
@@ -495,6 +504,7 @@
     "endoptions": "End Options",
     "endquest": "End Quest [{00}, {01}]",
     "endspell": "End Spell Change",
+    "endname": "End Name Change",
     "endstartquest": "End Start Quest",
     "exitevent": "Exit Event Processing",
     "fadeoutbgm": "Fadeout BGM",
@@ -575,6 +585,8 @@
     "spawnonplayer": "On Player [X Offset: {00} Y Offset: {01} Dir: {02}]",
     "spellfailed": "Spell Not Taught/Moved (Already Knew/Spellbook full/Didn't Know)",
     "spellsucceeded": "Spell Taught/Removed Successfully",
+    "namesucceeded": "Name Changed Successfully",
+    "namefailed": "Name Not Changed (Taken, Invalid etc.)",
     "startquest": "Start Quest [{00}, {01}]",
     "stopsounds": "Stop Sounds",
     "subtractvariable": "Subtract {00}",
@@ -661,6 +673,7 @@
       "inputvariable": "Input Variable",
       "changeplayerlabel": "Change Player Label",
       "changeplayercolor": "Change Player Color",
+      "changename": "Change Player Name",
       "changehair": "Change Hair"
     }
   },
@@ -1560,10 +1573,12 @@
     "magicresist": "Magic Resist:",
     "mana": "Mana:",
     "movement": "Movement",
+    "resetradius": "Reset Radius:",
     "movements": {
       "0": "Move Randomly",
       "1": "Turn Randomly",
-      "2": "Stand Still"
+      "2": "Stand Still",
+      "3": "Static"
     },
     "mpregen": "MP (%):",
     "name": "Name:",
