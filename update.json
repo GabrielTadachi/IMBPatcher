@@ -24,8 +24,8 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "b3dd20686ce1f1739f1ad693dfe7d5cb",
-      "Size": 24433
+      "Hash": "87daa1a645dc9a6c24755c24360bbe81",
+      "Size": 24626
     },
     {
       "Path": "resources/config.json",
@@ -3044,8 +3044,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "31b1b1a47f81cd102a13e43badaaba56",
-      "Size": 30131
+      "Hash": "b3938d467d8d63dd70a3c9b09511e644",
+      "Size": 31864
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
@@ -3164,7 +3164,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "a963dc3e249030f6c3081e0b1b79cc54",
+      "Hash": "87e2752c3e264de63db91d48e647257c",
       "Size": 24139
     },
     {
@@ -3214,7 +3214,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "055664913570ce714cce86dfeb757b90",
+      "Hash": "d3646b3b8fa9df0dbd67370c006b3de2",
       "Size": 24309
     },
     {
@@ -3259,8 +3259,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "4ae7f882f0a5ae2628babe852d8b370a",
-      "Size": 11358
+      "Hash": "fb3812d8a1f038dc17edb19e08be23e9",
+      "Size": 11357
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",

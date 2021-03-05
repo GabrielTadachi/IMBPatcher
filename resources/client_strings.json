@@ -216,7 +216,8 @@
     "title": "Debug",
     "x": "X: {00}",
     "y": "Y: {00}",
-    "z": "Z: {00}"
+    "z": "Z: {00}",
+    "interfaceobjects": "Interface Objects: {00}"
   },
   "EntityBox": {
     "nameandlevel": "{00}    {01}",
@@ -272,6 +273,7 @@
     "addfriend": "Adicionar Amigo",
     "addfriendtitle": "Adicionar Amigo",
     "addfriendprompt": "Quem você gostaria de adicionar como amigo?",
+    "infight": "You are currently fighting!",
     "removefriend": "Remover Amigo",
     "removefriendprompt": "Você deseja remover {00} da sua lista de amigos?",
     "request": "Pedido de Amizade",
@@ -592,6 +594,7 @@
     "vsync": "V-Sync"
   },
   "Parties": {
+    "infight": "You are currently fighting!",
     "inviteprompt": "{00} te convidou para uma Party. Você aceita?",
     "kick": "Kickar {00}",
     "kicklbl": "Kickar",
@@ -747,6 +750,7 @@
   },
   "Trading": {
     "accept": "Aceitar",
+    "infight": "You are currently fighting!",
     "offeritem": "Oferecer Item",
     "offeritemprompt": "Quanto(s) {00} você deseja oferecer?",
     "pending": "Pendente",
