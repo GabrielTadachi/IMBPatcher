@@ -7708,6 +7708,11 @@
       "Size": 1211699
     },
     {
+      "Path": "resources/tilesets/fogo.png",
+      "Hash": "cad3645c4ff6b3ecdcdad2a9278306eb",
+      "Size": 8159
+    },
+    {
       "Path": "resources/tilesets/Fuffydud - Flags and Tapestries.png",
       "Hash": "22e916ff8b15d569145d32de83a83cdb",
       "Size": 474859
@@ -8351,6 +8356,16 @@
       "Path": "resources/tilesets/whtdragon 16.png",
       "Hash": "2f4c2da4d46ff077e9919163447f86d9",
       "Size": 726856
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 17-1.png",
+      "Hash": "2a21a85b9706678d6ce6aa739f791d79",
+      "Size": 861659
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 17-2.png",
+      "Hash": "dd5b01468aa46391ffc70f8bb8649426",
+      "Size": 850466
     },
     {
       "Path": "resources/tilesets/whtdragon 18.png",
