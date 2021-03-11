@@ -1,5 +1,5 @@
 {
-  "Bounds": "457,317,452,213",
+  "Bounds": "734,473,452,213",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,40",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "ServerStatusLabel": {
-      "Bounds": "0,198,123,15",
+      "Bounds": "0,199,122,14",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

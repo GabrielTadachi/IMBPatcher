@@ -29,8 +29,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Hash": "351ae1823a4904f243bc9c4bdd2910a6",
-      "Size": 454
+      "Hash": "32526d2d6bbfe82249b93e8b358164e8",
+      "Size": 453
     },
     {
       "Path": "resources/credits.json",
@@ -3079,12 +3079,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/EscapeMenu.json",
-      "Hash": "796c8951e97392c4b79253965c78441c",
+      "Hash": "309dcc1df7de5109818780d70400209d",
       "Size": 8286
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_1Response.json",
-      "Hash": "e4ac23e27d4c901af36b8ca578da55af",
+      "Hash": "968aa646c1c50f45cd8cdf97acc9b71c",
       "Size": 25253
     },
     {
@@ -3104,17 +3104,17 @@
     },
     {
       "Path": "resources/gui/layouts/game/FriendsWindow.json",
-      "Hash": "10f6fa9f208135a8ff7047a033d8fce3",
+      "Hash": "4d50b942e9bb652d8cf605f6d6738520",
       "Size": 19830
     },
     {
       "Path": "resources/gui/layouts/game/HotbarWindow.json",
-      "Hash": "5d77c882d2e44562bc9648c8c7c99d0f",
-      "Size": 59354
+      "Hash": "697fb758e2806572c7c4a7e78db71660",
+      "Size": 59355
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "19046c67be187deeabf15e44b4036e63",
+      "Hash": "6a3addc73d8c3a346dfebb2f8837bfba",
       "Size": 11281
     },
     {
@@ -3124,7 +3124,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InventoryWindow.json",
-      "Hash": "01eb35ad9162ff39f25a58849a84a977",
+      "Hash": "25b581de60e3e88e291f81070199bfb5",
       "Size": 14734
     },
     {
@@ -3149,17 +3149,17 @@
     },
     {
       "Path": "resources/gui/layouts/game/MenuContainer.json",
-      "Hash": "1d61c4b820f4c8e7712872bb9848b507",
-      "Size": 15742
+      "Hash": "813505ef5a01fc5af926b98ca979e436",
+      "Size": 15743
     },
     {
       "Path": "resources/gui/layouts/game/OptionsWindow.json",
-      "Hash": "05ea203adbc0c1ac80338218d70b2982",
+      "Hash": "b83f86d1d74d3d6dc4d67bc15d94a73b",
       "Size": 211411
     },
     {
       "Path": "resources/gui/layouts/game/PartyWindow.json",
-      "Hash": "da7d2cfd5578ec342f872106ea9ed54a",
+      "Hash": "29328cc7b9298516a00e3d61a185130b",
       "Size": 44795
     },
     {
@@ -3174,12 +3174,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Hash": "b71df00f8d3b3949f65c989246837734",
+      "Hash": "76bc6561c6db0d7da00e2d61dfbaf218",
       "Size": 19745
     },
     {
       "Path": "resources/gui/layouts/game/QuestsWindow.json",
-      "Hash": "daf3d16d6e86a9e3bc8bcbd719e758b4",
+      "Hash": "cdbc3e38071da6a93b35631d448a97b8",
       "Size": 31516
     },
     {
@@ -3199,8 +3199,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/SpellDescWindow.json",
-      "Hash": "f574e6d69978c3d93c4301355809d5be",
-      "Size": 4610
+      "Hash": "de93ea64e637fe1fbeb2971b8e004e6d",
+      "Size": 4819
     },
     {
       "Path": "resources/gui/layouts/game/SpellDescWindowExpanded.json",
@@ -3209,7 +3209,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/SpellsWindow.json",
-      "Hash": "735f3d508cd3999c97e917de52835ec0",
+      "Hash": "5ee521669df926ab5a60aeff6cccfa8f",
       "Size": 14717
     },
     {
@@ -3224,78 +3224,78 @@
     },
     {
       "Path": "resources/gui/layouts/game/TheirTradeItem.json",
-      "Hash": "8595371d6349919ec272f07dc6610684",
-      "Size": 2194
+      "Hash": "a34151db46a63f0f3b733b83deb1a207",
+      "Size": 2351
     },
     {
       "Path": "resources/gui/layouts/game/TradeWindow.json",
-      "Hash": "13ca63fb839904bf9948447ead53f84d",
+      "Hash": "0ea187c1095a8f7fd5b0dd8717278c16",
       "Size": 30941
     },
     {
       "Path": "resources/gui/layouts/game/YourTradeItem.json",
-      "Hash": "b9e18c65e8bd16352490f893e0938b1d",
-      "Size": 2248
+      "Hash": "6b82197dd3f8ae9148f0fb6262e475b4",
+      "Size": 2371
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
-      "Hash": "00f8a674a0c6e3b7720e668fb584bbf8",
+      "Hash": "269c1ef01bca9f1011156ce54f4bf785",
       "Size": 38169
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterSelectionWindow.json",
-      "Hash": "9479bdbaa679fcd198ad5c5c741e382a",
+      "Hash": "5aafa3590c467ae28c82f351e60a4815",
       "Size": 12341
     },
     {
       "Path": "resources/gui/layouts/menu/CreditsWindow.json",
-      "Hash": "dac154b17f569a152cf3646cdf561319",
+      "Hash": "ff9319fb06e96867af9e58700f9d3735",
       "Size": 13816
     },
     {
       "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
-      "Hash": "3fa67ea1fe7053024b3a939c61df32f3",
+      "Hash": "6f8351e36f9eb28969872724b18316ac",
       "Size": 8194
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "fb3812d8a1f038dc17edb19e08be23e9",
-      "Size": 11357
+      "Hash": "4ae7f882f0a5ae2628babe852d8b370a",
+      "Size": 11358
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Hash": "35e03387d627ebea646527c674af9036",
+      "Hash": "5ac21861aff11e6d156ec57ec6db58bf",
       "Size": 14497
     },
     {
       "Path": "resources/gui/layouts/menu/Logo.json",
-      "Hash": "4fdd57ba2d24e98d5a6741f3d48715b8",
+      "Hash": "0e11fc4364da1d119769b3fceb875896",
       "Size": 628
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
-      "Hash": "a4791ba538745e70125b69ec5c50e6bb",
+      "Hash": "8ab981897d3d514b7f9ca9d0486482db",
       "Size": 9188
     },
     {
       "Path": "resources/gui/layouts/menu/OptionsWindow.json",
-      "Hash": "05ea203adbc0c1ac80338218d70b2982",
+      "Hash": "b83f86d1d74d3d6dc4d67bc15d94a73b",
       "Size": 211411
     },
     {
       "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
-      "Hash": "f8472ea8a780e20334d915212f3bc375",
+      "Hash": "888408d43cf4349ee68f0c73b9834dd5",
       "Size": 16384
     },
     {
       "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
-      "Hash": "f748f1362210c863b018fc109cc3ee92",
+      "Hash": "1197e49c81986b0b686a20b12ff5a570",
       "Size": 13329
     },
     {
       "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
-      "Hash": "eeacfada7f46e7a6e845fd031a0a5369",
-      "Size": 1611
+      "Hash": "e597ad5543e2f0f8da653ae06731f0d4",
+      "Size": 1612
     },
     {
       "Path": "resources/images/BlueSky.png",
@@ -7173,6 +7173,21 @@
       "Size": 41252
     },
     {
+      "Path": "resources/tilesets/964-9649783_flower-vine-png-tileset-rpg-maker-mv (1).png",
+      "Hash": "371b9105326306fde288bcf9db1bc18b",
+      "Size": 439005
+    },
+    {
+      "Path": "resources/tilesets/Arc's Gabled Roofs.png",
+      "Hash": "73b168399c5675133ed13e813801509d",
+      "Size": 397820
+    },
+    {
+      "Path": "resources/tilesets/Arc's Gabled Roofs2.png",
+      "Hash": "199ddfbac3d88c683d0eb39ed3d1b9e7",
+      "Size": 198719
+    },
+    {
       "Path": "resources/tilesets/Arvores.png",
       "Hash": "25fc537c392f4afa6e25fd60fdc0cf05",
       "Size": 753380
@@ -7271,6 +7286,96 @@
       "Path": "resources/tilesets/Bandeiras.png",
       "Hash": "bb7242d42553680f8c7567510e576773",
       "Size": 70633
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs1+2_Candacis.png",
+      "Hash": "f4c06c0e9960a9730998b1218a86ed08",
+      "Size": 401002
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs1+2_recolor1.png",
+      "Hash": "4d293d98b7f499a8b06f63e4d8f6d88d",
+      "Size": 360905
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs1+2_recolor2.png",
+      "Hash": "fbfd22616ecce40c8a2078caac63d94a",
+      "Size": 402815
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs3+4_Candacis.png",
+      "Hash": "7bd6e5e83e08aa99ff424b4e48d4cc73",
+      "Size": 341298
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs3+4_recolor1.png",
+      "Hash": "975b69e48b45695dee9b073663e74df8",
+      "Size": 339017
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs3+4_recolor2.png",
+      "Hash": "0e14ccfbe07eeb904d12c1c478696d61",
+      "Size": 341643
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs5+6_Candacis.png",
+      "Hash": "43366038bfaf6e868efea0ceea3ac2cd",
+      "Size": 511074
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs5+6_recolor1.png",
+      "Hash": "1abf788e87b844cef1f1af8608a47623",
+      "Size": 507995
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs5+6_recolor2.png",
+      "Hash": "944eef4bee86c796871dc3820bfa0afa",
+      "Size": 489585
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs7+8_Candacis.png",
+      "Hash": "25a4f83c8becfde4fe8b9d244a7c28e0",
+      "Size": 355458
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs7+8_recolor1.png",
+      "Hash": "b62cca0d4218ab937196127eef75bf95",
+      "Size": 355550
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs7+8_recolor2.png",
+      "Hash": "62a657918204aafb12f4ee39d8e8c4a1",
+      "Size": 350213
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs9+10_Candacis.png",
+      "Hash": "0eb2004f0877f077d2f5fe4eae321ea2",
+      "Size": 498873
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs9+10_recolor1.png",
+      "Hash": "f1121e9953ce9519ecb1de632370ee9e",
+      "Size": 483086
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs9+10_recolor2.png",
+      "Hash": "935339e1c2d859b45db9532c9b033c35",
+      "Size": 488881
+    },
+    {
+      "Path": "resources/tilesets/basic_roofs_diy_Candacis.png",
+      "Hash": "a106add2d160be0b1a813bf5285a5950",
+      "Size": 170706
+    },
+    {
+      "Path": "resources/tilesets/Bokou_Steampunk_A4.png",
+      "Hash": "cb087015fcaef7c6e200ac16f4a16634",
+      "Size": 801085
+    },
+    {
+      "Path": "resources/tilesets/Bokou_Steampunk_E.png",
+      "Hash": "4c01b7471be5325aab714cbe5ae9ede4",
+      "Size": 639972
     },
     {
       "Path": "resources/tilesets/Brasoes.png",
@@ -7386,6 +7491,11 @@
       "Path": "resources/tilesets/Cidade.png",
       "Hash": "6f55b97af464a98a054580e80af658c5",
       "Size": 992178
+    },
+    {
+      "Path": "resources/tilesets/Cvrtis Mirrors 1.png",
+      "Hash": "93ddcb874f94f3eb62a40ce29a798949",
+      "Size": 298997
     },
     {
       "Path": "resources/tilesets/Cyanide-Noble-Interior-1.png",
@@ -7538,6 +7648,21 @@
       "Size": 16324
     },
     {
+      "Path": "resources/tilesets/estante1.png",
+      "Hash": "c3e144d9ca0de309372980a4549a4be1",
+      "Size": 41840
+    },
+    {
+      "Path": "resources/tilesets/estante2.png",
+      "Hash": "b64fbc25b370c85da3ed718ebfb0f5c6",
+      "Size": 29020
+    },
+    {
+      "Path": "resources/tilesets/estante3.png",
+      "Hash": "1acc02ca6d5f3a0999258b5840332a94",
+      "Size": 21137
+    },
+    {
       "Path": "resources/tilesets/estufas1.png",
       "Hash": "14dfce53e9ba6f09ca074d0162c75dd2",
       "Size": 220049
@@ -7583,6 +7708,51 @@
       "Size": 1211699
     },
     {
+      "Path": "resources/tilesets/Fuffydud - Flags and Tapestries.png",
+      "Hash": "22e916ff8b15d569145d32de83a83cdb",
+      "Size": 474859
+    },
+    {
+      "Path": "resources/tilesets/Fuffydud - Houseplants.png",
+      "Hash": "abe5ef7a0360f13a7da885f68f38726a",
+      "Size": 640204
+    },
+    {
+      "Path": "resources/tilesets/Fuffydud - Paintings 1.png",
+      "Hash": "886b8e7ef0864838a6deaa14f853aa6d",
+      "Size": 236709
+    },
+    {
+      "Path": "resources/tilesets/Fuffydud - Paintings 2.png",
+      "Hash": "aa88bf61845ea6acad245541c52a2a0b",
+      "Size": 230072
+    },
+    {
+      "Path": "resources/tilesets/Fuffydud - Paintings 3.png",
+      "Hash": "9131215849d95ecdfb188752c5a238e8",
+      "Size": 220213
+    },
+    {
+      "Path": "resources/tilesets/Fuffydud - Paintings 4.png",
+      "Hash": "7ee3a7e8d819d5676abdb1c7b6ccaa95",
+      "Size": 558477
+    },
+    {
+      "Path": "resources/tilesets/Fuffydud - Paintings 5.png",
+      "Hash": "6022671191eb7d21a1cdd1db5da17295",
+      "Size": 203952
+    },
+    {
+      "Path": "resources/tilesets/Fuffydud - Statues.png",
+      "Hash": "f6bae357d90b1046252f0f2764a1c8ba",
+      "Size": 879654
+    },
+    {
+      "Path": "resources/tilesets/GlowOrbStatues(editrecolourbyCvrtis).png",
+      "Hash": "abb2ec0a3db3dc9198b67869d9e05b9d",
+      "Size": 74330
+    },
+    {
       "Path": "resources/tilesets/Guarda-sol.png",
       "Hash": "484bf432360f5d624cc70cf8f71b4e29",
       "Size": 165435
@@ -7621,6 +7791,31 @@
       "Path": "resources/tilesets/harvest_market1_Candacis.png",
       "Hash": "0ca263ba0c3fb8f7c24590ff137314d4",
       "Size": 1077682
+    },
+    {
+      "Path": "resources/tilesets/Iliketea1.png",
+      "Hash": "a33d79fb14fec2f06801afccebbe6a29",
+      "Size": 35520
+    },
+    {
+      "Path": "resources/tilesets/Iliketea2.png",
+      "Hash": "e93c302b88104f27dfa6f13ac4c2a5bb",
+      "Size": 25701
+    },
+    {
+      "Path": "resources/tilesets/Iliketea3.png",
+      "Hash": "9465b8a627de5d25a675a4172d87e321",
+      "Size": 104497
+    },
+    {
+      "Path": "resources/tilesets/Iliketea4.png",
+      "Hash": "1fd44600e45c19c6b4f737aae7aecf7f",
+      "Size": 113875
+    },
+    {
+      "Path": "resources/tilesets/Iliketea5.png",
+      "Hash": "9cf7cc0c63070322fc3e452dccd865f9",
+      "Size": 194748
     },
     {
       "Path": "resources/tilesets/Inside_A1.png",
@@ -7666,6 +7861,16 @@
       "Path": "resources/tilesets/kissclipart-landmark-clipart-rpg-maker-mv-tilefb1b.png",
       "Hash": "37477015d7c7fe1a546f5bd52ccc636f",
       "Size": 978581
+    },
+    {
+      "Path": "resources/tilesets/LoS-MV-Animated-Inside.png",
+      "Hash": "5374aaae9ba6cbd1485a20e010b23fa1",
+      "Size": 208992
+    },
+    {
+      "Path": "resources/tilesets/LoS-MV-Smoking.png",
+      "Hash": "ef47697d9f39bdd1c688af34b83a0ecf",
+      "Size": 225860
     },
     {
       "Path": "resources/tilesets/luzes.png",
@@ -7726,6 +7931,11 @@
       "Path": "resources/tilesets/Outside_A3.png",
       "Hash": "4c79c10cf5062e8df3a8ab7c3e024cf0",
       "Size": 323325
+    },
+    {
+      "Path": "resources/tilesets/Outside_A3_recolor_Candacis.png",
+      "Hash": "9030d879320b9648f4b632e06a494b3b",
+      "Size": 207218
     },
     {
       "Path": "resources/tilesets/Outside_A4.png",
@@ -8101,6 +8311,216 @@
       "Path": "resources/tilesets/vikings_roofs1_candacis_.png",
       "Hash": "b1538bc72e4d5e8c9e65c327049066dc",
       "Size": 1048257
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 1.png",
+      "Hash": "f6e59e49a53f1e470cc3ad946bb193a8",
+      "Size": 443955
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 10.png",
+      "Hash": "0fea1e431f86a9f70aa28ea0fbe5a6f1",
+      "Size": 855324
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 11.png",
+      "Hash": "bf1cd5d4e215f83a78b6cb6f0c39e312",
+      "Size": 557983
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 12.png",
+      "Hash": "2f9a97803a83911210179332f412bcf0",
+      "Size": 835143
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 13.png",
+      "Hash": "72738759b0f97d23cd4664b35f271f77",
+      "Size": 702834
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 14.png",
+      "Hash": "d1afc670537fd8a4de06f37bdf776b58",
+      "Size": 669239
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 15.png",
+      "Hash": "dd55fbb24aaee2067eae59700b46fe9c",
+      "Size": 513287
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 16.png",
+      "Hash": "2f4c2da4d46ff077e9919163447f86d9",
+      "Size": 726856
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 18.png",
+      "Hash": "b66905d0a180769bb09e71cc96f08721",
+      "Size": 944920
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 19.png",
+      "Hash": "c0cfb305ccfe009fb6b73609e65e44d7",
+      "Size": 152732
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 2.png",
+      "Hash": "e17cd2b796449d1403fae531666960e0",
+      "Size": 547032
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 20.png",
+      "Hash": "3085448eecb56681dda4e8d19b02e82f",
+      "Size": 669325
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 21.png",
+      "Hash": "32010f11c5e562fd2c2447839dac0110",
+      "Size": 903214
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 22.png",
+      "Hash": "37fe5cfef0811e10f561dd9f1ec8ab89",
+      "Size": 244808
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 23.png",
+      "Hash": "25e539673bec9aa010af03dc99c2c278",
+      "Size": 496287
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 24.png",
+      "Hash": "cac3b2a955feff5280b0274394e0ed13",
+      "Size": 2203886
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 25.png",
+      "Hash": "376626662b6b09f1551796bdb8a6a747",
+      "Size": 2205854
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 26.png",
+      "Hash": "32e3735140a81f378317811fb8abb89c",
+      "Size": 450226
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 27.png",
+      "Hash": "8324fedda3b8e7470a12e6251a6e7434",
+      "Size": 535738
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 28.png",
+      "Hash": "c22feab77af0af2cfba86d1930eef55d",
+      "Size": 483655
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 29.png",
+      "Hash": "67a59cea64a292fb02942044476de767",
+      "Size": 381646
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 3.png",
+      "Hash": "b9d40768df006eb8e0bf8e4a4cb003d3",
+      "Size": 624216
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 30.png",
+      "Hash": "592a7f6f6500d39b5dcfedff925a69d4",
+      "Size": 81778
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 31.png",
+      "Hash": "20b001a01ae149bf9be3a501f757a160",
+      "Size": 818380
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 32.png",
+      "Hash": "4e72167ed0245795bb430f2322bd3066",
+      "Size": 1238114
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 34.png",
+      "Hash": "3a7cac283e5825d2aa710351b5d78bc0",
+      "Size": 1260465
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 35.png",
+      "Hash": "4e4327d77d8e6b81a021cf8bd878741b",
+      "Size": 1463681
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 36.png",
+      "Hash": "7dc2f3ceefb0dccb3628d00e40457bff",
+      "Size": 1289428
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 37.png",
+      "Hash": "0a61ed09fb87560084cdb3dc57f08d6a",
+      "Size": 365737
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 38.png",
+      "Hash": "3352181a011c31c265743de3f41d8694",
+      "Size": 1597988
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 39.png",
+      "Hash": "a06187b518cf88dc91e94ea72ef57977",
+      "Size": 47322
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 4.png",
+      "Hash": "5ad34f5f4f6b0205916f86275e31c10e",
+      "Size": 1415771
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 40.png",
+      "Hash": "a03d7f24502e12501ccfeac49be1f21a",
+      "Size": 21643
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 41.png",
+      "Hash": "89f58c9ae98ce5febc158617cb43b47d",
+      "Size": 38575
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 42.png",
+      "Hash": "31948e5f3d78f6a11a555901e69f1191",
+      "Size": 275978
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 43.png",
+      "Hash": "ea90c2f210eb8142c803c41fa1d04ad7",
+      "Size": 82487
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 44.png",
+      "Hash": "bca2aed41216e9dea9da4d1a03ff0137",
+      "Size": 162214
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 5.png",
+      "Hash": "7421c868e428c9e336181308104e5d5a",
+      "Size": 656464
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 6.png",
+      "Hash": "cd1b8c23773e016bb5b2e0151424c941",
+      "Size": 638232
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 7.png",
+      "Hash": "f35c37fbf8685ab03d05b858eb573255",
+      "Size": 801729
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 8.png",
+      "Hash": "9fa6f66b0d3f6f1a547d374369428708",
+      "Size": 3160329
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 9.png",
+      "Hash": "a49f652ba1be24af244bc26610247d91",
+      "Size": 2861331
     },
     {
       "Path": "resources/updater/background.png",
