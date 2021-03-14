@@ -3069,12 +3069,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Hash": "45635f0a5ea0e38ad0c68eb3bdee9112",
-      "Size": 2370
+      "Hash": "38f6d65dddb657d692a7341dee431c0f",
+      "Size": 2369
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "3811cf769662e6302cb37709af34154c",
+      "Hash": "179686ef759fdad4921f530c1d422167",
       "Size": 31814
     },
     {
@@ -3199,7 +3199,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "08ef93c7681dc1e8dd6ad93c13f9d049",
+      "Hash": "61ff1a5fbbcd106b5ca3e0ebb6e9b36f",
       "Size": 14737
     },
     {
@@ -4531,6 +4531,16 @@
       "Path": "resources/items/Ingrediente38.png",
       "Hash": "8959e84475d76cbed831f7470735f3af",
       "Size": 1453
+    },
+    {
+      "Path": "resources/items/IngredientePadrao.png",
+      "Hash": "8638236bdbdf40d5ab82e595b08e5d58",
+      "Size": 1543
+    },
+    {
+      "Path": "resources/items/Kits.png",
+      "Hash": "c8d655c5aa0d11ff86a6543e7dbb2643",
+      "Size": 1525
     },
     {
       "Path": "resources/items/LacertaF.png",
