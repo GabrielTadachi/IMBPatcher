@@ -663,6 +663,11 @@
       "Size": 1191
     },
     {
+      "Path": "resources/animations/sangue.png",
+      "Hash": "6a62fb526ed8669075b8ed2ab612dc76",
+      "Size": 3470
+    },
+    {
       "Path": "resources/animations/Slash.png",
       "Hash": "bfb8eaeb3b6e84ecf87fc8999c201709",
       "Size": 82515
@@ -3124,7 +3129,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "19046c67be187deeabf15e44b4036e63",
+      "Hash": "f73ba3254ad211d91fc638885bd7a727",
       "Size": 11281
     },
     {
@@ -3796,6 +3801,11 @@
       "Path": "resources/items/Agulha.png",
       "Hash": "f5b418a2d2d5a617274563bd18b89531",
       "Size": 3040
+    },
+    {
+      "Path": "resources/items/almofariz-pilao.png",
+      "Hash": "d05c283eb60dd517f183d561bb809aa7",
+      "Size": 3627
     },
     {
       "Path": "resources/items/BalancaLatao.png",
@@ -8153,6 +8163,11 @@
       "Size": 68202
     },
     {
+      "Path": "resources/tilesets/Quadro RH.png",
+      "Hash": "59042cb744e5b79a119d30c5e67e3833",
+      "Size": 32868
+    },
+    {
       "Path": "resources/tilesets/quadro.png",
       "Hash": "dd503c87069fce227c24f34f4a656a12",
       "Size": 69904
@@ -8166,6 +8181,11 @@
       "Path": "resources/tilesets/quadros 2.png",
       "Hash": "f2961a50b4110cabf3b3df2a1fa40876",
       "Size": 332109
+    },
+    {
+      "Path": "resources/tilesets/Quadros.png",
+      "Hash": "5181faf732b2c62e2bdbe2c7e34503ac",
+      "Size": 30187
     },
     {
       "Path": "resources/tilesets/rpg_maker__grass__flowers_and_windows_tileset_by_xxjapozeroxx-dbpxkvy.png",
