@@ -1,5 +1,5 @@
 {
-  "Bounds": "1694,682,220,338",
+  "Bounds": "1684,682,230,338",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "ItemsContainer": {
-        "Bounds": "1,0,218,310",
+        "Bounds": "1,0,230,310",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

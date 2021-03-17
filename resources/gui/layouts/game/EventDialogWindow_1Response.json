@@ -1,11 +1,11 @@
 {
-  "Bounds": "700,459,520,162",
+  "Bounds": "700,718,520,162",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
-  "Margin": "0,0,0,0",
+  "Margin": "0,0,0,200",
   "RenderColor": "255,255,255,255",
-  "Alignments": "Center",
+  "Alignments": "Center,Bottom",
   "DrawBackground": true,
   "MinimumSize": "1,1",
   "MaximumSize": "4096,4096",
@@ -60,7 +60,7 @@
       "Disabled": false,
       "Hidden": true,
       "RestrictToParent": false,
-      "MouseInputEnabled": false,
+      "MouseInputEnabled": true,
       "HideToolTip": false,
       "ToolTipBackground": null,
       "ToolTipFont": null,
@@ -89,7 +89,7 @@
         "ToolTipTextColor": "",
         "Children": {
           "EventDialogLabel": {
-            "Bounds": "0,0,1,16",
+            "Bounds": "0,0,1,20",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -115,7 +115,7 @@
             "TextAlign": "Left, Top",
             "TextPadding": "0,0,0,0",
             "AutoSizeToContents": true,
-            "Font": "sourcesansproblack,10",
+            "Font": "sourcesansproblack,12",
             "TextScale": 1.0
           }
         }
@@ -412,7 +412,7 @@
         "ToolTipTextColor": "",
         "Children": {
           "EventDialogLabel": {
-            "Bounds": "0,0,1,16",
+            "Bounds": "0,0,1,20",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -438,7 +438,7 @@
             "TextAlign": "Left, Top",
             "TextPadding": "0,0,0,0",
             "AutoSizeToContents": true,
-            "Font": "sourcesansproblack,10",
+            "Font": "sourcesansproblack,12",
             "TextScale": 1.0
           }
         }
@@ -718,7 +718,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,10",
+      "Font": "sourcesansproblack,12",
       "TextScale": 1.0,
       "NormalImage": "eventresponsenormal.png",
       "HoveredImage": "eventresponsehover.png",
