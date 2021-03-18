@@ -1,5 +1,5 @@
 {
-  "Bounds": "918,464,102,300",
+  "Bounds": "1814,776,102,300",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,4,4",
   "AlignmentTransform": "0,0",
@@ -111,7 +111,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "SpellsButton": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "1,1,29,29",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

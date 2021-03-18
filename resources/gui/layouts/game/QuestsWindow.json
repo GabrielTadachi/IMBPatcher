@@ -1,11 +1,11 @@
 {
-  "Bounds": "798,366,220,342",
+  "Bounds": "1694,369,220,342",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
   "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
-  "Alignments": "Bottom,Right",
+  "Alignments": "Center,Right",
   "DrawBackground": true,
   "MinimumSize": "100,40",
   "MaximumSize": "4096,4096",
