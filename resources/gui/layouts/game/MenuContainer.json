@@ -1,9 +1,9 @@
 {
-  "Bounds": "1627,838,289,42",
+  "Bounds": "918,464,102,300",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,4,4",
   "AlignmentTransform": "0,0",
-  "Margin": "0,0,0,200",
+  "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
   "Alignments": "Right,Bottom",
   "DrawBackground": true,
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "InventoryContainer": {
-      "Bounds": "8,4,34,35",
+      "Bounds": "12,149,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -41,7 +41,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "menuitem.png",
+      "Texture": "bagitem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
@@ -87,7 +87,7 @@
       }
     },
     "SpellsContainer": {
-      "Bounds": "48,4,34,35",
+      "Bounds": "48,156,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -105,7 +105,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "menuitem.png",
+      "Texture": "bagitem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
@@ -151,7 +151,7 @@
       }
     },
     "CharacterContainer": {
-      "Bounds": "88,4,34,35",
+      "Bounds": "70,186,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -169,7 +169,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "menuitem.png",
+      "Texture": "bagitem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
@@ -215,7 +215,7 @@
       }
     },
     "QuestsContainer": {
-      "Bounds": "128,4,34,35",
+      "Bounds": "70,225,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -233,7 +233,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "menuitem.png",
+      "Texture": "bagitem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
@@ -279,7 +279,7 @@
       }
     },
     "FriendsContainer": {
-      "Bounds": "168,4,34,35",
+      "Bounds": "0,268,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -343,7 +343,7 @@
       }
     },
     "PartyContainer": {
-      "Bounds": "208,4,34,35",
+      "Bounds": "34,268,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -407,7 +407,7 @@
       }
     },
     "MenuContainer": {
-      "Bounds": "248,4,34,35",
+      "Bounds": "66,268,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

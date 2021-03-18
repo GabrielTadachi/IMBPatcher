@@ -41,7 +41,7 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "entitybox.png",
+      "Texture": "",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
