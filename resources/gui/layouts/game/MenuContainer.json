@@ -1,5 +1,5 @@
 {
-  "Bounds": "1814,776,102,300",
+  "Bounds": "1174,416,102,300",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,4,4",
   "AlignmentTransform": "0,0",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "InventoryContainer": {
-      "Bounds": "12,149,32,32",
+      "Bounds": "19,150,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -87,7 +87,7 @@
       }
     },
     "SpellsContainer": {
-      "Bounds": "48,156,32,32",
+      "Bounds": "51,163,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -151,7 +151,7 @@
       }
     },
     "CharacterContainer": {
-      "Bounds": "70,186,32,32",
+      "Bounds": "69,193,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -215,7 +215,7 @@
       }
     },
     "QuestsContainer": {
-      "Bounds": "70,225,32,32",
+      "Bounds": "70,227,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -279,7 +279,7 @@
       }
     },
     "FriendsContainer": {
-      "Bounds": "0,268,32,32",
+      "Bounds": "0,269,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -343,7 +343,7 @@
       }
     },
     "PartyContainer": {
-      "Bounds": "34,268,32,32",
+      "Bounds": "35,269,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -407,7 +407,7 @@
       }
     },
     "MenuContainer": {
-      "Bounds": "66,268,32,32",
+      "Bounds": "70,269,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

@@ -1,9 +1,9 @@
 {
-  "Bounds": "1520,954,371,86",
-  "Padding": "0,0,0,40",
+  "Bounds": "877,595,371,86",
+  "Padding": "0,0,0,39",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
-  "Margin": "0,0,29,0",
+  "Margin": "0,0,32,0",
   "RenderColor": "255,255,255,255",
   "Alignments": "Bottom,Right",
   "DrawBackground": true,
@@ -47,11 +47,11 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "313,69,38,14",
+          "Bounds": "318,69,18,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
-          "Margin": "0,0,20,3",
+          "Margin": "0,0,35,3",
           "RenderColor": "255,255,255,255",
           "Alignments": "Bottom,Right",
           "DrawBackground": true,
@@ -107,7 +107,7 @@
           "TextScale": 1.0
         },
         "NameAndLevelLabel": {
-          "Bounds": "32,6,1,20",
+          "Bounds": "32,5,1,20",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -212,7 +212,7 @@
           "Font": null
         },
         "HPBarBackground": {
-          "Bounds": "98,35,197,15",
+          "Bounds": "97,33,197,15",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -223,7 +223,7 @@
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
           "Disabled": false,
-          "Hidden": false,
+          "Hidden": true,
           "RestrictToParent": false,
           "MouseInputEnabled": true,
           "HideToolTip": false,
@@ -236,7 +236,7 @@
           "RightMouseClickSound": null
         },
         "HPBar": {
-          "Bounds": "98,35,197,15",
+          "Bounds": "97,33,197,15",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -247,7 +247,7 @@
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
           "Disabled": false,
-          "Hidden": false,
+          "Hidden": true,
           "RestrictToParent": false,
           "MouseInputEnabled": true,
           "HideToolTip": false,
@@ -284,7 +284,7 @@
           "RightMouseClickSound": null
         },
         "HPTitle": {
-          "Bounds": "98,35,19,14",
+          "Bounds": "97,33,19,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -314,7 +314,7 @@
           "TextScale": 1.0
         },
         "HPLabel": {
-          "Bounds": "125,35,168,15",
+          "Bounds": "125,33,168,15",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -344,7 +344,7 @@
           "TextScale": 1.0
         },
         "MPBackground": {
-          "Bounds": "98,51,197,15",
+          "Bounds": "97,50,197,15",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -355,7 +355,7 @@
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
           "Disabled": false,
-          "Hidden": false,
+          "Hidden": true,
           "RestrictToParent": false,
           "MouseInputEnabled": true,
           "HideToolTip": false,
@@ -368,7 +368,7 @@
           "RightMouseClickSound": null
         },
         "MPBar": {
-          "Bounds": "98,50,197,15",
+          "Bounds": "97,50,197,15",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -379,7 +379,7 @@
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
           "Disabled": false,
-          "Hidden": false,
+          "Hidden": true,
           "RestrictToParent": false,
           "MouseInputEnabled": true,
           "HideToolTip": false,
@@ -392,7 +392,7 @@
           "RightMouseClickSound": null
         },
         "MPTitle": {
-          "Bounds": "98,51,20,14",
+          "Bounds": "97,50,20,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -422,7 +422,7 @@
           "TextScale": 1.0
         },
         "MPLabel": {
-          "Bounds": "125,51,168,15",
+          "Bounds": "125,50,168,15",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -452,7 +452,7 @@
           "TextScale": 1.0
         },
         "EXPBackground": {
-          "Bounds": "98,66,197,15",
+          "Bounds": "97,67,197,15",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -476,7 +476,7 @@
           "RightMouseClickSound": null
         },
         "EXPBar": {
-          "Bounds": "98,66,197,15",
+          "Bounds": "97,67,197,15",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -500,7 +500,7 @@
           "RightMouseClickSound": null
         },
         "EXPTitle": {
-          "Bounds": "98,66,23,14",
+          "Bounds": "98,67,23,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
