@@ -6,7 +6,7 @@
   "ChatBubbleFont": "sourcesansproblack",
   "ActionMsgFont": "sourcesansproblack",
   "UIFont": "sourcesanspro,8",
-  "ChatLines": 10,
+  "ChatLines": 50,
   "MenuMusic": "",
   "MenuBackground": "background.png",
   "IntroImages": [],
