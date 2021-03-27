@@ -2,23 +2,23 @@
   "Files": [
     {
       "Path": "Intersect Client.exe",
-      "Hash": "1b5ff7fbfd8ed1c228724e547c47ed0b",
-      "Size": 16294400
+      "Hash": "9d7fba76f91ce7857a4ebe1026fde2dc",
+      "Size": 16294912
     },
     {
       "Path": "Intersect Client.pdb",
-      "Hash": "937e3cf615742bd2ed8de9b2305ab636",
+      "Hash": "f762500185f6b07462c6485618904af1",
       "Size": 994816
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "2b1a3ab89c0a5095ef7813cd5f20dafb",
+      "Hash": "a393a6bbf3002c39184e6ec79e8cb275",
       "Size": 13228032,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "519d7101954a7761b03c8f88eeb08f49",
+      "Hash": "ecfbc8b176022ad5e30a1e9248def694",
       "Size": 1666560,
       "ClientIgnore": true
     },
@@ -3094,12 +3094,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "0769c529f9548ae67cdbadd3a2f05d4c",
-      "Size": 31864
+      "Hash": "00eb81692803dab008e5a599774ea49b",
+      "Size": 31863
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
-      "Hash": "776e32b5306c916c078c590974c4655a",
+      "Hash": "54f9ef613815c1bc021b10e490ba9868",
       "Size": 35409
     },
     {
@@ -3114,7 +3114,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "179686ef759fdad4921f530c1d422167",
+      "Hash": "3811cf769662e6302cb37709af34154c",
       "Size": 31814
     },
     {
@@ -3129,7 +3129,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EscapeMenu.json",
-      "Hash": "309dcc1df7de5109818780d70400209d",
+      "Hash": "7478bd542b95635be7b13326af36cada",
       "Size": 8286
     },
     {
@@ -3139,7 +3139,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_2Responses.json",
-      "Hash": "b85e4ab4d978e6e2ab432f3bb4dd0799",
+      "Hash": "1b94da91f93bb4451ae59171b8c458f1",
       "Size": 26563
     },
     {
@@ -3154,17 +3154,17 @@
     },
     {
       "Path": "resources/gui/layouts/game/FriendsWindow.json",
-      "Hash": "2e258a31fe73fe51c021d089afd01eda",
-      "Size": 19830
+      "Hash": "a2c2228d74d88c4ad74ccfc9eb7714c7",
+      "Size": 19829
     },
     {
       "Path": "resources/gui/layouts/game/HotbarWindow.json",
-      "Hash": "9378799f061843a1ba6676b893ae3bdd",
-      "Size": 59363
+      "Hash": "00ebcb4b951e635a9f9a11018784a5da",
+      "Size": 59361
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "fdce8ab3e7ae428a5a96a281e0febfcf",
+      "Hash": "64ca58f54008bb4122efff74fbdb3dd7",
       "Size": 11281
     },
     {
@@ -3174,8 +3174,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/InventoryWindow.json",
-      "Hash": "3ab5651cfb9f27605960636cf81e7043",
-      "Size": 14737
+      "Hash": "07a3bfa3c253c444225cd8dafb021b20",
+      "Size": 14736
     },
     {
       "Path": "resources/gui/layouts/game/ItemDescWindow.json",
@@ -3199,23 +3199,23 @@
     },
     {
       "Path": "resources/gui/layouts/game/MenuContainer.json",
-      "Hash": "478ccf57f20f6a00f4ac42e404ba28b3",
-      "Size": 15737
+      "Hash": "f2bdfc59344c8d6352c5c315ccb04b2e",
+      "Size": 15736
     },
     {
       "Path": "resources/gui/layouts/game/OptionsWindow.json",
-      "Hash": "b83f86d1d74d3d6dc4d67bc15d94a73b",
+      "Hash": "0c89f47c2c4c89973e9f2031a91e28e0",
       "Size": 211411
     },
     {
       "Path": "resources/gui/layouts/game/PartyWindow.json",
-      "Hash": "bbd8ad18405bce1d8fce7a13f9311f0c",
-      "Size": 44795
+      "Hash": "efc4b050b05d8ec9a334eb486b00d873",
+      "Size": 44794
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "58c37352fabe9a37a9626513754d7a8e",
-      "Size": 24192
+      "Hash": "c32d0505b0570c9f1f20994884d744a5",
+      "Size": 24191
     },
     {
       "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
@@ -3224,13 +3224,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Hash": "76bc6561c6db0d7da00e2d61dfbaf218",
-      "Size": 19745
+      "Hash": "2ac6f2420ecaa086bff675a8ad927c55",
+      "Size": 19744
     },
     {
       "Path": "resources/gui/layouts/game/QuestsWindow.json",
-      "Hash": "3046cd7077ddb7e2b8dcbe0791f44500",
-      "Size": 31516
+      "Hash": "d784d90bf83dae67419bf42647c57423",
+      "Size": 31515
     },
     {
       "Path": "resources/gui/layouts/game/ShopItem.json",
@@ -3239,8 +3239,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "7a4f26519dd9b404e0a1fe763ed28829",
-      "Size": 14736
+      "Hash": "08ef93c7681dc1e8dd6ad93c13f9d049",
+      "Size": 14737
     },
     {
       "Path": "resources/gui/layouts/game/Spell.json",
@@ -3259,8 +3259,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/SpellsWindow.json",
-      "Hash": "d9fe0f28c39b39852b6341c0b11efb24",
-      "Size": 14717
+      "Hash": "1a8c095ef56eb9596cb64ecde5094639",
+      "Size": 14716
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
@@ -3376,6 +3376,46 @@
       "Path": "resources/images/DarkSpace2.png",
       "Hash": "4609a70cfd92c26ebf4e4e6c3a4fc477",
       "Size": 1134531
+    },
+    {
+      "Path": "resources/images/DCANMana.png",
+      "Hash": "55a9b44c3f1ebb79268f6a376d90b498",
+      "Size": 63213
+    },
+    {
+      "Path": "resources/images/DCANStats1.png",
+      "Hash": "2df40d98d3a2bf7c83eb3c68da3518aa",
+      "Size": 62549
+    },
+    {
+      "Path": "resources/images/DCANStats2.png",
+      "Hash": "50d0227b2f06c1596666b04331974c31",
+      "Size": 17404
+    },
+    {
+      "Path": "resources/images/DCANStats3.png",
+      "Hash": "a84e1d13bafcf73b141ad30247f6438d",
+      "Size": 17277
+    },
+    {
+      "Path": "resources/images/DCANStats4.png",
+      "Hash": "a01ca3bbc0a3d5ca17efc59c2cfd0cc3",
+      "Size": 17287
+    },
+    {
+      "Path": "resources/images/DCANStats5.png",
+      "Hash": "99a577e502f473c0b9d380521dd96b8f",
+      "Size": 17291
+    },
+    {
+      "Path": "resources/images/DCANStats6.png",
+      "Hash": "b2747dc126e41cb9238a463e00ca22b9",
+      "Size": 17242
+    },
+    {
+      "Path": "resources/images/DCANStats7.png",
+      "Hash": "3b344b6ff4598c0afa68722975a2bfc3",
+      "Size": 17298
     },
     {
       "Path": "resources/images/Mountains1.png",
