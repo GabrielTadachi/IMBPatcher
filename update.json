@@ -2,30 +2,30 @@
   "Files": [
     {
       "Path": "Intersect Client.exe",
-      "Hash": "9d7fba76f91ce7857a4ebe1026fde2dc",
+      "Hash": "d4febe687de90653544d505bfccc8123",
       "Size": 16294912
     },
     {
       "Path": "Intersect Client.pdb",
-      "Hash": "f762500185f6b07462c6485618904af1",
+      "Hash": "20e1e2b9c255a5813196cdb7e41706da",
       "Size": 994816
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "a393a6bbf3002c39184e6ec79e8cb275",
+      "Hash": "81af45ac515c3ebffaf27e5d8211ae81",
       "Size": 13228032,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "ecfbc8b176022ad5e30a1e9248def694",
+      "Hash": "9f3e595b3d25a43e23015cdd6e342b32",
       "Size": 1666560,
       "ClientIgnore": true
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "87daa1a645dc9a6c24755c24360bbe81",
-      "Size": 24626
+      "Hash": "0a994e1da4bfe4dd602e062bad6066c3",
+      "Size": 24669
     },
     {
       "Path": "resources/config.json",
@@ -2479,23 +2479,23 @@
     },
     {
       "Path": "resources/gui/event1.png",
-      "Hash": "f7bdc7c2bac8353e46fb9f70ee66ed1c",
-      "Size": 904
+      "Hash": "bc2ff7952e1ab2d713db6df98001a6fd",
+      "Size": 1903
     },
     {
       "Path": "resources/gui/event2.png",
-      "Hash": "d82c9c6c42dd8b5c543f262348c3edba",
-      "Size": 1086
+      "Hash": "155132ed84742f53d8cef035d7dfca26",
+      "Size": 2088
     },
     {
       "Path": "resources/gui/event3.png",
-      "Hash": "36d58c08980733853fc68940ccbf2323",
-      "Size": 1274
+      "Hash": "e2f5daecee0edd7839437240473f8de8",
+      "Size": 2557
     },
     {
       "Path": "resources/gui/event4.png",
-      "Hash": "59d6a555ddfee852e88fd6f0406a3ef9",
-      "Size": 1478
+      "Hash": "07bb61902a5be3ea231d0d9dd7eb1921",
+      "Size": 2484
     },
     {
       "Path": "resources/gui/eventresponsecdisabled.png",
@@ -3094,12 +3094,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/CharacterWindow.json",
-      "Hash": "00eb81692803dab008e5a599774ea49b",
-      "Size": 31863
+      "Hash": "0769c529f9548ae67cdbadd3a2f05d4c",
+      "Size": 31864
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
-      "Hash": "54f9ef613815c1bc021b10e490ba9868",
+      "Hash": "776e32b5306c916c078c590974c4655a",
       "Size": 35409
     },
     {
@@ -3129,42 +3129,47 @@
     },
     {
       "Path": "resources/gui/layouts/game/EscapeMenu.json",
-      "Hash": "7478bd542b95635be7b13326af36cada",
+      "Hash": "309dcc1df7de5109818780d70400209d",
       "Size": 8286
     },
     {
+      "Path": "resources/gui/layouts/game/EventDialogueWindow.json",
+      "Hash": "6b5579e25238d2d722754f12222b450d",
+      "Size": 32511
+    },
+    {
       "Path": "resources/gui/layouts/game/EventDialogWindow_1Response.json",
-      "Hash": "88fb0a598621618b38cd17339c50aac4",
-      "Size": 25261
+      "Hash": "81abc73992b58b933fd2f3366429317c",
+      "Size": 29965
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_2Responses.json",
-      "Hash": "1b94da91f93bb4451ae59171b8c458f1",
-      "Size": 26563
+      "Hash": "67c993c33448d65c6e2b227a7081479f",
+      "Size": 31325
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_3Responses.json",
-      "Hash": "b339ee8e779c5085e3d39e1fff3bd54d",
-      "Size": 27864
+      "Hash": "7895edd847a541c26d746850d35570f9",
+      "Size": 32702
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_4Responses.json",
-      "Hash": "3c6f111d4e9846523662d52040d23880",
-      "Size": 29165
+      "Hash": "4f3bcb7031cbc686fcc8a4abf0bbdb76",
+      "Size": 34079
     },
     {
       "Path": "resources/gui/layouts/game/FriendsWindow.json",
-      "Hash": "a2c2228d74d88c4ad74ccfc9eb7714c7",
-      "Size": 19829
+      "Hash": "2e258a31fe73fe51c021d089afd01eda",
+      "Size": 19830
     },
     {
       "Path": "resources/gui/layouts/game/HotbarWindow.json",
-      "Hash": "00ebcb4b951e635a9f9a11018784a5da",
-      "Size": 59361
+      "Hash": "9378799f061843a1ba6676b893ae3bdd",
+      "Size": 59363
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "64ca58f54008bb4122efff74fbdb3dd7",
+      "Hash": "8977fafa64ffb09872257d37c85ed9e7",
       "Size": 11281
     },
     {
@@ -3174,8 +3179,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/InventoryWindow.json",
-      "Hash": "07a3bfa3c253c444225cd8dafb021b20",
-      "Size": 14736
+      "Hash": "3ab5651cfb9f27605960636cf81e7043",
+      "Size": 14737
     },
     {
       "Path": "resources/gui/layouts/game/ItemDescWindow.json",
@@ -3199,23 +3204,23 @@
     },
     {
       "Path": "resources/gui/layouts/game/MenuContainer.json",
-      "Hash": "f2bdfc59344c8d6352c5c315ccb04b2e",
-      "Size": 15736
+      "Hash": "478ccf57f20f6a00f4ac42e404ba28b3",
+      "Size": 15737
     },
     {
       "Path": "resources/gui/layouts/game/OptionsWindow.json",
-      "Hash": "0c89f47c2c4c89973e9f2031a91e28e0",
+      "Hash": "b83f86d1d74d3d6dc4d67bc15d94a73b",
       "Size": 211411
     },
     {
       "Path": "resources/gui/layouts/game/PartyWindow.json",
-      "Hash": "efc4b050b05d8ec9a334eb486b00d873",
-      "Size": 44794
+      "Hash": "bbd8ad18405bce1d8fce7a13f9311f0c",
+      "Size": 44795
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "c32d0505b0570c9f1f20994884d744a5",
-      "Size": 24191
+      "Hash": "58c37352fabe9a37a9626513754d7a8e",
+      "Size": 24192
     },
     {
       "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
@@ -3224,13 +3229,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Hash": "2ac6f2420ecaa086bff675a8ad927c55",
-      "Size": 19744
+      "Hash": "76bc6561c6db0d7da00e2d61dfbaf218",
+      "Size": 19745
     },
     {
       "Path": "resources/gui/layouts/game/QuestsWindow.json",
-      "Hash": "d784d90bf83dae67419bf42647c57423",
-      "Size": 31515
+      "Hash": "3046cd7077ddb7e2b8dcbe0791f44500",
+      "Size": 31516
     },
     {
       "Path": "resources/gui/layouts/game/ShopItem.json",
@@ -3259,8 +3264,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/SpellsWindow.json",
-      "Hash": "1a8c095ef56eb9596cb64ecde5094639",
-      "Size": 14716
+      "Hash": "d9fe0f28c39b39852b6341c0b11efb24",
+      "Size": 14717
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
@@ -3309,8 +3314,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "4ae7f882f0a5ae2628babe852d8b370a",
-      "Size": 11358
+      "Hash": "fb3812d8a1f038dc17edb19e08be23e9",
+      "Size": 11357
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",

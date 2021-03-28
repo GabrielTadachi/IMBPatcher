@@ -260,7 +260,8 @@
     "lcase_animation": "animation"
   },
   "EventWindow": {
-    "continue": "Continue"
+    "continue_message": "Continuar",
+    "title": "Mensagem"
   },
   "ForgotPass": {
     "back": "Back",
@@ -281,7 +282,7 @@
     "title": "Friends"
   },
   "GameMenu": {
-    "character": "Character Info",
+    "character": "Detalhes do Personagem",
     "menu": "Abrir Menu",
     "friends": "Amigos",
     "items": "Inventário",
