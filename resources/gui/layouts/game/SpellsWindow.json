@@ -1,5 +1,5 @@
 {
-  "Bounds": "1054,180,220,340",
+  "Bounds": "1039,179,235,342",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -24,7 +24,7 @@
   "InactiveColor": "",
   "Closable": true,
   "Titlebar": {
-    "Bounds": "0,0,220,31",
+    "Bounds": "0,0,235,31",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -51,11 +51,11 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,156,31",
-    "Padding": "40,7,4,4",
+    "Bounds": "0,0,162,31",
+    "Padding": "45,6,5,5",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
-    "Margin": "0,0,0,0",
+    "Margin": "8,0,0,0",
     "RenderColor": "255,255,255,255",
     "Alignments": "",
     "DrawBackground": true,
@@ -81,7 +81,7 @@
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "194,6,26,25",
+    "Bounds": "220,6,15,15",
     "Padding": "3,6,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -90,7 +90,7 @@
     "Alignments": "Top,Right",
     "DrawBackground": true,
     "MinimumSize": "1,1",
-    "MaximumSize": "30,30",
+    "MaximumSize": "15,15",
     "Disabled": false,
     "Hidden": false,
     "RestrictToParent": true,
@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "SpellsContainer": {
-        "Bounds": "1,0,218,310",
+        "Bounds": "1,0,234,308",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

@@ -24,7 +24,7 @@
   "InactiveColor": "",
   "Closable": true,
   "Titlebar": {
-    "Bounds": "0,0,256,22",
+    "Bounds": "0,0,253,22",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -81,7 +81,7 @@
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "238,0,18,18",
+    "Bounds": "238,0,15,15",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -90,7 +90,7 @@
     "Alignments": "Top,Right",
     "DrawBackground": true,
     "MinimumSize": "1,1",
-    "MaximumSize": "18,18",
+    "MaximumSize": "15,15",
     "Disabled": false,
     "Hidden": false,
     "RestrictToParent": true,

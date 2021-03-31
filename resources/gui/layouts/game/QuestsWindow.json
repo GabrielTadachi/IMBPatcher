@@ -1,5 +1,5 @@
 {
-  "Bounds": "1054,179,220,342",
+  "Bounds": "1039,179,235,342",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -24,7 +24,7 @@
   "InactiveColor": "",
   "Closable": true,
   "Titlebar": {
-    "Bounds": "0,0,220,33",
+    "Bounds": "0,0,235,31",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -51,8 +51,8 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,183,31",
-    "Padding": "40,7,4,4",
+    "Bounds": "0,0,182,30",
+    "Padding": "39,6,4,4",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
@@ -81,8 +81,8 @@
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "194,8,26,25",
-    "Padding": "3,8,0,0",
+    "Bounds": "220,6,15,15",
+    "Padding": "3,6,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "QuestList": {
-        "Bounds": "1,0,218,310",
+        "Bounds": "3,2,232,310",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -437,7 +437,7 @@
         "ItemRightClickSound": null
       },
       "QuestTitle": {
-        "Bounds": "-4,6,228,32",
+        "Bounds": "3,6,228,32",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -467,7 +467,7 @@
         "TextScale": 1.0
       },
       "QuestStatus": {
-        "Bounds": "-4,24,228,32",
+        "Bounds": "3,24,228,32",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

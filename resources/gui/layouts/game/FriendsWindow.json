@@ -1,5 +1,5 @@
 {
-  "Bounds": "1054,180,220,339",
+  "Bounds": "1039,179,235,342",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -24,7 +24,7 @@
   "InactiveColor": "",
   "Closable": true,
   "Titlebar": {
-    "Bounds": "0,0,220,30",
+    "Bounds": "0,0,235,31",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -51,8 +51,8 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,98,31",
-    "Padding": "40,7,4,4",
+    "Bounds": "0,0,139,31",
+    "Padding": "81,7,4,4",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
@@ -81,8 +81,8 @@
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "194,5,26,25",
-    "Padding": "3,5,0,0",
+    "Bounds": "220,6,15,15",
+    "Padding": "3,6,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
@@ -140,7 +140,7 @@
     "Children": {
       "SearchContainer": {
         "Bounds": "6,6,186,18",
-        "Padding": "0,0,0,0",
+        "Padding": "2,1,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
         "Margin": "0,0,0,0",
@@ -197,7 +197,7 @@
         }
       },
       "FriendsList": {
-        "Bounds": "1,0,218,260",
+        "Bounds": "1,0,234,308",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -495,7 +495,7 @@
         "ItemRightClickSound": "octave-beep-tapped.wav"
       },
       "AddFriendButton": {
-        "Bounds": "194,6,18,18",
+        "Bounds": "200,6,18,18",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -533,7 +533,7 @@
         "ClickSound": ""
       },
       "AddFriendPopupButton": {
-        "Bounds": "50,268,120,28",
+        "Bounds": "57,268,120,28",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
