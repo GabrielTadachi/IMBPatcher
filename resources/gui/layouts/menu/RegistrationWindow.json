@@ -1,5 +1,5 @@
 {
-  "Bounds": "414,333,452,198",
+  "Bounds": "414,275,452,213",
   "Padding": "0,262,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,32",
@@ -47,13 +47,13 @@
       "ClickedTextColor": "",
       "DisabledTextColor": "255,90,90,90",
       "TextAlign": "Left",
-      "TextPadding": "25,9,0,0",
+      "TextPadding": "190,10,0,0",
       "AutoSizeToContents": false,
       "Font": "sourcesansproblack,12",
       "TextScale": 1.0
     },
     "UsernamePanel": {
-      "Bounds": "14,54,308,28",
+      "Bounds": "14,54,308,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -107,7 +107,7 @@
           "TextScale": 1.0
         },
         "UsernameField": {
-          "Bounds": "4,10,302,16",
+          "Bounds": "4,17,302,16",
           "Padding": "4,0,4,2",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -141,7 +141,7 @@
       }
     },
     "EmailPanel": {
-      "Bounds": "14,90,308,28",
+      "Bounds": "14,92,308,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -195,7 +195,7 @@
           "TextScale": 1.0
         },
         "EmailField": {
-          "Bounds": "4,10,302,16",
+          "Bounds": "4,17,302,16",
           "Padding": "4,0,4,2",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -229,7 +229,7 @@
       }
     },
     "Password1Panel": {
-      "Bounds": "14,126,308,28",
+      "Bounds": "14,130,308,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -283,7 +283,7 @@
           "TextScale": 1.0
         },
         "Password1Field": {
-          "Bounds": "4,10,302,16",
+          "Bounds": "4,17,302,16",
           "Padding": "4,0,4,2",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -317,7 +317,7 @@
       }
     },
     "Password2Panel": {
-      "Bounds": "14,162,308,28",
+      "Bounds": "14,168,308,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -371,7 +371,7 @@
           "TextScale": 1.0
         },
         "Password2Field": {
-          "Bounds": "4,10,302,16",
+          "Bounds": "4,17,302,16",
           "Padding": "4,0,4,2",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -430,7 +430,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,12",
+      "Font": "sourcesansproblack,10",
       "TextScale": 1.0,
       "NormalImage": "smallbutton.png",
       "HoveredImage": "smallbutton_hovered.png",
@@ -468,7 +468,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,12",
+      "Font": "sourcesansproblack,10",
       "TextScale": 1.0,
       "NormalImage": "smallbutton.png",
       "HoveredImage": "smallbutton_hovered.png",

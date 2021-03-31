@@ -1,5 +1,5 @@
 {
-  "Bounds": "1517,955,371,86",
+  "Bounds": "877,575,371,86",
   "Padding": "0,0,0,39",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -47,7 +47,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "298,69,38,14",
+          "Bounds": "318,69,18,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -284,7 +284,7 @@
           "RightMouseClickSound": null
         },
         "HPTitle": {
-          "Bounds": "97,33,19,14",
+          "Bounds": "97,33,15,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -392,7 +392,7 @@
           "RightMouseClickSound": null
         },
         "MPTitle": {
-          "Bounds": "97,50,20,14",
+          "Bounds": "97,50,16,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -500,7 +500,7 @@
           "RightMouseClickSound": null
         },
         "EXPTitle": {
-          "Bounds": "98,67,23,14",
+          "Bounds": "98,67,19,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

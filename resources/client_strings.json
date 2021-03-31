@@ -64,7 +64,7 @@
     "duration": "Duração:",
     "forever": "Indefinidamente",
     "ip": "Incluir IP:",
-    "ok": "Okay:",
+    "ok": "Ok:",
     "reason": "Motivo:"
   },
   "Character": {
@@ -186,7 +186,7 @@
       "openadminpanel": "Open Admin Panel:",
       "togglegui": "Toggle Interface:"
     },
-    "edit": "Edit Controls",
+    "edit": "Editar controles",
     "listening": "Listening",
     "title": "Controls"
   },
@@ -222,7 +222,7 @@
   "EntityBox": {
     "nameandlevel": "{00}    {01}",
     "cooldown": "{00}s",
-    "exp": "EXP:",
+    "exp": "EXP",
     "expval": "{00} / {01}",
     "friend": "Amizade",
     "friendtip": "Envie a {00} um pedido de amizade.",
@@ -233,9 +233,9 @@
     "partytip": "Convide {00} para tua party.",
     "trade": "Troca",
     "tradetip": "Peça para trocar com {00}.",
-    "vital0": "HP:",
+    "vital0": "HP",
     "vital0val": "{00} / {01}",
-    "vital1": "MP:",
+    "vital1": "MP",
     "vital1val": "{00} / {01}"
   },
   "Errors": {
@@ -248,7 +248,7 @@
     "opengllink": "https://goo.gl/RSP3ts",
     "passwordinvalid": "Password is invalid. Please use alphanumeric characters with a length between 4 and 20.",
     "resourcesnotfound": "The resources directory could not be found! Intersect will now close.",
-    "title": "Error!",
+    "title": "Erro!",
     "usernameinvalid": "Username is invalid. Please use alphanumeric characters with a length between 2 and 20.",
     "loadfile": "Failed to load a {00}. Please send the game administrator a copy of your errors log file in the logs directory.",
     "lostconnection": "Lost connection to the game server. Please make sure you're connected to the internet and try again!"
@@ -297,7 +297,7 @@
   "InputBox": {
     "cancel": "Cancelar",
     "no": "Não",
-    "okay": "Okay",
+    "okay": "Ok",
     "yes": "Sim"
   },
   "MapItemWindow": {
@@ -579,18 +579,18 @@
     "fps60": "60",
     "fps90": "90",
     "fps120": "120",
-    "apply": "Apply",
+    "apply": "Aplicar",
     "back": "Back",
-    "cancel": "Cancel",
+    "cancel": "Cancelar",
     "fullscreen": "Fullscreen",
     "autoclosewindows": "Auto-close Windows",
-    "musicvolume": "Music Volume: {00}%",
-    "resolution": "Resolution:",
+    "musicvolume": "Volume da música: {00}%",
+    "resolution": "Resolução:",
     "resolutioncustom": "Custom Resolution",
     "restore": "Restore Defaults",
-    "soundvolume": "Sound Volume: {00}%",
+    "soundvolume": "Volume do som: {00}%",
     "targetfps": "Target FPS:",
-    "title": "Options",
+    "title": "Configurações",
     "unlimitedfps": "No Limit",
     "vsync": "V-Sync"
   },
@@ -648,7 +648,7 @@
   "ResetPass": {
     "back": "Cancel",
     "code": "Enter the reset code that was sent to you:",
-    "fail": "Error!",
+    "fail": "Erro!",
     "failmsg": "The reset code was not valid, has expired, or the account does not exist!",
     "inputcode": "Please enter your password reset code.",
     "password": "New Password:",

@@ -1,5 +1,5 @@
 {
-  "Bounds": "414,333,452,158",
+  "Bounds": "414,283,452,158",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,12",
@@ -47,13 +47,13 @@
       "ClickedTextColor": "",
       "DisabledTextColor": "255,90,90,90",
       "TextAlign": "Left",
-      "TextPadding": "25,9,0,0",
+      "TextPadding": "202,10,0,0",
       "AutoSizeToContents": false,
       "Font": "sourcesansproblack,12",
       "TextScale": 1.0
     },
     "UsernamePanel": {
-      "Bounds": "14,54,308,28",
+      "Bounds": "14,54,308,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -107,7 +107,7 @@
           "TextScale": 1.0
         },
         "UsernameField": {
-          "Bounds": "4,10,302,16",
+          "Bounds": "4,17,302,16",
           "Padding": "4,0,4,2",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -141,7 +141,7 @@
       }
     },
     "PasswordPanel": {
-      "Bounds": "14,90,308,28",
+      "Bounds": "14,90,308,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -195,7 +195,7 @@
           "TextScale": 1.0
         },
         "PasswordField": {
-          "Bounds": "4,10,302,16",
+          "Bounds": "4,17,302,16",
           "Padding": "4,0,4,2",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -382,7 +382,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,12",
+      "Font": "sourcesansproblack,10",
       "TextScale": 1.0,
       "NormalImage": "smallbutton.png",
       "HoveredImage": "smallbutton_hovered.png",
@@ -420,7 +420,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,12",
+      "Font": "sourcesansproblack,10",
       "TextScale": 1.0,
       "NormalImage": "smallbutton.png",
       "HoveredImage": "smallbutton_hovered.png",
