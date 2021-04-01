@@ -1,5 +1,5 @@
 {
-  "Bounds": "1039,179,235,342",
+  "Bounds": "1014,179,260,342",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -24,7 +24,7 @@
   "InactiveColor": "",
   "Closable": true,
   "Titlebar": {
-    "Bounds": "0,0,235,31",
+    "Bounds": "0,0,260,31",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -55,7 +55,7 @@
     "Padding": "39,6,4,4",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
-    "Margin": "0,0,0,0",
+    "Margin": "10,0,0,0",
     "RenderColor": "255,255,255,255",
     "Alignments": "",
     "DrawBackground": true,
@@ -73,7 +73,7 @@
     "TextColor": "0,255,255,255",
     "HoveredTextColor": "",
     "ClickedTextColor": "",
-    "DisabledTextColor": "255,90,90,90",
+    "DisabledTextColor": "4,90,90,90",
     "TextAlign": "Left, CenterV",
     "TextPadding": "0,0,0,0",
     "AutoSizeToContents": true,
@@ -81,7 +81,7 @@
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "220,6,15,15",
+    "Bounds": "245,6,15,15",
     "Padding": "3,6,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "QuestList": {
-        "Bounds": "3,2,232,310",
+        "Bounds": "3,2,257,308",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -437,13 +437,13 @@
         "ItemRightClickSound": null
       },
       "QuestTitle": {
-        "Bounds": "3,6,228,32",
+        "Bounds": "0,6,228,32",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
-        "Margin": "0,0,0,0",
+        "Margin": "0,0,3,0",
         "RenderColor": "255,255,255,255",
-        "Alignments": "CenterH",
+        "Alignments": "",
         "DrawBackground": true,
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
@@ -463,11 +463,11 @@
         "TextAlign": "CenterH",
         "TextPadding": "0,0,0,0",
         "AutoSizeToContents": false,
-        "Font": "sourcesansproblack,12",
+        "Font": "sourcesansproblack,10",
         "TextScale": 1.0
       },
       "QuestStatus": {
-        "Bounds": "3,24,228,32",
+        "Bounds": "16,24,228,32",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -497,7 +497,7 @@
         "TextScale": 1.0
       },
       "QuestDescription": {
-        "Bounds": "8,48,211,212",
+        "Bounds": "8,50,211,212",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

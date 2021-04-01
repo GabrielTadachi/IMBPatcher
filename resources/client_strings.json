@@ -6,7 +6,7 @@
     "access2": "Admin",
     "ban": "Banir",
     "bancaption": "Banir {00}",
-    "banprompt": "Banir {00} não permite que ele acesse este jogo pela duração que você definir!",
+    "banprompt": "Banir {00} não permite que ele acesse este jogo pela duração que definires!",
     "chronological": "123...",
     "chronologicaltip": "Ordene mapas cronologicamente.",
     "face": "Face:",
@@ -15,7 +15,7 @@
     "maplist": "Lista de Mapas:",
     "mute": "Mutar",
     "mutecaption": "Mutar {00}",
-    "muteprompt": "Mutar {00} não permite que eles conversem no jogo pela duração que você definir!",
+    "muteprompt": "Mutar {00} não permite que eles conversem no jogo pela duração que definires!",
     "name": "Nome:",
     "noclip": "Sem Física:",
     "nocliptip": "Marque para andar pelos obstáculos.",
@@ -27,26 +27,26 @@
     "title": "Administração",
     "unban": "Desbanir",
     "unbancaption": "Desbanir {00}",
-    "unbanprompt": "Tem certeza de que deseja desbanir {00}?",
+    "unbanprompt": "Tens a certeza de que desejas desbanir {00}?",
     "unmute": "Desmutar",
     "unmutecaption": "Desmutar {00}",
-    "unmuteprompt": "Tem certeza de que deseja desmutar {00}?",
+    "unmuteprompt": "Tens a certeza de que desejas desmutar {00}?",
     "warp2me": "Trazer aqui",
     "warpme2": "Aparatar para"
   },
   "Bags": {
     "retreiveitem": "Retirar Item",
-    "retreiveitemprompt": "Quantos {00} você gostaria de retirar?",
+    "retreiveitemprompt": "Quantos {00} gostarias de retirar?",
     "storeitem": "Depositar Item",
-    "storeitemprompt": "Quantos {00} você gostaria de depositar?",
+    "storeitemprompt": "Quantos {00} gostarias de depositar?",
     "title": "Mochila"
   },
   "Bank": {
     "deposititem": "Depositar Item",
-    "deposititemprompt": "Quantos {00} você gostaria de depositar?",
+    "deposititemprompt": "Quantos {00} gostarias de depositar?",
     "title": "Cofre",
     "withdrawitem": "Retirar Item",
-    "withdrawitemprompt": "Quantos {00} você gostaria de retirar?"
+    "withdrawitemprompt": "Quantos {00} gostarias de retirar?"
   },
   "BanMute": {
     "oneday": "1 dia",
@@ -81,29 +81,29 @@
     "title": "Personagem"
   },
   "CharacterCreation": {
-    "back": "Retornar",
+    "back": "Voltar",
     "class": "Classe",
     "create": "Criar",
     "female": "F",
-    "gender": "Gênero",
+    "gender": "Género",
     "hint": "Customizar",
-    "hint2": "Seu Personagem",
-    "invalidname": "O nome do personagem é inválido. Por favor, use caracteres alfanuméricos entre 2 a 20 caracteres.",
+    "hint2": "O teu Personagem",
+    "invalidname": "O nome do personagem é inválido. Por favor, usa caracteres alfanuméricos de 2 a 20 dígitos.",
     "male": "M",
     "name": "Nome",
-    "title": "Criação de Personagem"
+    "title": "Criação do Personagem"
   },
   "CharacterSelection": {
-    "delete": "Deletar",
-    "deleteprompt": "Tem certeza de que deseja excluir {00}? Esta ação é irreversível!",
-    "deletetitle": "Deletar {00}",
+    "delete": "Apagar",
+    "deleteprompt": "Tens a certeza de que desejas excluir {00}? Esta ação é irreversível!",
+    "deletetitle": "Apagar {00}",
     "empty": "Slot de Personagem Vazio",
     "info": "Nível {00} {01}",
     "logout": "Sair",
     "name": "{00}",
     "new": "Novo",
     "play": "Selecionar",
-    "title": "Seleção de Personagem"
+    "title": "Seleção do Personagem"
   },
   "Chatbox": {
     "channel": "Canais:",
@@ -113,12 +113,12 @@
       "2": "Grupo"
     },
     "channeladmin": "Admin",
-    "enterchat": "Clique aqui para conversar.",
-    "enterchat1": "Pressione {00} para conversar.",
-    "enterchat2": "Pressione {00} ou {01} para conversar.",
+    "enterchat": "Clica aqui para conversar.",
+    "enterchat1": "Pressiona {00} para conversar.",
+    "enterchat2": "Pressiona {00} ou {01} para conversar.",
     "send": "Enviar",
     "title": "Conversas",
-    "toofast": "Você está enviando mensagens muito rapído!",
+    "toofast": "Estás a enviar mensagens muito rápido!",
     "unabletocopy": "It appears you are not able to copy/paste on this platform. Please make sure you have either the 'xclip' or 'wl-clipboard' packages installed if you are running Linux."
   },
   "Colors": {
@@ -147,10 +147,10 @@
     "vital0": "Saúde",
     "vital1": "Mana",
     "warningtitle": "Aviso de Combate!",
-    "warningforceclose": "O jogo foi fechado enquanto em combate! Seu personagem vai continuar logado até o combate ser finalizado!",
-    "warninglogout": "Você está prestes a deslogar enquanto está em combate! Seu personagem vai continuar logado até o combate ser finalizado! Você realmente deseja deslogar?",
-    "warningcharacterselect": "Você está prestes a deslogar enquanto está em combate! Seu personagem vai continuar logado até o combate ser finalizado! Você realmente deseja deslogar?",
-    "warningexitdesktop": "Você está prestes a sair enquanto está em combate! Seu personagem vai continuar logado até o combate ser finalizado! Você realmente deseja sair agora?"
+    "warningforceclose": "O jogo foi fechado enquanto em combate! O teu personagem vai continuar logado até o combate ser finalizado!",
+    "warninglogout": "Estás prestes a deslogar enquanto estás em combate! O teu personagem vai continuar logado até o combate ser finalizado! Desejas mesmo deslogar?",
+    "warningcharacterselect": "Estás prestes a deslogar enquanto estás em combate! O teu personagem vai continuar logado até o combate ser finalizado! Desejas mesmo deslogar?",
+    "warningexitdesktop": "Estás prestes a sair enquanto estás em combate! O teu personagem vai continuar logado até o combate ser finalizado! Desejas mesmo sair agora?"
   },
   "Controls": {
     "controldict": {
@@ -169,14 +169,14 @@
       "hotkey8": "Hot Key 8:",
       "hotkey9": "Hot Key 9:",
       "movedown": "Mover para baixo:",
-      "moveleft": "Mover para esquerda:",
-      "moveright": "Mover para direita:",
+      "moveleft": "Mover para a esquerda:",
+      "moveright": "Mover para a direita:",
       "moveup": "Mover para cima:",
-      "pickup": "Pick Up:",
+      "pickup": "Recolher:",
       "screenshot": "Screenshot:",
       "openmenu": "Abrir menu:",
       "openinventory": "Abrir inventário:",
-      "openquests": "Abrir registro de missões:",
+      "openquests": "Abrir registo de missões:",
       "opencharacterinfo": "Abrir personagem:",
       "openparties": "Abrir party:",
       "openspells": "Abrir encantamentos:",
@@ -192,11 +192,11 @@
   },
   "Crafting": {
     "craft": "Criar",
-    "incorrectresources": "Você não tem os ingredientes correctos para criar esta poção.",
+    "incorrectresources": "Não tens os ingredientes corretos para criar esta poção.",
     "ingredients": "Requer:",
     "product": "Poção:",
     "recipes": "Receitas:",
-    "title": "Confecção de Poções"
+    "title": "Confeção de Poções"
   },
   "Credits": {
     "back": "Menu Principal",
@@ -225,33 +225,33 @@
     "exp": "EXP",
     "expval": "{00} / {01}",
     "friend": "Amizade",
-    "friendtip": "Envie a {00} um pedido de amizade.",
+    "friendtip": "Envia a {00} um pedido de amizade.",
     "level": "Lv. {00}",
     "map": "{00}",
     "maxlevel": "Nível Máximo",
     "party": "Party",
-    "partytip": "Convide {00} para tua party.",
+    "partytip": "Convida {00} para a tua party.",
     "trade": "Troca",
-    "tradetip": "Peça para trocar com {00}.",
+    "tradetip": "Pede para trocar com {00}.",
     "vital0": "HP",
     "vital0val": "{00} / {01}",
     "vital1": "MP",
     "vital1val": "{00} / {01}"
   },
   "Errors": {
-    "displaynotsupported": "Invalid Display Configuration!",
-    "displaynotsupportederror": "Fullscreen {00} resolution is not supported on this device!",
-    "errorencountered": "The Intersect Client has encountered an error and must close. Error information can be found in logs/errors.log",
-    "notconnected": "Not connected to the game server. Is it online?",
-    "notsupported": "Not Supported!",
+    "displaynotsupported": "Configuração de Exibição Inválida!",
+    "displaynotsupportederror": "A resolução de Tela Cheia {00} não é suportada neste dispositivo!",
+    "errorencountered": "O Client da Intersect encontrou um erro e tem de encerrar. A informação do erro pode ser encontrada em logs/errors.log",
+    "notconnected": "Sem conexão ao servidor do jogo. Estará online?",
+    "notsupported": "Não Suportado!",
     "openallink": "https://goo.gl/Nbx6hx",
     "opengllink": "https://goo.gl/RSP3ts",
-    "passwordinvalid": "Password is invalid. Please use alphanumeric characters with a length between 4 and 20.",
-    "resourcesnotfound": "The resources directory could not be found! Intersect will now close.",
+    "passwordinvalid": "Senha inválida. Por favor usa caracteres alfanuméricos de 4 a 20 dígitos.",
+    "resourcesnotfound": "Os recursos da diretoria não poderam ser encontradas. A Intersect irá agora encerrar.",
     "title": "Erro!",
-    "usernameinvalid": "Username is invalid. Please use alphanumeric characters with a length between 2 and 20.",
-    "loadfile": "Failed to load a {00}. Please send the game administrator a copy of your errors log file in the logs directory.",
-    "lostconnection": "Lost connection to the game server. Please make sure you're connected to the internet and try again!"
+    "usernameinvalid": "O Username é inválido. Por favor usa caracteres alfanuméricos de 2 a 20 dígitos.",
+    "loadfile": "Falha de carregamento a {00}. Por favor envia ao administrador uma cópia do ficheiro log de erros na diretoria de logs.",
+    "lostconnection": "Ligação perdida ao servidor do jogo. Por favor verifica a tua ligação à internet e tenta novamente!"
   },
   "Words": {
     "lcase_sound": "sound",
@@ -264,21 +264,21 @@
     "title": "Mensagem"
   },
   "ForgotPass": {
-    "back": "Retornar",
-    "hint": "If your account exists we will send you a temporary password reset code.",
-    "label": "Enter your username or email below:",
-    "submit": "Submit",
-    "title": "Password Reset"
+    "back": "Voltar",
+    "hint": "Se a tua conta existe iremos enviar-te um código temporário de reconfiguração de senha.",
+    "label": "Introduz o teu username ou e-mail abaixo:",
+    "submit": "Submeter",
+    "title": "Reconfigurar Senha"
   },
   "Friends": {
     "addfriend": "Adicionar Amigo",
     "addfriendtitle": "Adicionar Amigo",
-    "addfriendprompt": "Quem você gostaria de adicionar como amigo?",
-    "infight": "You are currently fighting!",
+    "addfriendprompt": "Quem gostarias de adicionar como amigo?",
+    "infight": "Estás numa batalha neste momento!",
     "removefriend": "Remover Amigo",
-    "removefriendprompt": "Você deseja remover {00} da sua lista de amigos?",
+    "removefriendprompt": "Desejas remover {00} da tua lista de amigos?",
     "request": "Pedido de Amizade",
-    "requestprompt": "{00} Enviou um pedido de amizade. Você aceita?",
+    "requestprompt": "{00} Enviou um pedido de amizade. Aceitas?",
     "title": "Friends"
   },
   "GameMenu": {
@@ -287,7 +287,7 @@
     "friends": "Amigos",
     "items": "Inventário",
     "party": "Party",
-    "quest": "Registro de Missões",
+    "quest": "Registo de Missões",
     "spells": "Livro de Encantamentos"
   },
   "General": {
@@ -307,22 +307,22 @@
   "Inventory": {
     "cooldown": "{00}s",
     "dropitem": "Dropar Item",
-    "dropitemprompt": "Quantos {00} você deseja dropar?",
-    "dropprompt": "Você deseja dropar o item: {00}?",
+    "dropitemprompt": "Quantos {00} desejas dropar?",
+    "dropprompt": "Desejas dropar o item: {00}?",
     "equippedicon": "E",
     "title": "Inventário"
   },
   "ItemDesc": {
-    "bonuses": "Bônus de Status:",
+    "bonuses": "Bónus de Status:",
     "damage": "Dano Base: {00}",
     "desc": "{00}",
-    "effect": "Efeito Bônus: {00}% {01}",
+    "effect": "Efeito Bónus: {00}% {01}",
     "effects": {
       "0": "Redução do Cooldown",
       "1": "Roubo de Vida",
       "2": "Tenacity",
       "3": "Sorte",
-      "4": "Bônus de Exp"
+      "4": "Bónus de Exp"
     },
     "itemtypes": {
       "0": "Nenhum",
@@ -554,8 +554,8 @@
     }
   },
   "Login": {
-    "back": "Retornar",
-    "forgot": "Esqueceu a Senha?",
+    "back": "Voltar",
+    "forgot": "Esqueceste a Senha?",
     "login": "Login",
     "password": "Senha:",
     "savepass": "Salvar Senha",
@@ -571,7 +571,7 @@
     "login": "Login",
     "options": "Config.",
     "optionstooltip": "",
-    "register": "Registrar",
+    "register": "Registar",
     "title": "Menu Principal"
   },
   "Options": {
@@ -580,7 +580,7 @@
     "fps90": "90",
     "fps120": "120",
     "apply": "Aplicar",
-    "back": "Retornar",
+    "back": "Voltar",
     "cancel": "Cancelar",
     "fullscreen": "Fullscreen",
     "autoclosewindows": "Auto-close Windows",
@@ -595,8 +595,8 @@
     "vsync": "V-Sync"
   },
   "Parties": {
-    "infight": "You are currently fighting!",
-    "inviteprompt": "{00} te convidou para uma Party. Você aceita?",
+    "infight": "Estás no meio de uma batalha!",
+    "inviteprompt": "{00} convidou-te para uma Party. Aceitas?",
     "kick": "Kickar {00}",
     "kicklbl": "Kickar",
     "leader": "Líder",
@@ -613,21 +613,21 @@
   },
   "QuestLog": {
     "abandon": "Abandonar",
-    "abandonprompt": "Você tem mesmo certeza que deseja abandonar a missão \"{00}\"?",
+    "abandonprompt": "Tens mesmo certeza que desejas abandonar a missão \"{00}\"?",
     "abandontitle": "Abandonar Missão: {00}",
-    "back": "Retornar",
+    "back": "Voltar",
     "completed": "Missão Completa",
     "currenttask": "Tarefa Atual:",
     "inprogress": "Missão em Progresso",
     "notstarted": "Missão não Iniciada",
     "taskitem": "{00}/{01} {02}(s) obtidos.",
     "tasknpc": "{00}/{01} {02}(s) derrotados.",
-    "title": "Registro de Missões"
+    "title": "Registo de Missões"
   },
   "QuestOffer": {
-    "accept": "Accept",
-    "decline": "Decline",
-    "title": "Quest Offer"
+    "accept": "Aceitar",
+    "decline": "Recusar",
+    "title": "Proposta de Quest"
   },
   "Regex": {
     "email": "^(([\\w-]+\\.)+[\\w-]+|([a-zA-Z]{1}|[\\w-]{2,}))@((([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\\.([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\\.([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])\\.([0-1]?[0-9]{1,2}|25[0-5]|2[0-4][0-9])){1}|([a-zA-Z]+[\\w-]+\\.)+[a-zA-Z]{2,4})$",
@@ -635,41 +635,41 @@
     "username": "^[a-zA-Z0-9]{2,20}$"
   },
   "Registration": {
-    "back": "Retornar",
-    "confirmpass": "Confirme a Senha:",
+    "back": "Voltar",
+    "confirmpass": "Confirma a senha:",
     "email": "Email:",
-    "emailinvalid": "Email é Invalido.",
+    "emailinvalid": "O e-mail é inválido.",
     "password": "Senha:",
-    "passwordmatch": "Senhas não estão iguais!",
-    "register": "Registrar",
-    "title": "Registrar",
+    "passwordmatch": "As senhas não estão iguais!",
+    "register": "Registar",
+    "title": "Registar",
     "username": "Usuário:"
   },
   "ResetPass": {
-    "back": "Cancel",
-    "code": "Enter the reset code that was sent to you:",
+    "back": "Cancelar",
+    "code": "Introduz o código de reconfiguração que te foi enviado:",
     "fail": "Erro!",
-    "failmsg": "The reset code was not valid, has expired, or the account does not exist!",
-    "inputcode": "Please enter your password reset code.",
-    "password": "New Password:",
-    "password2": "Confirm Password:",
-    "submit": "Submit",
-    "success": "Success!",
-    "successmsg": "Your password has been reset!",
-    "title": "Password Reset"
+    "failmsg": "O código não é valido, expirou, ou a conta não existe!",
+    "inputcode": "Por favor introduz o código de reconfiguração de senha.",
+    "password": "Nova Senha:",
+    "password2": "Confirmar Senha:",
+    "submit": "Submeter",
+    "success": "Successo!",
+    "successmsg": "A tua senha foi reconfigurada!",
+    "title": "Reconfigurar Senha"
   },
   "Resources": {
-    "cancelled": "Download was Cancelled!",
-    "failedtoload": "Failed to load Resources!",
-    "resourceexception": "Failed to download client resources.\\n\\nException Info: {00}\\n\\nWould you like to try again?",
-    "resourcesfatal": "Failed to load resources from client directory and Ascension Game Dev server. Cannot launch game!"
+    "cancelled": "O download foi cancelado!",
+    "failedtoload": "Falha em carregar os Recursos!",
+    "resourceexception": "Falha no download de recursos do client.\\n\\nException Info: {00}\\n\\nDesejas tentar novamente?",
+    "resourcesfatal": "Falha no carregamento de recursos da diretoria do client e do servidor Ascension Game Dev. Impossível iniciar o jogo!"
   },
   "Server": {
     "statuslabel": "Status do Servidor: {00}",
     "online": "Online",
     "offline": "Offline",
     "failed": "Erro de Rede",
-    "connecting": "Conectando-se...",
+    "connecting": "A conectar...",
     "unknown": "Desconhecido",
     "versionmismatch": "Bad Version",
     "serverfull": "Cheio",
@@ -677,12 +677,12 @@
   },
   "Shop": {
     "buyitem": "Comprar Item",
-    "buyitemprompt": "Quanto(s) {00} você deseja comprar?",
+    "buyitemprompt": "Quanto(s) {00} desejas comprar?",
     "cannotsell": "Esta loja não aceita este item!",
     "costs": "Custa {00} {01}(s)",
     "sellitem": "Vender Item",
-    "sellitemprompt": "Quanto(s) {00} você deseja vender?",
-    "sellprompt": "Você deseja vender este item: {00}?",
+    "sellitemprompt": "Quanto(s) {00} desejas vender?",
+    "sellprompt": "Desejas vender este item: {00}?",
     "sellsfor": "Vende por {00} {01}(s)",
     "wontbuy": "A loja não vai comprar este item!"
   },
@@ -696,15 +696,15 @@
       "0": "",
       "1": "Silencia o Alvo",
       "2": "Imobiliza o Alvo",
-      "3": "Snares Target",
+      "3": "Engana o Alvo",
       "4": "Cega o Alvo",
-      "5": "Stealths Target",
+      "5": "Rouba o Alvo",
       "6": "Transforma o Alvo",
       "7": "Limpa o Alvo",
       "8": "O Alvo torna-se Invunerável",
       "9": "Protege o Alvo",
       "10": "Faz o Alvo Adormecer",
-      "11": "Applies an On Hit effect to the target",
+      "11": "Aplica um Efeito Único ao Alvo",
       "12": "Provoca o Alvo"
     },
     "effects": "Efeitos:",
@@ -746,23 +746,23 @@
   "Spells": {
     "cooldown": "{00}s",
     "forgetspell": "Esquecer Encantamento",
-    "forgetspellprompt": "Você tem certeza que deseja esquecer {00}?",
+    "forgetspellprompt": "Tens a certeza que desejas esquecer {00}?",
     "title": "Encantamentos"
   },
   "Trading": {
     "accept": "Aceitar",
-    "infight": "You are currently fighting!",
+    "infight": "Estás no meio de uma batalha!",
     "offeritem": "Oferecer Item",
-    "offeritemprompt": "Quanto(s) {00} você deseja oferecer?",
+    "offeritemprompt": "Quanto(s) {00} desejas oferecer?",
     "pending": "Pendente",
-    "requestprompt": "{00} te convidou para trocar items com ele. Você aceita?",
+    "requestprompt": "{00} convidou-te para trocar items com ele. Aceitas?",
     "revokeitem": "Retirar Item",
-    "revokeitemprompt": "Quanto(s) {00} você deseja retirar?",
+    "revokeitemprompt": "Quanto(s) {00} desejas retirar?",
     "theiroffer": "A oferta deles:",
     "title": "Trocando com {00}",
     "traderequest": "Convite de Troca",
     "value": "Valor: {00}",
-    "youroffer": "Sua Oferta:"
+    "youroffer": "A tua Oferta:"
   },
   "EscapeMenu": {
     "title": "Menu",
@@ -780,11 +780,11 @@
     "comma": ","
   },
   "Update": {
-    "checking": "Procurando Atualizações!",
-    "updating": "Baixando Atualizações!",
-    "restart": "Atualização completa! Reabra {00} para jogar!",
-    "done": "Atualização completa! Abrindo jogo!",
-    "error": "Erro na Atualização! Verifique logs para mais informações!",
+    "checking": "À procura de atualizações!",
+    "updating": "A transferir atualizações!",
+    "restart": "Atualização completa! Reabre {00} para jogar!",
+    "done": "Atualização completa! Abrindo o jogo!",
+    "error": "Erro na Atualização! Verifica os logs para mais informações!",
     "files": "{00} Arquivos Restantes",
     "size": "{00} Restante",
     "percent": "{00}%"

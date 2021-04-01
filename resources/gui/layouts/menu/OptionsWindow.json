@@ -4102,7 +4102,7 @@
             "ClickSound": ""
           },
           "ControlOpenCharacterInfoLabel": {
-            "Bounds": "8,747,184,16",
+            "Bounds": "8,747,111,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
