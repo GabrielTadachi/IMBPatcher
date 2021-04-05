@@ -2449,8 +2449,8 @@
     },
     {
       "Path": "resources/gui/emptybar.png",
-      "Hash": "43cb8ceebde5b26d9c88b11ff53f126c",
-      "Size": 5923
+      "Hash": "d1ec1352e5103d1beb83ec28a786ab8d",
+      "Size": 5279
     },
     {
       "Path": "resources/gui/entitybox - Copia.png",
@@ -2459,8 +2459,18 @@
     },
     {
       "Path": "resources/gui/entitybox.png",
-      "Hash": "a1c45e8a67a822afb476de1b32ae82f9",
-      "Size": 19440
+      "Hash": "411259c6075e5a320b37d4c161ad977d",
+      "Size": 24878
+    },
+    {
+      "Path": "resources/gui/entityboxtarget.png",
+      "Hash": "111d67c489292b4bf1d64ee4f34ac871",
+      "Size": 22756
+    },
+    {
+      "Path": "resources/gui/entityboxtarget.psd",
+      "Hash": "f88a65782be3aa5b5d4cf8181aaf2671",
+      "Size": 635280
     },
     {
       "Path": "resources/gui/entitybox_smtop.png",
@@ -2524,8 +2534,8 @@
     },
     {
       "Path": "resources/gui/expbar.png",
-      "Hash": "2627ff32bab1278c24a51926e22a1881",
-      "Size": 6304
+      "Hash": "6f631f2ac72f9388593559226d863304",
+      "Size": 5918
     },
     {
       "Path": "resources/gui/forgotpass_window.png",
@@ -2564,8 +2574,8 @@
     },
     {
       "Path": "resources/gui/hpbar.png",
-      "Hash": "4f7e32c7a5cd6c090479d150a645b7ab",
-      "Size": 5545
+      "Hash": "eebacfc12af1aae2c443a979478d3caa",
+      "Size": 6395
     },
     {
       "Path": "resources/gui/ingame_charselect.png",
@@ -2649,8 +2659,8 @@
     },
     {
       "Path": "resources/gui/ingame_menu.png",
-      "Hash": "7e629d486ab1a32405a716f9cf2b858d",
-      "Size": 83271
+      "Hash": "f01c89b45a461cd0625c82d24e4a6759",
+      "Size": 55253
     },
     {
       "Path": "resources/gui/ingame_settings.png",
@@ -2741,6 +2751,11 @@
       "Path": "resources/gui/mainmenu.png",
       "Hash": "7e629d486ab1a32405a716f9cf2b858d",
       "Size": 83271
+    },
+    {
+      "Path": "resources/gui/mainmenu2.png",
+      "Hash": "3299cfecc0a5d1ed17dbf5f0e18a7a01",
+      "Size": 54121
     },
     {
       "Path": "resources/gui/mainmenu_credits.png",
@@ -2844,8 +2859,8 @@
     },
     {
       "Path": "resources/gui/manabar.png",
-      "Hash": "51b03a510c6827ec286700edab9aa9e8",
-      "Size": 6340
+      "Hash": "d8cb6990cb4973de7a4cfc21228ff8dd",
+      "Size": 6725
     },
     {
       "Path": "resources/gui/manaempty.png",
@@ -2951,6 +2966,11 @@
       "Path": "resources/gui/selectchar_window.png",
       "Hash": "7c697a0378fa9573eef4eb7bbf6c9e7a",
       "Size": 77928
+    },
+    {
+      "Path": "resources/gui/Sem Título-1.png",
+      "Hash": "f01c89b45a461cd0625c82d24e4a6759",
+      "Size": 55253
     },
     {
       "Path": "resources/gui/shieldbar.png",
@@ -3134,8 +3154,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/EscapeMenu.json",
-      "Hash": "9ae32a57cf15f6eef3f9c99b05bbea98",
-      "Size": 8287
+      "Hash": "37772f6ada96ccfd3a942b5acc5303f2",
+      "Size": 8229
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogueWindow.json",
@@ -3224,8 +3244,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "ddbca13264e2efefffe07180aa79c9ce",
-      "Size": 24185
+      "Hash": "1a9c425c3e0b53a8ff76fb01269c6d07",
+      "Size": 24194
     },
     {
       "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
@@ -3234,8 +3254,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/QuestOfferWindow.json",
-      "Hash": "59f098f6168dbbc054b405d9b72e6f8e",
-      "Size": 19745
+      "Hash": "ca8caa1cfc3950faf4685e1326b1a21d",
+      "Size": 19753
     },
     {
       "Path": "resources/gui/layouts/game/QuestsWindow.json",
@@ -3274,8 +3294,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "7518bdd8de2a586f69a2aca4fb779157",
-      "Size": 24296
+      "Hash": "3d04026a18b8ae577aa3784d64654e04",
+      "Size": 24291
     },
     {
       "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
@@ -3324,7 +3344,7 @@
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Hash": "8fbb1cad4588495f2af95302b7a3d867",
+      "Hash": "01081642503d9b70130c66871e3b2e23",
       "Size": 14499
     },
     {

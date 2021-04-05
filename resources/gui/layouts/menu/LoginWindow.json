@@ -357,7 +357,7 @@
       "ClickSound": ""
     },
     "LoginButton": {
-      "Bounds": "338,54,96,35",
+      "Bounds": "338,58,96,35",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "50,0,0,0",
       "AlignmentTransform": "0,0",
@@ -395,7 +395,7 @@
       "ClickSound": ""
     },
     "BackButton": {
-      "Bounds": "338,89,96,35",
+      "Bounds": "338,93,96,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
