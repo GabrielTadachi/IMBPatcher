@@ -1,5 +1,5 @@
 {
-  "Bounds": "414,283,452,213",
+  "Bounds": "734,473,452,213",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,40",
@@ -1770,7 +1770,7 @@
             "ClickSound": ""
           },
           "ControlMoveLeftLabel": {
-            "Bounds": "8,43,129,16",
+            "Bounds": "8,43,139,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -1982,7 +1982,7 @@
             "ClickSound": ""
           },
           "ControlMoveRightLabel": {
-            "Bounds": "8,107,113,16",
+            "Bounds": "8,107,123,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -2406,7 +2406,7 @@
             "ClickSound": ""
           },
           "ControlPickUpLabel": {
-            "Bounds": "8,235,49,16",
+            "Bounds": "8,235,56,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -3996,7 +3996,7 @@
             "ClickSound": ""
           },
           "ControlOpenQuestsLabel": {
-            "Bounds": "8,715,152,16",
+            "Bounds": "8,715,147,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
