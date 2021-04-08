@@ -1164,8 +1164,8 @@
     },
     {
       "Path": "resources/entities/elfo.png",
-      "Hash": "f48d24ac8902fc15c28a913e42a063da",
-      "Size": 6845
+      "Hash": "6b8c612f0e13f24d17a048eb7233b0d0",
+      "Size": 6472
     },
     {
       "Path": "resources/entities/Escorpiao.png",
@@ -1941,6 +1941,11 @@
       "Path": "resources/entities/Vini.png",
       "Hash": "7a3bf978443299965725b68f1b182dad",
       "Size": 13819
+    },
+    {
+      "Path": "resources/entities/voldemort.png",
+      "Hash": "701cc6f60cd382c83e46722e9be0ea11",
+      "Size": 8390
     },
     {
       "Path": "resources/entities/Winged Horse.png",
@@ -3174,7 +3179,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_3Responses.json",
-      "Hash": "631a8be5526a1aece2c0f9d45ae9068c",
+      "Hash": "7895edd847a541c26d746850d35570f9",
       "Size": 32702
     },
     {
@@ -3269,7 +3274,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "c5447ec0cb9892d66008f3edd6b14866",
+      "Hash": "c207dca69c1f742cf4d45aa15bf90fb1",
       "Size": 14737
     },
     {
@@ -7318,9 +7323,19 @@
       "Size": 41252
     },
     {
+      "Path": "resources/tilesets/6e4ca76b9362911e798265e8568a4dd7a9933a8e.png",
+      "Hash": "f0dfbca12e643cfe04ba2005e7881c05",
+      "Size": 344617
+    },
+    {
       "Path": "resources/tilesets/964-9649783_flower-vine-png-tileset-rpg-maker-mv (1).png",
       "Hash": "371b9105326306fde288bcf9db1bc18b",
       "Size": 439005
+    },
+    {
+      "Path": "resources/tilesets/adc9b38cfd6dd91d0ce574ad428444c667ed6857.png",
+      "Hash": "7a75370518f08532b924b698f732c816",
+      "Size": 128827
     },
     {
       "Path": "resources/tilesets/Arc's Gabled Roofs.png",
@@ -7798,6 +7813,21 @@
       "Size": 63339
     },
     {
+      "Path": "resources/tilesets/estante1.png",
+      "Hash": "c3e144d9ca0de309372980a4549a4be1",
+      "Size": 41840
+    },
+    {
+      "Path": "resources/tilesets/estante2.png",
+      "Hash": "b64fbc25b370c85da3ed718ebfb0f5c6",
+      "Size": 29020
+    },
+    {
+      "Path": "resources/tilesets/estante3.png",
+      "Hash": "1acc02ca6d5f3a0999258b5840332a94",
+      "Size": 21137
+    },
+    {
       "Path": "resources/tilesets/estufas1.png",
       "Hash": "14dfce53e9ba6f09ca074d0162c75dd2",
       "Size": 220049
@@ -7886,6 +7916,16 @@
       "Path": "resources/tilesets/Fuffydud - Statues.png",
       "Hash": "f6bae357d90b1046252f0f2764a1c8ba",
       "Size": 879654
+    },
+    {
+      "Path": "resources/tilesets/gelo1.png",
+      "Hash": "f0dfbca12e643cfe04ba2005e7881c05",
+      "Size": 344617
+    },
+    {
+      "Path": "resources/tilesets/gelo2.png",
+      "Hash": "7a75370518f08532b924b698f732c816",
+      "Size": 128827
     },
     {
       "Path": "resources/tilesets/GlowOrbStatues(editrecolourbyCvrtis).png",
