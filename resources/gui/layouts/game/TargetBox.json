@@ -1,5 +1,5 @@
 {
-  "Bounds": "4,10,260,73",
+  "Bounds": "4,10,260,200",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "4,10,0,0",
   "AlignmentTransform": "0,0",
@@ -676,7 +676,7 @@
       }
     },
     "StatusArea": {
-      "Bounds": "0,126,306,82",
+      "Bounds": "0,80,306,82",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

@@ -73,6 +73,11 @@
       "Size": 8087
     },
     {
+      "Path": "resources/animations/Animation_Erro.png",
+      "Hash": "c42a11fba9540a62cd64c04859f5dd97",
+      "Size": 85747
+    },
+    {
       "Path": "resources/animations/Animation_Evanesco.png",
       "Hash": "b9d08af61626dde0b52e509a65231178",
       "Size": 14154
@@ -116,6 +121,11 @@
       "Path": "resources/animations/Animation_Stupefy.png",
       "Hash": "c4a096dead576a51476c6f9d83e3943b",
       "Size": 58061
+    },
+    {
+      "Path": "resources/animations/Animation_Sucesso.png",
+      "Hash": "6096b0f4e888b7534cdeb1bed12b2e4b",
+      "Size": 128128
     },
     {
       "Path": "resources/animations/ArrowSpecial.png",
@@ -583,6 +593,11 @@
       "Size": 10495
     },
     {
+      "Path": "resources/animations/Projetil_Diffindo.png",
+      "Hash": "d2b357c55bfea771606881bea9a19ac4",
+      "Size": 12181
+    },
+    {
       "Path": "resources/animations/Projetil_Expelliarmus.png",
       "Hash": "8fb067a525ddc3ea723f4765bd72f74e",
       "Size": 15736
@@ -963,14 +978,29 @@
       "Size": 8900
     },
     {
+      "Path": "resources/entities/Anhangá.png",
+      "Hash": "bec3cef5a979e4d1bc9a744b83686694",
+      "Size": 10689
+    },
+    {
       "Path": "resources/entities/Antonieta.png",
       "Hash": "bcdefd8998e3a23d3d93b063aba9b71f",
       "Size": 9620
     },
     {
+      "Path": "resources/entities/Ao ao.png",
+      "Hash": "3e3b246c8266c648f58f72a826a12c5e",
+      "Size": 11046
+    },
+    {
       "Path": "resources/entities/Aranha.png",
       "Hash": "7cf10dc688301ed1560be3dce21072dd",
       "Size": 59546
+    },
+    {
+      "Path": "resources/entities/Ashwinder.png",
+      "Hash": "f8edefb3fcfa9fbdf975da6ac8e95b68",
+      "Size": 5604
     },
     {
       "Path": "resources/entities/Autumn.png",
@@ -988,9 +1018,34 @@
       "Size": 9383
     },
     {
+      "Path": "resources/entities/Boi Vaquim.png",
+      "Hash": "c9c85dccde97e83f9375bf11f8ca0b57",
+      "Size": 13545
+    },
+    {
       "Path": "resources/entities/Boi.png",
       "Hash": "8a3b686b5d498bbc8f0b2d00e19f6dd2",
       "Size": 7641
+    },
+    {
+      "Path": "resources/entities/Boi1.png",
+      "Hash": "dbe378940e75ca432a51eb42bf2c90bd",
+      "Size": 8848
+    },
+    {
+      "Path": "resources/entities/Boi2.png",
+      "Hash": "019ae8aff5f51665640d9a399180dec4",
+      "Size": 8645
+    },
+    {
+      "Path": "resources/entities/Boi3.png",
+      "Hash": "813203b7cb756dfa40bd0bcaa8a8fa68",
+      "Size": 8376
+    },
+    {
+      "Path": "resources/entities/Boi4.png",
+      "Hash": "614f9fa15ef6c3ec908eaafe1c40b612",
+      "Size": 7887
     },
     {
       "Path": "resources/entities/Bruxo1.png",
@@ -1118,14 +1173,114 @@
       "Size": 5601
     },
     {
+      "Path": "resources/entities/Caranguejo1.png",
+      "Hash": "610b4610b4c47c62b4391734373cd59c",
+      "Size": 3578
+    },
+    {
+      "Path": "resources/entities/Caranguejo2.png",
+      "Hash": "0bff428a2d250d1c86fc4ecf4fae4d1b",
+      "Size": 2966
+    },
+    {
+      "Path": "resources/entities/Caranguejo3.png",
+      "Hash": "a512034f733d59cd9e0b66a3a308e48b",
+      "Size": 3569
+    },
+    {
+      "Path": "resources/entities/Caranguejo4.png",
+      "Hash": "507b70a48c6556f9f2f621a170a2a466",
+      "Size": 2988
+    },
+    {
       "Path": "resources/entities/Carneiro.png",
       "Hash": "812e04ef7ad703856bd2a75bcdfbf620",
       "Size": 6067
     },
     {
+      "Path": "resources/entities/Cavalo do Pensamento.png",
+      "Hash": "0a433f5c02c66b6642f65beae1ac81e0",
+      "Size": 14581
+    },
+    {
+      "Path": "resources/entities/Centauro1.png",
+      "Hash": "27c3a6927cb3f8dda20e7a5cbea2b10d",
+      "Size": 13810
+    },
+    {
+      "Path": "resources/entities/Centauro10.png",
+      "Hash": "686c907714be07d38ff5217cb39ce26e",
+      "Size": 15315
+    },
+    {
+      "Path": "resources/entities/Centauro2.png",
+      "Hash": "250485ade04078fa6791bff9a2eacb0a",
+      "Size": 18346
+    },
+    {
+      "Path": "resources/entities/Centauro3.png",
+      "Hash": "8439133401ee94a4b583063000945df5",
+      "Size": 16848
+    },
+    {
+      "Path": "resources/entities/Centauro4.png",
+      "Hash": "1e29c5a771d6bd0e0da52f42458c72b0",
+      "Size": 18591
+    },
+    {
+      "Path": "resources/entities/Centauro5.png",
+      "Hash": "41be9af73bb1c38a4e668e18b9d4b2d7",
+      "Size": 16841
+    },
+    {
+      "Path": "resources/entities/Centauro6.png",
+      "Hash": "0657d1057e0c815fc1c7c233920a3258",
+      "Size": 13308
+    },
+    {
+      "Path": "resources/entities/Centauro7.png",
+      "Hash": "b2704a2edee38f0e8184e22d6531aa65",
+      "Size": 15539
+    },
+    {
+      "Path": "resources/entities/Centauro8.png",
+      "Hash": "c014d1ac0d740054be2d0c7b39891aa4",
+      "Size": 15816
+    },
+    {
+      "Path": "resources/entities/Centauro9.png",
+      "Hash": "73f99455f2f3839531a1fe16417a58ba",
+      "Size": 14180
+    },
+    {
+      "Path": "resources/entities/centaurs2.png",
+      "Hash": "fa204bc004f135fb89480114f970b9ee",
+      "Size": 16279
+    },
+    {
+      "Path": "resources/entities/cervo.png",
+      "Hash": "a97654a26778071a1041b55a31f01bc1",
+      "Size": 10831
+    },
+    {
+      "Path": "resources/entities/Chizpurfle.png",
+      "Hash": "b6dbb3f38182a1e755d33c8d0816abaf",
+      "Size": 5242
+    },
+    {
+      "Path": "resources/entities/Clabbert.png",
+      "Hash": "a302a5be08f3e7a01020e6510381fcb7",
+      "Size": 12291
+    },
+    {
       "Path": "resources/entities/Click.png",
       "Hash": "a937d5612a938681dc0be008aba0d868",
       "Size": 9813
+    },
+    {
+      "Path": "resources/entities/Coca.png",
+      "Hash": "0a350b164e7a953f0c32eb780ca6bae7",
+      "Size": 14099
     },
     {
       "Path": "resources/entities/Cocatriz.png",
@@ -1138,9 +1293,49 @@
       "Size": 3678
     },
     {
+      "Path": "resources/entities/Coruja1.png",
+      "Hash": "edebb0418b68588b6888c4c6e9638afe",
+      "Size": 4403
+    },
+    {
+      "Path": "resources/entities/Coruja3.png",
+      "Hash": "7772e5b5ca79a24a13206f70cdca52b6",
+      "Size": 4366
+    },
+    {
+      "Path": "resources/entities/Coruja4.png",
+      "Hash": "a8298178d99f16d4272a246ad45dccd9",
+      "Size": 4246
+    },
+    {
+      "Path": "resources/entities/Coruja5.png",
+      "Hash": "edc168728ac9d13c94d3de7838317b9a",
+      "Size": 4378
+    },
+    {
+      "Path": "resources/entities/Coruja6.png",
+      "Hash": "6161e08713b40fcacd7e24677ec32d7d",
+      "Size": 4005
+    },
+    {
+      "Path": "resources/entities/Coruja7.png",
+      "Hash": "dd262df3b5a7f672ee8abd36c4983bda",
+      "Size": 3909
+    },
+    {
+      "Path": "resources/entities/Coruja8.png",
+      "Hash": "69cdfe475e823b88af9fbbd6b0a69673",
+      "Size": 4165
+    },
+    {
       "Path": "resources/entities/Crup.png",
-      "Hash": "37b57f09c3905453c7babe751634908c",
-      "Size": 4890
+      "Hash": "103c426bc07d4fa856be9e80e0719b87",
+      "Size": 9283
+    },
+    {
+      "Path": "resources/entities/Cuca.png",
+      "Hash": "62b63f14d9a24014684198a264ce3d7d",
+      "Size": 10175
     },
     {
       "Path": "resources/entities/Delfina.png",
@@ -1156,6 +1351,21 @@
       "Path": "resources/entities/Donna.png",
       "Hash": "4bdbefbcc755b12b0f6b35fc9174bc59",
       "Size": 7835
+    },
+    {
+      "Path": "resources/entities/Dugbog.png",
+      "Hash": "9ca150ba37c8dd3258e9472aab94d424",
+      "Size": 5285
+    },
+    {
+      "Path": "resources/entities/Dumbledore1.png",
+      "Hash": "fa68d37617c00822447d5fa6d2697322",
+      "Size": 10453
+    },
+    {
+      "Path": "resources/entities/Dumbledore2.png",
+      "Hash": "b58d6b5cac688b48b6f37167a5430883",
+      "Size": 12019
     },
     {
       "Path": "resources/entities/ElenaShut.png",
@@ -1174,8 +1384,8 @@
     },
     {
       "Path": "resources/entities/Fairy.png",
-      "Hash": "245da878bd85e8482c8e2cfe28ebd0a2",
-      "Size": 6609
+      "Hash": "d29c127be2e1320a8b4d5442a18c4e32",
+      "Size": 11918
     },
     {
       "Path": "resources/entities/Farosutil.png",
@@ -1198,9 +1408,34 @@
       "Size": 8423
     },
     {
+      "Path": "resources/entities/Flobberworn.png",
+      "Hash": "c94bfb13cbe4648154dbaf6083aee765",
+      "Size": 6025
+    },
+    {
       "Path": "resources/entities/Floriano.png",
       "Hash": "d5584448bca26c443f63c104e245d5ef",
       "Size": 6962
+    },
+    {
+      "Path": "resources/entities/Fradinho da Mão Furada.png",
+      "Hash": "e091ee6e8550ac3b773c633cb1fc9b1b",
+      "Size": 14491
+    },
+    {
+      "Path": "resources/entities/Furão1.png",
+      "Hash": "ab3930dc92b5b80952a8eb2aa687eda7",
+      "Size": 3843
+    },
+    {
+      "Path": "resources/entities/Furão2.png",
+      "Hash": "50ada8d057ad4026ecab136068ff7dce",
+      "Size": 3500
+    },
+    {
+      "Path": "resources/entities/Furão3.png",
+      "Hash": "bea06eb0521ef3432f1c1c0bd2c3c3bb",
+      "Size": 3614
     },
     {
       "Path": "resources/entities/Galinha.png",
@@ -1268,9 +1503,19 @@
       "Size": 6380
     },
     {
+      "Path": "resources/entities/James Potter.png",
+      "Hash": "9163fd29dedf31b26231d1d3a06c9c6b",
+      "Size": 9408
+    },
+    {
       "Path": "resources/entities/jk_rowling.png",
       "Hash": "a42ff48083c53e37ad4f28bd930fb5f3",
       "Size": 9324
+    },
+    {
+      "Path": "resources/entities/Jãs.png",
+      "Hash": "15692b43f7643a18a46be0c85bd6a637",
+      "Size": 7735
     },
     {
       "Path": "resources/entities/Kid01.png",
@@ -1379,8 +1624,8 @@
     },
     {
       "Path": "resources/entities/Kneazle.png",
-      "Hash": "7fdf6d1aaea563df57e16f24f0ec8ec1",
-      "Size": 6470
+      "Hash": "71ee87429747f0915d65368849038cf1",
+      "Size": 13142
     },
     {
       "Path": "resources/entities/Lacerta1.png",
@@ -1453,6 +1698,11 @@
       "Size": 8193
     },
     {
+      "Path": "resources/entities/Lily Potter.png",
+      "Hash": "908f2aae0b6749c1024bddc13eb60ef2",
+      "Size": 9649
+    },
+    {
       "Path": "resources/entities/Lily.png",
       "Hash": "4d9e7ffa134ee9f7736df7ca3831a0ab",
       "Size": 9184
@@ -1461,6 +1711,31 @@
       "Path": "resources/entities/Lobisomem.png",
       "Hash": "7e7cd61a6ed659e08529a44e62d2bb6e",
       "Size": 18987
+    },
+    {
+      "Path": "resources/entities/Lobisomem1.png",
+      "Hash": "9b8850cb85d69f6042a6130acb99e26d",
+      "Size": 20433
+    },
+    {
+      "Path": "resources/entities/Lobisomem2.png",
+      "Hash": "e08eb06935d44aed97e9ee8481213fb6",
+      "Size": 19681
+    },
+    {
+      "Path": "resources/entities/Lobisomem3.png",
+      "Hash": "8d5544ac96db575b08f45a43df560f6c",
+      "Size": 20040
+    },
+    {
+      "Path": "resources/entities/Lobisomem4.png",
+      "Hash": "dc644568a7fb10410df1731f2912abd4",
+      "Size": 19564
+    },
+    {
+      "Path": "resources/entities/Lobisomem5.png",
+      "Hash": "ce6f3346ebd228b13235007eb223431a",
+      "Size": 19065
     },
     {
       "Path": "resources/entities/Lucas.png",
@@ -1541,6 +1816,16 @@
       "Path": "resources/entities/Matheus.png",
       "Hash": "67557dddeb624582d05bfa6667d9e8db",
       "Size": 10708
+    },
+    {
+      "Path": "resources/entities/Merpeople.png",
+      "Hash": "5e88244c89235f9aa81cf7b31611c5ec",
+      "Size": 12022
+    },
+    {
+      "Path": "resources/entities/Moirinhos Encantados.png",
+      "Hash": "7376370c9b3cd7be7340db2db6c81131",
+      "Size": 15569
     },
     {
       "Path": "resources/entities/monster books.png",
@@ -1703,6 +1988,11 @@
       "Size": 7862
     },
     {
+      "Path": "resources/entities/Mula sem cabeça.png",
+      "Hash": "9b1582b92268847c5bd328023217f353",
+      "Size": 11573
+    },
+    {
       "Path": "resources/entities/Mulher1.png",
       "Hash": "49b2b02e649d87782f3ba6a8de0caeb1",
       "Size": 5690
@@ -1723,6 +2013,21 @@
       "Size": 5692
     },
     {
+      "Path": "resources/entities/Mulheres Marinhas.png",
+      "Hash": "b5a691cd1207e53f019124a95d41a7fa",
+      "Size": 12847
+    },
+    {
+      "Path": "resources/entities/Nogtail.png",
+      "Hash": "b41d4e67fbe3226f17c1fa84ee1e41c3",
+      "Size": 12326
+    },
+    {
+      "Path": "resources/entities/oruja2.png",
+      "Hash": "81814443c48b1d26ea8d77afb1a056f9",
+      "Size": 4269
+    },
+    {
       "Path": "resources/entities/Ovelha.png",
       "Hash": "1bdebca1cf88440c281d6e712a9055e3",
       "Size": 4181
@@ -1741,6 +2046,46 @@
       "Path": "resources/entities/Passaro.png",
       "Hash": "c4fb010d2627c445f05b8802174d5866",
       "Size": 3589
+    },
+    {
+      "Path": "resources/entities/Passaro1.png",
+      "Hash": "8c6ba4494a05dfc1a9c597d3b301d955",
+      "Size": 3456
+    },
+    {
+      "Path": "resources/entities/Passaro2.png",
+      "Hash": "f5406f459bee6dd9f2bc0e45614fced0",
+      "Size": 3623
+    },
+    {
+      "Path": "resources/entities/Passaro3.png",
+      "Hash": "a6d50971106059e4c15bbc41bf3cae23",
+      "Size": 3521
+    },
+    {
+      "Path": "resources/entities/Passaro4.png",
+      "Hash": "baa8460adba3e05ae3876de287e5e05f",
+      "Size": 3421
+    },
+    {
+      "Path": "resources/entities/Passaro5.png",
+      "Hash": "df94131cde3fe5b48533b1fc1b5c8fa8",
+      "Size": 5993
+    },
+    {
+      "Path": "resources/entities/Passaro6.png",
+      "Hash": "be345fcb18dbc85e1d9ec4c5c4112a1d",
+      "Size": 6076
+    },
+    {
+      "Path": "resources/entities/Passaro7.png",
+      "Hash": "f89d47c3fbb8e0c793eb4da1ffd3ba4b",
+      "Size": 6080
+    },
+    {
+      "Path": "resources/entities/Passaro8.png",
+      "Hash": "36081acf7f634379eeb3ce9babe324aa",
+      "Size": 5313
     },
     {
       "Path": "resources/entities/Pato.png",
@@ -1783,14 +2128,94 @@
       "Size": 5813
     },
     {
-      "Path": "resources/entities/Rato.png",
-      "Hash": "a6fb99babe6c0fda4c5649b879b91be7",
-      "Size": 23193
+      "Path": "resources/entities/Puffskein.png",
+      "Hash": "0e336daf6bc671e2ae8bf68d92fdda7d",
+      "Size": 5412
+    },
+    {
+      "Path": "resources/entities/Rato1.png",
+      "Hash": "a06a5bfcffa702c56fadc7b3766459f3",
+      "Size": 3084
+    },
+    {
+      "Path": "resources/entities/Rato2.png",
+      "Hash": "b40aa47a5af3d18c5412a749772c03b0",
+      "Size": 3096
+    },
+    {
+      "Path": "resources/entities/Rato3.png",
+      "Hash": "3612d159fba7cc46ebb340e3affb0b8f",
+      "Size": 3033
+    },
+    {
+      "Path": "resources/entities/Rato4.png",
+      "Hash": "b6555e24998b8a385aa5f757f10b227a",
+      "Size": 2717
+    },
+    {
+      "Path": "resources/entities/Rato5.png",
+      "Hash": "6aff52093b0f3e1e43995961c869436f",
+      "Size": 3105
+    },
+    {
+      "Path": "resources/entities/Rato6.png",
+      "Hash": "a836fd1bb72dd92fb0bab746aa4c328e",
+      "Size": 3238
+    },
+    {
+      "Path": "resources/entities/Rato7.png",
+      "Hash": "5c411ae687c1b39a5fa0212a5e5767ac",
+      "Size": 3091
+    },
+    {
+      "Path": "resources/entities/Rato8.png",
+      "Hash": "3cb00e1c2c69413bcf8f7a58ff68fd2b",
+      "Size": 2902
+    },
+    {
+      "Path": "resources/entities/Red Cap.png",
+      "Hash": "4d74397b2329450bd687daf591654e67",
+      "Size": 9106
+    },
+    {
+      "Path": "resources/entities/Saci Pererê.png",
+      "Hash": "2dcf30826b439049407ff8a7148b9682",
+      "Size": 12502
+    },
+    {
+      "Path": "resources/entities/Salamander.png",
+      "Hash": "4fb406932d0b8130fb32f18e8f8ed97f",
+      "Size": 5042
     },
     {
       "Path": "resources/entities/Sapo.png",
       "Hash": "e5d59544e4885387312d2523a77df7ce",
       "Size": 27281
+    },
+    {
+      "Path": "resources/entities/Sapo1.png",
+      "Hash": "6bc865c33c282e50aeebf0eb80f073cb",
+      "Size": 3012
+    },
+    {
+      "Path": "resources/entities/Sapo2.png",
+      "Hash": "d272c1e6ebed8ec1514c23181c6a3794",
+      "Size": 3019
+    },
+    {
+      "Path": "resources/entities/Sapo3.png",
+      "Hash": "82120be91678a2a06b1be2ee82ad7ed9",
+      "Size": 2809
+    },
+    {
+      "Path": "resources/entities/Sapo4.png",
+      "Hash": "7a227735020a834ecc797317007a8701",
+      "Size": 3016
+    },
+    {
+      "Path": "resources/entities/Sapo5.png",
+      "Hash": "c4e1bc932f91b96ea2704efa263ab737",
+      "Size": 2707
     },
     {
       "Path": "resources/entities/Sereia.png",
@@ -1888,6 +2313,11 @@
       "Size": 10070
     },
     {
+      "Path": "resources/entities/Toupeira.png",
+      "Hash": "18e2f73849dd1ef713b8ad26113c7149",
+      "Size": 4969
+    },
+    {
       "Path": "resources/entities/TrollForest.png",
       "Hash": "65eec8040afa548c71d1602d2d76ab74",
       "Size": 7344
@@ -1923,6 +2353,46 @@
       "Size": 7278
     },
     {
+      "Path": "resources/entities/Vaca1.png",
+      "Hash": "51a51f2ba1fa442c63675861542857ca",
+      "Size": 8951
+    },
+    {
+      "Path": "resources/entities/Vaca2.png",
+      "Hash": "591d5a39fab8c4113d76e52ca95aa23b",
+      "Size": 8892
+    },
+    {
+      "Path": "resources/entities/Vaca3.png",
+      "Hash": "a6f233968d4fced2ac55a7466d875a91",
+      "Size": 7591
+    },
+    {
+      "Path": "resources/entities/Vaca4.png",
+      "Hash": "c68cc888530784dc7f716a918674534f",
+      "Size": 7431
+    },
+    {
+      "Path": "resources/entities/Vaca5.png",
+      "Hash": "48782e50dccbe2901e49cd9990a572e9",
+      "Size": 7724
+    },
+    {
+      "Path": "resources/entities/Vaca6.png",
+      "Hash": "80b25507c86dbf3584ab2ce0cbfcaf27",
+      "Size": 7580
+    },
+    {
+      "Path": "resources/entities/Vaca7.png",
+      "Hash": "f70628f1058eee3e55ec3365421a16ff",
+      "Size": 7436
+    },
+    {
+      "Path": "resources/entities/Vaca8.png",
+      "Hash": "f0b5a2fc8e0c6c0f15aa9d898c120b1b",
+      "Size": 7453
+    },
+    {
       "Path": "resources/entities/Valdez.png",
       "Hash": "d02ff011150134bf56d251570c08b9bf",
       "Size": 9427
@@ -1931,6 +2401,11 @@
       "Path": "resources/entities/vany1.png",
       "Hash": "3714d718384a61853ac585a0cccb019f",
       "Size": 9274
+    },
+    {
+      "Path": "resources/entities/Verdugo Barbudo.png",
+      "Hash": "b78e8bf9bdfa76a4ab537a41c4a81c2e",
+      "Size": 13027
     },
     {
       "Path": "resources/entities/VermeCego.png",
@@ -2018,14 +2493,34 @@
       "Size": 36836
     },
     {
+      "Path": "resources/faces/Face Dumbledore.2png.png",
+      "Hash": "9e88d28a043d574407009b0867479e81",
+      "Size": 33328
+    },
+    {
+      "Path": "resources/faces/Face Dumbledore1.png",
+      "Hash": "1af452ec245f37c6adaf8e5aa1ff0397",
+      "Size": 28288
+    },
+    {
       "Path": "resources/faces/Face IMB.png",
       "Hash": "c26a21e15979b40b30ac6d01f0b32b0b",
       "Size": 37420
     },
     {
+      "Path": "resources/faces/Face James Potter.png",
+      "Hash": "7f8a180c02def9c912e65a7680e62891",
+      "Size": 26511
+    },
+    {
       "Path": "resources/faces/Face Lacerta.png",
       "Hash": "8d565b2e20453fe7652ab4bc7524c811",
       "Size": 30459
+    },
+    {
+      "Path": "resources/faces/Face Lily Potter.png",
+      "Hash": "5be5dc4aa6b63e4fdd516c9d3ad7bbbd",
+      "Size": 27259
     },
     {
       "Path": "resources/faces/Face Martes.png",
@@ -2464,8 +2959,8 @@
     },
     {
       "Path": "resources/gui/entitybox.png",
-      "Hash": "411259c6075e5a320b37d4c161ad977d",
-      "Size": 24878
+      "Hash": "f2be9217dc2854d549f5c9281aa0dbbb",
+      "Size": 27063
     },
     {
       "Path": "resources/gui/entityboxtarget.png",
@@ -3249,8 +3744,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "08a25b6c23095e40d0d109df57db6035",
-      "Size": 24195
+      "Hash": "0e3be2a6a5bc43ba4bd8480c24434079",
+      "Size": 24185
     },
     {
       "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
@@ -3299,7 +3794,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "3d04026a18b8ae577aa3784d64654e04",
+      "Hash": "42d707d34bf61a1138d6ebb4a5e55a37",
       "Size": 24291
     },
     {
@@ -3344,7 +3839,7 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "ad5684622f4c6c172733e7a9a764721f",
+      "Hash": "9e643b89d7f9a4dba5e434ceeb845c3b",
       "Size": 11357
     },
     {
@@ -3414,53 +3909,53 @@
     },
     {
       "Path": "resources/images/DCANMana.png",
-      "Hash": "55a9b44c3f1ebb79268f6a376d90b498",
-      "Size": 63213
+      "Hash": "d55b7cd8717550c6a4712d1c1fc9c837",
+      "Size": 51953
     },
     {
       "Path": "resources/images/DCANStats1.png",
-      "Hash": "2df40d98d3a2bf7c83eb3c68da3518aa",
-      "Size": 62549
+      "Hash": "14f92c4cdcafde7c80d3b5eba5fe9b06",
+      "Size": 51876
     },
     {
       "Path": "resources/images/DCANStats2.png",
-      "Hash": "50d0227b2f06c1596666b04331974c31",
-      "Size": 17404
+      "Hash": "f9514854a15a77de71d4d9b27a3ab49b",
+      "Size": 75654
     },
     {
       "Path": "resources/images/DCANStats3.png",
-      "Hash": "a84e1d13bafcf73b141ad30247f6438d",
-      "Size": 17277
+      "Hash": "24c1ed461462ecc81bf880260435c832",
+      "Size": 74466
     },
     {
       "Path": "resources/images/DCANStats4.png",
-      "Hash": "a01ca3bbc0a3d5ca17efc59c2cfd0cc3",
-      "Size": 17287
+      "Hash": "0fd3a99ee85cfa84420891050cb5e1a0",
+      "Size": 74647
     },
     {
       "Path": "resources/images/DCANStats5.png",
-      "Hash": "99a577e502f473c0b9d380521dd96b8f",
-      "Size": 17291
+      "Hash": "1647bdffa4435ab836bb0087816e9708",
+      "Size": 74768
     },
     {
       "Path": "resources/images/DCANStats6.png",
-      "Hash": "b2747dc126e41cb9238a463e00ca22b9",
-      "Size": 17242
+      "Hash": "e5d993217936d32685e6dabe77a1d921",
+      "Size": 74839
     },
     {
       "Path": "resources/images/DCANStats7.png",
-      "Hash": "3b344b6ff4598c0afa68722975a2bfc3",
-      "Size": 17298
+      "Hash": "106ecd602189dc7fd358f5f840fec8e0",
+      "Size": 74676
     },
     {
       "Path": "resources/images/DCANVarinhaDesequipada.png",
-      "Hash": "04fe8219d0da9fd63b2332a0eb06a553",
-      "Size": 115904
+      "Hash": "24ebf179c838bc93098eb4e042a59023",
+      "Size": 113716
     },
     {
       "Path": "resources/images/DCANVarinhaEquipada.png",
-      "Hash": "d6dee8d1a5ceeee2d2c977b9d87b9238",
-      "Size": 115548
+      "Hash": "45c9071bab2d5e09e9b30d5d4c0b3098",
+      "Size": 113760
     },
     {
       "Path": "resources/images/Mountains1.png",
@@ -7321,6 +7816,11 @@
       "Path": "resources/tilesets/1Vitrine.png",
       "Hash": "48f15838f661b7d7cd05599831fa98f0",
       "Size": 41252
+    },
+    {
+      "Path": "resources/tilesets/2Portas.png",
+      "Hash": "190b9fcba958d8144547f0d7fc8b92fd",
+      "Size": 484686
     },
     {
       "Path": "resources/tilesets/6e4ca76b9362911e798265e8568a4dd7a9933a8e.png",
