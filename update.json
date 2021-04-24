@@ -998,6 +998,11 @@
       "Size": 59546
     },
     {
+      "Path": "resources/entities/aranha1.png",
+      "Hash": "92316104de2f0e706863fe3b3e8860d0",
+      "Size": 9105
+    },
+    {
       "Path": "resources/entities/Ashwinder.png",
       "Hash": "f8edefb3fcfa9fbdf975da6ac8e95b68",
       "Size": 5604
@@ -1168,6 +1173,11 @@
       "Size": 8484
     },
     {
+      "Path": "resources/entities/Bundimun.png",
+      "Hash": "554c68bc6deb0a3a1f6683d9bf737cb7",
+      "Size": 7631
+    },
+    {
       "Path": "resources/entities/Cachorro.png",
       "Hash": "18180996370d98c1799353c0806bc9c8",
       "Size": 5601
@@ -1328,6 +1338,11 @@
       "Size": 4165
     },
     {
+      "Path": "resources/entities/criaturas.pdf",
+      "Hash": "c05076f0789446df4375bfb22b89ebda",
+      "Size": 704749
+    },
+    {
       "Path": "resources/entities/Crup.png",
       "Hash": "103c426bc07d4fa856be9e80e0719b87",
       "Size": 9283
@@ -1336,6 +1351,11 @@
       "Path": "resources/entities/Cuca.png",
       "Hash": "62b63f14d9a24014684198a264ce3d7d",
       "Size": 10175
+    },
+    {
+      "Path": "resources/entities/Curupira.png",
+      "Hash": "625070db09b6ecf93f8f1dfe0fcbef2a",
+      "Size": 13530
     },
     {
       "Path": "resources/entities/Delfina.png",
@@ -1456,6 +1476,21 @@
       "Path": "resources/entities/Gato2.png",
       "Hash": "0989fbaa0dc8bf077e946c542de28186",
       "Size": 23122
+    },
+    {
+      "Path": "resources/entities/Ghoul.png",
+      "Hash": "65db42f7244a5dba0c36b299cd02787c",
+      "Size": 12476
+    },
+    {
+      "Path": "resources/entities/Gnome.png",
+      "Hash": "715edb494d11d629a7b510fae4ca567c",
+      "Size": 8134
+    },
+    {
+      "Path": "resources/entities/Graphorn.png",
+      "Hash": "549e2685bac750b40bcf32e6502400a7",
+      "Size": 11202
     },
     {
       "Path": "resources/entities/hatake.png",
@@ -1743,9 +1778,19 @@
       "Size": 10276
     },
     {
+      "Path": "resources/entities/Luisón.png",
+      "Hash": "0060e211a7132cf9505e961efe20867c",
+      "Size": 17578
+    },
+    {
       "Path": "resources/entities/marcia.png",
       "Hash": "c79962f235887c9b4a737dd89cff170f",
       "Size": 22627
+    },
+    {
+      "Path": "resources/entities/Maria Gancha.png",
+      "Hash": "ad4a39d5ee88f917ebbbdbe63dca1adf",
+      "Size": 13766
     },
     {
       "Path": "resources/entities/Martes1.png",
@@ -1813,6 +1858,11 @@
       "Size": 9219
     },
     {
+      "Path": "resources/entities/Maruxinhos.png",
+      "Hash": "860c85b5450d4d9e8c164eb44af7ec3c",
+      "Size": 6839
+    },
+    {
       "Path": "resources/entities/Matheus.png",
       "Hash": "67557dddeb624582d05bfa6667d9e8db",
       "Size": 10708
@@ -1831,6 +1881,11 @@
       "Path": "resources/entities/monster books.png",
       "Hash": "3173fd7845515a12c05df3edd7c162a3",
       "Size": 3694
+    },
+    {
+      "Path": "resources/entities/Mooncalf.png",
+      "Hash": "519dd663a87c3a907959f949cc5348bb",
+      "Size": 10677
     },
     {
       "Path": "resources/entities/Morcego.png",
@@ -2023,6 +2078,11 @@
       "Size": 12326
     },
     {
+      "Path": "resources/entities/Olharapos.png",
+      "Hash": "df9bb1e7e5538906e2d6b6cfaafd1705",
+      "Size": 12891
+    },
+    {
       "Path": "resources/entities/oruja2.png",
       "Hash": "81814443c48b1d26ea8d77afb1a056f9",
       "Size": 4269
@@ -2096,6 +2156,16 @@
       "Path": "resources/entities/Pegaso.png",
       "Hash": "c7b779be89961336131f493985aab56c",
       "Size": 10834
+    },
+    {
+      "Path": "resources/entities/Peixe1.png",
+      "Hash": "846e15eeac97e031dcc3fc3747ffd275",
+      "Size": 3728
+    },
+    {
+      "Path": "resources/entities/Peixe2.png",
+      "Hash": "25b1d73a4f5184a16967edca72a91129",
+      "Size": 3734
     },
     {
       "Path": "resources/entities/Peter.png",
@@ -2318,6 +2388,21 @@
       "Size": 4969
     },
     {
+      "Path": "resources/entities/Troll - Forest.png",
+      "Hash": "3a0e625e6e81a79beaf83fee9ea46f01",
+      "Size": 14002
+    },
+    {
+      "Path": "resources/entities/Troll - Mountain.png",
+      "Hash": "45aefaafcb10abc5496d14c22bd928df",
+      "Size": 13924
+    },
+    {
+      "Path": "resources/entities/Troll - River.png",
+      "Hash": "92fc36ac897ae11d3e0fac106ed0878f",
+      "Size": 13823
+    },
+    {
       "Path": "resources/entities/TrollForest.png",
       "Hash": "65eec8040afa548c71d1602d2d76ab74",
       "Size": 7344
@@ -2423,9 +2508,9 @@
       "Size": 8390
     },
     {
-      "Path": "resources/entities/Winged Horse.png",
-      "Hash": "c7b779be89961336131f493985aab56c",
-      "Size": 10834
+      "Path": "resources/entities/Zorra Berradeira.png",
+      "Hash": "7e9cc8c205358811694c5bf4032024bd",
+      "Size": 10446
     },
     {
       "Path": "resources/faces/Afonso.png",
@@ -3769,7 +3854,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "c207dca69c1f742cf4d45aa15bf90fb1",
+      "Hash": "2f4869b951308fd3749d8ab718030cee",
       "Size": 14737
     },
     {
@@ -7823,19 +7908,9 @@
       "Size": 484686
     },
     {
-      "Path": "resources/tilesets/6e4ca76b9362911e798265e8568a4dd7a9933a8e.png",
-      "Hash": "f0dfbca12e643cfe04ba2005e7881c05",
-      "Size": 344617
-    },
-    {
       "Path": "resources/tilesets/964-9649783_flower-vine-png-tileset-rpg-maker-mv (1).png",
       "Hash": "371b9105326306fde288bcf9db1bc18b",
       "Size": 439005
-    },
-    {
-      "Path": "resources/tilesets/adc9b38cfd6dd91d0ce574ad428444c667ed6857.png",
-      "Hash": "7a75370518f08532b924b698f732c816",
-      "Size": 128827
     },
     {
       "Path": "resources/tilesets/Arc's Gabled Roofs.png",
@@ -7936,11 +8011,6 @@
       "Path": "resources/tilesets/Avery_WaterCave.png",
       "Hash": "e5744119875eaf5d283d74512aeb0dc6",
       "Size": 563972
-    },
-    {
-      "Path": "resources/tilesets/bancos jardim.png",
-      "Hash": "aff3f789241bd01189e3280a1a753320",
-      "Size": 100630
     },
     {
       "Path": "resources/tilesets/Bandeiras.png",
@@ -8044,8 +8114,8 @@
     },
     {
       "Path": "resources/tilesets/Cadeiras.png",
-      "Hash": "ddd79d4a5918ef27cb488180ddb5342b",
-      "Size": 209563
+      "Hash": "2eac9137813f52966bf8764cb9d5379d",
+      "Size": 277610
     },
     {
       "Path": "resources/tilesets/Caldeirao.png",
@@ -8063,11 +8133,6 @@
       "Size": 828559
     },
     {
-      "Path": "resources/tilesets/celianna_castles.png",
-      "Hash": "231599994521688b673d19e1f7b834fc",
-      "Size": 640382
-    },
-    {
       "Path": "resources/tilesets/celianna_castletiles.png",
       "Hash": "f274082aa734659baaf7c2cdb6383da5",
       "Size": 1211178
@@ -8083,16 +8148,6 @@
       "Size": 1701733
     },
     {
-      "Path": "resources/tilesets/celianna_manatreehouse.png",
-      "Hash": "a332e0e4258a77defb41c7a0b60bfef6",
-      "Size": 809774
-    },
-    {
-      "Path": "resources/tilesets/celianna_MV_interior_house.png",
-      "Hash": "09a9d8caa806c9a9939a95937a978d0e",
-      "Size": 535125
-    },
-    {
       "Path": "resources/tilesets/celianna_MV_interior_house2.png",
       "Hash": "529814afb9670781b86e59b008cc1afe",
       "Size": 53809
@@ -8101,11 +8156,6 @@
       "Path": "resources/tilesets/Celianna_Nature.png",
       "Hash": "48209d63d9d5d68b47402c822914c999",
       "Size": 357018
-    },
-    {
-      "Path": "resources/tilesets/celianna_swamptiles.png",
-      "Hash": "9deb4e76d4fba51078a5ab856d326c4f",
-      "Size": 621945
     },
     {
       "Path": "resources/tilesets/celianna_taverntiles.png",
@@ -8133,11 +8183,6 @@
       "Size": 552487
     },
     {
-      "Path": "resources/tilesets/Celianna_TileC.png",
-      "Hash": "ce3c29902be38239e9af68b086cc1cf2",
-      "Size": 1001029
-    },
-    {
       "Path": "resources/tilesets/celianna_walls2.png",
       "Hash": "982336197513b1066f360f00e6380093",
       "Size": 974980
@@ -8158,11 +8203,6 @@
       "Size": 298997
     },
     {
-      "Path": "resources/tilesets/Cyanide-Noble-Interior-1.png",
-      "Hash": "e77cbc1bd3dba3449e9851c7c83a2595",
-      "Size": 601952
-    },
-    {
       "Path": "resources/tilesets/cyanide-tilemix-11-nature-2.png",
       "Hash": "7b19e2ccc10ece2a14fcfcbfae58571e",
       "Size": 527485
@@ -8173,24 +8213,9 @@
       "Size": 430913
     },
     {
-      "Path": "resources/tilesets/cyanide_artdeco1s8kzn.png",
-      "Hash": "407154a302ea7a89ff4a9b5433599da3",
-      "Size": 455356
-    },
-    {
       "Path": "resources/tilesets/cyanide_artdeco_2b5k6l.png",
       "Hash": "4ed990d718f8fce233b61a40d0722104",
       "Size": 537971
-    },
-    {
-      "Path": "resources/tilesets/cyanide_artdeco_3jkj0v.png",
-      "Hash": "c7049b591ca82b21c5ca2aaa47f8a07f",
-      "Size": 545791
-    },
-    {
-      "Path": "resources/tilesets/cyanide_desert_outsida2j0q.png",
-      "Hash": "5b84f7f748d957387bc107145bc1aadb",
-      "Size": 771849
     },
     {
       "Path": "resources/tilesets/cyanide_rtp_edits_01_02.png",
@@ -8458,11 +8483,6 @@
       "Size": 1080185
     },
     {
-      "Path": "resources/tilesets/Hanzo-TownSet.png",
-      "Hash": "4788d8a51074b92af50d45719b564634",
-      "Size": 1079972
-    },
-    {
       "Path": "resources/tilesets/Hanzo-TownSet2.png",
       "Hash": "9b09bc2b9c62efb7daf90de6708c247b",
       "Size": 970465
@@ -8583,11 +8603,6 @@
       "Size": 652540
     },
     {
-      "Path": "resources/tilesets/Moveis.png",
-      "Hash": "f833315c9ef0c6ddf953dba94607885e",
-      "Size": 1088171
-    },
-    {
       "Path": "resources/tilesets/Moveis_2.png",
       "Hash": "b47d32af38e21704bd1ba24b244da559",
       "Size": 1032858
@@ -8676,11 +8691,6 @@
       "Path": "resources/tilesets/Pandamaru_Arvores_2.png",
       "Hash": "97933455c728f5bc82430fc289b39bb1",
       "Size": 972536
-    },
-    {
-      "Path": "resources/tilesets/PandaMaru_MV_cottage.png",
-      "Hash": "3be6a6add0012c6d394bdeaacd997b39",
-      "Size": 208341
     },
     {
       "Path": "resources/tilesets/PandaMaru_MV_market1.png",
@@ -8778,11 +8788,6 @@
       "Size": 74698
     },
     {
-      "Path": "resources/tilesets/Porta4.png",
-      "Hash": "688e7eea9f2efb1d41c8efc213a93e51",
-      "Size": 452525
-    },
-    {
       "Path": "resources/tilesets/Porta5.png",
       "Hash": "12f33aa4110fd37b6801d0f6801c5a5f",
       "Size": 281061
@@ -8801,11 +8806,6 @@
       "Path": "resources/tilesets/Porta8.png",
       "Hash": "721daf142191308d36c29ea5909dcb88",
       "Size": 391812
-    },
-    {
-      "Path": "resources/tilesets/Porta9.png",
-      "Hash": "c45204cc3ba6742e79bf4169e5c283ed",
-      "Size": 63805
     },
     {
       "Path": "resources/tilesets/Porta_Expresso.png",
@@ -8891,16 +8891,6 @@
       "Path": "resources/tilesets/SF_Outside_C.png",
       "Hash": "6d8288eef2b0c529baa04f22a136fdcf",
       "Size": 953063
-    },
-    {
-      "Path": "resources/tilesets/sofas cores.png",
-      "Hash": "8a41cace22e0061b6ca80687591b369b",
-      "Size": 293559
-    },
-    {
-      "Path": "resources/tilesets/Sofas.png",
-      "Hash": "f756a2cd35a481d92c35f1c9d17d01cf",
-      "Size": 341076
     },
     {
       "Path": "resources/tilesets/StarbierdResources-1.png",
@@ -9223,9 +9213,14 @@
       "Size": 2861331
     },
     {
+      "Path": "resources/tilesets/zm88vhgn.png",
+      "Hash": "ca32f025c38e094aef0deef54794869e",
+      "Size": 48160
+    },
+    {
       "Path": "resources/updater/background.png",
-      "Hash": "c2d0f8f6591f091717127a6c044929f8",
-      "Size": 227300
+      "Hash": "3c03363f05a3a2cdc10e8df951fcfdf2",
+      "Size": 338582
     },
     {
       "Path": "resources/updater/font.xnb",
@@ -9239,8 +9234,8 @@
     },
     {
       "Path": "resources/updater/progressbar.png",
-      "Hash": "bbc858957ccd3da0ddaa8b4cc7941cf0",
-      "Size": 23798
+      "Hash": "3dc549e3d9e3c2992cec472d9cb285ad",
+      "Size": 6992
     }
   ],
   "TrustCache": true
