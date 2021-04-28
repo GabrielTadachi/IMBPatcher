@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "SpellIcon": {
-      "Bounds": "68,38,48,48",
+      "Bounds": "76,38,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
