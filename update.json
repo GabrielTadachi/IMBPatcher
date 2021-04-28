@@ -7744,13 +7744,13 @@
     },
     {
       "Path": "resources/spells/Aguamenti.png",
-      "Hash": "6d2a299ae033a1861f122c9ba0444d6a",
-      "Size": 5378
+      "Hash": "a688a856ce306c212a837106c9a393d2",
+      "Size": 5163
     },
     {
       "Path": "resources/spells/Alohomora.png",
-      "Hash": "700003be277eb1c6c6d6afdad59172bb",
-      "Size": 5087
+      "Hash": "0096f3c6ce5e1e99b4fa3da5f5aa7bcf",
+      "Size": 5214
     },
     {
       "Path": "resources/spells/Avis.png",
@@ -7764,8 +7764,8 @@
     },
     {
       "Path": "resources/spells/Diffindo.png",
-      "Hash": "c0e1e2a288566a9e2b6f29867dc1cea4",
-      "Size": 4988
+      "Hash": "01bd9f61b0c7478e1c1835338a43bd3d",
+      "Size": 5136
     },
     {
       "Path": "resources/spells/Duro.png",
@@ -7784,8 +7784,8 @@
     },
     {
       "Path": "resources/spells/Expelliarmus.png",
-      "Hash": "680d327d7bdeac222aa4489c946e6aaa",
-      "Size": 4879
+      "Hash": "75f1a095dd228b70ff02c1dc084a5af1",
+      "Size": 5020
     },
     {
       "Path": "resources/spells/FiniteIncantatem.png",
@@ -7794,8 +7794,8 @@
     },
     {
       "Path": "resources/spells/flipendo.png",
-      "Hash": "db8cb438e210f0b1bd71d8223691dcaf",
-      "Size": 5273
+      "Hash": "5fb5b47e97259eb10d5b5a39fc97f0f1",
+      "Size": 5376
     },
     {
       "Path": "resources/spells/Fumos.png",
@@ -7803,9 +7803,9 @@
       "Size": 5806
     },
     {
-      "Path": "resources/spells/Icone spells.psd",
-      "Hash": "39433d0a01220693ab255ed6998d892a",
-      "Size": 684707
+      "Path": "resources/spells/Icone spells.png",
+      "Hash": "015a039d4f90dbdceb8ebb4d7fd71fc6",
+      "Size": 5215
     },
     {
       "Path": "resources/spells/Immobulus.png",
@@ -7819,8 +7819,8 @@
     },
     {
       "Path": "resources/spells/Incendio.png",
-      "Hash": "a7b66f22f3fa912be668d93add5e6233",
-      "Size": 5100
+      "Hash": "9f2b28f5f2969e23a9754fba9cf5128b",
+      "Size": 5267
     },
     {
       "Path": "resources/spells/LocomotorMortis.png",
@@ -7829,13 +7829,13 @@
     },
     {
       "Path": "resources/spells/Lumos.png",
-      "Hash": "48c4ab413536ce686fa421f660a072f4",
-      "Size": 5245
+      "Hash": "6bd943540e2fd06d144131fa97c5ca01",
+      "Size": 5395
     },
     {
       "Path": "resources/spells/Nox.png",
-      "Hash": "fd4a4ad437d492643c05b72ced0d74c0",
-      "Size": 5202
+      "Hash": "b7cfbf48b6d28d7945d1ac254f6f23b8",
+      "Size": 5311
     },
     {
       "Path": "resources/spells/Obliviate.png",
@@ -7843,14 +7843,14 @@
       "Size": 5836
     },
     {
-      "Path": "resources/spells/PetrificusTotalus.png",
-      "Hash": "e4f0e2a0c5d3bba59b2052c12c2dfb08",
-      "Size": 5936
+      "Path": "resources/spells/Petricus Totalus.png",
+      "Hash": "e6e453dc20097536dd4858007506c067",
+      "Size": 5145
     },
     {
       "Path": "resources/spells/Protego.png",
-      "Hash": "edc061aa16526dc9b599a9b70d1bf338",
-      "Size": 6182
+      "Hash": "892526bb5caf4a4e61942124e3ef6e71",
+      "Size": 5015
     },
     {
       "Path": "resources/spells/Reducio.png",
@@ -7869,8 +7869,8 @@
     },
     {
       "Path": "resources/spells/Rictusempra.png",
-      "Hash": "f8108b91302fa7f23b0b936fa1ecd5f7",
-      "Size": 5295
+      "Hash": "90103b5bcbd71bb1892bfeb3fa480f78",
+      "Size": 5427
     },
     {
       "Path": "resources/spells/Stupefy.png",
@@ -7889,13 +7889,8 @@
     },
     {
       "Path": "resources/spells/Wingardium Leviosa.png",
-      "Hash": "57c6074f00f17d664082de97ae2ddb58",
-      "Size": 4997
-    },
-    {
-      "Path": "resources/spells/WingardiumLeviosa.png",
-      "Hash": "c3bf6ffbefc696dce1ee736b4ea0ae81",
-      "Size": 5777
+      "Hash": "a5c27d194ae13522966b501e9ee34237",
+      "Size": 5132
     },
     {
       "Path": "resources/tilesets/1Janelas.png",
