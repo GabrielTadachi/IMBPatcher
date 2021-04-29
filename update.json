@@ -1004,8 +1004,8 @@
     },
     {
       "Path": "resources/entities/Ashwinder.png",
-      "Hash": "f8edefb3fcfa9fbdf975da6ac8e95b68",
-      "Size": 5604
+      "Hash": "2a542e9525d43c9b7f821a552347e556",
+      "Size": 5601
     },
     {
       "Path": "resources/entities/Autumn.png",
@@ -1024,8 +1024,8 @@
     },
     {
       "Path": "resources/entities/Boi Vaquim.png",
-      "Hash": "c9c85dccde97e83f9375bf11f8ca0b57",
-      "Size": 13545
+      "Hash": "9153b15ffe8c1dc78b3ea60751cd5c1b",
+      "Size": 13551
     },
     {
       "Path": "resources/entities/Boi.png",
@@ -1336,11 +1336,6 @@
       "Path": "resources/entities/Coruja8.png",
       "Hash": "69cdfe475e823b88af9fbbd6b0a69673",
       "Size": 4165
-    },
-    {
-      "Path": "resources/entities/criaturas.pdf",
-      "Hash": "c05076f0789446df4375bfb22b89ebda",
-      "Size": 704749
     },
     {
       "Path": "resources/entities/Crup.png",
@@ -1884,8 +1879,8 @@
     },
     {
       "Path": "resources/entities/Mooncalf.png",
-      "Hash": "519dd663a87c3a907959f949cc5348bb",
-      "Size": 10677
+      "Hash": "f92a38d8623cfb6e2a0716add152e5e5",
+      "Size": 10440
     },
     {
       "Path": "resources/entities/Morcego.png",
@@ -3904,22 +3899,22 @@
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
-      "Hash": "214a68d22b4ab1fe84bcf5d0cf7e9c2a",
+      "Hash": "e1ac284ad058e268184fd0a6ad744c77",
       "Size": 38172
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterSelectionWindow.json",
-      "Hash": "1a75bb81fcf1f88402f06ced2e8544ef",
+      "Hash": "ac97d7e8c80d88c0655b8630ee2c49d5",
       "Size": 12343
     },
     {
       "Path": "resources/gui/layouts/menu/CreditsWindow.json",
-      "Hash": "ff9319fb06e96867af9e58700f9d3735",
+      "Hash": "1f1df24f293d2975c7aa5f6c3185e87f",
       "Size": 13816
     },
     {
       "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
-      "Hash": "6f8351e36f9eb28969872724b18316ac",
+      "Hash": "0b9758dc77c8662715e51d1e92f22745",
       "Size": 8194
     },
     {
@@ -3929,38 +3924,38 @@
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Hash": "1b21e5e587a62a12d5fc2766757dac96",
+      "Hash": "8c73caf5b25a3910266d82c988b0de85",
       "Size": 14499
     },
     {
       "Path": "resources/gui/layouts/menu/Logo.json",
-      "Hash": "0e11fc4364da1d119769b3fceb875896",
-      "Size": 628
+      "Hash": "8abc50b40768333c84ccdb1d1add4b2a",
+      "Size": 627
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
-      "Hash": "614dcf4e6d4eceb53be458de2fd59235",
+      "Hash": "f68f4ea3e4269cad252820128f043e7e",
       "Size": 9190
     },
     {
       "Path": "resources/gui/layouts/menu/OptionsWindow.json",
-      "Hash": "2e5f9434e3fde7bded82f8a2e59fb795",
+      "Hash": "7af498ef30417159639506aaae83afc5",
       "Size": 211422
     },
     {
       "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
-      "Hash": "bd38e5bf3f075bf4c6ff1a13834fa9f0",
+      "Hash": "2f474c2c9f0f355afbc67870d1953b98",
       "Size": 16386
     },
     {
       "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
-      "Hash": "1197e49c81986b0b686a20b12ff5a570",
+      "Hash": "c08cee9ce5201148e2dbf5146a8ed163",
       "Size": 13329
     },
     {
       "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
-      "Hash": "e597ad5543e2f0f8da653ae06731f0d4",
-      "Size": 1612
+      "Hash": "95f3f2e970e6e0b730bd9edabab6f932",
+      "Size": 1611
     },
     {
       "Path": "resources/images/BlueSky.png",
