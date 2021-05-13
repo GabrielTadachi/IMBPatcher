@@ -63,12 +63,33 @@
   "Attributes": {
     "animation": "Animation:",
     "blocked": "Blocked",
+    "critter": "Critter",
+    "crittermovements": {
+      "0": "Move Randomly",
+      "1": "Turn Randomly",
+      "2": "Stand Still"
+    },
+    "critterlayers": {
+      "0": "Below Player",
+      "1": "Same as Player",
+      "2": "Above Player"
+    },
+    "crittersprite": "Sprite:",
+    "critteranimation": "Animation:",
+    "crittermovement": "Movement:",
+    "critterlayer": "Layer:",
+    "critterspeed": "Speed (ms):",
+    "critterfrequency": "Freq (ms):",
+    "critterignorenpcavoids": "Ignore Npc Avoids",
+    "critterblockplayers": "Block Players",
+    "critterdirection": "Direction:",
     "dir": "Dir:",
     "distance": "Distance (In Tiles):",
     "grapple": "Grapple Stone",
     "item": "Item:",
     "itemspawn": "Item Spawn",
     "mapanimation": "Animation",
+    "mapanimationblock": "Block Tile",
     "mapsound": "Map Sound",
     "npcavoid": "NPC Avoid",
     "quantity": "Quantity:",
@@ -346,7 +367,9 @@
     "original": "Original",
     "fullscreen": "Full Screen",
     "halfscreen": "Half Screen",
-    "stretchtofit": "Stretch To Fit"
+    "stretchtofit": "Stretch To Fit",
+    "hide": "Hide After (ms):",
+    "wait": "Wait Until Closed?"
   },
   "EventChangeGender": {
     "cancel": "Cancel",
@@ -601,7 +624,17 @@
     "waitforroute": "Wait for Move Route Completion of {00}",
     "warp": "Warp Player [Map: {00} X: {01} Y: {02} Dir: {03}]",
     "whenoption": "When [{00}]",
-    "changeplayercolor": "Change Player Color to: R: {00} G: {01} B: {02} A: {03}"
+    "changeplayercolor": "Change Player Color to: R: {00} G: {01} B: {02} A: {03}",
+    "createguild": "Create Guild [Player Variable {00} as name]",
+    "guildcreated": "Guild created successfully.",
+    "guildfailed": "Guild failed to create.",
+    "endcreateguild": "End Create Guild",
+    "disbandguild": "Disband Guild",
+    "guildisbanded": "Guild disbanded successfully.",
+    "guilddisbandfailed": "Guild failed to disband.",
+    "enddisbandguild": "End Disband Guild",
+    "openguildbank": "Open Guild Bank",
+    "setguildbankslots": "Set Guild Bank Slots"
   },
   "EventChangePlayerColor": {
     "cancel": "Cancel",
@@ -674,6 +707,11 @@
       "changeplayerlabel": "Change Player Label",
       "changeplayercolor": "Change Player Color",
       "changename": "Change Player Name",
+      "guilds": "Guilds",
+      "createguild": "Create Guild",
+      "disbandguild": "Disband Guild",
+      "openguildbank": "Open Guild Bank",
+      "setguildbankslots": "Set Guild Bank Slots Count",
       "changehair": "Change Hair"
     }
   },
@@ -725,7 +763,9 @@
       "15": "Gender is...",
       "16": "Map is...",
       "17": "Item Equipped is...",
-      "18": "Has X free Inventory slots..."
+      "18": "Has X free Inventory slots...",
+      "19": "In Guild With At Least Rank...",
+      "20": "Map Zone Type is..."
     },
     "endrange": "End Range:",
     "false": "False",
@@ -793,7 +833,11 @@
     "freeinventoryslots": "Has X free Inventory slots",
     "amounttype": "Amount Type",
     "variablelabel": "Variable",
-    "manual": "Manual"
+    "manual": "Manual",
+    "inguild": "In Guild With At Least Rank...",
+    "rank": "Rank:",
+    "mapzonetypeis": "Map Zone Type is:",
+    "mapzonetypelabel": "Zone Type:"
   },
   "EventConditionDesc": {
     "admin": "Admin",
@@ -809,6 +853,7 @@
     "globalvariablevalue": "Global Variable: {00}'s Value",
     "greater": "is greater than {00}",
     "greaterequal": "is greater than or equal to {00}",
+    "guild": "Player is in Guild with at least rank: {00}",
     "hasitem": "Player has at least {00} of Item {01}",
     "hasitemequipped": "Player has Item {00} equipped",
     "knowsspell": "Player knows Spell {00}",
@@ -833,6 +878,7 @@
     "questinprogress": "Quest In Progress: {00} {01}",
     "selfswitch": "Self Switch {00} is {01}",
     "hasfreeinventoryslots": "Player has {00} free inventory slot(s)",
+    "mapzonetypeis": "Map Zone Type is {00}",
     "selfswitches": {
       "0": "A",
       "1": "B",
@@ -844,6 +890,20 @@
     "time": "Time is between {00} and {01}",
     "timeinvalid": "invalid",
     "true": "True"
+  },
+  "EventCreateGuild": {
+    "cancel": "Cancel",
+    "selectvariable": "Player Variable containing Guild Name:",
+    "okay": "Ok",
+    "title": "Create Guild"
+  },
+  "EventGuildSetBankSlotsCount": {
+    "variable": "Variable",
+    "playervariable": "Player Variable",
+    "servervariable": "Global Variable",
+    "cancel": "Cancel",
+    "okay": "Ok",
+    "title": "Set Guild Bank Slots Count"
   },
   "EventEditor": {
     "addcommand": "Add Commands",
@@ -861,7 +921,13 @@
       "5": "Autorun",
       "6": "PVP Kill",
       "7": "PVP Death",
-      "8": "Player Interact"
+      "8": "Player Interact",
+      "9": "Equipment Changed",
+      "10": "Player Variable Changed",
+      "11": "Server Variable Changed",
+      "12": "Guild Member Joined",
+      "13": "Guild Member Left",
+      "14": "Guild Member Kicked"
     },
     "conditions": "Conditions",
     "copypage": "Copy Page",
@@ -1269,6 +1335,7 @@
     "cooldowngrouptitle": "Add Cooldown Group",
     "cooldowngroupprompt": "Enter a name for the cooldown group you'd like to add:",
     "ignoreglobalcooldown": "Ignore Global Cooldown?",
+    "ignorecooldownreduction": "Ignore Cooldown Reduction?",
     "copy": "Copy Item",
     "critchance": "Crit Chance (%):",
     "critmultiplier": "Crit Multiplier (Default 1.5x):",
@@ -1570,6 +1637,7 @@
     "general": "General",
     "hp": "HP:",
     "hpregen": "HP (%);",
+    "individualizedloot": "Spawn loot for all attackers?",
     "magicresist": "Magic Resist:",
     "mana": "Mana:",
     "movement": "Movement",
@@ -1734,7 +1802,12 @@
     "title": "Quest Editor",
     "undo": "Undo Changes",
     "undoprompt": "Are you sure you want to undo changes made to this quest? This action cannot be reverted!",
-    "undotitle": "Undo Changes"
+    "undotitle": "Undo Changes",
+    "unstartedcategory": "Unstarted Category:",
+    "inprogressgategory": "In Progress Category:",
+    "completedcategory": "Completed Category:",
+    "donotshowunlessreqsmet": "Do not show in quest log unless requirements are met",
+    "order": "Quest Log Sort Order:"
   },
   "ResourceEditor": {
     "animation": "Animation:",
@@ -1837,6 +1910,7 @@
     "cooldowngrouptitle": "Add Cooldown Group",
     "cooldowngroupprompt": "Enter a name for the cooldown group you'd like to add:",
     "ignoreglobalcooldown": "Ignore Global Cooldown?",
+    "ignorecooldownreduction": "Ignore Cooldown Reduction?",
     "copy": "Copy Spell",
     "cost": "Spell Cost:",
     "critchance": "Crit Chance (%):",
