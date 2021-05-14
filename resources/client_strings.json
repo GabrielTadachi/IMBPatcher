@@ -110,7 +110,8 @@
     "channels": {
       "0": "Local",
       "1": "Global",
-      "2": "Grupo"
+      "2": "Grupo",
+      "3": "guild"
     },
     "channeladmin": "Admin",
     "enterchat": "Clica aqui para conversar.",
@@ -293,6 +294,39 @@
   "General": {
     "none": "Nenhum",
     "mapitemstackable": "{01} {00}"
+  },
+  "Guilds": {
+    "guild": "Guild",
+    "guildtip": "Send {00} an invite to your guild.",
+    "invite": "Invite",
+    "notinguild": "You are not currently in a guild!",
+    "invitemembertitle": "Invite Player",
+    "invitememberprompt": "Who would you like to invite to {00}?",
+    "inviterequesttitle": "Guild Invite",
+    "inviterequestprompt": "{00} would like to invite you to join their guild, {01}. Do you accept?",
+    "leave": "Leave",
+    "leavetitle": "Leave Guild",
+    "leaveprompt": "Are you sure you would like to leave your guild?",
+    "promote": "Promote to {00}",
+    "demote": "Demote to {00}",
+    "kick": "Kick",
+    "pm": "PM",
+    "transfer": "Transfer",
+    "onlinelistentry": "[{00}] {01} - {02}",
+    "offlinelistentry": "[{00}] {01} - {02}",
+    "tooltip": "Lv. {00} {01}",
+    "kicktitle": "Kick Guild Member",
+    "kickprompt": "Are you sure you would like to kick {00}?",
+    "promotetitle": "Promote Guild Member",
+    "promoteprompt": "Are you sure you would like promote {00} to rank {01}?",
+    "demotetitle": "Demote Guild Member",
+    "demoteprompt": "Are you sure you would like to demote {00} to rank {01}?",
+    "transfertitle": "Transfer Guild",
+    "transferprompt": "This action will completely transfer all ownership of your guild to {00} and you will lose your rank of {01}. If you are sure you want to hand over your guild enter '{02}' below.",
+    "bank": "{00} Guild Bank",
+    "notallowedwithdraw": "You do not have permission to withdraw from {00}'s guild bank!",
+    "notalloweddeposit": "You do not have permission to deposit items into {00}'s guild bank!",
+    "notallowedswap": "You do not have permission to swap items around within {00}'s guild bank!"
   },
   "InputBox": {
     "cancel": "Cancelar",

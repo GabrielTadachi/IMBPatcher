@@ -24,8 +24,8 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "07903adce6cfc04051dfe8dacd6cbdce",
-      "Size": 24807
+      "Hash": "aa322dfb9db88e4e676be96add6d0794",
+      "Size": 26573
     },
     {
       "Path": "resources/config.json",
@@ -3704,8 +3704,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/ChatboxWindow.json",
-      "Hash": "776e32b5306c916c078c590974c4655a",
-      "Size": 35409
+      "Hash": "9e65a4004a7155b5d0aac44278eb3e7d",
+      "Size": 37508
     },
     {
       "Path": "resources/gui/layouts/game/CraftedItem.json",
@@ -3809,8 +3809,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/MenuContainer.json",
-      "Hash": "478ccf57f20f6a00f4ac42e404ba28b3",
-      "Size": 15737
+      "Hash": "81799bf1d2548e48547abff7b0dc74bf",
+      "Size": 17787
     },
     {
       "Path": "resources/gui/layouts/game/OptionsWindow.json",
@@ -3824,8 +3824,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "0e3be2a6a5bc43ba4bd8480c24434079",
-      "Size": 24185
+      "Hash": "c1738209432302e0dc2de1345b405113",
+      "Size": 25480
     },
     {
       "Path": "resources/gui/layouts/game/PlayerStatusIcon.json",
@@ -3874,8 +3874,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "42d707d34bf61a1138d6ebb4a5e55a37",
-      "Size": 24291
+      "Hash": "3366bcb4ba382656ed4ceb78b15d287d",
+      "Size": 25586
     },
     {
       "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
