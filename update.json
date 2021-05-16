@@ -1338,6 +1338,11 @@
       "Size": 4165
     },
     {
+      "Path": "resources/entities/criaturas.pdf",
+      "Hash": "c05076f0789446df4375bfb22b89ebda",
+      "Size": 704749
+    },
+    {
       "Path": "resources/entities/Crup.png",
       "Hash": "103c426bc07d4fa856be9e80e0719b87",
       "Size": 9283
@@ -3784,8 +3789,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/GuildWindow.json",
-      "Hash": "087129842c7043749c0c8c76c95318a3",
-      "Size": 21194
+      "Hash": "0960af70764a3708695db35bf649d455",
+      "Size": 21193
     },
     {
       "Path": "resources/gui/layouts/game/HotbarWindow.json",
@@ -3939,8 +3944,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "9e643b89d7f9a4dba5e434ceeb845c3b",
-      "Size": 11357
+      "Hash": "d62d2130b03c1c904b5328392129f073",
+      "Size": 11358
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -7823,6 +7828,11 @@
       "Size": 5215
     },
     {
+      "Path": "resources/spells/Icone spells.psd",
+      "Hash": "39433d0a01220693ab255ed6998d892a",
+      "Size": 684707
+    },
+    {
       "Path": "resources/spells/Immobulus.png",
       "Hash": "7020acabd62b2eeeaa5998a7d950c3d4",
       "Size": 5836
@@ -7861,6 +7871,11 @@
       "Path": "resources/spells/Petricus Totalus.png",
       "Hash": "e6e453dc20097536dd4858007506c067",
       "Size": 5145
+    },
+    {
+      "Path": "resources/spells/PetrificusTotalus.png",
+      "Hash": "e4f0e2a0c5d3bba59b2052c12c2dfb08",
+      "Size": 5936
     },
     {
       "Path": "resources/spells/Protego.png",
@@ -7906,6 +7921,11 @@
       "Path": "resources/spells/Wingardium Leviosa.png",
       "Hash": "a5c27d194ae13522966b501e9ee34237",
       "Size": 5132
+    },
+    {
+      "Path": "resources/spells/WingardiumLeviosa.png",
+      "Hash": "c3bf6ffbefc696dce1ee736b4ea0ae81",
+      "Size": 5777
     },
     {
       "Path": "resources/tilesets/1Janelas.png",
