@@ -2,12 +2,12 @@
   "Files": [
     {
       "Path": "Instituto de Magia Bandelugo.exe",
-      "Hash": "81db79713cb86fcec9df3c655fc621a8",
-      "Size": 16162816
+      "Hash": "c0cd475b8a0685680ad8d5e434abaca3",
+      "Size": 16140800
     },
     {
       "Path": "Instituto de Magia Bandelugo.pdb",
-      "Hash": "51ee865453f698ff116361e0125dc3b7",
+      "Hash": "4b60e7c3bc8183819b4e3d24c3ec7648",
       "Size": 1039872
     },
     {
@@ -24,8 +24,8 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "aa322dfb9db88e4e676be96add6d0794",
-      "Size": 26573
+      "Hash": "ab91770607229dd6ac71d1a622f2a3ef",
+      "Size": 26597
     },
     {
       "Path": "resources/config.json",
@@ -3138,6 +3138,16 @@
       "Size": 5730
     },
     {
+      "Path": "resources/gui/guild.png",
+      "Hash": "beacb723327da3dbe778fe0a2a329577",
+      "Size": 1630
+    },
+    {
+      "Path": "resources/gui/guildicon.png",
+      "Hash": "4fe7846ee1239a07347a3ba9a63d6e7f",
+      "Size": 360
+    },
+    {
       "Path": "resources/gui/hotbar.png",
       "Hash": "4f72fd3d39a89ec9ea15a421fad93694",
       "Size": 6645
@@ -3768,13 +3778,23 @@
       "Size": 19831
     },
     {
+      "Path": "resources/gui/layouts/game/GuildContextMenu.json",
+      "Hash": "3059a46f1baaeb00400a5928b1ad7b46",
+      "Size": 9099
+    },
+    {
+      "Path": "resources/gui/layouts/game/GuildWindow.json",
+      "Hash": "087129842c7043749c0c8c76c95318a3",
+      "Size": 21194
+    },
+    {
       "Path": "resources/gui/layouts/game/HotbarWindow.json",
       "Hash": "9378799f061843a1ba6676b893ae3bdd",
       "Size": 59363
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "3028873f128743d59f94a43dd2656c30",
+      "Hash": "3e1a00b18d69169a01cacb9b63991593",
       "Size": 11281
     },
     {
@@ -3809,8 +3829,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/MenuContainer.json",
-      "Hash": "81799bf1d2548e48547abff7b0dc74bf",
-      "Size": 17787
+      "Hash": "78d0c74586f7eebaf4b26ac005e56480",
+      "Size": 17887
     },
     {
       "Path": "resources/gui/layouts/game/OptionsWindow.json",
