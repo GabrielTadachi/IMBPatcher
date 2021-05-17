@@ -1,5 +1,5 @@
 {
-  "Bounds": "419,115,442,469",
+  "Bounds": "739,305,442,469",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -490,7 +490,7 @@
         "TextScale": 1.0
       },
       "ProductLabel": {
-        "Bounds": "216,20,39,16",
+        "Bounds": "216,20,31,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

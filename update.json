@@ -3729,12 +3729,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Hash": "45635f0a5ea0e38ad0c68eb3bdee9112",
-      "Size": 2370
+      "Hash": "38f6d65dddb657d692a7341dee431c0f",
+      "Size": 2369
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "e12b071b262523c6b23793b542e5a0fe",
+      "Hash": "8c4e7231e00e80dd84fde672f9c9c5c0",
       "Size": 31814
     },
     {
@@ -3799,7 +3799,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "3e1a00b18d69169a01cacb9b63991593",
+      "Hash": "587b081cf8d2c7762195d779aabef7b7",
       "Size": 11281
     },
     {
@@ -3874,7 +3874,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "2f4869b951308fd3749d8ab718030cee",
+      "Hash": "c207dca69c1f742cf4d45aa15bf90fb1",
       "Size": 14737
     },
     {
@@ -7846,6 +7846,11 @@
       "Path": "resources/spells/Incendio.png",
       "Hash": "9f2b28f5f2969e23a9754fba9cf5128b",
       "Size": 5267
+    },
+    {
+      "Path": "resources/spells/Lacarnum Inflamarae.png",
+      "Hash": "690f4a0da69f7f863871b22f28306bf0",
+      "Size": 5313
     },
     {
       "Path": "resources/spells/LocomotorMortis.png",
