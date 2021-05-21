@@ -3795,12 +3795,12 @@
     {
       "Path": "resources/gui/layouts/game/GuildContextMenu.json",
       "Hash": "3059a46f1baaeb00400a5928b1ad7b46",
-      "Size": 9099
+      "Size": 8805
     },
     {
       "Path": "resources/gui/layouts/game/GuildWindow.json",
       "Hash": "ee4eac4297fdcac5c7eb34a1758bdd33",
-      "Size": 21193
+      "Size": 20581
     },
     {
       "Path": "resources/gui/layouts/game/HotbarWindow.json",
