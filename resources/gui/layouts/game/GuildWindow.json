@@ -1,5 +1,5 @@
 {
-  "Bounds": "1054,301,220,339",
+  "Bounds": "1024,270,250,370",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
@@ -24,7 +24,7 @@
   "InactiveColor": "",
   "Closable": true,
   "Titlebar": {
-    "Bounds": "0,0,220,30",
+    "Bounds": "0,0,250,50",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -51,8 +51,8 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,54,21",
-    "Padding": "40,7,4,4",
+    "Bounds": "0,0,105,28",
+    "Padding": "95,18,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
@@ -74,18 +74,18 @@
     "HoveredTextColor": "",
     "ClickedTextColor": "",
     "DisabledTextColor": "255,90,90,90",
-    "TextAlign": "Left, CenterV",
+    "TextAlign": "CenterH",
     "TextPadding": "0,0,0,0",
     "AutoSizeToContents": true,
     "Font": "sourcesansproblack,12",
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "194,5,26,25",
-    "Padding": "3,5,0,0",
+    "Bounds": "222,21,15,16",
+    "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
-    "Margin": "0,0,0,0",
+    "Margin": "0,21,13,0",
     "RenderColor": "255,255,255,255",
     "Alignments": "Top,Right",
     "DrawBackground": true,
@@ -197,7 +197,7 @@
         }
       },
       "GuildMembers": {
-        "Bounds": "1,1,218,260",
+        "Bounds": "13,6,231,303",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

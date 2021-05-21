@@ -1,7 +1,7 @@
 {
-  "Bounds": "1039,179,235,342",
+  "Bounds": "1030,165,250,370",
   "Padding": "0,0,0,0",
-  "AlignmentEdgeDistances": "0,0,6,60",
+  "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
   "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
@@ -24,7 +24,7 @@
   "InactiveColor": "",
   "Closable": true,
   "Titlebar": {
-    "Bounds": "0,0,235,31",
+    "Bounds": "0,0,250,50",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -51,11 +51,11 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,162,31",
-    "Padding": "45,6,5,5",
+    "Bounds": "0,0,178,38",
+    "Padding": "66,18,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
-    "Margin": "8,0,0,0",
+    "Margin": "0,0,0,0",
     "RenderColor": "255,255,255,255",
     "Alignments": "",
     "DrawBackground": true,
@@ -74,23 +74,23 @@
     "HoveredTextColor": "",
     "ClickedTextColor": "",
     "DisabledTextColor": "255,90,90,90",
-    "TextAlign": "Left, CenterV",
+    "TextAlign": "CenterH",
     "TextPadding": "0,0,0,0",
     "AutoSizeToContents": true,
     "Font": "sourcesansproblack,12",
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "220,6,15,15",
-    "Padding": "3,6,0,0",
+    "Bounds": "222,21,15,16",
+    "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
-    "Margin": "0,0,0,0",
+    "Margin": "0,21,13,0",
     "RenderColor": "255,255,255,255",
     "Alignments": "Top,Right",
     "DrawBackground": true,
     "MinimumSize": "1,1",
-    "MaximumSize": "15,15",
+    "MaximumSize": "15,16",
     "Disabled": false,
     "Hidden": false,
     "RestrictToParent": true,
@@ -139,11 +139,11 @@
     "ToolTipTextColor": "",
     "Children": {
       "SpellsContainer": {
-        "Bounds": "1,0,234,308",
+        "Bounds": "9,6,231,303",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
-        "Margin": "0,0,0,0",
+        "Margin": "0,0,4,0",
         "RenderColor": "255,255,255,255",
         "Alignments": "",
         "DrawBackground": true,
@@ -181,7 +181,7 @@
           "ToolTipTextColor": ""
         },
         "HorizontalScrollBar": {
-          "Bounds": "0,0,15,15",
+          "Bounds": "0,0,11,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -305,7 +305,7 @@
           }
         },
         "VerticalScrollBar": {
-          "Bounds": "0,0,15,15",
+          "Bounds": "0,0,11,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -325,7 +325,7 @@
           "ToolTipTextColor": "",
           "BackgroundTemplate": null,
           "UpOrLeftButton": {
-            "Bounds": "0,0,100,20",
+            "Bounds": "0,0,100,11",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
