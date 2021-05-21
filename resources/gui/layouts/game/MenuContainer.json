@@ -1,7 +1,7 @@
 {
-  "Bounds": "1814,776,102,300",
+  "Bounds": "1235,599,45,101",
   "Padding": "0,0,0,0",
-  "AlignmentEdgeDistances": "0,0,4,4",
+  "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
   "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "InventoryContainer": {
-      "Bounds": "19,150,32,32",
+      "Bounds": "0,0,20,21",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -47,8 +47,8 @@
       "RightMouseClickSound": null,
       "Children": {
         "InventoryButton": {
-          "Bounds": "1,1,32,32",
-          "Padding": "3,3,3,3",
+          "Bounds": "0,0,20,21",
+          "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -87,7 +87,7 @@
       }
     },
     "SpellsContainer": {
-      "Bounds": "51,163,32,32",
+      "Bounds": "23,0,20,21",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -111,8 +111,8 @@
       "RightMouseClickSound": null,
       "Children": {
         "SpellsButton": {
-          "Bounds": "1,1,29,29",
-          "Padding": "3,3,3,3",
+          "Bounds": "0,0,20,21",
+          "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -151,7 +151,7 @@
       }
     },
     "CharacterContainer": {
-      "Bounds": "69,193,32,32",
+      "Bounds": "23,24,20,21",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -175,8 +175,8 @@
       "RightMouseClickSound": null,
       "Children": {
         "CharacterButton": {
-          "Bounds": "1,1,32,32",
-          "Padding": "3,3,3,3",
+          "Bounds": "0,0,20,21",
+          "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -215,7 +215,7 @@
       }
     },
     "QuestsContainer": {
-      "Bounds": "70,227,32,32",
+      "Bounds": "0,24,20,21",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -239,8 +239,8 @@
       "RightMouseClickSound": null,
       "Children": {
         "QuestsButton": {
-          "Bounds": "1,1,32,32",
-          "Padding": "3,3,3,3",
+          "Bounds": "0,0,20,21",
+          "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -279,7 +279,7 @@
       }
     },
     "FriendsContainer": {
-      "Bounds": "0,269,32,32",
+      "Bounds": "0,72,20,28",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -297,14 +297,14 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "menuitem.png",
+      "Texture": "frienditem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "FriendsButton": {
-          "Bounds": "1,1,32,32",
-          "Padding": "3,3,3,3",
+          "Bounds": "0,0,20,21",
+          "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -343,7 +343,7 @@
       }
     },
     "PartyContainer": {
-      "Bounds": "35,269,32,32",
+      "Bounds": "23,48,20,21",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -361,14 +361,14 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "menuitem.png",
+      "Texture": "bagitem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "PartyButton": {
-          "Bounds": "2,2,30,30",
-          "Padding": "3,3,3,3",
+          "Bounds": "0,0,20,21",
+          "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -407,7 +407,7 @@
       }
     },
     "GuildContainer": {
-      "Bounds": "0,100,32,32",
+      "Bounds": "0,48,20,21",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -425,13 +425,13 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "menuitem.png",
+      "Texture": "bagitem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "GuildButton": {
-          "Bounds": "0,0,30,30",
+          "Bounds": "0,0,20,21",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -471,7 +471,7 @@
       }
     },
     "MenuContainer": {
-      "Bounds": "70,269,32,32",
+      "Bounds": "20,72,25,28",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -495,7 +495,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "MenuButton": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,0,20,21",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

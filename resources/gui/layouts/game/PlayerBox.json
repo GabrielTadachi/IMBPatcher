@@ -1,9 +1,9 @@
 {
-  "Bounds": "1517,955,371,86",
-  "Padding": "0,0,0,39",
+  "Bounds": "829,555,404,97",
+  "Padding": "0,0,0,48",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
-  "Margin": "0,0,32,0",
+  "Margin": "0,0,47,0",
   "RenderColor": "255,255,255,255",
   "Alignments": "Bottom,Right",
   "DrawBackground": true,
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "EntityInfoPanel": {
-      "Bounds": "0,0,371,86",
+      "Bounds": "0,0,404,97",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -47,8 +47,8 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "21,0,328,84",
-          "Padding": "290,70,0,0",
+          "Bounds": "40,0,323,80",
+          "Padding": "305,66,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -77,13 +77,13 @@
           "TextScale": 1.0
         },
         "EntityLevelLabel": {
-          "Bounds": "60,62,1,14",
-          "Padding": "0,0,0,0",
+          "Bounds": "49,0,305,97",
+          "Padding": "304,83,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
-          "Margin": "60,0,0,10",
+          "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "Bottom,Left",
+          "Alignments": "CenterH",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -137,8 +137,8 @@
           "TextScale": 1.0
         },
         "EntityMapLabel": {
-          "Bounds": "98,16,174,15",
-          "Padding": "45,0,0,0",
+          "Bounds": "127,39,150,14",
+          "Padding": "40,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -167,11 +167,11 @@
           "TextScale": 1.0
         },
         "EntityGraphicContainer": {
-          "Bounds": "259,-33,144,144",
+          "Bounds": "333,13,48,48",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
-          "Margin": "0,0,144,144",
+          "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
           "Alignments": "",
           "DrawBackground": true,
@@ -212,7 +212,7 @@
           "Font": null
         },
         "HPBarBackground": {
-          "Bounds": "121,33,173,15",
+          "Bounds": "168,58,158,12",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -236,7 +236,7 @@
           "RightMouseClickSound": null
         },
         "HPBar": {
-          "Bounds": "121,33,173,15",
+          "Bounds": "168,58,158,12",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -260,7 +260,7 @@
           "RightMouseClickSound": null
         },
         "ShieldBar": {
-          "Bounds": "130,45,173,15",
+          "Bounds": "130,45,158,12",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -284,7 +284,7 @@
           "RightMouseClickSound": null
         },
         "HPTitle": {
-          "Bounds": "101,33,15,14",
+          "Bounds": "150,57,15,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -314,7 +314,7 @@
           "TextScale": 1.0
         },
         "HPLabel": {
-          "Bounds": "125,33,173,15",
+          "Bounds": "170,57,158,12",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -344,7 +344,7 @@
           "TextScale": 1.0
         },
         "MPBackground": {
-          "Bounds": "121,50,173,15",
+          "Bounds": "168,71,158,12",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -368,7 +368,7 @@
           "RightMouseClickSound": null
         },
         "MPBar": {
-          "Bounds": "121,50,173,15",
+          "Bounds": "168,71,158,12",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -392,7 +392,7 @@
           "RightMouseClickSound": null
         },
         "MPTitle": {
-          "Bounds": "101,50,16,14",
+          "Bounds": "150,70,16,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -422,7 +422,7 @@
           "TextScale": 1.0
         },
         "MPLabel": {
-          "Bounds": "125,50,173,15",
+          "Bounds": "170,70,158,12",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -452,7 +452,7 @@
           "TextScale": 1.0
         },
         "EXPBackground": {
-          "Bounds": "121,67,173,15",
+          "Bounds": "168,84,158,12",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -476,7 +476,7 @@
           "RightMouseClickSound": null
         },
         "EXPBar": {
-          "Bounds": "121,67,173,15",
+          "Bounds": "168,84,158,12",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -500,7 +500,7 @@
           "RightMouseClickSound": null
         },
         "EXPTitle": {
-          "Bounds": "100,67,19,14",
+          "Bounds": "149,83,19,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -530,7 +530,7 @@
           "TextScale": 1.0
         },
         "EXPLabel": {
-          "Bounds": "125,67,173,15",
+          "Bounds": "170,83,158,12",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
