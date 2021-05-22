@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "EntityInfoPanel": {
-      "Bounds": "0,0,260,73",
+      "Bounds": "0,0,260,85",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -560,7 +560,7 @@
           "TextScale": 1.0
         },
         "TradeButton": {
-          "Bounds": "120,96,50,20",
+          "Bounds": "80,65,50,20",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -587,9 +587,9 @@
           "AutoSizeToContents": false,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0,
-          "NormalImage": "",
-          "HoveredImage": "",
-          "ClickedImage": "",
+          "NormalImage": "control_button",
+          "HoveredImage": "control_button_hovered",
+          "ClickedImage": "control_button",
           "DisabledImage": "",
           "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
@@ -598,7 +598,7 @@
           "ClickSound": ""
         },
         "PartyButton": {
-          "Bounds": "178,96,50,20",
+          "Bounds": "138,65,50,20",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -625,9 +625,9 @@
           "AutoSizeToContents": false,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0,
-          "NormalImage": "",
-          "HoveredImage": "",
-          "ClickedImage": "",
+          "NormalImage": "control_button",
+          "HoveredImage": "control_button_hovered",
+          "ClickedImage": "control_button",
           "DisabledImage": "",
           "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",
@@ -636,7 +636,7 @@
           "ClickSound": ""
         },
         "FriendButton": {
-          "Bounds": "247,96,50,20",
+          "Bounds": "207,65,50,20",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -663,9 +663,9 @@
           "AutoSizeToContents": false,
           "Font": "sourcesansproblack,10",
           "TextScale": 1.0,
-          "NormalImage": "",
-          "HoveredImage": "",
-          "ClickedImage": "",
+          "NormalImage": "control_button",
+          "HoveredImage": "control_button_hovered",
+          "ClickedImage": "control_button",
           "DisabledImage": "",
           "CenterImage": false,
           "HoverSound": "octave-tap-resonant.wav",

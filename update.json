@@ -3779,7 +3779,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_4Responses.json",
-      "Hash": "ff9bda57d1a5785910478c85e5bdad9d",
+      "Hash": "4f3bcb7031cbc686fcc8a4abf0bbdb76",
       "Size": 34079
     },
     {
@@ -3804,7 +3804,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "587b081cf8d2c7762195d779aabef7b7",
+      "Hash": "3bed1a390f82345d93f0c146923bfaad",
       "Size": 11281
     },
     {
@@ -3904,8 +3904,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "3366bcb4ba382656ed4ceb78b15d287d",
-      "Size": 25586
+      "Hash": "7334db096b5a4e7194bde9be7ca996c5",
+      "Size": 25735
     },
     {
       "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
