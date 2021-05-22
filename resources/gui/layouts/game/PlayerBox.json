@@ -1,5 +1,5 @@
 {
-  "Bounds": "829,555,404,97",
+  "Bounds": "1469,935,404,97",
   "Padding": "0,0,0,48",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -47,7 +47,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "40,0,323,80",
+          "Bounds": "30,0,343,80",
           "Padding": "305,66,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
