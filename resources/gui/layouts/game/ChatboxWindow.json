@@ -1,7 +1,7 @@
 {
-  "Bounds": "4,894,386,182",
+  "Bounds": "0,898,386,182",
   "Padding": "0,0,0,0",
-  "AlignmentEdgeDistances": "4,0,0,4",
+  "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
   "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
@@ -65,7 +65,7 @@
         "ToolTipTextColor": ""
       },
       "HorizontalScrollBar": {
-        "Bounds": "0,0,15,15",
+        "Bounds": "0,0,11,11",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -189,7 +189,7 @@
         }
       },
       "VerticalScrollBar": {
-        "Bounds": "0,0,15,15",
+        "Bounds": "0,0,11,11",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -351,7 +351,7 @@
       "TextScale": 1.0
     },
     "AllTabButton": {
-      "Bounds": "1,0,64,20",
+      "Bounds": "1,0,64,18",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -376,7 +376,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,10",
+      "Font": "sourcesansproblack,8",
       "TextScale": 1.0,
       "NormalImage": "smalltab.png",
       "HoveredImage": "smalltab_hovered.png",
@@ -389,7 +389,7 @@
       "ClickSound": null
     },
     "LocalTabButton": {
-      "Bounds": "65,0,64,20",
+      "Bounds": "65,0,64,18",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -414,7 +414,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,10",
+      "Font": "sourcesansproblack,8",
       "TextScale": 1.0,
       "NormalImage": "smalltab.png",
       "HoveredImage": "smalltab_hovered.png",
@@ -427,7 +427,7 @@
       "ClickSound": null
     },
     "PartyTabButton": {
-      "Bounds": "129,0,64,20",
+      "Bounds": "129,0,64,18",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -452,7 +452,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,10",
+      "Font": "sourcesansproblack,8",
       "TextScale": 1.0,
       "NormalImage": "smalltab.png",
       "HoveredImage": "smalltab_hovered.png",
@@ -465,7 +465,7 @@
       "ClickSound": null
     },
     "GuildTabButton": {
-      "Bounds": "193,0,64,20",
+      "Bounds": "193,0,64,18",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -490,7 +490,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,10",
+      "Font": "sourcesansproblack,8",
       "TextScale": 1.0,
       "NormalImage": "smalltab.png",
       "HoveredImage": "smalltab_hovered.png",
@@ -503,7 +503,7 @@
       "ClickSound": null
     },
     "GlobalTabButton": {
-      "Bounds": "257,0,64,20",
+      "Bounds": "257,0,64,18",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -528,7 +528,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,10",
+      "Font": "sourcesansproblack,8",
       "TextScale": 1.0,
       "NormalImage": "smalltab.png",
       "HoveredImage": "smalltab_hovered.png",
@@ -541,7 +541,7 @@
       "ClickSound": null
     },
     "SystemTabButton": {
-      "Bounds": "321,0,64,20",
+      "Bounds": "321,0,64,18",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -566,7 +566,7 @@
       "TextAlign": "Center",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,10",
+      "Font": "sourcesansproblack,8",
       "TextScale": 1.0,
       "NormalImage": "smalltab.png",
       "HoveredImage": "smalltab_hovered.png",
@@ -579,7 +579,7 @@
       "ClickSound": null
     },
     "Chatbar": {
-      "Bounds": "0,156,386,25",
+      "Bounds": "0,153,386,29",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -635,7 +635,7 @@
       "SubmitSound": "octave-tap-warm.wav"
     },
     "ChannelLabel": {
-      "Bounds": "164,9,44,16",
+      "Bounds": "164,9,36,14",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -661,7 +661,7 @@
       "TextAlign": "Left, Top",
       "TextPadding": "0,0,0,0",
       "AutoSizeToContents": true,
-      "Font": "sourcesansproblack,10",
+      "Font": "sourcesansproblack,8",
       "TextScale": 1.0
     },
     "ChatChannelCombobox": {
@@ -690,7 +690,7 @@
       "TextAlign": "Left, CenterV",
       "TextPadding": "3,3,3,3",
       "AutoSizeToContents": false,
-      "Font": "sourcesansproblack,10",
+      "Font": "sourcesansproblack,8",
       "TextScale": 1.0,
       "NormalImage": "",
       "HoveredImage": "",
@@ -991,7 +991,7 @@
         "BackgroundTemplate": "dropdownbg.png",
         "ItemTextColor": "255,200,200,200",
         "ItemHoveredTextColor": "255,240,240,240",
-        "ItemFont": "sourcesansproblack,10"
+        "ItemFont": "sourcesansproblack,8"
       },
       "DropDownButton": {
         "Bounds": "0,0,15,15",

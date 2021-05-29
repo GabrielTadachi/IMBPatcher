@@ -1,9 +1,9 @@
 {
-  "Bounds": "1469,935,404,97",
-  "Padding": "0,0,0,48",
+  "Bounds": "1617,969,303,76",
+  "Padding": "0,0,0,35",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
-  "Margin": "0,0,47,0",
+  "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
   "Alignments": "Bottom,Right",
   "DrawBackground": true,
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "EntityInfoPanel": {
-      "Bounds": "0,0,404,97",
+      "Bounds": "0,0,303,76",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -47,7 +47,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "30,0,343,80",
+          "Bounds": "-20,0,343,80",
           "Padding": "305,66,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -58,7 +58,7 @@
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
           "Disabled": false,
-          "Hidden": false,
+          "Hidden": true,
           "RestrictToParent": false,
           "MouseInputEnabled": false,
           "HideToolTip": false,
@@ -77,13 +77,13 @@
           "TextScale": 1.0
         },
         "EntityLevelLabel": {
-          "Bounds": "49,0,305,97",
-          "Padding": "304,83,0,0",
+          "Bounds": "295,56,1,14",
+          "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
-          "Margin": "0,0,0,0",
+          "Margin": "0,0,7,6",
           "RenderColor": "255,255,255,255",
-          "Alignments": "CenterH",
+          "Alignments": "Right,Bottom",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -96,11 +96,11 @@
           "ToolTipFont": null,
           "ToolTipTextColor": "",
           "BackgroundTemplate": null,
-          "TextColor": "255,255,255,255",
+          "TextColor": "215,215,215,215",
           "HoveredTextColor": "",
           "ClickedTextColor": "",
           "DisabledTextColor": "255,90,90,90",
-          "TextAlign": "Left, Bottom",
+          "TextAlign": "CenterH",
           "TextPadding": "0,0,0,0",
           "AutoSizeToContents": true,
           "Font": "sourcesansproblack,8",
@@ -137,8 +137,8 @@
           "TextScale": 1.0
         },
         "EntityMapLabel": {
-          "Bounds": "127,39,150,14",
-          "Padding": "40,0,0,0",
+          "Bounds": "71,0,160,15",
+          "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
@@ -167,7 +167,7 @@
           "TextScale": 1.0
         },
         "EntityGraphicContainer": {
-          "Bounds": "333,13,48,48",
+          "Bounds": "238,15,48,48",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -212,7 +212,7 @@
           "Font": null
         },
         "HPBarBackground": {
-          "Bounds": "168,58,158,12",
+          "Bounds": "67,21,155,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -236,7 +236,7 @@
           "RightMouseClickSound": null
         },
         "HPBar": {
-          "Bounds": "168,58,158,12",
+          "Bounds": "67,21,155,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -260,7 +260,7 @@
           "RightMouseClickSound": null
         },
         "ShieldBar": {
-          "Bounds": "130,45,158,12",
+          "Bounds": "130,21,155,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -284,7 +284,7 @@
           "RightMouseClickSound": null
         },
         "HPTitle": {
-          "Bounds": "150,57,15,14",
+          "Bounds": "49,20,15,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -303,7 +303,7 @@
           "ToolTipFont": null,
           "ToolTipTextColor": "",
           "BackgroundTemplate": null,
-          "TextColor": "255,255,255,255",
+          "TextColor": "205,205,205,205",
           "HoveredTextColor": "",
           "ClickedTextColor": "",
           "DisabledTextColor": "255,90,90,90",
@@ -314,7 +314,7 @@
           "TextScale": 1.0
         },
         "HPLabel": {
-          "Bounds": "170,57,158,12",
+          "Bounds": "70,20,155,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -344,7 +344,7 @@
           "TextScale": 1.0
         },
         "MPBackground": {
-          "Bounds": "168,71,158,12",
+          "Bounds": "67,40,155,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -368,7 +368,7 @@
           "RightMouseClickSound": null
         },
         "MPBar": {
-          "Bounds": "168,71,158,12",
+          "Bounds": "67,40,155,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -392,7 +392,7 @@
           "RightMouseClickSound": null
         },
         "MPTitle": {
-          "Bounds": "150,70,16,14",
+          "Bounds": "49,40,16,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -411,7 +411,7 @@
           "ToolTipFont": null,
           "ToolTipTextColor": "",
           "BackgroundTemplate": null,
-          "TextColor": "255,255,255,255",
+          "TextColor": "205,205,205,205",
           "HoveredTextColor": "",
           "ClickedTextColor": "",
           "DisabledTextColor": "255,90,90,90",
@@ -422,7 +422,7 @@
           "TextScale": 1.0
         },
         "MPLabel": {
-          "Bounds": "170,70,158,12",
+          "Bounds": "70,39,155,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -452,7 +452,7 @@
           "TextScale": 1.0
         },
         "EXPBackground": {
-          "Bounds": "168,84,158,12",
+          "Bounds": "67,59,155,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -476,7 +476,7 @@
           "RightMouseClickSound": null
         },
         "EXPBar": {
-          "Bounds": "168,84,158,12",
+          "Bounds": "67,59,155,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -500,7 +500,7 @@
           "RightMouseClickSound": null
         },
         "EXPTitle": {
-          "Bounds": "149,83,19,14",
+          "Bounds": "48,59,19,14",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -519,7 +519,7 @@
           "ToolTipFont": null,
           "ToolTipTextColor": "",
           "BackgroundTemplate": null,
-          "TextColor": "255,255,255,255",
+          "TextColor": "205,205,205,205",
           "HoveredTextColor": "",
           "ClickedTextColor": "",
           "DisabledTextColor": "255,90,90,90",
@@ -530,7 +530,7 @@
           "TextScale": 1.0
         },
         "EXPLabel": {
-          "Bounds": "170,83,158,12",
+          "Bounds": "70,58,155,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

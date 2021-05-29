@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "SpellsContainer": {
-        "Bounds": "9,6,231,303",
+        "Bounds": "9,10,231,303",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

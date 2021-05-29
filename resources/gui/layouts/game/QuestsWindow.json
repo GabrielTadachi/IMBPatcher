@@ -51,13 +51,13 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,192,38",
-    "Padding": "60,18,0,0",
+    "Bounds": "59,0,132,38",
+    "Padding": "0,18,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
     "RenderColor": "255,255,255,255",
-    "Alignments": "",
+    "Alignments": "Center,Top",
     "DrawBackground": true,
     "MinimumSize": "1,1",
     "MaximumSize": "4096,4096",
@@ -437,13 +437,13 @@
         "ItemRightClickSound": null
       },
       "QuestTitle": {
-        "Bounds": "0,6,228,32",
+        "Bounds": "11,12,228,32",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
-        "Margin": "0,0,3,0",
+        "Margin": "0,12,0,0",
         "RenderColor": "255,255,255,255",
-        "Alignments": "",
+        "Alignments": "Center,Top",
         "DrawBackground": true,
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
@@ -467,7 +467,7 @@
         "TextScale": 1.0
       },
       "QuestStatus": {
-        "Bounds": "11,24,228,32",
+        "Bounds": "11,34,228,32",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -497,7 +497,7 @@
         "TextScale": 1.0
       },
       "QuestDescription": {
-        "Bounds": "8,50,211,212",
+        "Bounds": "16,60,211,212",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -788,13 +788,13 @@
         }
       },
       "QuestDescriptionTemplate": {
-        "Bounds": "0,0,1,16",
+        "Bounds": "124,177,1,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
         "Margin": "0,0,0,0",
         "RenderColor": "255,255,255,255",
-        "Alignments": "",
+        "Alignments": "Center",
         "DrawBackground": true,
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
@@ -818,9 +818,9 @@
         "TextScale": 1.0
       },
       "BackButton": {
-        "Bounds": "9,268,96,35",
+        "Bounds": "20,268,96,35",
         "Padding": "3,3,3,3",
-        "AlignmentEdgeDistances": "50,0,0,0",
+        "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
         "Margin": "0,0,0,0",
         "RenderColor": "255,255,255,255",
@@ -856,9 +856,9 @@
         "ClickSound": ""
       },
       "AbandonQuestButton": {
-        "Bounds": "114,268,96,35",
+        "Bounds": "130,268,96,35",
         "Padding": "3,3,3,3",
-        "AlignmentEdgeDistances": "50,0,0,0",
+        "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
         "Margin": "0,0,0,0",
         "RenderColor": "255,255,255,255",

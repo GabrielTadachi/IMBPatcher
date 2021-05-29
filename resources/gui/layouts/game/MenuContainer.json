@@ -1,5 +1,5 @@
 {
-  "Bounds": "1875,979,45,101",
+  "Bounds": "1617,1045,303,35",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "InventoryContainer": {
-      "Bounds": "0,0,20,21",
+      "Bounds": "0,0,38,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -41,13 +41,13 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "bagitem.png",
+      "Texture": "inventoryitem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "InventoryButton": {
-          "Bounds": "0,0,20,21",
+          "Bounds": "0,0,38,35",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -75,7 +75,7 @@
           "Font": "arial,10",
           "TextScale": 1.0,
           "NormalImage": "inventoryicon.png",
-          "HoveredImage": "",
+          "HoveredImage": "inventoryiconhover.png",
           "ClickedImage": "",
           "DisabledImage": "",
           "CenterImage": false,
@@ -87,7 +87,7 @@
       }
     },
     "SpellsContainer": {
-      "Bounds": "23,0,20,21",
+      "Bounds": "38,0,38,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -105,13 +105,13 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "bagitem.png",
+      "Texture": "spellitem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "SpellsButton": {
-          "Bounds": "0,0,20,21",
+          "Bounds": "0,0,38,35",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -139,7 +139,7 @@
           "Font": "arial,10",
           "TextScale": 1.0,
           "NormalImage": "spellicon.png",
-          "HoveredImage": "",
+          "HoveredImage": "spelliconhover.png",
           "ClickedImage": "",
           "DisabledImage": "",
           "CenterImage": false,
@@ -151,7 +151,7 @@
       }
     },
     "CharacterContainer": {
-      "Bounds": "23,24,20,21",
+      "Bounds": "114,0,38,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -169,13 +169,13 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "bagitem.png",
+      "Texture": "Characteritem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "CharacterButton": {
-          "Bounds": "0,0,20,21",
+          "Bounds": "0,0,38,35",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -203,7 +203,7 @@
           "Font": "arial,10",
           "TextScale": 1.0,
           "NormalImage": "charactericon.png",
-          "HoveredImage": "",
+          "HoveredImage": "charactericonhover.png",
           "ClickedImage": "",
           "DisabledImage": "",
           "CenterImage": false,
@@ -215,7 +215,7 @@
       }
     },
     "QuestsContainer": {
-      "Bounds": "0,24,20,21",
+      "Bounds": "76,0,38,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -233,13 +233,13 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "bagitem.png",
+      "Texture": "questsitem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "QuestsButton": {
-          "Bounds": "0,0,20,21",
+          "Bounds": "0,0,38,35",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -267,7 +267,7 @@
           "Font": "arial,10",
           "TextScale": 1.0,
           "NormalImage": "questsicon.png",
-          "HoveredImage": "",
+          "HoveredImage": "questsiconhover.png",
           "ClickedImage": "",
           "DisabledImage": "",
           "CenterImage": false,
@@ -279,7 +279,7 @@
       }
     },
     "FriendsContainer": {
-      "Bounds": "0,72,20,28",
+      "Bounds": "228,0,38,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -303,7 +303,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "FriendsButton": {
-          "Bounds": "0,0,20,21",
+          "Bounds": "0,0,38,35",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -331,7 +331,7 @@
           "Font": "arial,10",
           "TextScale": 1.0,
           "NormalImage": "friendsicon.png",
-          "HoveredImage": "",
+          "HoveredImage": "friendsiconhover.png",
           "ClickedImage": "",
           "DisabledImage": "",
           "CenterImage": false,
@@ -343,7 +343,7 @@
       }
     },
     "PartyContainer": {
-      "Bounds": "23,48,20,21",
+      "Bounds": "190,0,38,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -361,13 +361,13 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "bagitem.png",
+      "Texture": "partyitem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "PartyButton": {
-          "Bounds": "0,0,20,21",
+          "Bounds": "0,0,38,35",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -395,7 +395,7 @@
           "Font": "arial,10",
           "TextScale": 1.0,
           "NormalImage": "partyicon.png",
-          "HoveredImage": "",
+          "HoveredImage": "partyiconhover.png",
           "ClickedImage": "",
           "DisabledImage": "",
           "CenterImage": false,
@@ -407,7 +407,7 @@
       }
     },
     "GuildContainer": {
-      "Bounds": "0,48,20,21",
+      "Bounds": "152,0,38,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -425,13 +425,13 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "bagitem.png",
+      "Texture": "guilditem.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "GuildButton": {
-          "Bounds": "0,0,20,21",
+          "Bounds": "0,0,38,35",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -459,7 +459,7 @@
           "Font": "arial,10",
           "TextScale": 1.0,
           "NormalImage": "guildicon.png",
-          "HoveredImage": "",
+          "HoveredImage": "guildiconhover.png",
           "ClickedImage": "",
           "DisabledImage": "",
           "CenterImage": false,
@@ -471,7 +471,7 @@
       }
     },
     "MenuContainer": {
-      "Bounds": "20,72,25,28",
+      "Bounds": "266,0,38,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -495,7 +495,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "MenuButton": {
-          "Bounds": "3,0,20,21",
+          "Bounds": "0,0,38,35",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -523,7 +523,7 @@
           "Font": null,
           "TextScale": 1.0,
           "NormalImage": "menuicon.png",
-          "HoveredImage": null,
+          "HoveredImage": "menuiconhover.png",
           "ClickedImage": null,
           "DisabledImage": null,
           "CenterImage": false,

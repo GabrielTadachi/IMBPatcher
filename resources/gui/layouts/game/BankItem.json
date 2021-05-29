@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,34,35",
+  "Bounds": "0,0,35,35",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "BankItemIcon": {
-      "Bounds": "1,1,32,32",
+      "Bounds": "3,3,29,29",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -47,7 +47,7 @@
       "RightMouseClickSound": "octave-beep-tapped.wav"
     },
     "BankItemValue": {
-      "Bounds": "29,24,5,11",
+      "Bounds": "30,24,5,11",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

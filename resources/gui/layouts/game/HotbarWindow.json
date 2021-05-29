@@ -1,11 +1,11 @@
 {
-  "Bounds": "1417,1032,458,48",
+  "Bounds": "770,1037,380,43",
   "Padding": "0,0,0,0",
-  "AlignmentEdgeDistances": "0,4,4,0",
+  "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
-  "Margin": "0,0,45,0",
+  "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
-  "Alignments": "Bottom,Right",
+  "Alignments": "Center,Bottom",
   "DrawBackground": true,
   "MinimumSize": "1,1",
   "MaximumSize": "4096,4096",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "HotbarContainer0": {
-      "Bounds": "66,8,35,35",
+      "Bounds": "6,6,35,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -189,7 +189,7 @@
       }
     },
     "HotbarContainer1": {
-      "Bounds": "103,8,35,35",
+      "Bounds": "43,6,35,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -355,7 +355,7 @@
       }
     },
     "HotbarContainer2": {
-      "Bounds": "140,8,35,35",
+      "Bounds": "80,6,35,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -521,7 +521,7 @@
       }
     },
     "HotbarContainer3": {
-      "Bounds": "177,8,35,35",
+      "Bounds": "117,6,35,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -687,7 +687,7 @@
       }
     },
     "HotbarContainer4": {
-      "Bounds": "214,8,35,35",
+      "Bounds": "154,6,35,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -853,7 +853,7 @@
       }
     },
     "HotbarContainer5": {
-      "Bounds": "251,8,35,35",
+      "Bounds": "191,6,35,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1019,7 +1019,7 @@
       }
     },
     "HotbarContainer6": {
-      "Bounds": "288,8,35,35",
+      "Bounds": "228,6,35,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1185,7 +1185,7 @@
       }
     },
     "HotbarContainer7": {
-      "Bounds": "325,8,35,35",
+      "Bounds": "265,6,35,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1351,7 +1351,7 @@
       }
     },
     "HotbarContainer8": {
-      "Bounds": "362,8,35,35",
+      "Bounds": "302,6,35,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1517,7 +1517,7 @@
       }
     },
     "HotbarContainer9": {
-      "Bounds": "399,8,35,35",
+      "Bounds": "339,6,35,35",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
