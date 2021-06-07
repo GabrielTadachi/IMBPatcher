@@ -231,7 +231,7 @@
       "TextPadding": "0,0,0,0",
       "AutoSizeToContents": false,
       "Font": "sourcesansproblack,12",
-      "TextScale": 0.0,
+      "TextScale": 1.0,
       "NormalImage": "ingame_.png",
       "HoveredImage": "ingame_hovered.png",
       "ClickedImage": "ingame_clicked.png",

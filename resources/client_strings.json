@@ -227,7 +227,7 @@
     "expval": "{00} / {01}",
     "friend": "Amizade",
     "friendtip": "Envia a {00} um pedido de amizade.",
-    "level": "Lv. {00}",
+    "level": "{00}",
     "map": "{00}",
     "maxlevel": "Nível Máximo",
     "party": "Party",
@@ -802,9 +802,9 @@
     "title": "Menu",
     "options": "Opções",
     "characterselect": "-",
-    "logout": "Logout",
-    "exittodesktop": "Desktop",
-    "close": "Fechar"
+    "logout": "Menu Principal",
+    "exittodesktop": "Sair do jogo",
+    "close": "Voltar ao jogo"
   },
   "Numbers": {
     "thousands": "k",

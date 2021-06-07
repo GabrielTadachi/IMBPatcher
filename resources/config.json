@@ -7,9 +7,9 @@
   "ActionMsgFont": "sourcesansproblack",
   "UIFont": "sourcesanspro,8",
   "ChatLines": 50,
-  "MenuMusic": "",
+  "MenuMusic": "Main.ogg",
   "MenuBackground": "background.png",
   "IntroImages": [],
-  "UpdateUrl": "",
+  "UpdateUrl": "https://gabrieltadachi.github.io/IMBPatcher/update.json",
   "MouseCursor": ""
 }

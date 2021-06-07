@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,34,35",
+  "Bounds": "0,0,35,35",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "TradeIcon": {
-      "Bounds": "1,1,32,32",
+      "Bounds": "2,2,31,31",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -47,7 +47,7 @@
       "RightMouseClickSound": "octave-beep-tapped.wav"
     },
     "TradeValue": {
-      "Bounds": "29,24,5,11",
+      "Bounds": "30,24,5,11",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

@@ -22,9 +22,9 @@
   "InactiveImage": "",
   "ActiveColor": "255,220,220,220",
   "InactiveColor": "",
-  "Closable": false,
+  "Closable": true,
   "Titlebar": {
-    "Bounds": "0,0,442,32",
+    "Bounds": "0,0,442,50",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -51,13 +51,13 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "139,7,163,26",
-    "Padding": "32,6,0,0",
+    "Bounds": "155,0,131,38",
+    "Padding": "0,18,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
     "RenderColor": "255,255,255,255",
-    "Alignments": "CenterH",
+    "Alignments": "Center,Top",
     "DrawBackground": true,
     "MinimumSize": "1,1",
     "MaximumSize": "4096,4096",
@@ -74,25 +74,25 @@
     "HoveredTextColor": "",
     "ClickedTextColor": "",
     "DisabledTextColor": "255,90,90,90",
-    "TextAlign": "Left, Top",
+    "TextAlign": "CenterH",
     "TextPadding": "0,0,0,0",
     "AutoSizeToContents": true,
     "Font": "sourcesansproblack,12",
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "408,0,34,32",
-    "Padding": "3,0,0,0",
+    "Bounds": "412,22,15,16",
+    "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
-    "Margin": "0,0,0,0",
+    "Margin": "0,22,15,0",
     "RenderColor": "255,255,255,255",
     "Alignments": "Top,Right",
     "DrawBackground": true,
     "MinimumSize": "1,1",
     "MaximumSize": "40,40",
     "Disabled": false,
-    "Hidden": true,
+    "Hidden": false,
     "RestrictToParent": true,
     "MouseInputEnabled": true,
     "HideToolTip": false,
@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "QuestTitle": {
-        "Bounds": "0,10,442,424",
+        "Bounds": "0,40,442,424",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -169,7 +169,7 @@
         "TextScale": 1.0
       },
       "QuestOfferArea": {
-        "Bounds": "39,52,370,318",
+        "Bounds": "39,82,370,260",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -243,7 +243,7 @@
           }
         },
         "HorizontalScrollBar": {
-          "Bounds": "0,0,15,15",
+          "Bounds": "0,0,11,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -367,7 +367,7 @@
           }
         },
         "VerticalScrollBar": {
-          "Bounds": "0,0,15,15",
+          "Bounds": "0,0,11,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -492,7 +492,7 @@
         }
       },
       "AcceptButton": {
-        "Bounds": "56,388,96,35",
+        "Bounds": "56,363,96,35",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -530,7 +530,7 @@
         "ClickSound": ""
       },
       "DeclineButton": {
-        "Bounds": "290,388,96,35",
+        "Bounds": "290,363,96,35",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
