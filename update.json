@@ -29,13 +29,13 @@
     },
     {
       "Path": "resources/config.json",
-      "Hash": "410bb6adc22882ec76a854bd060d9724",
-      "Size": 461
+      "Hash": "8c9c4c0c2b71a1489cc3e6e9e7c27385",
+      "Size": 471
     },
     {
       "Path": "resources/credits.json",
-      "Hash": "0d919fd625d4f1729f9da2ca7b6b878b",
-      "Size": 19615
+      "Hash": "b0aa3fe99c650a85ce35436ff24dcaad",
+      "Size": 22979
     },
     {
       "Path": "resources/editor_strings.json",
@@ -4129,53 +4129,53 @@
     },
     {
       "Path": "resources/images/DCANMana.png",
-      "Hash": "d55b7cd8717550c6a4712d1c1fc9c837",
-      "Size": 51953
+      "Hash": "9caca74e2e62b9bc4c7d32f746e13dcc",
+      "Size": 45550
     },
     {
       "Path": "resources/images/DCANStats1.png",
-      "Hash": "14f92c4cdcafde7c80d3b5eba5fe9b06",
-      "Size": 51876
+      "Hash": "cd1bba49a9eeabd7b82859cda38c6d7c",
+      "Size": 44979
     },
     {
       "Path": "resources/images/DCANStats2.png",
-      "Hash": "f9514854a15a77de71d4d9b27a3ab49b",
-      "Size": 75654
+      "Hash": "e9833e63e661bd458f103218174a2e46",
+      "Size": 85306
     },
     {
       "Path": "resources/images/DCANStats3.png",
-      "Hash": "24c1ed461462ecc81bf880260435c832",
-      "Size": 74466
+      "Hash": "c81762d8b320e8f92cb479712a3c6ae0",
+      "Size": 84394
     },
     {
       "Path": "resources/images/DCANStats4.png",
-      "Hash": "0fd3a99ee85cfa84420891050cb5e1a0",
-      "Size": 74647
+      "Hash": "37ef715e2b83724c118845a0c264dc3f",
+      "Size": 84375
     },
     {
       "Path": "resources/images/DCANStats5.png",
-      "Hash": "1647bdffa4435ab836bb0087816e9708",
-      "Size": 74768
+      "Hash": "bc70dba1e8e44bb5ddc83b0eaffbaa48",
+      "Size": 84465
     },
     {
       "Path": "resources/images/DCANStats6.png",
-      "Hash": "e5d993217936d32685e6dabe77a1d921",
-      "Size": 74839
+      "Hash": "88c05ea52bcb248f22a99af2cca833c6",
+      "Size": 84299
     },
     {
       "Path": "resources/images/DCANStats7.png",
-      "Hash": "106ecd602189dc7fd358f5f840fec8e0",
-      "Size": 74676
+      "Hash": "a714e9f6d4e25079a530f2f865cc13f0",
+      "Size": 84376
     },
     {
       "Path": "resources/images/DCANVarinhaDesequipada.png",
-      "Hash": "24ebf179c838bc93098eb4e042a59023",
-      "Size": 113716
+      "Hash": "ca36b4489c106c1a056c0d1b16ddafab",
+      "Size": 80230
     },
     {
       "Path": "resources/images/DCANVarinhaEquipada.png",
-      "Hash": "45c9071bab2d5e09e9b30d5d4c0b3098",
-      "Size": 113760
+      "Hash": "886ffdc4a52146be5c928b272c55e6d9",
+      "Size": 80314
     },
     {
       "Path": "resources/images/Mountains1.png",
@@ -4666,6 +4666,11 @@
       "Path": "resources/items/Carta.png",
       "Hash": "1821e67412372978e86d0a6da238cf07",
       "Size": 2910
+    },
+    {
+      "Path": "resources/items/Carta2.png",
+      "Hash": "e34aee2a36e04b1f35fe9225d6556e53",
+      "Size": 5286
     },
     {
       "Path": "resources/items/chapeu1.png",
@@ -5906,6 +5911,11 @@
       "Path": "resources/misc/chatbubble.png",
       "Hash": "aae7ffc85c7f4a4afa9f10c7003bea51",
       "Size": 308
+    },
+    {
+      "Path": "resources/misc/cursor.png",
+      "Hash": "d640b592fa2bdfe69f90a195c75b0668",
+      "Size": 3612
     },
     {
       "Path": "resources/misc/directions.png",
@@ -8524,8 +8534,8 @@
     },
     {
       "Path": "resources/tilesets/Escadas.png",
-      "Hash": "9306302044ce3a88b5f4bbec9c26125c",
-      "Size": 217632
+      "Hash": "98843b4ddc3038382cf39e5e4c099eb8",
+      "Size": 745236
     },
     {
       "Path": "resources/tilesets/escola.png",

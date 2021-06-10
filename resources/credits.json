@@ -1,9 +1,21 @@
 {
   "Lines": [
     {
-      "Text": "Intersect Engine",
+      "Text": "Instituto de Magia Bandelugo",
       "Font": "sourcesansproblack",
-      "Size": 16,
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Um MMORPG criado utilizando a Intersect Engine",
+      "Font": "sourcesansproblack",
+      "Size": 10,
       "Alignment": "center",
       "Clr": {
         "A": 255,
@@ -25,7 +37,7 @@
       }
     },
     {
-      "Text": "Created by JC Snider and Joe Bridges",
+      "Text": "Criada por JC Snider e Joe Bridges",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
@@ -37,7 +49,7 @@
       }
     },
     {
-      "Text": "Copyright 2019 (C) Ascension Game Dev",
+      "Text": "Copyright 2021 (C) Ascension Game Dev",
       "Font": "sourcesansproblack",
       "Size": 8,
       "Alignment": "center",
@@ -61,7 +73,163 @@
       }
     },
     {
-      "Text": "Developers",
+      "Text": "Desenvolvedores do IMB",
+      "Font": "sourcesansproblack",
+      "Size": 12,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Ivan Cordeiro",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Roteirista",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Vanessa Gaspar (Vany Drottningu)",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Programadora",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Gabriel Tadachi (Tadachi Aufritchig)",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Programador",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Isabella Scarpari (Lily Geheimnis)",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Deisgner",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Carlos Domingos (Autumn Higgings)",
+      "Font": "sourcesansproblack",
+      "Size": 10,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Editor",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "",
+      "Font": "sourcesansproblack",
+      "Size": 8,
+      "Alignment": "center",
+      "Clr": {
+        "A": 255,
+        "R": 255,
+        "G": 255,
+        "B": 255
+      }
+    },
+    {
+      "Text": "Desenvolvedores da Intersect",
       "Font": "sourcesansproblack",
       "Size": 12,
       "Alignment": "center",
