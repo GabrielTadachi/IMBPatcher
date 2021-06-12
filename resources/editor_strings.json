@@ -634,7 +634,8 @@
     "guilddisbandfailed": "Guild failed to disband.",
     "enddisbandguild": "End Disband Guild",
     "openguildbank": "Open Guild Bank",
-    "setguildbankslots": "Set Guild Bank Slots"
+    "setguildbankslots": "Set Guild Bank Slots",
+    "resetstatpointallocations": "Reset Player Stat Point Allocations"
   },
   "EventChangePlayerColor": {
     "cancel": "Cancel",
@@ -712,6 +713,7 @@
       "disbandguild": "Disband Guild",
       "openguildbank": "Open Guild Bank",
       "setguildbankslots": "Set Guild Bank Slots Count",
+      "resetstatallocations": "Reset Stat Point Allocations",
       "changehair": "Change Hair"
     }
   },
@@ -1326,7 +1328,13 @@
     },
     "bonuses": "Stat Bonuses",
     "bonusrange": "Stat Bonus Range (+-):",
-    "bound": "Bound?",
+    "candrop": "Can Drop?",
+    "deathdropchance": "Drop chance on Death (%):",
+    "canbag": "Can Bag?",
+    "canbank": "Can Bank?",
+    "canguildbank": "Can Guild Bank?",
+    "cantrade": "Can Trade?",
+    "cansell": "Can Sell?",
     "cancel": "Cancel",
     "consumeablepanel": "Consumable",
     "consumeamount": "Amount:",
@@ -1395,6 +1403,8 @@
     "destroyspell": "Destroy On Use?",
     "singleuseevent": "Destroy On Use?",
     "stackable": "Stackable?",
+    "inventorystacklimit": "Inventory Stack Limit:",
+    "bankstacklimit": "Bank Stack Limit:",
     "title": "Item Editor",
     "tooltype": "Tool Type:",
     "twohanded": "2 Hand",

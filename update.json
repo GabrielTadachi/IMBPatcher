@@ -2,24 +2,24 @@
   "Files": [
     {
       "Path": "IMB.exe",
-      "Hash": "20de5a1a0cb561c819a9ac4b2b7d3344",
-      "Size": 16140288
+      "Hash": "08b53021fc5b9ac6449bb073b8ce7c2c",
+      "Size": 16142848
     },
     {
       "Path": "IMB.pdb",
-      "Hash": "05439ebe68865e5d9fa75ce980e610aa",
+      "Hash": "26b86cc7a57b72de0155422b8c8e79d8",
       "Size": 1039872
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "f52c2e0b27ef368326e691782f78c15a",
-      "Size": 9310208,
+      "Hash": "1004ef667384ddcf1615e427e90a6aa7",
+      "Size": 9317888,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "4beae4a7fef59a3bd1965a55a380d5da",
-      "Size": 1676800,
+      "Hash": "bde4d62516a9f956c845e2ff3af53c03",
+      "Size": 1682944,
       "ClientIgnore": true
     },
     {
@@ -39,8 +39,8 @@
     },
     {
       "Path": "resources/editor_strings.json",
-      "Hash": "89597748d770357c81a59d4298cec341",
-      "Size": 74668
+      "Hash": "7256940e19c7807c5b781224a096f9ed",
+      "Size": 75116
     },
     {
       "Path": "resources/animations/Absorb.png",
