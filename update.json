@@ -3889,7 +3889,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_2Responses.json",
-      "Hash": "305427ac0784cb7be4a77a46a028db99",
+      "Hash": "578b902122f617883aa4cc36ee2785de",
       "Size": 31353
     },
     {
@@ -3899,7 +3899,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_4Responses.json",
-      "Hash": "ea1338b26358dbd99605251901114806",
+      "Hash": "1791f365f03c929412068daba0db37fe",
       "Size": 34107
     },
     {
@@ -9024,8 +9024,8 @@
     },
     {
       "Path": "resources/tilesets/Porto.png",
-      "Hash": "c895d6a7ecd2cc462fc0cab4fdf7be79",
-      "Size": 71514
+      "Hash": "aed87491617c2aeba8e2087b33d72fee",
+      "Size": 81626
     },
     {
       "Path": "resources/tilesets/Quadro RH.png",
