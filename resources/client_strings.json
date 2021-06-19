@@ -182,6 +182,7 @@
       "openparties": "Abrir party:",
       "openspells": "Abrir encantamentos:",
       "openfriends": "Abrir amigos:",
+      "openguild": "Open Guild:",
       "opensettings": "Abrir configurações:",
       "opendebugger": "Open Debugger:",
       "openadminpanel": "Open Admin Panel:",
@@ -326,7 +327,8 @@
     "bank": "{00} Banco da Guilda",
     "notallowedwithdraw": "You do not have permission to withdraw from {00}'s guild bank!",
     "notalloweddeposit": "You do not have permission to deposit items into {00}'s guild bank!",
-    "notallowedswap": "You do not have permission to swap items around within {00}'s guild bank!"
+    "notallowedswap": "You do not have permission to swap items around within {00}'s guild bank!",
+    "invitealreadyinguild": "The player you're trying to invite is already in a guild or has a pending invite."
   },
   "InputBox": {
     "cancel": "Cancelar",

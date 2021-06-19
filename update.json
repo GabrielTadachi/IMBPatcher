@@ -24,8 +24,8 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "d43736796633d98e83b649fcf4c60ae3",
-      "Size": 26614
+      "Hash": "51fcad7b56ddd54842deb65654657fe5",
+      "Size": 26763
     },
     {
       "Path": "resources/config.json",
@@ -1303,6 +1303,11 @@
       "Size": 3678
     },
     {
+      "Path": "resources/entities/ComensaisdaMorte .png",
+      "Hash": "292d5a454a74e6217a0cbb8924ad7c82",
+      "Size": 8520
+    },
+    {
       "Path": "resources/entities/Coruja1.png",
       "Hash": "edebb0418b68588b6888c4c6e9638afe",
       "Size": 4403
@@ -1491,6 +1496,11 @@
       "Path": "resources/entities/Graphorn.png",
       "Hash": "549e2685bac750b40bcf32e6502400a7",
       "Size": 11202
+    },
+    {
+      "Path": "resources/entities/Halt.png",
+      "Hash": "ff60bb6bad0b7727ccbc4a39080a1039",
+      "Size": 7462
     },
     {
       "Path": "resources/entities/hatake.png",
@@ -2641,6 +2651,11 @@
       "Path": "resources/faces/Floriano2.png",
       "Hash": "35999946092ade885f37ab7f85e36096",
       "Size": 35513
+    },
+    {
+      "Path": "resources/faces/Halt.png",
+      "Hash": "fb06b2a3d551074c09c9a8eacb36dce6",
+      "Size": 28604
     },
     {
       "Path": "resources/faces/hatake1_.png",
@@ -3894,7 +3909,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/EventDialogWindow_3Responses.json",
-      "Hash": "aa2e0ad073328c0f5ea0bfadd2e4d58f",
+      "Hash": "873cf605a1e06733c16662c2e917ad83",
       "Size": 32730
     },
     {
@@ -3914,7 +3929,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "2de54423a755da4e30ca13be417d59ac",
+      "Hash": "3fa6e9ef65296b210141b707a54764fd",
       "Size": 11281
     },
     {
@@ -3954,8 +3969,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/OptionsWindow.json",
-      "Hash": "2e5f9434e3fde7bded82f8a2e59fb795",
-      "Size": 211422
+      "Hash": "81c8acc9403fbb6184b13bd4ca5693b6",
+      "Size": 215365
     },
     {
       "Path": "resources/gui/layouts/game/PartyWindow.json",
@@ -3989,7 +4004,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "0384f1c866c67653717fb684c773ac85",
+      "Hash": "496caea451c0fec8e4f5c0262cb5469a",
       "Size": 14736
     },
     {
@@ -4074,13 +4089,13 @@
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
-      "Hash": "a71827da6faf79b84822ed9c19824577",
+      "Hash": "eced88aa945d1c33c64ecf0e38fc0f10",
       "Size": 9127
     },
     {
       "Path": "resources/gui/layouts/menu/OptionsWindow.json",
-      "Hash": "dbe3668b50f71f7a68f33faccfbe534f",
-      "Size": 211448
+      "Hash": "15a007b162e17343af524c34a8414d4e",
+      "Size": 215391
     },
     {
       "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
@@ -5201,6 +5216,11 @@
       "Path": "resources/items/Frasco_073.png",
       "Hash": "8d21bc3b06b587a29f0daa56387eb0f9",
       "Size": 1543
+    },
+    {
+      "Path": "resources/items/Galeão.png",
+      "Hash": "ac8f1e2bfe2eefc7c61928c6dddda4cc",
+      "Size": 4613
     },
     {
       "Path": "resources/items/Ingrediente01.png",
@@ -8114,8 +8134,8 @@
     },
     {
       "Path": "resources/tilesets/1Vitrine.png",
-      "Hash": "48f15838f661b7d7cd05599831fa98f0",
-      "Size": 41252
+      "Hash": "67f80263f690f813285b59a9456c8438",
+      "Size": 49812
     },
     {
       "Path": "resources/tilesets/2Portas.png",
@@ -8329,8 +8349,8 @@
     },
     {
       "Path": "resources/tilesets/Cadeiras.png",
-      "Hash": "2eac9137813f52966bf8764cb9d5379d",
-      "Size": 277610
+      "Hash": "8432dbde1d1c3aab707d92c739bd46e4",
+      "Size": 287711
     },
     {
       "Path": "resources/tilesets/Caldeirao.png",
@@ -8359,8 +8379,8 @@
     },
     {
       "Path": "resources/tilesets/celianna_farmnature_farmtiles.png",
-      "Hash": "aafc2b6f786b8883914318114ac37cf8",
-      "Size": 1701733
+      "Hash": "35a5723ef8b5fb0495e1f7d59518f5d9",
+      "Size": 1374390
     },
     {
       "Path": "resources/tilesets/celianna_MV_interior_house2.png",
@@ -8409,8 +8429,8 @@
     },
     {
       "Path": "resources/tilesets/Cidade.png",
-      "Hash": "6f55b97af464a98a054580e80af658c5",
-      "Size": 992178
+      "Hash": "bd1910d3ad5654142e865252bb545d54",
+      "Size": 1000538
     },
     {
       "Path": "resources/tilesets/Cvrtis Mirrors 1.png",
@@ -8539,8 +8559,8 @@
     },
     {
       "Path": "resources/tilesets/escola.png",
-      "Hash": "c9ef184743b7903bfc12cf1526c62cc4",
-      "Size": 311241
+      "Hash": "32d1f46215f26755914f1e23ea4b26bc",
+      "Size": 304321
     },
     {
       "Path": "resources/tilesets/Estante varinhas.png",
@@ -8824,13 +8844,13 @@
     },
     {
       "Path": "resources/tilesets/Outside_A1.png",
-      "Hash": "4a85cd734e8d7e0b835b6c08b41d2bea",
-      "Size": 444078
+      "Hash": "abd14c8aa5c8f944e5799951c3d9051a",
+      "Size": 524803
     },
     {
       "Path": "resources/tilesets/Outside_A2.png",
-      "Hash": "39b194d803dd1e31dabaf632d692a869",
-      "Size": 302607
+      "Hash": "2acc6bddba10bfc68c0e920a2e2e2084",
+      "Size": 515712
     },
     {
       "Path": "resources/tilesets/Outside_A3.png",
@@ -8916,6 +8936,11 @@
       "Path": "resources/tilesets/PandaMaru_MV_windmill.png",
       "Hash": "10b852d86ec16a1f3667a68ab3bba824",
       "Size": 171378
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_windmillarms.png",
+      "Hash": "92b49e9d29cdaafd85df39cc54791388",
+      "Size": 170228
     },
     {
       "Path": "resources/tilesets/PandaMaru_MV_xmasdecoration.png",

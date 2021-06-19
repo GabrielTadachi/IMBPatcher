@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "ServerStatusLabel": {
-      "Bounds": "0,316,122,14",
+      "Bounds": "0,316,127,14",
       "Padding": "5,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
