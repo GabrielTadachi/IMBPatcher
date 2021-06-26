@@ -4074,7 +4074,7 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "88d49656680e56ae1796169201eae3bb",
+      "Hash": "ad5684622f4c6c172733e7a9a764721f",
       "Size": 11357
     },
     {
@@ -8633,6 +8633,11 @@
       "Size": 126945
     },
     {
+      "Path": "resources/tilesets/frutas.png",
+      "Hash": "4560f480d229a8f1ffe9467f4d4587bd",
+      "Size": 7522
+    },
+    {
       "Path": "resources/tilesets/Fuffydud - Flags and Tapestries.png",
       "Hash": "22e916ff8b15d569145d32de83a83cdb",
       "Size": 474859
@@ -8883,6 +8888,11 @@
       "Size": 912673
     },
     {
+      "Path": "resources/tilesets/Outside_Country_Candacis.png",
+      "Hash": "4e9aacad766365a733c2e09dc976e2b2",
+      "Size": 138334
+    },
+    {
       "Path": "resources/tilesets/pandamaru bathroom.png",
       "Hash": "a1f00dad50728bbbea5220359fff398d",
       "Size": 121700
@@ -8921,6 +8931,16 @@
       "Path": "resources/tilesets/Pandamaru_Arvores_2.png",
       "Hash": "97933455c728f5bc82430fc289b39bb1",
       "Size": 972536
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_hills_A5.png",
+      "Hash": "2d6c38e8251f68828188dafe3b689c27",
+      "Size": 282091
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_hills_B.png",
+      "Hash": "5375d67644731a81ca83b93759dd3dba",
+      "Size": 146381
     },
     {
       "Path": "resources/tilesets/PandaMaru_MV_market1.png",
@@ -9421,6 +9441,16 @@
       "Path": "resources/tilesets/whtdragon 44.png",
       "Hash": "bca2aed41216e9dea9da4d1a03ff0137",
       "Size": 162214
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 45.png",
+      "Hash": "54dbc0eeb69afe87e89f1e1a25a11eb8",
+      "Size": 1538133
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 46.png",
+      "Hash": "9c7dbfecd3ba367ded6f538bd929d894",
+      "Size": 1660320
     },
     {
       "Path": "resources/tilesets/whtdragon 5.png",
