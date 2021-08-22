@@ -29,8 +29,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Hash": "810c988f76f80baab55321d14b775d5a",
-      "Size": 476
+      "Hash": "55ff8e9891ff9e02a1efcb43c3075cb6",
+      "Size": 475
     },
     {
       "Path": "resources/credits.json",
@@ -3979,13 +3979,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Hash": "6a2a7ca1cdc06b24af308b55a447d0d9",
-      "Size": 2369
+      "Hash": "28992b6101867b54d8491a4c545c73e7",
+      "Size": 2370
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "f499310ecf868b5fe061895f32263be6",
-      "Size": 31816
+      "Hash": "39b65ef2f522c4aba7bec79c0ea77cc9",
+      "Size": 33028
     },
     {
       "Path": "resources/gui/layouts/game/Draggable.json",
@@ -6123,6 +6123,26 @@
       "Size": 2182102
     },
     {
+      "Path": "resources/music/Lady Belifa - Lady B.ogg",
+      "Hash": "2c5ad58d939cbcbbf44992cf3ea7687a",
+      "Size": 3966666
+    },
+    {
+      "Path": "resources/music/Lady Belifa - Lindo Amor.ogg",
+      "Hash": "287db415123c07890cc28225eb95c756",
+      "Size": 5028720
+    },
+    {
+      "Path": "resources/music/Lady Belifa - Prima Lady B.ogg",
+      "Hash": "03048ba5a5962b9df199c3635f34b2ad",
+      "Size": 4158306
+    },
+    {
+      "Path": "resources/music/Lady Belifa - Quero ser Tua.ogg",
+      "Hash": "16c647b40b79be20e029fda10202c3b9",
+      "Size": 3227105
+    },
+    {
       "Path": "resources/music/LargoArruaceiro.ogg",
       "Hash": "dcdaf065ea6b716a379eedeb14a49acc",
       "Size": 1207811
@@ -7103,6 +7123,11 @@
       "Size": 349200
     },
     {
+      "Path": "resources/sounds/caldeiraoDosMilhoes.wav",
+      "Hash": "78b21474789a18232e2489ace38d00ab",
+      "Size": 8707898
+    },
+    {
       "Path": "resources/sounds/Cargo_Train.wav",
       "Hash": "48a39cc5c5266195724bf7dbec53be8b",
       "Size": 8013360
@@ -8051,6 +8076,11 @@
       "Path": "resources/sounds/sword-unsheathe5.wav",
       "Hash": "d99808a565a705542437d024a1dcf482",
       "Size": 123006
+    },
+    {
+      "Path": "resources/sounds/theWand.wav",
+      "Hash": "e7e75d5244feea4eeeab3c2230a53656",
+      "Size": 2001306
     },
     {
       "Path": "resources/sounds/Thunderstorm 2 minute.wav",
