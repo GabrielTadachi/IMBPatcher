@@ -2,35 +2,35 @@
   "Files": [
     {
       "Path": "IMB.exe",
-      "Hash": "08b53021fc5b9ac6449bb073b8ce7c2c",
-      "Size": 16142848
+      "Hash": "543d7721d3c913d3b8c83572b660b042",
+      "Size": 16149504
     },
     {
       "Path": "IMB.pdb",
-      "Hash": "26b86cc7a57b72de0155422b8c8e79d8",
-      "Size": 1039872
+      "Hash": "e000f28608e07a1bb50c9bd3c78045b9",
+      "Size": 1050112
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "1004ef667384ddcf1615e427e90a6aa7",
-      "Size": 9317888,
+      "Hash": "b6a8d36309388ae886d94924d42fb2c4",
+      "Size": 9327616,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "bde4d62516a9f956c845e2ff3af53c03",
-      "Size": 1682944,
+      "Hash": "18de339cccf23ffa23bc1b5b47360d47",
+      "Size": 1691136,
       "ClientIgnore": true
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "51fcad7b56ddd54842deb65654657fe5",
-      "Size": 26763
+      "Hash": "e1875d5f93d81e5c39af1fdedb8c2e43",
+      "Size": 26820
     },
     {
       "Path": "resources/config.json",
-      "Hash": "8c9c4c0c2b71a1489cc3e6e9e7c27385",
-      "Size": 471
+      "Hash": "810c988f76f80baab55321d14b775d5a",
+      "Size": 476
     },
     {
       "Path": "resources/credits.json",
@@ -39,8 +39,8 @@
     },
     {
       "Path": "resources/editor_strings.json",
-      "Hash": "7256940e19c7807c5b781224a096f9ed",
-      "Size": 75116
+      "Hash": "f3e3417687184a9d17ca1034f559ba9f",
+      "Size": 75507
     },
     {
       "Path": "resources/animations/Absorb.png",
@@ -1008,6 +1008,56 @@
       "Size": 5601
     },
     {
+      "Path": "resources/entities/Auror1.png",
+      "Hash": "b36bc6eb2e835299238014bccdf98054",
+      "Size": 12986
+    },
+    {
+      "Path": "resources/entities/Auror10.png",
+      "Hash": "ee7b12e4e83536a8ab4fcaed3519a19a",
+      "Size": 15099
+    },
+    {
+      "Path": "resources/entities/Auror2.png",
+      "Hash": "f26086ddce43ece03e9cce6ce2c67dc0",
+      "Size": 14319
+    },
+    {
+      "Path": "resources/entities/Auror3.png",
+      "Hash": "d488299e793508c5613db795876e13f1",
+      "Size": 13806
+    },
+    {
+      "Path": "resources/entities/Auror4.png",
+      "Hash": "58484f49d00a89c0240db937449f0e5d",
+      "Size": 12679
+    },
+    {
+      "Path": "resources/entities/Auror5.png",
+      "Hash": "f8da92a45e76e379e7f1ffbed5bd7d89",
+      "Size": 12995
+    },
+    {
+      "Path": "resources/entities/Auror6.png",
+      "Hash": "57e12a1f7df17989d3b3c032cff56074",
+      "Size": 14805
+    },
+    {
+      "Path": "resources/entities/Auror7.png",
+      "Hash": "cdfe554d42b227034a6a81be4673c83f",
+      "Size": 12896
+    },
+    {
+      "Path": "resources/entities/Auror8.png",
+      "Hash": "3c3f7610053a2d8e62063335391a4661",
+      "Size": 12866
+    },
+    {
+      "Path": "resources/entities/Auror9.png",
+      "Hash": "f11727dcc71559a1cfcd52992c565d65",
+      "Size": 15212
+    },
+    {
       "Path": "resources/entities/Autumn.png",
       "Hash": "006722709c9a916696d258c1dd257e28",
       "Size": 9056
@@ -1341,11 +1391,6 @@
       "Path": "resources/entities/Coruja8.png",
       "Hash": "69cdfe475e823b88af9fbbd6b0a69673",
       "Size": 4165
-    },
-    {
-      "Path": "resources/entities/criaturas.pdf",
-      "Hash": "c05076f0789446df4375bfb22b89ebda",
-      "Size": 704749
     },
     {
       "Path": "resources/entities/Crup.png",
@@ -2023,9 +2068,64 @@
       "Size": 8138
     },
     {
+      "Path": "resources/entities/Muggle30.png",
+      "Hash": "45c21c8421b2f0c61f2cc937f901d7dd",
+      "Size": 13995
+    },
+    {
+      "Path": "resources/entities/Muggle31.png",
+      "Hash": "5a5521b7d659dfa20f5cf05770ba0f9c",
+      "Size": 14715
+    },
+    {
+      "Path": "resources/entities/Muggle32.png",
+      "Hash": "5bf7aa5870648cb1c6bd2c4e3d822a68",
+      "Size": 12452
+    },
+    {
+      "Path": "resources/entities/Muggle33.png",
+      "Hash": "23bb43038743b9a61808f61396efbb95",
+      "Size": 13611
+    },
+    {
+      "Path": "resources/entities/Muggle34.png",
+      "Hash": "594be020648b6b64f2da852cbeac0464",
+      "Size": 12618
+    },
+    {
+      "Path": "resources/entities/Muggle35.png",
+      "Hash": "9532232b6a16100b4264dc0691237036",
+      "Size": 13907
+    },
+    {
+      "Path": "resources/entities/Muggle36.png",
+      "Hash": "68fea897ff3c26ba310fd8e1f05a9581",
+      "Size": 11809
+    },
+    {
+      "Path": "resources/entities/Muggle37.png",
+      "Hash": "4852e3822accd0b5d003246b8968d4b6",
+      "Size": 12516
+    },
+    {
+      "Path": "resources/entities/Muggle38.png",
+      "Hash": "c5558f1ad5107a835c5b74b4acb5e122",
+      "Size": 12717
+    },
+    {
+      "Path": "resources/entities/Muggle39.png",
+      "Hash": "1c659e30e226625ffbd7ea355b004daf",
+      "Size": 13408
+    },
+    {
       "Path": "resources/entities/Muggle4.png",
       "Hash": "50de92d034b9b81cd5df225e6202779a",
       "Size": 8652
+    },
+    {
+      "Path": "resources/entities/Muggle40.png",
+      "Hash": "1f4e6ef712b492551ea7d3bf29392281",
+      "Size": 11870
     },
     {
       "Path": "resources/entities/Muggle5.png",
@@ -2263,6 +2363,11 @@
       "Size": 9106
     },
     {
+      "Path": "resources/entities/Remo Lupin.png",
+      "Hash": "76be6c2a8d5c6c5f235ae1c875785097",
+      "Size": 13219
+    },
+    {
       "Path": "resources/entities/Saci Pererê.png",
       "Hash": "2dcf30826b439049407ff8a7148b9682",
       "Size": 12502
@@ -2384,8 +2489,8 @@
     },
     {
       "Path": "resources/entities/Superboy.png",
-      "Hash": "aa2e48e47bfd57717fae031356c473b5",
-      "Size": 8418
+      "Hash": "ea04bc0d426785d9582eab9d5b987980",
+      "Size": 13912
     },
     {
       "Path": "resources/entities/Tadachi.png",
@@ -2723,14 +2828,19 @@
       "Size": 54103
     },
     {
+      "Path": "resources/faces/Remo Lupin face.png",
+      "Hash": "af32a5b113277b9b53a4d1a8e7075ea7",
+      "Size": 28702
+    },
+    {
       "Path": "resources/faces/Sara.png",
       "Hash": "df4a9dc722eee5ba245d8b66fa0a4cd1",
       "Size": 44790
     },
     {
       "Path": "resources/faces/SuperBoy.png",
-      "Hash": "a06e42760c92f22c5e0e26bc76fa4877",
-      "Size": 45031
+      "Hash": "241f29cf3143d2cd60aba55dc2c60f1b",
+      "Size": 33666
     },
     {
       "Path": "resources/faces/Tadachi.png",
