@@ -2,23 +2,23 @@
   "Files": [
     {
       "Path": "IMB.exe",
-      "Hash": "c35d6f6aad29e46debe8f6ccab8eb11d",
-      "Size": 16149504
+      "Hash": "c01a458dc16a734634255e60e2746afb",
+      "Size": 16150016
     },
     {
       "Path": "IMB.pdb",
-      "Hash": "efa3461e5b25be03a4874f208c911686",
+      "Hash": "686cd83cb6a6ce772e8b9d15ca44dd66",
       "Size": 1050112
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "594576b79997b14e55e368c6390f3e00",
+      "Hash": "c45b18c0e71284adce9dc0404c63017a",
       "Size": 9327616,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "8ac23907ddb99c8651dc77ae5b615a29",
+      "Hash": "41081928fce61feb50bbe477ce6ef633",
       "Size": 1691136,
       "ClientIgnore": true
     },
@@ -7083,6 +7083,11 @@
       "Size": 88434
     },
     {
+      "Path": "resources/sounds/attention-please.wav",
+      "Hash": "98371b2ada61ede97315f40e81947521",
+      "Size": 764238
+    },
+    {
       "Path": "resources/sounds/beads.wav",
       "Hash": "20f6cd833fd9b3cd71a04c9e00e3980e",
       "Size": 88434
@@ -7216,6 +7221,11 @@
       "Path": "resources/sounds/chop.wav",
       "Hash": "84dd57360c2cd5096f2c9ec002250f0d",
       "Size": 49998
+    },
+    {
+      "Path": "resources/sounds/clapping.wav",
+      "Hash": "06c2bcb084b4409afe5f66721e3a1eb6",
+      "Size": 2027372
     },
     {
       "Path": "resources/sounds/click1.wav",
