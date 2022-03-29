@@ -2,23 +2,23 @@
   "Files": [
     {
       "Path": "IMB.exe",
-      "Hash": "543d7721d3c913d3b8c83572b660b042",
+      "Hash": "c35d6f6aad29e46debe8f6ccab8eb11d",
       "Size": 16149504
     },
     {
       "Path": "IMB.pdb",
-      "Hash": "e000f28608e07a1bb50c9bd3c78045b9",
+      "Hash": "efa3461e5b25be03a4874f208c911686",
       "Size": 1050112
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "b6a8d36309388ae886d94924d42fb2c4",
+      "Hash": "594576b79997b14e55e368c6390f3e00",
       "Size": 9327616,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "18de339cccf23ffa23bc1b5b47360d47",
+      "Hash": "8ac23907ddb99c8651dc77ae5b615a29",
       "Size": 1691136,
       "ClientIgnore": true
     },
@@ -29,8 +29,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Hash": "55ff8e9891ff9e02a1efcb43c3075cb6",
-      "Size": 475
+      "Hash": "8e909ac09ffd7daf92ef3ba701bbbd6d",
+      "Size": 478
     },
     {
       "Path": "resources/credits.json",
@@ -2188,6 +2188,56 @@
       "Size": 12326
     },
     {
+      "Path": "resources/entities/Novato1.png",
+      "Hash": "99b818333d545dfdf22955a87a678317",
+      "Size": 9628
+    },
+    {
+      "Path": "resources/entities/Novato10.png",
+      "Hash": "69264d3e15432161ac70ecd487f4d2b1",
+      "Size": 8767
+    },
+    {
+      "Path": "resources/entities/Novato2.png",
+      "Hash": "5e4234337717bbd172b75efa121298a9",
+      "Size": 11382
+    },
+    {
+      "Path": "resources/entities/Novato3.png",
+      "Hash": "9f0945a2848b231a97457d35f87b8219",
+      "Size": 10591
+    },
+    {
+      "Path": "resources/entities/Novato4.png",
+      "Hash": "25911552c82aed699dfaee0f5a19b6c7",
+      "Size": 9502
+    },
+    {
+      "Path": "resources/entities/Novato5.png",
+      "Hash": "eb1cf6fd189b206ed65a96a349eaba3a",
+      "Size": 10185
+    },
+    {
+      "Path": "resources/entities/Novato6.png",
+      "Hash": "65c74d1386a8cddbc28cf88fbdac9c13",
+      "Size": 7909
+    },
+    {
+      "Path": "resources/entities/Novato7.png",
+      "Hash": "3b5173b214b18d8208f659fdb62ccec4",
+      "Size": 8894
+    },
+    {
+      "Path": "resources/entities/Novato8.png",
+      "Hash": "06ed4a49b24ce1e9becd135f973a7d3f",
+      "Size": 10555
+    },
+    {
+      "Path": "resources/entities/Novato9.png",
+      "Hash": "7377f85d9c4085020f18c6b15e8f8bb6",
+      "Size": 10005
+    },
+    {
       "Path": "resources/entities/Olharapos.png",
       "Hash": "df9bb1e7e5538906e2d6b6cfaafd1705",
       "Size": 12891
@@ -2538,6 +2588,11 @@
       "Size": 7331
     },
     {
+      "Path": "resources/entities/Tyrannus.png",
+      "Hash": "45fa96ceb1e117fceca81c0dbcdfea29",
+      "Size": 9997
+    },
+    {
       "Path": "resources/entities/Unicornio.png",
       "Hash": "fbe788f9f6a8f804797ba5ffe81d8fcb",
       "Size": 8666
@@ -2851,6 +2906,11 @@
       "Path": "resources/faces/Thiago.png",
       "Hash": "a9851ccacf160aa4c15a83103f0d4a21",
       "Size": 41607
+    },
+    {
+      "Path": "resources/faces/Tyrannus.png",
+      "Hash": "cc1166461cef4f4239dc1b913711b1a2",
+      "Size": 29443
     },
     {
       "Path": "resources/faces/UnoMasFace.png",
@@ -3959,7 +4019,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/BankWindow.json",
-      "Hash": "fc6f45e03c63303e1620e85f125a4a6f",
+      "Hash": "a75253efd236fb046581337cdea45eff",
       "Size": 14736
     },
     {
@@ -3979,13 +4039,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Hash": "28992b6101867b54d8491a4c545c73e7",
-      "Size": 2370
+      "Hash": "6a2a7ca1cdc06b24af308b55a447d0d9",
+      "Size": 2369
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "39b65ef2f522c4aba7bec79c0ea77cc9",
-      "Size": 33028
+      "Hash": "ad2941ea84af324a1fc0487eeebc75a1",
+      "Size": 33039
     },
     {
       "Path": "resources/gui/layouts/game/Draggable.json",
@@ -4039,7 +4099,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "3fa6e9ef65296b210141b707a54764fd",
+      "Hash": "19046c67be187deeabf15e44b4036e63",
       "Size": 11281
     },
     {
@@ -4089,7 +4149,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/PlayerBox.json",
-      "Hash": "ce34bafed904b170c95fb74f18f0e5c0",
+      "Hash": "1b53e47196d652d1602760e8a1cda222",
       "Size": 25453
     },
     {
@@ -4114,8 +4174,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "496caea451c0fec8e4f5c0262cb5469a",
-      "Size": 14736
+      "Hash": "3d7e63b4133735d04c76127c6e223eee",
+      "Size": 14735
     },
     {
       "Path": "resources/gui/layouts/game/Spell.json",
@@ -4184,8 +4244,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "ad5684622f4c6c172733e7a9a764721f",
-      "Size": 11357
+      "Hash": "6759e42ab4afb3d0524852c80576e74d",
+      "Size": 11358
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
@@ -4256,6 +4316,11 @@
       "Path": "resources/images/DCANMana.png",
       "Hash": "9caca74e2e62b9bc4c7d32f746e13dcc",
       "Size": 45550
+    },
+    {
+      "Path": "resources/images/DCANSpells1.PNG",
+      "Hash": "c1eb3f5b14741023079a03410ff1f21c",
+      "Size": 268583
     },
     {
       "Path": "resources/images/DCANStats1.png",
@@ -6119,8 +6184,8 @@
     },
     {
       "Path": "resources/music/IMB.ogg",
-      "Hash": "ba18c4af23c3e938312338d5f145b27d",
-      "Size": 2182102
+      "Hash": "b948dd0bf30e22a2393bdd925396cc4a",
+      "Size": 1093608
     },
     {
       "Path": "resources/music/Lady Belifa - Lady B.ogg",
@@ -6161,6 +6226,11 @@
       "Path": "resources/music/Salao.ogg",
       "Hash": "18f70010738624c860f9162cfab4723f",
       "Size": 3981466
+    },
+    {
+      "Path": "resources/music/Trem IMB.ogg",
+      "Hash": "bcf853a2c2fc4142af4cf4bac8a2ce1e",
+      "Size": 1392975
     },
     {
       "Path": "resources/paperdolls/1FC.png",
@@ -7511,6 +7581,11 @@
       "Path": "resources/sounds/metalPot3.wav",
       "Hash": "d511dac138eebfd50c4b690c48a9ad41",
       "Size": 174414
+    },
+    {
+      "Path": "resources/sounds/missao-completa.wav",
+      "Hash": "5c4c12db606ceec21e7a4faca6211eee",
+      "Size": 4823132
     },
     {
       "Path": "resources/sounds/mnstr1.wav",
@@ -9234,8 +9309,8 @@
     },
     {
       "Path": "resources/tilesets/Quadros.png",
-      "Hash": "7ee4599217ea3c0070d0ca1bf697e821",
-      "Size": 37704
+      "Hash": "26f05a744c18d50740adb18d77a38a52",
+      "Size": 40258
     },
     {
       "Path": "resources/tilesets/rpg_maker__grass__flowers_and_windows_tileset_by_xxjapozeroxx-dbpxkvy.png",

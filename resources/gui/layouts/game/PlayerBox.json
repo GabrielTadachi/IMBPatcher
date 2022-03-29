@@ -47,7 +47,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "EntityNameLabel": {
-          "Bounds": "-20,0,343,80",
+          "Bounds": "-29,0,361,80",
           "Padding": "305,66,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
