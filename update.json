@@ -4093,6 +4093,16 @@
       "Size": 19840
     },
     {
+      "Path": "resources/gui/layouts/game/GuildContextMenu.json",
+      "Hash": "0d81b17d42421a6c76d495f29b9cedb7",
+      "Size": 8605
+    },
+    {
+      "Path": "resources/gui/layouts/game/GuildWindow.json",
+      "Hash": "538d4bfeccc47dd0f615af701a147af2",
+      "Size": 20022
+    },
+    {
       "Path": "resources/gui/layouts/game/HotbarWindow.json",
       "Hash": "240e33d219727981675cea8b90383f6a",
       "Size": 59361
@@ -4174,8 +4184,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "3d7e63b4133735d04c76127c6e223eee",
-      "Size": 14735
+      "Hash": "d7772b7e1bb6b1d576725fbf81b98451",
+      "Size": 14736
     },
     {
       "Path": "resources/gui/layouts/game/Spell.json",
@@ -9319,8 +9329,8 @@
     },
     {
       "Path": "resources/tilesets/Quadros.png",
-      "Hash": "26f05a744c18d50740adb18d77a38a52",
-      "Size": 40258
+      "Hash": "d04c60ca1670bf570035914a603ae047",
+      "Size": 42684
     },
     {
       "Path": "resources/tilesets/rpg_maker__grass__flowers_and_windows_tileset_by_xxjapozeroxx-dbpxkvy.png",
@@ -9329,8 +9339,8 @@
     },
     {
       "Path": "resources/tilesets/SalaoNobre.png",
-      "Hash": "38c50c37a5627fc30fa99263b964592e",
-      "Size": 583921
+      "Hash": "f3fc7c3c5b01cf05cb0ed8d74820f648",
+      "Size": 635589
     },
     {
       "Path": "resources/tilesets/SF_Inside_A4.png",
