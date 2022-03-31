@@ -2,24 +2,24 @@
   "Files": [
     {
       "Path": "IMB.exe",
-      "Hash": "c01a458dc16a734634255e60e2746afb",
-      "Size": 16150016
+      "Hash": "35069120c5a759a6d1c71324c29bf79f",
+      "Size": 16010752
     },
     {
       "Path": "IMB.pdb",
-      "Hash": "686cd83cb6a6ce772e8b9d15ca44dd66",
-      "Size": 1050112
+      "Hash": "24ac2bc0ed2dfd4c69b35427177cd7bb",
+      "Size": 919040
     },
     {
       "Path": "Intersect Editor.exe",
-      "Hash": "c45b18c0e71284adce9dc0404c63017a",
-      "Size": 9327616,
+      "Hash": "6fa36f5c2647aa21e655ec597d85f8bc",
+      "Size": 9209856,
       "ClientIgnore": true
     },
     {
       "Path": "Intersect Editor.pdb",
-      "Hash": "41081928fce61feb50bbe477ce6ef633",
-      "Size": 1691136,
+      "Hash": "323bd7515b7a3c8729d35974880b1e56",
+      "Size": 1541632,
       "ClientIgnore": true
     },
     {
@@ -4254,8 +4254,8 @@
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "6759e42ab4afb3d0524852c80576e74d",
-      "Size": 11358
+      "Hash": "ad5684622f4c6c172733e7a9a764721f",
+      "Size": 11357
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
