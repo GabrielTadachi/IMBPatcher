@@ -4039,13 +4039,13 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingIngredient.json",
-      "Hash": "6a2a7ca1cdc06b24af308b55a447d0d9",
-      "Size": 2369
+      "Hash": "28992b6101867b54d8491a4c545c73e7",
+      "Size": 2370
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "ad2941ea84af324a1fc0487eeebc75a1",
-      "Size": 33039
+      "Hash": "247f7fe18b6972a49596c18c898d58a0",
+      "Size": 33040
     },
     {
       "Path": "resources/gui/layouts/game/Draggable.json",
@@ -4109,7 +4109,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "19046c67be187deeabf15e44b4036e63",
+      "Hash": "3fa6e9ef65296b210141b707a54764fd",
       "Size": 11281
     },
     {
@@ -4184,7 +4184,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "d7772b7e1bb6b1d576725fbf81b98451",
+      "Hash": "496caea451c0fec8e4f5c0262cb5469a",
       "Size": 14736
     },
     {
@@ -8408,11 +8408,6 @@
       "Size": 226780
     },
     {
-      "Path": "resources/tilesets/Arvores_Hanzo.png",
-      "Hash": "9f0c6c6a2cc75faea6b6e9a147d8c532",
-      "Size": 88734
-    },
-    {
       "Path": "resources/tilesets/Avery Kitchen.png",
       "Hash": "b42bda163ff73687940569f260d0cf43",
       "Size": 122483
@@ -8588,11 +8583,6 @@
       "Size": 287711
     },
     {
-      "Path": "resources/tilesets/Caldeirao.png",
-      "Hash": "8347d57d4795226bb12df6520dea66a8",
-      "Size": 88753
-    },
-    {
       "Path": "resources/tilesets/CasteloTorre.png",
       "Hash": "3e45d77931b08d27248b18b99ba86155",
       "Size": 248068
@@ -8601,16 +8591,6 @@
       "Path": "resources/tilesets/celianna_bakery.png",
       "Hash": "b100a6fd41853a5fa991a46e72e0d576",
       "Size": 828559
-    },
-    {
-      "Path": "resources/tilesets/celianna_castletiles.png",
-      "Hash": "f274082aa734659baaf7c2cdb6383da5",
-      "Size": 1211178
-    },
-    {
-      "Path": "resources/tilesets/celianna_castletiles_roxo.png",
-      "Hash": "3ba03d07119dd617e3e390893a8359a1",
-      "Size": 1192230
     },
     {
       "Path": "resources/tilesets/celianna_farmnature_farmtiles.png",
@@ -8628,34 +8608,9 @@
       "Size": 357018
     },
     {
-      "Path": "resources/tilesets/celianna_taverntiles.png",
-      "Hash": "4e8ac060516f43f86ac03b788dcd774f",
-      "Size": 895940
-    },
-    {
       "Path": "resources/tilesets/celianna_TileA2.png",
       "Hash": "f5a518e9fe7f5548ed1a8edaedeb8617",
       "Size": 883827
-    },
-    {
-      "Path": "resources/tilesets/celianna_TileA3.png",
-      "Hash": "69fd499e75cccf20512d76f658ef494b",
-      "Size": 447897
-    },
-    {
-      "Path": "resources/tilesets/celianna_TileA4.png",
-      "Hash": "65763f8d429d9fc807c6b4ae9f0fc2f3",
-      "Size": 1106389
-    },
-    {
-      "Path": "resources/tilesets/celianna_TileA5.png",
-      "Hash": "9c56fb8cb78aad6f965245d63ed6654e",
-      "Size": 552487
-    },
-    {
-      "Path": "resources/tilesets/celianna_walls2.png",
-      "Hash": "982336197513b1066f360f00e6380093",
-      "Size": 974980
     },
     {
       "Path": "resources/tilesets/chao.png",
@@ -8683,11 +8638,6 @@
       "Size": 430913
     },
     {
-      "Path": "resources/tilesets/cyanide_artdeco_2b5k6l.png",
-      "Hash": "4ed990d718f8fce233b61a40d0722104",
-      "Size": 537971
-    },
-    {
       "Path": "resources/tilesets/cyanide_rtp_edits_01_02.png",
       "Hash": "2a47556dd7d79a31a97c17aaf519f672",
       "Size": 325247
@@ -8698,19 +8648,9 @@
       "Size": 363367
     },
     {
-      "Path": "resources/tilesets/cyanide_tilemixasia_08.png",
-      "Hash": "1eb8ede5cfb956db0fb428d31df17de5",
-      "Size": 349805
-    },
-    {
       "Path": "resources/tilesets/cyanide_tilemix_03_02.png",
       "Hash": "c2527019db41a6a5bb732ed647acf547",
       "Size": 386116
-    },
-    {
-      "Path": "resources/tilesets/cyanide_tilemix_04.png",
-      "Hash": "2b786ff648d2aa6eca653da3a0346362",
-      "Size": 314294
     },
     {
       "Path": "resources/tilesets/cyanide_tilemix_05.png",
@@ -8736,11 +8676,6 @@
       "Path": "resources/tilesets/cyanide_tilemix_10_02.png",
       "Hash": "9580354d210563092660e934d70de8f7",
       "Size": 174839
-    },
-    {
-      "Path": "resources/tilesets/cyanide_tilemix_14twj2p.png",
-      "Hash": "af991abe63fc85b63368c365d64ceaf6",
-      "Size": 483512
     },
     {
       "Path": "resources/tilesets/dbernl4-1a8774ed-e814-4f34-80ea-aaebb072f8bc.png",
@@ -8801,21 +8736,6 @@
       "Path": "resources/tilesets/Estante varinhas.png",
       "Hash": "b2b69d177f8c6f5da4daa0ed8e304ec9",
       "Size": 16324
-    },
-    {
-      "Path": "resources/tilesets/estante.png",
-      "Hash": "53f71aefe07004e80fe7b19b3a623b34",
-      "Size": 63339
-    },
-    {
-      "Path": "resources/tilesets/estante1.png",
-      "Hash": "c3e144d9ca0de309372980a4549a4be1",
-      "Size": 41840
-    },
-    {
-      "Path": "resources/tilesets/estante2.png",
-      "Hash": "b64fbc25b370c85da3ed718ebfb0f5c6",
-      "Size": 29020
     },
     {
       "Path": "resources/tilesets/estante3.png",
@@ -8913,29 +8833,9 @@
       "Size": 879654
     },
     {
-      "Path": "resources/tilesets/gelo1.png",
-      "Hash": "f0dfbca12e643cfe04ba2005e7881c05",
-      "Size": 344617
-    },
-    {
-      "Path": "resources/tilesets/gelo2.png",
-      "Hash": "7a75370518f08532b924b698f732c816",
-      "Size": 128827
-    },
-    {
-      "Path": "resources/tilesets/GlowOrbStatues(editrecolourbyCvrtis).png",
-      "Hash": "abb2ec0a3db3dc9198b67869d9e05b9d",
-      "Size": 74330
-    },
-    {
       "Path": "resources/tilesets/Guarda-sol.png",
       "Hash": "484bf432360f5d624cc70cf8f71b4e29",
       "Size": 165435
-    },
-    {
-      "Path": "resources/tilesets/Guardinthena_OldPrintingPress.png",
-      "Hash": "7728aceaca5b280d0740824180ab5620",
-      "Size": 132487
     },
     {
       "Path": "resources/tilesets/hanzo town.png",
@@ -8956,11 +8856,6 @@
       "Path": "resources/tilesets/Hanzo-TownSet2.png",
       "Hash": "9b09bc2b9c62efb7daf90de6708c247b",
       "Size": 970465
-    },
-    {
-      "Path": "resources/tilesets/harvest_market1_Candacis.png",
-      "Hash": "0ca263ba0c3fb8f7c24590ff137314d4",
-      "Size": 1077682
     },
     {
       "Path": "resources/tilesets/Iliketea1.png",
@@ -9063,19 +8958,9 @@
       "Size": 890191
     },
     {
-      "Path": "resources/tilesets/modern_cyberpunk_cyanlqjr3.png",
-      "Hash": "a9e3117c594d47a53482f98db4f82909",
-      "Size": 670105
-    },
-    {
       "Path": "resources/tilesets/moveis comunais.png",
       "Hash": "501569712c58d3e20239132313362349",
       "Size": 652540
-    },
-    {
-      "Path": "resources/tilesets/Moveis_2.png",
-      "Hash": "b47d32af38e21704bd1ba24b244da559",
-      "Size": 1032858
     },
     {
       "Path": "resources/tilesets/oaz5u3y9.png",
@@ -9263,39 +9148,9 @@
       "Size": 510229
     },
     {
-      "Path": "resources/tilesets/Porta1.png",
-      "Hash": "180d6baaacb4f1c566b8b6c784a8e91a",
-      "Size": 171119
-    },
-    {
-      "Path": "resources/tilesets/Porta2.png",
-      "Hash": "f329621302bddcdb9a08905d45be08cf",
-      "Size": 87229
-    },
-    {
-      "Path": "resources/tilesets/Porta3.png",
-      "Hash": "c090cc0aa874c665cf274acbeff0a9bd",
-      "Size": 74698
-    },
-    {
-      "Path": "resources/tilesets/Porta5.png",
-      "Hash": "12f33aa4110fd37b6801d0f6801c5a5f",
-      "Size": 281061
-    },
-    {
       "Path": "resources/tilesets/Porta6.png",
       "Hash": "0dd6c21f5584b0b7db14b8fc18df45d7",
       "Size": 278514
-    },
-    {
-      "Path": "resources/tilesets/Porta7.png",
-      "Hash": "94618625c1f0b4ea2d99848e03c8fe96",
-      "Size": 346709
-    },
-    {
-      "Path": "resources/tilesets/Porta8.png",
-      "Hash": "721daf142191308d36c29ea5909dcb88",
-      "Size": 391812
     },
     {
       "Path": "resources/tilesets/Porta_Expresso.png",
@@ -9383,11 +9238,6 @@
       "Size": 953063
     },
     {
-      "Path": "resources/tilesets/StarbierdResources-1.png",
-      "Hash": "c5d7c672d713735851628ea9f4b0643a",
-      "Size": 631126
-    },
-    {
       "Path": "resources/tilesets/starbird1.png",
       "Hash": "dca9534de7531a6d39a9854e970ab3a2",
       "Size": 429945
@@ -9433,14 +9283,14 @@
       "Size": 96283
     },
     {
-      "Path": "resources/tilesets/Starbird_OutdoorMarket.png",
-      "Hash": "bbbb7f68403e4e06f3d909f1cd94530f",
-      "Size": 507613
+      "Path": "resources/tilesets/Switch1.png",
+      "Hash": "a022a97b5bb4b618ee7422beb8e3636f",
+      "Size": 39670
     },
     {
-      "Path": "resources/tilesets/Starbird_Windows.png",
-      "Hash": "08d4cc01f07f1affa6ec7af4157e3dcd",
-      "Size": 432460
+      "Path": "resources/tilesets/Switch2.png",
+      "Hash": "25b97db15e9d229f5e5972372b24ddf1",
+      "Size": 33045
     },
     {
       "Path": "resources/tilesets/Tapetes.png",
