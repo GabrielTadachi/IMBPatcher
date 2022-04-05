@@ -194,7 +194,7 @@
   },
   "Crafting": {
     "craft": "Criar",
-    "craftall": "Craft {00}",
+    "craftall": "Criar {00} vezes",
     "craftstop": "Stop",
     "incorrectresources": "Não tens os ingredientes corretos para criar o item.",
     "ingredients": "Requer:",

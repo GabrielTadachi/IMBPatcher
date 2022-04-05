@@ -24,8 +24,8 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "e1875d5f93d81e5c39af1fdedb8c2e43",
-      "Size": 26820
+      "Hash": "7c515824e524188058a6d0a58f94b872",
+      "Size": 26826
     },
     {
       "Path": "resources/config.json",
@@ -2933,6 +2933,11 @@
       "Size": 29855
     },
     {
+      "Path": "resources/faces/Voldemort.png",
+      "Hash": "ffd5fcc3c34ddacbbee82a327d82ece9",
+      "Size": 19029
+    },
+    {
       "Path": "resources/fonts/sourcesansproblack_10.xnb",
       "Hash": "a3314d5ff18ff73e1bdb98bb78f67d50",
       "Size": 362094
@@ -4234,22 +4239,22 @@
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
-      "Hash": "6b3412144b26a836c6011b061561e017",
+      "Hash": "247cad6ceefbbb940f755f5bd7a0f975",
       "Size": 38163
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterSelectionWindow.json",
-      "Hash": "9180f6882da28329f7a0a671863d5bbf",
+      "Hash": "4f3df935965f71127208735f61216f4a",
       "Size": 12360
     },
     {
       "Path": "resources/gui/layouts/menu/CreditsWindow.json",
-      "Hash": "058f0470b35aa43053986beef89b7998",
+      "Hash": "ac9ebad41b86b6bf65f5637d32d1cab1",
       "Size": 13842
     },
     {
       "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
-      "Hash": "5935f5fbf48c404b272c658432011881",
+      "Hash": "3ea830b2fb5bcbbed31cc8143290f26c",
       "Size": 8206
     },
     {
@@ -4259,38 +4264,38 @@
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Hash": "7277201e75abf096bdc1970066399e1f",
+      "Hash": "0c512caaf3be26e64f88dc2edeb2e061",
       "Size": 14551
     },
     {
       "Path": "resources/gui/layouts/menu/Logo.json",
-      "Hash": "0e11fc4364da1d119769b3fceb875896",
-      "Size": 628
+      "Hash": "ac83842b11c4c33ba5ceea437ab61a24",
+      "Size": 627
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
-      "Hash": "eced88aa945d1c33c64ecf0e38fc0f10",
+      "Hash": "9d00126b289df1157ba3ab53e88b1513",
       "Size": 9127
     },
     {
       "Path": "resources/gui/layouts/menu/OptionsWindow.json",
-      "Hash": "15a007b162e17343af524c34a8414d4e",
+      "Hash": "223a6c95170c0bb3b3d074fc8b4badde",
       "Size": 215391
     },
     {
       "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
-      "Hash": "f52ceb4ccbb2fe1b7496ea07fc24354b",
+      "Hash": "75faa6059ec1c5b50907076f09b39454",
       "Size": 16421
     },
     {
       "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
-      "Hash": "cd1c626390883c32bf8e1efd9947541b",
+      "Hash": "7d7ca2acd37edfbee9a346dc5127c066",
       "Size": 13347
     },
     {
       "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
-      "Hash": "e597ad5543e2f0f8da653ae06731f0d4",
-      "Size": 1612
+      "Hash": "be9c2e59371d8a278850fe71c5cb7649",
+      "Size": 1611
     },
     {
       "Path": "resources/images/BlueSky.png",
@@ -8374,8 +8379,8 @@
     },
     {
       "Path": "resources/tilesets/2Portas.png",
-      "Hash": "190b9fcba958d8144547f0d7fc8b92fd",
-      "Size": 484686
+      "Hash": "16a00b2a3dc856a356922e0ec83c2ece",
+      "Size": 537836
     },
     {
       "Path": "resources/tilesets/964-9649783_flower-vine-png-tileset-rpg-maker-mv (1).png",
@@ -8729,8 +8734,8 @@
     },
     {
       "Path": "resources/tilesets/escola.png",
-      "Hash": "32d1f46215f26755914f1e23ea4b26bc",
-      "Size": 304321
+      "Hash": "7fbc0961481d67ffaa9ca30c40d617a9",
+      "Size": 335807
     },
     {
       "Path": "resources/tilesets/Estante varinhas.png",
@@ -8974,8 +8979,8 @@
     },
     {
       "Path": "resources/tilesets/Outside_A2.png",
-      "Hash": "2acc6bddba10bfc68c0e920a2e2e2084",
-      "Size": 515712
+      "Hash": "a82e36bb34fd9a6978f548040e5a005c",
+      "Size": 541185
     },
     {
       "Path": "resources/tilesets/Outside_A3.png",
@@ -9081,6 +9086,11 @@
       "Path": "resources/tilesets/PandaMaru_MV_windmillarms.png",
       "Hash": "92b49e9d29cdaafd85df39cc54791388",
       "Size": 170228
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_witchstuff.png",
+      "Hash": "1084589fd0e4742227d69c1d39a9c12a",
+      "Size": 17646
     },
     {
       "Path": "resources/tilesets/PandaMaru_MV_xmasdecoration.png",
@@ -9291,6 +9301,11 @@
       "Path": "resources/tilesets/Switch2.png",
       "Hash": "25b97db15e9d229f5e5972372b24ddf1",
       "Size": 33045
+    },
+    {
+      "Path": "resources/tilesets/Switch3.png",
+      "Hash": "0edf7ebfd09431d96d2f0c31a2017582",
+      "Size": 56154
     },
     {
       "Path": "resources/tilesets/Tapetes.png",
@@ -9536,6 +9551,11 @@
       "Path": "resources/tilesets/whtdragon 46.png",
       "Hash": "9c7dbfecd3ba367ded6f538bd929d894",
       "Size": 1660320
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 47.png",
+      "Hash": "4e9d322ca085c5c08aa998fcf5ede2b3",
+      "Size": 186707
     },
     {
       "Path": "resources/tilesets/whtdragon 5.png",
