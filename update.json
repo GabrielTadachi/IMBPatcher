@@ -8763,31 +8763,6 @@
       "Size": 640204
     },
     {
-      "Path": "resources/tilesets/Fuffydud - Paintings 1.png",
-      "Hash": "886b8e7ef0864838a6deaa14f853aa6d",
-      "Size": 236709
-    },
-    {
-      "Path": "resources/tilesets/Fuffydud - Paintings 2.png",
-      "Hash": "aa88bf61845ea6acad245541c52a2a0b",
-      "Size": 230072
-    },
-    {
-      "Path": "resources/tilesets/Fuffydud - Paintings 3.png",
-      "Hash": "9131215849d95ecdfb188752c5a238e8",
-      "Size": 220213
-    },
-    {
-      "Path": "resources/tilesets/Fuffydud - Paintings 4.png",
-      "Hash": "7ee3a7e8d819d5676abdb1c7b6ccaa95",
-      "Size": 558477
-    },
-    {
-      "Path": "resources/tilesets/Fuffydud - Paintings 5.png",
-      "Hash": "6022671191eb7d21a1cdd1db5da17295",
-      "Size": 203952
-    },
-    {
       "Path": "resources/tilesets/Fuffydud - Statues.png",
       "Hash": "f6bae357d90b1046252f0f2764a1c8ba",
       "Size": 879654
@@ -8974,13 +8949,8 @@
     },
     {
       "Path": "resources/tilesets/pandamaru boot1.png",
-      "Hash": "72601b97b924c01f7b9474dc343a6f34",
-      "Size": 36220
-    },
-    {
-      "Path": "resources/tilesets/pandamaru boot2.png",
-      "Hash": "0c07b34fe0239742f79cb8495f48b419",
-      "Size": 63545
+      "Hash": "3e99a46a9d943cdbf6426727041aecb4",
+      "Size": 74209
     },
     {
       "Path": "resources/tilesets/pandamaru tent.png",
@@ -9064,8 +9034,8 @@
     },
     {
       "Path": "resources/tilesets/Paredes7.png",
-      "Hash": "37ca2177b4e66ffc035ace1b3372e585",
-      "Size": 57097
+      "Hash": "576776805cb6d8bf984f04781031c486",
+      "Size": 103173
     },
     {
       "Path": "resources/tilesets/plantas.png",
@@ -9099,18 +9069,8 @@
     },
     {
       "Path": "resources/tilesets/Quadros 1.png",
-      "Hash": "e178f3ecf33ec7abc27ba9d9807167de",
-      "Size": 101414
-    },
-    {
-      "Path": "resources/tilesets/quadros 2.png",
-      "Hash": "f2961a50b4110cabf3b3df2a1fa40876",
-      "Size": 332109
-    },
-    {
-      "Path": "resources/tilesets/Quadros.png",
-      "Hash": "d04c60ca1670bf570035914a603ae047",
-      "Size": 42684
+      "Hash": "5fe8f13c23eb6623b7f4764ee47c5462",
+      "Size": 1903249
     },
     {
       "Path": "resources/tilesets/rpg_maker__grass__flowers_and_windows_tileset_by_xxjapozeroxx-dbpxkvy.png",
@@ -9259,13 +9219,8 @@
     },
     {
       "Path": "resources/tilesets/trem.png",
-      "Hash": "6ce59dc38f7d9d4ea6ed3206355ad63c",
-      "Size": 218655
-    },
-    {
-      "Path": "resources/tilesets/TremIMB.png",
-      "Hash": "4548d0f640fd97939151155c0afa4ad1",
-      "Size": 156305
+      "Hash": "0591ba7dd5504302e530fe1e3ca48e9d",
+      "Size": 335271
     },
     {
       "Path": "resources/tilesets/vikings_roofs1_candacis_.png",
