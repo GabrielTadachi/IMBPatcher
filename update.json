@@ -4049,8 +4049,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/CraftingWindow.json",
-      "Hash": "247f7fe18b6972a49596c18c898d58a0",
-      "Size": 33040
+      "Hash": "ad2941ea84af324a1fc0487eeebc75a1",
+      "Size": 33039
     },
     {
       "Path": "resources/gui/layouts/game/Draggable.json",
@@ -9034,8 +9034,8 @@
     },
     {
       "Path": "resources/tilesets/Paredes7.png",
-      "Hash": "576776805cb6d8bf984f04781031c486",
-      "Size": 103173
+      "Hash": "7b26e6de8a0e1c89a48649105b34f0b0",
+      "Size": 178820
     },
     {
       "Path": "resources/tilesets/plantas.png",
