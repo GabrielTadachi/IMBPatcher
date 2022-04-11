@@ -8398,21 +8398,6 @@
       "Size": 198719
     },
     {
-      "Path": "resources/tilesets/Arvores.png",
-      "Hash": "25fc537c392f4afa6e25fd60fdc0cf05",
-      "Size": 753380
-    },
-    {
-      "Path": "resources/tilesets/Arvores2.png",
-      "Hash": "c0990c4b3839d385fc5a08366a33f8f1",
-      "Size": 23475
-    },
-    {
-      "Path": "resources/tilesets/arvores_celianna.png",
-      "Hash": "c4ae0338323e51d48673b938d2ea1e2b",
-      "Size": 226780
-    },
-    {
       "Path": "resources/tilesets/Avery Kitchen.png",
       "Hash": "b42bda163ff73687940569f260d0cf43",
       "Size": 122483
@@ -8468,19 +8453,9 @@
       "Size": 48794
     },
     {
-      "Path": "resources/tilesets/Avery_JungleCave.png",
-      "Hash": "a9dc37de8bc4b779f24779915934403d",
-      "Size": 1019693
-    },
-    {
       "Path": "resources/tilesets/Avery_Ship.png",
       "Hash": "9bb6b253eb142a6d20b022887565891d",
       "Size": 597299
-    },
-    {
-      "Path": "resources/tilesets/Avery_WaterCave.png",
-      "Hash": "e5744119875eaf5d283d74512aeb0dc6",
-      "Size": 563972
     },
     {
       "Path": "resources/tilesets/Bandeiras.png",
@@ -8593,36 +8568,6 @@
       "Size": 327816
     },
     {
-      "Path": "resources/tilesets/celianna_bakery.png",
-      "Hash": "b100a6fd41853a5fa991a46e72e0d576",
-      "Size": 828559
-    },
-    {
-      "Path": "resources/tilesets/celianna_farmnature_farmtiles.png",
-      "Hash": "35a5723ef8b5fb0495e1f7d59518f5d9",
-      "Size": 1374390
-    },
-    {
-      "Path": "resources/tilesets/celianna_MV_interior_house2.png",
-      "Hash": "529814afb9670781b86e59b008cc1afe",
-      "Size": 53809
-    },
-    {
-      "Path": "resources/tilesets/Celianna_Nature.png",
-      "Hash": "48209d63d9d5d68b47402c822914c999",
-      "Size": 357018
-    },
-    {
-      "Path": "resources/tilesets/celianna_taverntiles.png",
-      "Hash": "4e8ac060516f43f86ac03b788dcd774f",
-      "Size": 895940
-    },
-    {
-      "Path": "resources/tilesets/celianna_TileA2.png",
-      "Hash": "f5a518e9fe7f5548ed1a8edaedeb8617",
-      "Size": 883827
-    },
-    {
       "Path": "resources/tilesets/chao.png",
       "Hash": "51b2e7e686a6b982f7609aef9b7a2075",
       "Size": 288401
@@ -8701,11 +8646,6 @@
       "Path": "resources/tilesets/cyanide_tilemix_14twj2p.png",
       "Hash": "af991abe63fc85b63368c365d64ceaf6",
       "Size": 483512
-    },
-    {
-      "Path": "resources/tilesets/dbernl4-1a8774ed-e814-4f34-80ea-aaebb072f8bc.png",
-      "Hash": "8eb89ba4a2b895001b57fdf6b889a1f4",
-      "Size": 59146
     },
     {
       "Path": "resources/tilesets/dbudrch-169c7c10-9f9a-4986-8b1b-dc1991653e09.png",
@@ -8798,11 +8738,6 @@
       "Size": 326114
     },
     {
-      "Path": "resources/tilesets/farm_cyanidec8kur.png",
-      "Hash": "f55e373a21060cd24e5cbdbe8b99384f",
-      "Size": 869013
-    },
-    {
       "Path": "resources/tilesets/feira.png",
       "Hash": "1a9dcafcc62cc682fe1808d8a7760521",
       "Size": 1211699
@@ -8891,11 +8826,6 @@
       "Path": "resources/tilesets/Iliketea1.png",
       "Hash": "c3854c32930156584add0f1d6e5b54b0",
       "Size": 61029
-    },
-    {
-      "Path": "resources/tilesets/Iliketea2.png",
-      "Hash": "e93c302b88104f27dfa6f13ac4c2a5bb",
-      "Size": 25701
     },
     {
       "Path": "resources/tilesets/Iliketea3.png",
@@ -8998,11 +8928,6 @@
       "Size": 36688
     },
     {
-      "Path": "resources/tilesets/Outside_A1.png",
-      "Hash": "abd14c8aa5c8f944e5799951c3d9051a",
-      "Size": 524803
-    },
-    {
       "Path": "resources/tilesets/Outside_A2.png",
       "Hash": "a82e36bb34fd9a6978f548040e5a005c",
       "Size": 541185
@@ -9058,19 +8983,9 @@
       "Size": 63545
     },
     {
-      "Path": "resources/tilesets/PandaMaru nature3.png",
-      "Hash": "3b66319a424509f84eeabde173a4f808",
-      "Size": 970881
-    },
-    {
       "Path": "resources/tilesets/pandamaru tent.png",
       "Hash": "3e82c3e0b4832df23fd7326082394f77",
       "Size": 176048
-    },
-    {
-      "Path": "resources/tilesets/pandamaru tent2.png",
-      "Hash": "02eef141bfb248d6e267d6a7120d4616",
-      "Size": 74546
     },
     {
       "Path": "resources/tilesets/Pandamaru_Arvores.png",
@@ -9083,16 +8998,6 @@
       "Size": 972536
     },
     {
-      "Path": "resources/tilesets/PandaMaru_MV_hills_A5.png",
-      "Hash": "2d6c38e8251f68828188dafe3b689c27",
-      "Size": 282091
-    },
-    {
-      "Path": "resources/tilesets/PandaMaru_MV_hills_B.png",
-      "Hash": "5375d67644731a81ca83b93759dd3dba",
-      "Size": 146381
-    },
-    {
       "Path": "resources/tilesets/PandaMaru_MV_market1.png",
       "Hash": "b4826ee859988e4e02285dae95a554ea",
       "Size": 498413
@@ -9101,16 +9006,6 @@
       "Path": "resources/tilesets/PandaMaru_MV_nobleinterior.png",
       "Hash": "407a90fb5f4c5d718b636bed5b654959",
       "Size": 603162
-    },
-    {
-      "Path": "resources/tilesets/PandaMaru_MV_windmill.png",
-      "Hash": "09bcf799704c1c792ba607a389c4565d",
-      "Size": 417771
-    },
-    {
-      "Path": "resources/tilesets/PandaMaru_MV_windmillarms.png",
-      "Hash": "92b49e9d29cdaafd85df39cc54791388",
-      "Size": 170228
     },
     {
       "Path": "resources/tilesets/PandaMaru_MV_witchstuff.png",
@@ -9353,11 +9248,6 @@
       "Size": 370884
     },
     {
-      "Path": "resources/tilesets/Terras.png",
-      "Hash": "1c03bbd8b9bd6a4ef688b99fb4a29274",
-      "Size": 216565
-    },
-    {
       "Path": "resources/tilesets/Terreno1.png",
       "Hash": "bdf2312602989ad5d577138f8f3149bb",
       "Size": 4223094
@@ -9483,11 +9373,6 @@
       "Size": 1009129
     },
     {
-      "Path": "resources/tilesets/whtdragon 27.png",
-      "Hash": "8324fedda3b8e7470a12e6251a6e7434",
-      "Size": 535738
-    },
-    {
       "Path": "resources/tilesets/whtdragon 28.png",
       "Hash": "c22feab77af0af2cfba86d1930eef55d",
       "Size": 483655
@@ -9496,11 +9381,6 @@
       "Path": "resources/tilesets/whtdragon 29.png",
       "Hash": "67a59cea64a292fb02942044476de767",
       "Size": 381646
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 3.png",
-      "Hash": "b9d40768df006eb8e0bf8e4a4cb003d3",
-      "Size": 624216
     },
     {
       "Path": "resources/tilesets/whtdragon 30.png",
@@ -9546,11 +9426,6 @@
       "Path": "resources/tilesets/whtdragon 39.png",
       "Hash": "a06187b518cf88dc91e94ea72ef57977",
       "Size": 47322
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 4.png",
-      "Hash": "5ad34f5f4f6b0205916f86275e31c10e",
-      "Size": 1415771
     },
     {
       "Path": "resources/tilesets/whtdragon 40.png",
