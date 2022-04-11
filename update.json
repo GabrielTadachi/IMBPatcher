@@ -4114,8 +4114,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/InputBox.json",
-      "Hash": "3fa6e9ef65296b210141b707a54764fd",
-      "Size": 11281
+      "Hash": "79398e588343de1dab6915b65011b749",
+      "Size": 11280
     },
     {
       "Path": "resources/gui/layouts/game/InventoryItem.json",
@@ -4189,7 +4189,7 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "496caea451c0fec8e4f5c0262cb5469a",
+      "Hash": "b88173251e44d5d34c5b6be55b59b80c",
       "Size": 14736
     },
     {
@@ -4239,22 +4239,22 @@
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
-      "Hash": "247cad6ceefbbb940f755f5bd7a0f975",
+      "Hash": "6b3412144b26a836c6011b061561e017",
       "Size": 38163
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterSelectionWindow.json",
-      "Hash": "4f3df935965f71127208735f61216f4a",
+      "Hash": "9180f6882da28329f7a0a671863d5bbf",
       "Size": 12360
     },
     {
       "Path": "resources/gui/layouts/menu/CreditsWindow.json",
-      "Hash": "ac9ebad41b86b6bf65f5637d32d1cab1",
+      "Hash": "058f0470b35aa43053986beef89b7998",
       "Size": 13842
     },
     {
       "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
-      "Hash": "3ea830b2fb5bcbbed31cc8143290f26c",
+      "Hash": "5935f5fbf48c404b272c658432011881",
       "Size": 8206
     },
     {
@@ -4264,38 +4264,38 @@
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Hash": "0c512caaf3be26e64f88dc2edeb2e061",
+      "Hash": "7277201e75abf096bdc1970066399e1f",
       "Size": 14551
     },
     {
       "Path": "resources/gui/layouts/menu/Logo.json",
-      "Hash": "ac83842b11c4c33ba5ceea437ab61a24",
-      "Size": 627
+      "Hash": "0e11fc4364da1d119769b3fceb875896",
+      "Size": 628
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
-      "Hash": "9d00126b289df1157ba3ab53e88b1513",
+      "Hash": "eced88aa945d1c33c64ecf0e38fc0f10",
       "Size": 9127
     },
     {
       "Path": "resources/gui/layouts/menu/OptionsWindow.json",
-      "Hash": "223a6c95170c0bb3b3d074fc8b4badde",
+      "Hash": "15a007b162e17343af524c34a8414d4e",
       "Size": 215391
     },
     {
       "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
-      "Hash": "75faa6059ec1c5b50907076f09b39454",
+      "Hash": "f52ceb4ccbb2fe1b7496ea07fc24354b",
       "Size": 16421
     },
     {
       "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
-      "Hash": "7d7ca2acd37edfbee9a346dc5127c066",
+      "Hash": "cd1c626390883c32bf8e1efd9947541b",
       "Size": 13347
     },
     {
       "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
-      "Hash": "be9c2e59371d8a278850fe71c5cb7649",
-      "Size": 1611
+      "Hash": "e597ad5543e2f0f8da653ae06731f0d4",
+      "Size": 1612
     },
     {
       "Path": "resources/images/BlueSky.png",
@@ -8589,8 +8589,8 @@
     },
     {
       "Path": "resources/tilesets/CasteloTorre.png",
-      "Hash": "3e45d77931b08d27248b18b99ba86155",
-      "Size": 248068
+      "Hash": "00346efb8fd37e290db26ee3cd4130aa",
+      "Size": 327816
     },
     {
       "Path": "resources/tilesets/celianna_bakery.png",
@@ -8611,6 +8611,11 @@
       "Path": "resources/tilesets/Celianna_Nature.png",
       "Hash": "48209d63d9d5d68b47402c822914c999",
       "Size": 357018
+    },
+    {
+      "Path": "resources/tilesets/celianna_taverntiles.png",
+      "Hash": "4e8ac060516f43f86ac03b788dcd774f",
+      "Size": 895940
     },
     {
       "Path": "resources/tilesets/celianna_TileA2.png",
@@ -8653,9 +8658,19 @@
       "Size": 363367
     },
     {
+      "Path": "resources/tilesets/cyanide_tilemixasia_08.png",
+      "Hash": "1eb8ede5cfb956db0fb428d31df17de5",
+      "Size": 349805
+    },
+    {
       "Path": "resources/tilesets/cyanide_tilemix_03_02.png",
       "Hash": "c2527019db41a6a5bb732ed647acf547",
       "Size": 386116
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix_04.png",
+      "Hash": "2b786ff648d2aa6eca653da3a0346362",
+      "Size": 314294
     },
     {
       "Path": "resources/tilesets/cyanide_tilemix_05.png",
@@ -8681,6 +8696,11 @@
       "Path": "resources/tilesets/cyanide_tilemix_10_02.png",
       "Hash": "9580354d210563092660e934d70de8f7",
       "Size": 174839
+    },
+    {
+      "Path": "resources/tilesets/cyanide_tilemix_14twj2p.png",
+      "Hash": "af991abe63fc85b63368c365d64ceaf6",
+      "Size": 483512
     },
     {
       "Path": "resources/tilesets/dbernl4-1a8774ed-e814-4f34-80ea-aaebb072f8bc.png",
@@ -8709,8 +8729,8 @@
     },
     {
       "Path": "resources/tilesets/Dungeon_A4.png",
-      "Hash": "517a4dc5e30cdcd61a016beec05db681",
-      "Size": 463468
+      "Hash": "96472ce21f2503452bf13885d3e5d1b0",
+      "Size": 583607
     },
     {
       "Path": "resources/tilesets/Dungeon_A5.png",
@@ -8843,6 +8863,11 @@
       "Size": 165435
     },
     {
+      "Path": "resources/tilesets/Guardinthena_OldPrintingPress.png",
+      "Hash": "7728aceaca5b280d0740824180ab5620",
+      "Size": 132487
+    },
+    {
       "Path": "resources/tilesets/hanzo town.png",
       "Hash": "7ea82885a03050d8aba485e974311595",
       "Size": 974678
@@ -8864,8 +8889,8 @@
     },
     {
       "Path": "resources/tilesets/Iliketea1.png",
-      "Hash": "a33d79fb14fec2f06801afccebbe6a29",
-      "Size": 35520
+      "Hash": "c3854c32930156584add0f1d6e5b54b0",
+      "Size": 61029
     },
     {
       "Path": "resources/tilesets/Iliketea2.png",
@@ -9039,8 +9064,8 @@
     },
     {
       "Path": "resources/tilesets/pandamaru tent.png",
-      "Hash": "5b267507291195278b8ae3624123ac7b",
-      "Size": 102873
+      "Hash": "3e82c3e0b4832df23fd7326082394f77",
+      "Size": 176048
     },
     {
       "Path": "resources/tilesets/pandamaru tent2.png",
@@ -9079,8 +9104,8 @@
     },
     {
       "Path": "resources/tilesets/PandaMaru_MV_windmill.png",
-      "Hash": "10b852d86ec16a1f3667a68ab3bba824",
-      "Size": 171378
+      "Hash": "09bcf799704c1c792ba607a389c4565d",
+      "Size": 417771
     },
     {
       "Path": "resources/tilesets/PandaMaru_MV_windmillarms.png",
@@ -9158,11 +9183,6 @@
       "Size": 510229
     },
     {
-      "Path": "resources/tilesets/Porta6.png",
-      "Hash": "0dd6c21f5584b0b7db14b8fc18df45d7",
-      "Size": 278514
-    },
-    {
       "Path": "resources/tilesets/Porta_Expresso.png",
       "Hash": "5126cc6433f20bd6085c516e3bda0a0a",
       "Size": 142778
@@ -9204,8 +9224,8 @@
     },
     {
       "Path": "resources/tilesets/SalaoNobre.png",
-      "Hash": "83007e70756b6f84319dd4634b6f52a6",
-      "Size": 703271
+      "Hash": "8af7bd4ed8a6346be1f8f0c9757bcae8",
+      "Size": 714348
     },
     {
       "Path": "resources/tilesets/SF_Inside_A4.png",
@@ -9293,6 +9313,11 @@
       "Size": 96283
     },
     {
+      "Path": "resources/tilesets/Starbird_OutdoorMarket.png",
+      "Hash": "bbbb7f68403e4e06f3d909f1cd94530f",
+      "Size": 507613
+    },
+    {
       "Path": "resources/tilesets/Switch1.png",
       "Hash": "a022a97b5bb4b618ee7422beb8e3636f",
       "Size": 39670
@@ -9331,6 +9356,16 @@
       "Path": "resources/tilesets/Terras.png",
       "Hash": "1c03bbd8b9bd6a4ef688b99fb4a29274",
       "Size": 216565
+    },
+    {
+      "Path": "resources/tilesets/Terreno1.png",
+      "Hash": "bdf2312602989ad5d577138f8f3149bb",
+      "Size": 4223094
+    },
+    {
+      "Path": "resources/tilesets/Terrenos2.png",
+      "Hash": "e88e2bd999dab8eae520670ec14ff465",
+      "Size": 4244111
     },
     {
       "Path": "resources/tilesets/trem.png",
@@ -9409,8 +9444,8 @@
     },
     {
       "Path": "resources/tilesets/whtdragon 2.png",
-      "Hash": "e17cd2b796449d1403fae531666960e0",
-      "Size": 547032
+      "Hash": "6c12a3f3f402e68be542a7feba53d8b9",
+      "Size": 2620557
     },
     {
       "Path": "resources/tilesets/whtdragon 20.png",
@@ -9444,8 +9479,8 @@
     },
     {
       "Path": "resources/tilesets/whtdragon 26.png",
-      "Hash": "32e3735140a81f378317811fb8abb89c",
-      "Size": 450226
+      "Hash": "0bb51b3bd3b843c9151a8e53742a438e",
+      "Size": 1009129
     },
     {
       "Path": "resources/tilesets/whtdragon 27.png",

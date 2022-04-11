@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "115,0,212,38",
+    "Bounds": "163,0,115,38",
     "Padding": "0,18,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
