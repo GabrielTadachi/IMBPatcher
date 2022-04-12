@@ -8418,11 +8418,6 @@
       "Size": 129907
     },
     {
-      "Path": "resources/tilesets/Avery_Doors.png",
-      "Hash": "4680224ced58652ec2f1de67b457e5e2",
-      "Size": 78803
-    },
-    {
       "Path": "resources/tilesets/Avery_Farmhouse.png",
       "Hash": "7e261e4f9626f1cdd7d3caa71b7aed42",
       "Size": 214670
@@ -8581,11 +8576,6 @@
       "Path": "resources/tilesets/Cvrtis Mirrors 1.png",
       "Hash": "93ddcb874f94f3eb62a40ce29a798949",
       "Size": 298997
-    },
-    {
-      "Path": "resources/tilesets/cyanide-tilemix-11-nature-2.png",
-      "Hash": "7b19e2ccc10ece2a14fcfcbfae58571e",
-      "Size": 527485
     },
     {
       "Path": "resources/tilesets/cyanide_a24sk6v.png",
@@ -8958,11 +8948,6 @@
       "Size": 176048
     },
     {
-      "Path": "resources/tilesets/Pandamaru_Arvores.png",
-      "Hash": "9dfea8872f747282ec5ab1ff146becc7",
-      "Size": 983031
-    },
-    {
       "Path": "resources/tilesets/Pandamaru_Arvores_2.png",
       "Hash": "97933455c728f5bc82430fc289b39bb1",
       "Size": 972536
@@ -8976,6 +8961,11 @@
       "Path": "resources/tilesets/PandaMaru_MV_nobleinterior.png",
       "Hash": "407a90fb5f4c5d718b636bed5b654959",
       "Size": 603162
+    },
+    {
+      "Path": "resources/tilesets/PandaMaru_MV_windmill.png",
+      "Hash": "09bcf799704c1c792ba607a389c4565d",
+      "Size": 417771
     },
     {
       "Path": "resources/tilesets/PandaMaru_MV_witchstuff.png",
