@@ -8554,8 +8554,8 @@
     },
     {
       "Path": "resources/tilesets/Cadeiras.png",
-      "Hash": "8432dbde1d1c3aab707d92c739bd46e4",
-      "Size": 287711
+      "Hash": "603616657d40ac09636f1664e95beaaf",
+      "Size": 320518
     },
     {
       "Path": "resources/tilesets/CasteloTorre.png",
@@ -8684,8 +8684,8 @@
     },
     {
       "Path": "resources/tilesets/escola.png",
-      "Hash": "7fbc0961481d67ffaa9ca30c40d617a9",
-      "Size": 335807
+      "Hash": "8938ad41e3c8193266109e55870ce48f",
+      "Size": 707638
     },
     {
       "Path": "resources/tilesets/Estante varinhas.png",
@@ -8954,8 +8954,8 @@
     },
     {
       "Path": "resources/tilesets/PandaMaru_MV_market1.png",
-      "Hash": "b4826ee859988e4e02285dae95a554ea",
-      "Size": 498413
+      "Hash": "9967b9ee3a6dc13b89d97fd3091d4712",
+      "Size": 949393
     },
     {
       "Path": "resources/tilesets/PandaMaru_MV_nobleinterior.png",
@@ -9219,38 +9219,13 @@
     },
     {
       "Path": "resources/tilesets/whtdragon 1.png",
-      "Hash": "f6e59e49a53f1e470cc3ad946bb193a8",
-      "Size": 443955
+      "Hash": "73fda140e6945a6e86758e3df6f1c223",
+      "Size": 1077204
     },
     {
       "Path": "resources/tilesets/whtdragon 10.png",
-      "Hash": "0fea1e431f86a9f70aa28ea0fbe5a6f1",
-      "Size": 855324
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 11.png",
-      "Hash": "bf1cd5d4e215f83a78b6cb6f0c39e312",
-      "Size": 557983
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 12.png",
-      "Hash": "2f9a97803a83911210179332f412bcf0",
-      "Size": 835143
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 13.png",
-      "Hash": "72738759b0f97d23cd4664b35f271f77",
-      "Size": 702834
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 14.png",
-      "Hash": "d1afc670537fd8a4de06f37bdf776b58",
-      "Size": 669239
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 15.png",
-      "Hash": "dd55fbb24aaee2067eae59700b46fe9c",
-      "Size": 513287
+      "Hash": "cb39bdda8a8d357b74cc44e5b6aee74a",
+      "Size": 2066508
     },
     {
       "Path": "resources/tilesets/whtdragon 16.png",
@@ -9269,8 +9244,8 @@
     },
     {
       "Path": "resources/tilesets/whtdragon 18.png",
-      "Hash": "b66905d0a180769bb09e71cc96f08721",
-      "Size": 944920
+      "Hash": "6cf13314c6a24e9c5048200832a5b8a4",
+      "Size": 1564486
     },
     {
       "Path": "resources/tilesets/whtdragon 19.png",
@@ -9281,26 +9256,6 @@
       "Path": "resources/tilesets/whtdragon 2.png",
       "Hash": "6c12a3f3f402e68be542a7feba53d8b9",
       "Size": 2620557
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 20.png",
-      "Hash": "3085448eecb56681dda4e8d19b02e82f",
-      "Size": 669325
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 21.png",
-      "Hash": "32010f11c5e562fd2c2447839dac0110",
-      "Size": 903214
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 22.png",
-      "Hash": "37fe5cfef0811e10f561dd9f1ec8ab89",
-      "Size": 244808
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 23.png",
-      "Hash": "25e539673bec9aa010af03dc99c2c278",
-      "Size": 496287
     },
     {
       "Path": "resources/tilesets/whtdragon 24.png",
@@ -9326,6 +9281,11 @@
       "Path": "resources/tilesets/whtdragon 29.png",
       "Hash": "67a59cea64a292fb02942044476de767",
       "Size": 381646
+    },
+    {
+      "Path": "resources/tilesets/whtdragon 3.png",
+      "Hash": "392e185496e2910d041a43967c1ab8e7",
+      "Size": 4384460
     },
     {
       "Path": "resources/tilesets/whtdragon 30.png",
@@ -9368,74 +9328,24 @@
       "Size": 1597988
     },
     {
-      "Path": "resources/tilesets/whtdragon 39.png",
-      "Hash": "a06187b518cf88dc91e94ea72ef57977",
-      "Size": 47322
+      "Path": "resources/tilesets/whtdragon 4.png",
+      "Hash": "e0e361fd3c9fdd13ddf9d45d18750858",
+      "Size": 2239296
     },
     {
       "Path": "resources/tilesets/whtdragon 40.png",
-      "Hash": "a03d7f24502e12501ccfeac49be1f21a",
-      "Size": 21643
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 41.png",
-      "Hash": "89f58c9ae98ce5febc158617cb43b47d",
-      "Size": 38575
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 42.png",
-      "Hash": "31948e5f3d78f6a11a555901e69f1191",
-      "Size": 275978
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 43.png",
-      "Hash": "ea90c2f210eb8142c803c41fa1d04ad7",
-      "Size": 82487
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 44.png",
-      "Hash": "bca2aed41216e9dea9da4d1a03ff0137",
-      "Size": 162214
+      "Hash": "ee0e8f1bbd0eb821458435f757cd544a",
+      "Size": 595624
     },
     {
       "Path": "resources/tilesets/whtdragon 45.png",
-      "Hash": "54dbc0eeb69afe87e89f1e1a25a11eb8",
-      "Size": 1538133
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 46.png",
-      "Hash": "9c7dbfecd3ba367ded6f538bd929d894",
-      "Size": 1660320
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 47.png",
-      "Hash": "4e9d322ca085c5c08aa998fcf5ede2b3",
-      "Size": 186707
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 5.png",
-      "Hash": "7421c868e428c9e336181308104e5d5a",
-      "Size": 656464
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 6.png",
-      "Hash": "cd1b8c23773e016bb5b2e0151424c941",
-      "Size": 638232
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 7.png",
-      "Hash": "f35c37fbf8685ab03d05b858eb573255",
-      "Size": 801729
-    },
-    {
-      "Path": "resources/tilesets/whtdragon 8.png",
-      "Hash": "9fa6f66b0d3f6f1a547d374369428708",
-      "Size": 3160329
+      "Hash": "b953922574115f616c6d6ce64837398a",
+      "Size": 2879210
     },
     {
       "Path": "resources/tilesets/whtdragon 9.png",
-      "Hash": "a49f652ba1be24af244bc26610247d91",
-      "Size": 2861331
+      "Hash": "d55694da98c9da0c883e94ae520df814",
+      "Size": 2975347
     },
     {
       "Path": "resources/tilesets/zm88vhgn.png",
