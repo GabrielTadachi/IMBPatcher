@@ -8948,6 +8948,11 @@
       "Size": 176048
     },
     {
+      "Path": "resources/tilesets/Pandamaru_Arvores.png",
+      "Hash": "9dfea8872f747282ec5ab1ff146becc7",
+      "Size": 983031
+    },
+    {
       "Path": "resources/tilesets/Pandamaru_Arvores_2.png",
       "Hash": "97933455c728f5bc82430fc289b39bb1",
       "Size": 972536
