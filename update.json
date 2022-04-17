@@ -29,8 +29,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Hash": "8e909ac09ffd7daf92ef3ba701bbbd6d",
-      "Size": 478
+      "Hash": "528abcc41e13fc070eb63f80ecdbc959",
+      "Size": 409
     },
     {
       "Path": "resources/credits.json",
@@ -1543,6 +1543,11 @@
       "Size": 11202
     },
     {
+      "Path": "resources/entities/Gustavo Sanches.png",
+      "Hash": "92151570d9e1f0c23076f8f2af18393e",
+      "Size": 8805
+    },
+    {
       "Path": "resources/entities/Halt.png",
       "Hash": "ff60bb6bad0b7727ccbc4a39080a1039",
       "Size": 7462
@@ -1788,6 +1793,11 @@
       "Size": 8193
     },
     {
+      "Path": "resources/entities/Lily Flashback.png",
+      "Hash": "d0e6f66176c66edd17a572eab9fb4532",
+      "Size": 10329
+    },
+    {
       "Path": "resources/entities/Lily Potter.png",
       "Hash": "908f2aae0b6749c1024bddc13eb60ef2",
       "Size": 9649
@@ -1826,6 +1836,11 @@
       "Path": "resources/entities/Lobisomem5.png",
       "Hash": "ce6f3346ebd228b13235007eb223431a",
       "Size": 19065
+    },
+    {
+      "Path": "resources/entities/Lucas Flashback.png",
+      "Hash": "65ceefed2713fcc1b547493c5f681a3b",
+      "Size": 8934
     },
     {
       "Path": "resources/entities/Lucas.png",
@@ -2256,6 +2271,11 @@
       "Path": "resources/entities/Owl.png",
       "Hash": "0f7d680c46b300b788b55a16e2bf8b74",
       "Size": 2277
+    },
+    {
+      "Path": "resources/entities/Pablo Flashback Sprite.png",
+      "Hash": "3bc9239321a833922d199072ef545460",
+      "Size": 9478
     },
     {
       "Path": "resources/entities/Pablo.png",
@@ -2813,6 +2833,11 @@
       "Size": 35513
     },
     {
+      "Path": "resources/faces/Gustavo Sanches.png",
+      "Hash": "69aaafcf875460e4155f45ce6d52b5e0",
+      "Size": 32347
+    },
+    {
       "Path": "resources/faces/Halt.png",
       "Hash": "fb06b2a3d551074c09c9a8eacb36dce6",
       "Size": 28604
@@ -2848,9 +2873,24 @@
       "Size": 24944
     },
     {
+      "Path": "resources/faces/Lily Flashback.png",
+      "Hash": "7f2abdeb93e2c6c9eec5ae8df8a34a4f",
+      "Size": 31924
+    },
+    {
       "Path": "resources/faces/Lily2.png",
       "Hash": "3fe2bb0a72f4aba51065d2e806599424",
       "Size": 24231
+    },
+    {
+      "Path": "resources/faces/Lucas Flashback Face.png",
+      "Hash": "c4d38e5f79c9c83f07fefc52d5798ed6",
+      "Size": 35513
+    },
+    {
+      "Path": "resources/faces/Lucas Flashback.png",
+      "Hash": "87583d93f14d7e0526b6175cc141ce31",
+      "Size": 33462
     },
     {
       "Path": "resources/faces/Lucas.png",
@@ -2866,6 +2906,11 @@
       "Path": "resources/faces/Matheus.png",
       "Hash": "f15d6c44db54b040c6ce3e5d2c1eaf6b",
       "Size": 42237
+    },
+    {
+      "Path": "resources/faces/Pablo Flashback.png",
+      "Hash": "e10fbddf3d54657ebaad821c3a922350",
+      "Size": 33193
     },
     {
       "Path": "resources/faces/Pablo.png",
@@ -8454,8 +8499,8 @@
     },
     {
       "Path": "resources/tilesets/Bandeiras.png",
-      "Hash": "bb7242d42553680f8c7567510e576773",
-      "Size": 70633
+      "Hash": "96edac75154b553b19c7d34ffb8b5aa3",
+      "Size": 92443
     },
     {
       "Path": "resources/tilesets/basic_roofs1+2_Candacis.png",
@@ -8563,11 +8608,6 @@
       "Size": 327816
     },
     {
-      "Path": "resources/tilesets/chao.png",
-      "Hash": "51b2e7e686a6b982f7609aef9b7a2075",
-      "Size": 288401
-    },
-    {
       "Path": "resources/tilesets/Cidade.png",
       "Hash": "bd1910d3ad5654142e865252bb545d54",
       "Size": 1000538
@@ -8576,11 +8616,6 @@
       "Path": "resources/tilesets/Cvrtis Mirrors 1.png",
       "Hash": "93ddcb874f94f3eb62a40ce29a798949",
       "Size": 298997
-    },
-    {
-      "Path": "resources/tilesets/cyanide_a24sk6v.png",
-      "Hash": "4a6a5b8a27896f8e8dd41ba251d5d0d1",
-      "Size": 430913
     },
     {
       "Path": "resources/tilesets/cyanide_rtp_edits_01_02.png",
@@ -9351,11 +9386,6 @@
       "Path": "resources/tilesets/whtdragon 9.png",
       "Hash": "d55694da98c9da0c883e94ae520df814",
       "Size": 2975347
-    },
-    {
-      "Path": "resources/tilesets/zm88vhgn.png",
-      "Hash": "ca32f025c38e094aef0deef54794869e",
-      "Size": 48160
     },
     {
       "Path": "resources/updater/background.png",
