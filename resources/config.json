@@ -1,5 +1,5 @@
 ﻿{
-  "Host": "192.168.15.21",
+  "Host": "institutobandelugo.ddns.net",
   "Port": 5400,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
@@ -10,6 +10,6 @@
   "MenuMusic": "Main.ogg",
   "MenuBackground": "background.png",
   "IntroImages": [],
-  "UpdateUrl": "",
+  "UpdateUrl": "https://gabrieltadachi.github.io/IMBPatcher/update.json",
   "MouseCursor": "cursor.png"
 }
