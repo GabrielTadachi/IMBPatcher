@@ -2,24 +2,13 @@
   "Files": [
     {
       "Path": "IMB.exe",
-      "Hash": "35069120c5a759a6d1c71324c29bf79f",
+      "Hash": "b7ec5eb7226016c5bbbce5dd859dc8c7",
       "Size": 16010752
     },
     {
-      "Path": "IMB.pdb",
-      "Hash": "24ac2bc0ed2dfd4c69b35427177cd7bb",
-      "Size": 919040
-    },
-    {
       "Path": "Intersect Editor.exe",
-      "Hash": "6fa36f5c2647aa21e655ec597d85f8bc",
-      "Size": 9209856,
-      "ClientIgnore": true
-    },
-    {
-      "Path": "Intersect Editor.pdb",
-      "Hash": "323bd7515b7a3c8729d35974880b1e56",
-      "Size": 1541632,
+      "Hash": "5e07d1239203f1b8518e52d61607d9a8",
+      "Size": 9210368,
       "ClientIgnore": true
     },
     {
