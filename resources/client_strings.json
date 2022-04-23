@@ -328,7 +328,7 @@
     "transferprompt": "Esta ação irá transferir completamente a liderança da tua guilda para {00}  e irás perder o teu rank {01}. Se tens a certeza de que queres entregar a tua guilda prime enter '{02}' abaixo.",
     "bank": "{00} Banco da Guilda",
     "notallowedwithdraw": "Não tens permissão para retirar do banco da guilda de {00}",
-    "notalloweddeposit": "Não tens permissão para depositar itens no banco da guilda de {00},
+    "notalloweddeposit": "Não tens permissão para depositar itens no banco da guilda de {00}",
     "notallowedswap": "Não tens permissão para trocar itens dentro do banco da guilda {00}",
     "invitealreadyinguild": "O jogador que estás a tentar convidar já está numa guilda ou tem um convite pendente"
   },
