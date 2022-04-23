@@ -13,8 +13,8 @@
     },
     {
       "Path": "resources/client_strings.json",
-      "Hash": "7c515824e524188058a6d0a58f94b872",
-      "Size": 26826
+      "Hash": "290c7481693d9227ae14ea98c10ad6fa",
+      "Size": 26819
     },
     {
       "Path": "resources/config.json",
@@ -4417,6 +4417,11 @@
       "Size": 80314
     },
     {
+      "Path": "resources/images/MinisterioDaMagia.png",
+      "Hash": "753121db01d6c90efdf1df5b544bd29e",
+      "Size": 693772
+    },
+    {
       "Path": "resources/images/Mountains1.png",
       "Hash": "2ef0aeb8c9ea1ce0138e0593d50638cf",
       "Size": 756309
@@ -8660,6 +8665,11 @@
       "Path": "resources/tilesets/cyanide_tilemix_14twj2p.png",
       "Hash": "af991abe63fc85b63368c365d64ceaf6",
       "Size": 483512
+    },
+    {
+      "Path": "resources/tilesets/Damage.png",
+      "Hash": "9192ee1b082e59abf2c517a846a2f44f",
+      "Size": 2197
     },
     {
       "Path": "resources/tilesets/dbudrch-169c7c10-9f9a-4986-8b1b-dc1991653e09.png",
