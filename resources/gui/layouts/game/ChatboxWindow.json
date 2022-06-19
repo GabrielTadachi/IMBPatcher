@@ -318,7 +318,9 @@
       "Font": null,
       "ItemHoverSound": null,
       "ItemClickSound": null,
-      "ItemRightClickSound": null
+      "ItemRightClickSound": null,
+      "TextColor": "255,255,255,255",
+      "TextColorOverride": "0,0,0,0"
     },
     "ChatboxTitle": {
       "Bounds": "32,8,74,20",

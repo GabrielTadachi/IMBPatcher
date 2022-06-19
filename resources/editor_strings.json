@@ -290,6 +290,7 @@
     "deletetitle": "Delete Craft",
     "duplicatecraft": "Duplicate",
     "duplicateingredient": "Duplicate",
+    "failurechance": "Failure (%):",
     "folderlabel": "Folder:",
     "foldertitle": "Add Folder",
     "folderprompt": "Enter a name for the folder you'd like to add:",
@@ -300,6 +301,7 @@
     "ingredientquantity": "Quantity:",
     "ingredients": "Ingredients",
     "item": "Item:",
+    "itemlosschance": "Item Loss (%):",
     "name": "Name:",
     "new": "New Craft",
     "newingredient": "New",
@@ -350,6 +352,8 @@
     "disconnectedclosing": "You have lost connection to the server. The editor will now close.",
     "disconnectedsave": "You have been disconnected from the server! Would you like to export this map before closing this editor?",
     "disconnectedsavecaption": "Disconnected -- Export Map?",
+    "invaliddirectory": "You have selected an invalid directory, would you like to try again?",
+    "invaliddirectorycaption": "Invalid Directory",
     "importfailed": "Cannot import map. Currently selected map is not an Intersect map file or was exported with a different version of the Intersect editor!",
     "importfailedcaption": "Failed to import map!",
     "resourcesnotfound": "The resources directory could not be found! Intersect will now close.",
@@ -397,6 +401,7 @@
     "manual": "Manual",
     "playervariable": "Player Variable",
     "servervariable": "Global Variable",
+    "guildvariable": "Guild Variable",
     "cancel": "Cancel",
     "item": "Item:",
     "method": "Method:",
@@ -479,7 +484,9 @@
     "channels": {
       "0": "Player",
       "1": "Local",
-      "2": "Global"
+      "2": "Global",
+      "3": "Party",
+      "4": "Guild"
     },
     "color": "Color:",
     "commands": "Chat Commands",
@@ -515,18 +522,25 @@
     "dividevariable": "Divide {00}",
     "dupglobalvariable": "Global Variable: {00}'s Value",
     "dupplayervariable": "Player Variable: {00}'s Value",
+    "dupguildvariable": "Guild Variable: {00}'s Value",
     "addglobalvariable": "Add Global Variable: {00}'s Value",
     "addplayervariable": "Add Player Variable: {00}'s Value",
+    "addguildvariable": "Add Guild Variable: {00}'s Value",
     "subtractglobalvariable": "Subtract Global Variable: {00}'s Value",
     "subtractplayervariable": "Subtract Player Variable: {00}'s Value",
+    "subtractguildvariable": "Subtract Guild Variable: {00}'s Value",
     "multiplyglobalvariable": "Multiply Global Variable: {00}'s Value",
     "multiplyplayervariable": "Multiply Player Variable: {00}'s Value",
+    "multiplyguildvariable": "Multiply Guild Variable: {00}'s Value",
     "divideglobalvariable": "Divide Global Variable: {00}'s Value",
     "divideplayervariable": "Divide Player Variable: {00}'s Value",
+    "divideguildvariable": "Divide Guild Variable: {00}'s Value",
     "leftshiftglobalvariable": "Left Bit Shift Global Variable: {00}'s Value",
     "leftshiftplayervariable": "Left Bit Shift Player Variable: {00}'s Value",
+    "leftshiftguildvariable": "Left Bit Shift Guild Variable: {00}'s Value",
     "rightshiftglobalvariable": "Right Bit Shift Global Variable: {00}'s Value",
     "rightshiftplayervariable": "Right Bit Shift Player Variable: {00}'s Value",
+    "rightshiftguildvariable": "Right Bit Shift Guild Variable: {00}'s Value",
     "enditemchange": "End Item Change",
     "endoptions": "End Options",
     "endquest": "End Quest [{00}, {01}]",
@@ -543,6 +557,7 @@
     "giveexp": "Give Player {00} Experience",
     "globalswitch": "Set Global Switch {00} to {01}",
     "globalvariable": "Set Global Variable {00} ({01})",
+    "guildvariable": "Set Guild Variable {00} ({01})",
     "gotolabel": "Go to Label {00}",
     "hidepicture": "Hide Picture",
     "hideplayer": "Hide Player",
@@ -627,6 +642,7 @@
     "wait": "Wait {00}ms",
     "waitforroute": "Wait for Move Route Completion of {00}",
     "warp": "Warp Player [Map: {00} X: {01} Y: {02} Dir: {03}]",
+    "instancedwarp": "Warp Player to {04} instance [Map: {00} X: {01} Y: {02} Dir: {03}]",
     "whenoption": "When [{00}]",
     "changeplayercolor": "Change Player Color to: R: {00} G: {01} B: {02} A: {03}",
     "createguild": "Create Guild [Player Variable {00} as name]",
@@ -737,6 +753,8 @@
     "stringtip": "Text variables work here. Click here for a list!",
     "cancel": "Cancel",
     "canstartquest": "Can Start Quest",
+    "equipmentslot": "Slot",
+    "checkequipment": "Check Equipment",
     "class": "Class:",
     "classis": "Class Is",
     "commoneventsonly": "This condition works for Common Events activation only!",
@@ -771,7 +789,8 @@
       "17": "Item Equipped is...",
       "18": "Has X free Inventory slots...",
       "19": "In Guild With At Least Rank...",
-      "20": "Map Zone Type is..."
+      "20": "Map Zone Type is...",
+      "21": "Check Equipped Slot..."
     },
     "endrange": "End Range:",
     "false": "False",
@@ -781,6 +800,8 @@
     "globalswitch": "Global Switch",
     "globalvariable": "Global Variable",
     "globalvariablevalue": "Global Variable Value: ",
+    "guildvariable": "Guild Variable",
+    "guildvariablevalue": "Guild Variable Value: ",
     "hasatleast": "Has at least:",
     "hasitem": "Has Item",
     "hasitemequipped": "Has Equipped Item",
@@ -795,6 +816,8 @@
     "mapis": "Map Is...",
     "negated": "Negated",
     "haselse": "Has Else",
+    "npcgroup": "NPCs",
+    "npclabel": "NPC:",
     "numericvariable": "Numeric Variable:",
     "okay": "Ok",
     "playervariable": "Player Variable",
@@ -824,6 +847,7 @@
       "3": "D"
     },
     "selfswitchis": "Self Switch Is",
+    "specificnpccheck": "Specify NPC?",
     "spell": "Spell:",
     "startquest": "Quest:",
     "startrange": "Start Range:",
@@ -843,12 +867,14 @@
     "inguild": "In Guild With At Least Rank...",
     "rank": "Rank:",
     "mapzonetypeis": "Map Zone Type is:",
-    "mapzonetypelabel": "Zone Type:"
+    "mapzonetypelabel": "Zone Type:",
+    "checkbank": "Check Bank?"
   },
   "EventConditionDesc": {
     "admin": "Admin",
     "aftertask": ", After Task: {00}",
     "beforetask": ", Before Task: {00}",
+    "checkequippedslot": "Player has slot {00} occupied",
     "class": "Player's class is {00}",
     "contains": "contains {00}",
     "equal": "is equal to {00}",
@@ -857,6 +883,8 @@
     "gender": "Player's Gender is {00}",
     "globalvariable": "Global Variable: {00} {01}",
     "globalvariablevalue": "Global Variable: {00}'s Value",
+    "guildvariable": "Guild Variable: {00} {01}",
+    "guildvariablevalue": "Guild Variable: {00}'s Value",
     "greater": "is greater than {00}",
     "greaterequal": "is greater than or equal to {00}",
     "guild": "Player is in Guild with at least rank: {00}",
@@ -873,6 +901,7 @@
     "modadmin": "Mod or Admin",
     "negated": "NOT [{00}]",
     "nonpcsonmap": "No NPCs on the map",
+    "nonpcsoftypeonmap": "No NPCs of type {00} on the map",
     "notequal": "does not equal {00}",
     "onanytask": ", On Any Task",
     "ontask": ", On Task: {00}",
@@ -907,6 +936,7 @@
     "variable": "Variable",
     "playervariable": "Player Variable",
     "servervariable": "Global Variable",
+    "guildvariable": "Guild Variable",
     "cancel": "Cancel",
     "okay": "Ok",
     "title": "Set Guild Bank Slots Count"
@@ -933,7 +963,10 @@
       "11": "Server Variable Changed",
       "12": "Guild Member Joined",
       "13": "Guild Member Left",
-      "14": "Guild Member Kicked"
+      "14": "Guild Member Kicked",
+      "15": "Guild Variable Changed",
+      "16": "Inventory Changed",
+      "17": "Map Changed"
     },
     "conditions": "Conditions",
     "copypage": "Copy Page",
@@ -1022,7 +1055,8 @@
     "variable": "Variable",
     "manual": "Manual",
     "playervariable": "Player Variable",
-    "servervariable": "Global Variable"
+    "servervariable": "Global Variable",
+    "guildvariable": "Guild Variable"
   },
   "EventGotoLabel": {
     "cancel": "Cancel",
@@ -1187,6 +1221,7 @@
   "EventSetVariable": {
     "cancel": "Cancel",
     "global": "Global Variable",
+    "guild": "Guild Variable",
     "okay": "Ok",
     "player": "Player Variable",
     "title": "Set Variable",
@@ -1196,12 +1231,14 @@
     "booleantrue": "True",
     "booleanfalse": "False",
     "booleanccloneglobalvariablevalue": "Global Variable Value: ",
+    "booleanccloneguildvariablevalue": "Guild Variable Value: ",
     "booleancloneplayervariablevalue": "Player Variable Value: ",
     "numericlabel": "Integer Variable:",
     "numericadd": "Add",
     "numericdivide": "Divide",
     "numericleftshift": "LShift",
     "numericcloneglobalvariablevalue": "Global Variable Value: ",
+    "numericcloneguildvariablevalue": "Global Variable Value: ",
     "numericcloneplayervariablevalue": "Player Variable Value: ",
     "numericmultiply": "Multiply",
     "numericrandom": "Random",
@@ -1249,6 +1286,7 @@
     "title": "Input Variable",
     "playervariable": "Player Variable",
     "globalvariable": "Global Variable",
+    "guildvariable": "Guild Variable",
     "minval": "Minimum Value",
     "maxval": "Maximum Value",
     "minlength": "Minimum Length",
@@ -1320,6 +1358,9 @@
     "bagpanel": "Bag:",
     "bagslots": "Bag Slots:",
     "basedamage": "Base Damage:",
+    "blockchance": "Block Chance (%):",
+    "blockamount": "Block Amount (%):",
+    "blockabsorption": "Block Damage Absorption (%):",
     "bonusamount": "Effect Amount (%):",
     "bonuseffect": "Bonus Effect:",
     "bonuseffects": {
@@ -1429,6 +1470,7 @@
     "undotitle": "Undo Changes",
     "vital": "Vital:",
     "vitalbonuses": "Vital Bonuses",
+    "shieldproperties": "Shield Properties:",
     "weaponproperties": "Weapon Properties"
   },
   "LightEditor": {
@@ -1516,6 +1558,7 @@
     "timeeditor": "Time Editor",
     "title": "Intersect Editor - {00}",
     "tools": "Tools",
+    "menutoolspackageupdate": "Package Update",
     "toolsdir": "tools",
     "undo": "Undo",
     "view": "View"
@@ -1699,7 +1742,9 @@
     "title": "Npc Editor",
     "undo": "Undo Changes",
     "undoprompt": "Are you sure you want to undo changes made to this npc? This action cannot be reverted!",
-    "undotitle": "Undo Changes"
+    "undotitle": "Undo Changes",
+    "immunitiestitle": "Immunities",
+    "tenacity": "Tenacity (%):"
   },
   "NpcSpawns": {
     "add": "Add",
@@ -1723,8 +1768,8 @@
     "updatetab": "Update",
     "packageupdates": "Package assets when generating updates.",
     "packageoptions": "Asset Packing Options",
-    "musicbatch": "Music Batch Size",
-    "soundbatch": "Sound Batch Size",
+    "musicpacksize": "Max Music Pack Size (MB):",
+    "soundpacksize": "Max Sound Pack Size (MB):",
     "texturesize": "Texture Pack Size"
   },
   "ProgressForm": {
@@ -1983,6 +2028,7 @@
     "ignoreinactiveresources": "Inactive Resources",
     "ignorezdimension": "Z-Dimension Blocks",
     "ishotdot": "HOT/DOT?",
+    "tickanimation": "Tick Animation:",
     "magicresist": "Magic Resist:",
     "manacost": "Mana Cost:",
     "mpdamage": "Mana Damage:",
@@ -2057,7 +2103,10 @@
       "3": "String"
     },
     "undo": "Undo Changes",
-    "value": "Value:"
+    "value": "Value:",
+    "guildvariable": "Guild Variable",
+    "guildvariables": "Guild Variables",
+    "textidguildvar": "Text Id: \\guildvar "
   },
   "TaskEditor": {
     "cancel": "Cancel",
@@ -2158,6 +2207,8 @@
     "percent": "{00}%"
   },
   "UpdatePacking": {
+    "sourcedirectorypromptdescription": "Pick the directory from which to generate the update",
+    "targetdirectorypromptdescription": "Pick the directory in which to save the packaged update",
     "title": "Packaging Updater Files, Please Wait!",
     "deleting": "Deleting existing or unchanged files..",
     "differential": "An update already exists in this folder, would you like to generate a differential update (only files that have changed)?",
@@ -2169,11 +2220,15 @@
     "done": "Done!"
   },
   "Warping": {
+    "changeinstance": "Change instance?",
     "direction": "Dir: {00}",
+    "instancetype": "Instance Type:",
     "map": "Map: {00}",
+    "mapinstancinggroup": "Instance Settings",
     "visual": "Open Visual Interface",
     "x": "X: {00}",
-    "y": "Y: {00}"
+    "y": "Y: {00}",
+    "warpsound": "Sound:"
   },
   "WarpSelection": {
     "cancel": "Cancel",

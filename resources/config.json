@@ -8,8 +8,15 @@
   "UIFont": "sourcesanspro,8",
   "ChatLines": 50,
   "MenuMusic": "Main.ogg",
-  "MenuBackground": "background.png",
+  "MenuBackground": [
+    "background.png"
+  ],
+  "MenuBackgroundDisplayMode": "Default",
+  "MenuBackgroundFrameInterval": 50,
   "IntroImages": [],
   "UpdateUrl": "https://gabrieltadachi.github.io/IMBPatcher/update.json",
-  "MouseCursor": "cursor.png"
+  "MouseCursor": "cursor.png",
+  "MusicFadeTimer": 1500,
+  "EnableContextMenus": true,
+  "UiSkin": "Intersect2021"
 }

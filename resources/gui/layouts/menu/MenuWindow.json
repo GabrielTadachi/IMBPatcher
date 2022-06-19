@@ -234,7 +234,7 @@
       "MouseDownSound": "octave-beep-tapped.wav",
       "ClickSound": ""
     },
-    "OptionsButton": {
+    "SettingsButton": {
       "Bounds": "24,139,262,53",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
