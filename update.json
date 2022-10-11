@@ -4550,12 +4550,12 @@
     },
     {
       "Path": "resources/gui/layouts/game/ShopWindow.json",
-      "Hash": "7dd4db1fd8625e8c1f6910dbb778e8f2",
-      "Size": 14732
+      "Hash": "b88173251e44d5d34c5b6be55b59b80c",
+      "Size": 14736
     },
     {
       "Path": "resources/gui/layouts/game/Spell.json",
-      "Hash": "5e7345440d7ee41ce8b5960311a01767",
+      "Hash": "159c725d3bd410fa39ffbb10a3389e90",
       "Size": 2540
     },
     {
@@ -4575,8 +4575,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/SpellsWindow.json",
-      "Hash": "161a566b2914bd4016cd6017883cfd05",
-      "Size": 14725
+      "Hash": "551e4e941ebf96a032064457111ab362",
+      "Size": 14715
     },
     {
       "Path": "resources/gui/layouts/game/StatusIconItem.json",
@@ -4585,8 +4585,8 @@
     },
     {
       "Path": "resources/gui/layouts/game/TargetBox.json",
-      "Hash": "20283c5b8456c5d388f920118f54313f",
-      "Size": 25791
+      "Hash": "4556b28b6ad367b2b595fc71daa62c12",
+      "Size": 25810
     },
     {
       "Path": "resources/gui/layouts/game/TargetStatusIcon.json",
@@ -4605,73 +4605,73 @@
     },
     {
       "Path": "resources/gui/layouts/game/TradeWindow.json",
-      "Hash": "66d6cbb704faf9233c08765af1378a7e",
-      "Size": 37706
+      "Hash": "1be84fc103bbde7fca66e8b7106aede2",
+      "Size": 30953
     },
     {
       "Path": "resources/gui/layouts/game/YourTradeItem.json",
-      "Hash": "6b82197dd3f8ae9148f0fb6262e475b4",
+      "Hash": "d8cf52e138fd2007b88b3c685bcd4665",
       "Size": 2371
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterCreationWindow.json",
-      "Hash": "63196f10871568b58d88f559f77f2313",
-      "Size": 38168
+      "Hash": "6b3412144b26a836c6011b061561e017",
+      "Size": 38163
     },
     {
       "Path": "resources/gui/layouts/menu/CharacterSelectionWindow.json",
-      "Hash": "adca17da6aacae666c9f310577b69022",
-      "Size": 12341
+      "Hash": "9180f6882da28329f7a0a671863d5bbf",
+      "Size": 12360
     },
     {
       "Path": "resources/gui/layouts/menu/CreditsWindow.json",
-      "Hash": "63ae307f8f8921f8445df71e69657caa",
-      "Size": 13815
+      "Hash": "058f0470b35aa43053986beef89b7998",
+      "Size": 13842
     },
     {
       "Path": "resources/gui/layouts/menu/ForgotPasswordWindow.json",
-      "Hash": "5e7c4eca3af54eaa9bee3de95f1ff98a",
-      "Size": 8194
+      "Hash": "5935f5fbf48c404b272c658432011881",
+      "Size": 8206
     },
     {
       "Path": "resources/gui/layouts/menu/InputBox.json",
-      "Hash": "80e7c952febf451a36d4ff3ced72c691",
-      "Size": 15220
+      "Hash": "ad5684622f4c6c172733e7a9a764721f",
+      "Size": 11357
     },
     {
       "Path": "resources/gui/layouts/menu/LoginWindow.json",
-      "Hash": "73ad5ab6ab3d12d9c5b5b11f16e4381b",
-      "Size": 14549
+      "Hash": "7277201e75abf096bdc1970066399e1f",
+      "Size": 14551
     },
     {
       "Path": "resources/gui/layouts/menu/Logo.json",
-      "Hash": "ac83842b11c4c33ba5ceea437ab61a24",
-      "Size": 627
+      "Hash": "0e11fc4364da1d119769b3fceb875896",
+      "Size": 628
     },
     {
       "Path": "resources/gui/layouts/menu/MenuWindow.json",
-      "Hash": "b4e782e4b2d2443326c4e4fb06167168",
-      "Size": 9187
+      "Hash": "f5a52f8cac71fd00eac346735229453e",
+      "Size": 9128
     },
     {
       "Path": "resources/gui/layouts/menu/OptionsWindow.json",
-      "Hash": "223a6c95170c0bb3b3d074fc8b4badde",
+      "Hash": "15a007b162e17343af524c34a8414d4e",
       "Size": 215391
     },
     {
       "Path": "resources/gui/layouts/menu/RegistrationWindow.json",
-      "Hash": "6f9a982b1d038f99aba2f018300fdbcc",
-      "Size": 16384
+      "Hash": "f52ceb4ccbb2fe1b7496ea07fc24354b",
+      "Size": 16421
     },
     {
       "Path": "resources/gui/layouts/menu/ResetPasswordWindow.json",
-      "Hash": "56a6f48c328b5b1031df1f7ef36d145d",
-      "Size": 13329
+      "Hash": "cd1c626390883c32bf8e1efd9947541b",
+      "Size": 13347
     },
     {
       "Path": "resources/gui/layouts/menu/ServerStatusArea.json",
-      "Hash": "be9c2e59371d8a278850fe71c5cb7649",
-      "Size": 1611
+      "Hash": "e597ad5543e2f0f8da653ae06731f0d4",
+      "Size": 1612
     },
     {
       "Path": "resources/gui/layouts/shared/SettingsWindow.json",
@@ -6000,13 +6000,13 @@
     },
     {
       "Path": "resources/items/LacertaF.png",
-      "Hash": "472bf5bb562b4a1d899bf45cc70a67e9",
-      "Size": 1185
+      "Hash": "b1c7e739d6027007849e3748f3dedc44",
+      "Size": 553
     },
     {
       "Path": "resources/items/LacertaM.png",
-      "Hash": "beba9be8bdaba3e810e36278eff2be85",
-      "Size": 1190
+      "Hash": "150aa5ca1bb16898ef32670492f7a281",
+      "Size": 606
     },
     {
       "Path": "resources/items/Livro01.png",
@@ -6095,13 +6095,13 @@
     },
     {
       "Path": "resources/items/MartesF.png",
-      "Hash": "a135fd2657be8e1d18ab8f43d3a46e49",
-      "Size": 1189
+      "Hash": "00b62fa7f84d9a586490cbb278223c85",
+      "Size": 543
     },
     {
       "Path": "resources/items/MartesM.png",
-      "Hash": "d7cf5c042e611e3c1dd146f6fa0fa743",
-      "Size": 1180
+      "Hash": "9539804a8ecee99231718b069b56c64a",
+      "Size": 583
     },
     {
       "Path": "resources/items/Moeda.png",
@@ -6140,13 +6140,13 @@
     },
     {
       "Path": "resources/items/PadraoF.png",
-      "Hash": "c30544c53b00be152e7040e06a58c993",
-      "Size": 1176
+      "Hash": "51d5bca8fff9f422d2a8ff8ff3c99a12",
+      "Size": 536
     },
     {
       "Path": "resources/items/PadraoM.png",
-      "Hash": "d8a6126dc3dab304ae3d1a3fc5ce4144",
-      "Size": 1209
+      "Hash": "5942627044b920a2f047d75e364ae6d7",
+      "Size": 583
     },
     {
       "Path": "resources/items/Papel1.png",
@@ -6315,13 +6315,13 @@
     },
     {
       "Path": "resources/items/SignatusF.png",
-      "Hash": "82348afc172a47809e2f9c5e0f680351",
-      "Size": 1183
+      "Hash": "0c7f7f13c2736facdb4d183c7d754985",
+      "Size": 573
     },
     {
       "Path": "resources/items/SignatusM.png",
-      "Hash": "8c5de68cb5404d86a2c13c727799cd27",
-      "Size": 1202
+      "Hash": "07e43a6707f1c0d1e6b1a5ee13423e1f",
+      "Size": 623
     },
     {
       "Path": "resources/items/Soldo.png",
@@ -6510,8 +6510,8 @@
     },
     {
       "Path": "resources/misc/cursor.png",
-      "Hash": "ae8acf6f03121ceb29ce06df3caf48e9",
-      "Size": 667
+      "Hash": "d640b592fa2bdfe69f90a195c75b0668",
+      "Size": 3612
     },
     {
       "Path": "resources/misc/directions.png",
@@ -6550,8 +6550,8 @@
     },
     {
       "Path": "resources/misc/target.png",
-      "Hash": "52c1529fe87620f6afc3fadf4bcd0b2a",
-      "Size": 3661
+      "Hash": "53ecb8a8088883648ed96971ff7c650a",
+      "Size": 721
     },
     {
       "Path": "resources/misc/transtile.png",
@@ -7355,13 +7355,13 @@
     },
     {
       "Path": "resources/paperdolls/LacertaF.png",
-      "Hash": "70fe71e6c92c6454c982d7248edad27b",
-      "Size": 8363
+      "Hash": "5a804317b91c905bb20d2bf741072d98",
+      "Size": 3855
     },
     {
       "Path": "resources/paperdolls/LacertaM.png",
-      "Hash": "6b493839bbc356273b9465a46134bbd0",
-      "Size": 8529
+      "Hash": "5d5d769bfd224868f88fb33098f85cdc",
+      "Size": 4582
     },
     {
       "Path": "resources/paperdolls/Luvas.png",
@@ -7380,13 +7380,13 @@
     },
     {
       "Path": "resources/paperdolls/MartesF.png",
-      "Hash": "96e34c257a677ea4c71eeb9d46b0f590",
-      "Size": 8303
+      "Hash": "0d910a9ad21403931b271c43aab44543",
+      "Size": 3782
     },
     {
       "Path": "resources/paperdolls/MartesM.png",
-      "Hash": "2c839ef14c9578b2a6664a94f4431a90",
-      "Size": 8416
+      "Hash": "b3f2b9684b1c4b42770948d42ed3894b",
+      "Size": 4570
     },
     {
       "Path": "resources/paperdolls/oculos1.png",
@@ -7405,8 +7405,8 @@
     },
     {
       "Path": "resources/paperdolls/PadraoF.png",
-      "Hash": "5125b5da2854169266942147b57e90d1",
-      "Size": 8495
+      "Hash": "d3a06eeb86e01d3972d122d1e8d78e9a",
+      "Size": 3817
     },
     {
       "Path": "resources/paperdolls/PadraoHomem.png",
@@ -7415,8 +7415,8 @@
     },
     {
       "Path": "resources/paperdolls/PadraoM.png",
-      "Hash": "82c4b0e780443d07975d2dbf91750b64",
-      "Size": 8709
+      "Hash": "a455599e4f47022ef4055ebfa930d698",
+      "Size": 4362
     },
     {
       "Path": "resources/paperdolls/PadraoMulher.png",
@@ -7435,13 +7435,13 @@
     },
     {
       "Path": "resources/paperdolls/SignatusF.png",
-      "Hash": "059511d6c1d8617aeffdef891541271b",
-      "Size": 8385
+      "Hash": "dbc0f22a9fbe73f427f4b68f28e53293",
+      "Size": 3913
     },
     {
       "Path": "resources/paperdolls/SignatusM.png",
-      "Hash": "e5953ce7209a2a5f5e0f0d4619a58284",
-      "Size": 8520
+      "Hash": "da46cc04934522c0b7cdc0a2363b3b3e",
+      "Size": 4731
     },
     {
       "Path": "resources/paperdolls/varinha1.png",

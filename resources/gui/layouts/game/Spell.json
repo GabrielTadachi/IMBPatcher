@@ -1,9 +1,9 @@
 {
-  "Bounds": "0,0,40,40",
+  "Bounds": "0,0,35,35",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
-  "Margin": "5,5,5,5",
+  "Margin": "4,4,4,4",
   "RenderColor": "255,255,255,255",
   "Alignments": "",
   "DrawBackground": true,
@@ -17,13 +17,13 @@
   "ToolTipBackground": null,
   "ToolTipFont": null,
   "ToolTipTextColor": "",
-  "Texture": "spellitem.png",
+  "Texture": "hotbaritem.png",
   "HoverSound": null,
   "LeftMouseClickSound": null,
   "RightMouseClickSound": null,
   "Children": {
     "SpellIcon": {
-      "Bounds": "4,4,32,32",
+      "Bounds": "3,3,29,29",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -47,7 +47,7 @@
       "RightMouseClickSound": "octave-beep-tapped.wav",
       "Children": {
         "SpellCooldownLabel": {
-          "Bounds": "13,10,5,11",
+          "Bounds": "12,9,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
