@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,377,10",
+  "Bounds": "0,0,360,10",
   "Padding": "2,2,2,2",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -288,8 +288,8 @@
       "ClickSound": null
     }
   },
-  "BackgroundTemplate": null,
-  "ItemTextColor": "",
-  "ItemHoveredTextColor": "",
-  "ItemFont": null
+  "BackgroundTemplate": "contextmenu.png",
+  "ItemTextColor": "255,255,255,255",
+  "ItemHoveredTextColor": "255,128,128,128",
+  "ItemFont": "sourcesansproblack,10"
 }

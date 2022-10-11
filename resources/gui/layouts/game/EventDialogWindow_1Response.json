@@ -1,11 +1,11 @@
 {
-  "Bounds": "700,678,520,202",
+  "Bounds": "380,249,520,202",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
   "Margin": "0,0,0,200",
   "RenderColor": "255,255,255,255",
-  "Alignments": "Center,Bottom",
+  "Alignments": "Bottom,Center",
   "DrawBackground": true,
   "MinimumSize": "1,1",
   "MaximumSize": "4096,4096",
@@ -24,7 +24,7 @@
   "InactiveColor": "",
   "Closable": false,
   "Titlebar": {
-    "Bounds": "0,0,442,50",
+    "Bounds": "0,0,520,50",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -51,7 +51,7 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "183,0,76,31",
+    "Bounds": "222,0,76,31",
     "Padding": "0,11,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",

@@ -10,7 +10,7 @@
     "chronological": "123...",
     "chronologicaltip": "Ordene mapas cronologicamente.",
     "face": "Face:",
-    "kick": "Kickar",
+    "kick": "Expulsar",
     "kill": "Matar",
     "maplist": "Lista de Mapas:",
     "mute": "Mutar",
@@ -79,11 +79,21 @@
     "stat3": "{00}: {01}",
     "stat4": "{00}: {01}",
     "stats": "Status",
-    "title": "Personagem"
+    "title": "Personagem",
+    "ExtraBuffs": "Bônus Extras",
+    "HealthRegen": "Regen HP: {00}%",
+    "ManaRegen": "Regen MP: {00}%",
+    "Lifesteal": "Roubo de Vida: {00}%",
+    "AttackSpeed": "Vel. Ataque: {00}s",
+    "ExtraExp": "Bônus EXP: {00}%",
+    "Luck": "Sorte: {00}%",
+    "Tenacity": "Tenacidade: {00}%",
+    "CooldownReduction": "Red. Cooldown: {00}%",
+    "Manasteal": "Roubo de Mana: {00}%"
   },
   "CharacterCreation": {
     "back": "Voltar",
-    "Class": "Class:",
+    "Class": "Classe:",
     "create": "Criar",
     "female": "F",
     "gender": "Género",
@@ -121,7 +131,15 @@
     "send": "Enviar",
     "title": "Conversas",
     "toofast": "Estás a enviar mensagens muito rápido!",
-    "UnableToCopy": "It appears you are not able to copy/paste on this platform. Please make sure you have either the 'xclip' or 'wl-clipboard' packages installed if you are running Linux."
+    "UnableToCopy": "It appears you are not able to copy/paste on this platform. Please make sure you have either the 'xclip' or 'wl-clipboard' packages installed if you are running Linux.",
+    "ChatTabButtons": {
+      "All": "Todos",
+      "Local": "Local",
+      "Party": "Party",
+      "Global": "Global",
+      "Guild": "Equipa",
+      "System": "Sistema"
+    }
   },
   "Colors": {
     "presets": {
@@ -139,10 +157,10 @@
     }
   },
   "Combat": {
-    "AttackWhileCastingDeny": "You are currently casting a spell, you cannot attack.",
+    "AttackWhileCastingDeny": "Você está conjurando um feitiço. Não é possível atacar.",
     "exp": "Experiência",
     "stat0": "Ataque",
-    "stat1": "Poder de Habilidade",
+    "stat1": "Inteligência",
     "stat2": "Defesa",
     "stat3": "Resistência Mágica",
     "stat4": "Velocidade",
@@ -150,10 +168,10 @@
     "vital0": "Saúde",
     "vital1": "Mana",
     "warningtitle": "Aviso de Combate!",
-    "warningforceclose": "O jogo foi fechado enquanto em combate! O teu personagem vai continuar logado até o combate ser finalizado!",
-    "warninglogout": "Estás prestes a deslogar enquanto estás em combate! O teu personagem vai continuar logado até o combate ser finalizado! Desejas mesmo deslogar?",
-    "warningcharacterselect": "Estás prestes a deslogar enquanto estás em combate! O teu personagem vai continuar logado até o combate ser finalizado! Desejas mesmo deslogar?",
-    "warningexitdesktop": "Estás prestes a sair enquanto estás em combate! O teu personagem vai continuar logado até o combate ser finalizado! Desejas mesmo sair agora?"
+    "warningforceclose": "O jogo foi fechado enquanto em combate! Seu personagem continuara logado até que o combate encerre-se!",
+    "warninglogout": "You are about to logout while in combat! Your character will remain in-game until combat has ended! Are you sure you want to logout now?",
+    "warningcharacterselect": "You are about to logout while in combat! Your character will remain in-game until combat has ended! Are you sure you want to logout now?",
+    "warningexitdesktop": "You are about to exit while in combat! Your character will remain in-game until combat has ended! Are you sure you want to quit now?"
   },
   "Controls": {
     "controldict": {
@@ -184,7 +202,7 @@
       "openparties": "Abrir party:",
       "openspells": "Abrir encantamentos:",
       "openfriends": "Abrir amigos:",
-      "openguild": "Open Guild:",
+      "openguild": "Abrir Equipa:",
       "opensettings": "Abrir configurações:",
       "opendebugger": "Open Debugger:",
       "openadminpanel": "Open Admin Panel:",
@@ -195,10 +213,13 @@
   "Crafting": {
     "craft": "Criar",
     "craftall": "Criar {00} vezes",
+    "CraftChance": "Chance to fail: {00}%",
+    "CraftingTime": "Time to craft: {00}s",
     "craftstop": "Stop",
+    "DestroyMaterialsChance": "Chance to destroy materials: {00}%",
     "incorrectresources": "Não tens os ingredientes corretos para criar o item.",
     "ingredients": "Requer:",
-    "product": "Item:",
+    "product": "Resultado:",
     "recipes": "Receitas:",
     "title": "Confecção de Itens"
   },
@@ -228,7 +249,7 @@
   "EntityBox": {
     "NameAndLevel": "{00}    {01}",
     "cooldown": "{00}s",
-    "exp": "EXP",
+    "exp": "",
     "expval": "{00} / {01}",
     "friend": "Amizade",
     "friendtip": "Envia a {00} um pedido de amizade.",
@@ -239,9 +260,9 @@
     "partytip": "Convida {00} para a tua party.",
     "trade": "Troca",
     "tradetip": "Pede para trocar com {00}.",
-    "vital0": "HP",
+    "vital0": "",
     "vital0val": "{00} / {01}",
-    "vital1": "MP",
+    "vital1": "",
     "vital1val": "{00} / {01}"
   },
   "Errors": {
@@ -252,12 +273,12 @@
     "notsupported": "Não Suportado!",
     "openallink": "https://goo.gl/Nbx6hx",
     "opengllink": "https://goo.gl/RSP3ts",
-    "passwordinvalid": "Senha inválida. Por favor usa caracteres alfanuméricos de 4 a 20 dígitos.",
-    "resourcesnotfound": "Os recursos da diretoria não poderam ser encontradas. A Intersect irá agora encerrar.",
-    "title": "Erro!",
+    "passwordinvalid": "Password is invalid. Please use alphanumeric characters with a length between 4 and 20.",
+    "resourcesnotfound": "The resources directory could not be found! Intersect will now close.",
+    "title": "Error!",
     "usernameinvalid": "O Username é inválido. Por favor usa caracteres alfanuméricos de 2 a 20 dígitos.",
     "LoadFile": "Failed to load a {00}. Please send the game administrator a copy of your errors log file in the logs directory.",
-    "lostconnection": "Ligação perdida ao servidor do jogo. Por favor verifica a tua ligação à internet e tenta novamente!"
+    "lostconnection": "Lost connection to the game server. Please make sure you're connected to the internet and try again!"
   },
   "Words": {
     "lcase_sound": "sound",
@@ -277,20 +298,20 @@
     "title": "Reconfigurar Senha"
   },
   "Friends": {
-    "AddFriend": "Add Friend",
-    "AddFriendTitle": "Add Friend",
-    "AddFriendPrompt": "Who would you like to add as a friend?",
-    "InFight": "You are currently fighting!",
-    "RemoveFriend": "Remove Friend",
-    "RemoveFriendPrompt": "Do you wish to remove {00} from your friends list?",
-    "Request": "Friend Request",
-    "RequestPrompt": "{00} has sent you a friend request. Do you accept?",
-    "Title": "Friends",
+    "AddFriend": "Adicionar Amigo",
+    "AddFriendTitle": "Adicionar Amigo",
+    "AddFriendPrompt": "Quem você gostaria de adicionar como amigo?",
+    "InFight": "Você está lutando no momento!",
+    "RemoveFriend": "Remover Amigo",
+    "RemoveFriendPrompt": "Você deseja remover {00} da sua lista de amigos?",
+    "Request": "Pedido de Amizade",
+    "RequestPrompt": "{00} te enviou um pedido de amizade. Você aceita?",
+    "Title": "Amigos",
     "Offline": "Offline"
   },
   "GameMenu": {
     "character": "Detalhes do Personagem",
-    "Menu": "Open Menu",
+    "Menu": "Abrir Menu",
     "friends": "Amigos",
     "items": "Inventário",
     "party": "Party",
@@ -302,38 +323,38 @@
     "MapItemStackable": "{01} {00}"
   },
   "Guilds": {
-    "Guild": "Guild",
-    "guildtip": "Envia a {00} um convite para a tua guilda.",
+    "Guild": "Equipa",
+    "guildtip": "Envia a {00} um convite para a tua Equipa.",
     "Invite": "Invite",
-    "NotInGuild": "You are not currently in a guild!",
-    "InviteMemberTitle": "Invite Player",
-    "InviteMemberPrompt": "Who would you like to invite to {00}?",
-    "InviteRequestTitle": "Guild Invite",
-    "InviteRequestPrompt": "{00} would like to invite you to join their guild, {01}. Do you accept?",
-    "Leave": "Leave",
-    "LeaveTitle": "Leave Guild",
-    "LeavePrompt": "Are you sure you would like to leave your guild?",
-    "Promote": "Promote to {00}",
-    "Demote": "Demote to {00}",
-    "Kick": "Kick",
+    "NotInGuild": "Você não está numa Equipa atualmente!",
+    "InviteMemberTitle": "Convidar Jogador",
+    "InviteMemberPrompt": "Quem você gostaria de convidar para a Equipa {00}?",
+    "InviteRequestTitle": "Convite de Equipa",
+    "InviteRequestPrompt": "{00} gostaria que você se juntasse à Equipa, {01}. Você aceita?",
+    "Leave": "Sair",
+    "LeaveTitle": "Sair da Equipa",
+    "LeavePrompt": "Tem certeza que deseja sair da Equipa?",
+    "Promote": "Promover para {00}",
+    "Demote": "Rebaixar para {00}",
+    "Kick": "Expulsar",
     "PM": "PM",
     "Transfer": "Transfer",
     "OnlineListEntry": "[{00}] {01} - {02}",
     "OfflineListEntry": "[{00}] {01} - {02}",
     "Tooltip": "Lv. {00} {01}",
-    "KickTitle": "Kick Guild Member",
-    "KickPrompt": "Are you sure you would like to kick {00}?",
-    "PromoteTitle": "Promote Guild Member",
-    "PromotePrompt": "Are you sure you would like promote {00} to rank {01}?",
-    "DemoteTitle": "Demote Guild Member",
-    "DemotePrompt": "Are you sure you would like to demote {00} to rank {01}?",
-    "TransferTitle": "Transfer Guild",
-    "TransferPrompt": "This action will completely transfer all ownership of your guild to {00} and you will lose your rank of {01}. If you are sure you want to hand over your guild enter '{02}' below.",
-    "Bank": "{00} Guild Bank",
-    "NotAllowedWithdraw": "You do not have permission to withdraw from {00}'s guild bank!",
-    "NotAllowedDeposit": "You do not have permission to deposit items into {00}'s guild bank!",
-    "NotAllowedSwap": "You do not have permission to swap items around within {00}'s guild bank!",
-    "InviteAlreadyInGuild": "The player you're trying to invite is already in a guild or has a pending invite."
+    "KickTitle": "Expulsar membro da Equipa",
+    "KickPrompt": "Deseja mesmo expulsar {00} da Equipa?",
+    "PromoteTitle": "Promover Membro da Equipa",
+    "PromotePrompt": "Deseja mesmo promover {00} para o rank {01}?",
+    "DemoteTitle": "Rebaixar membro da Equipa",
+    "DemotePrompt": "Deseja mesmo rebaixar {00} para o rank {01}?",
+    "TransferTitle": "Transferir Equipa",
+    "TransferPrompt": "Isso vai fazer com que {00} torne-se a nova pessoa responsável pela guilda, além de fazer com que você perca o rank de {01}. Se tem certeza, digite '{02}' abaixo.",
+    "Bank": "{00} Banco da Equipa",
+    "NotAllowedWithdraw": "Você não tem permissão de retirar itens no banco da equipa {00}!",
+    "NotAllowedDeposit": "Você não tem permissão de depositar itens no banco da equipa {00}!",
+    "NotAllowedSwap": "Você não tem permissão de trocar a ordem dos itens no banco da equipa {00}!",
+    "InviteAlreadyInGuild": "O jogador que você está tentando entrar já está numa equipa!"
   },
   "InputBox": {
     "cancel": "Cancelar",
@@ -343,7 +364,7 @@
   },
   "MapItemWindow": {
     "Title": "Loot",
-    "LootButton": "Loot All"
+    "LootButton": "Obter Tudo"
   },
   "Internals": {
     "Bounds": "Bounds",
@@ -367,135 +388,143 @@
   },
   "Inventory": {
     "Cooldown": "{00}s",
-    "DropItemTitle": "Drop Item",
-    "DropItemPrompt": "How many/much {00} do you want to drop?",
-    "DropPrompt": "Do you wish to drop the item: {00}?",
+    "DropItemTitle": "Dropar Item",
+    "DropItemPrompt": "Quantos(as) {00} deseja dropar?",
+    "DropPrompt": "Deseja dropar o item: {00}?",
     "EquippedSymbol": "E",
-    "Title": "Inventory"
+    "Title": "Inventário"
   },
   "ItemContextMenu": {
-    "Use": "Use {00}",
-    "Open": "Open {00}",
-    "Equip": "Equip {00}",
-    "Unequip": "Unequip {00}",
-    "Learn": "Learn {00}",
-    "Drop": "Drop {00}",
-    "Sell": "Sell {00}",
+    "Use": "Usar {00}",
+    "Open": "Abrir {00}",
+    "Equip": "Equipar {00}",
+    "Unequip": "Desequipar {00}",
+    "Learn": "Aprender {00}",
+    "Drop": "Dropar {00}",
+    "Sell": "Vender {00}",
     "Bank": "Bank {00}",
     "Bag": "Bag {00}",
-    "Trade": "Offer {00}"
+    "Trade": "Oferecer {00}"
   },
   "SpellContextMenu": {
-    "Cast": "Cast {00}",
-    "Forget": "Forget {00}"
+    "Cast": "Conjurar {00}",
+    "Forget": "Esquecer {00}"
   },
   "BankContextMenu": {
-    "Withdraw": "Withdraw {00}"
+    "Withdraw": "Sacar {00}"
   },
   "BagContextMenu": {
-    "Withdraw": "Withdraw {00}"
+    "Withdraw": "Sacar {00}"
   },
   "TradeContextMenu": {
-    "Withdraw": "Revoke {00}"
+    "Withdraw": "Revocar {00}"
   },
   "ChatContextMenu": {
     "PM": "PM {00}",
-    "FriendInvite": "Friend Invite {00}",
-    "PartyInvite": "Party Invite {00}",
-    "GuildInvite": "Guild Invite {00}"
+    "FriendInvite": "Pedido de Amizade {00}",
+    "PartyInvite": "Pedido de Party {00}",
+    "GuildInvite": "Pedido de Equipa {00}"
   },
   "ShopContextMenu": {
-    "Buy": "Buy {00}"
+    "Buy": "Comprar {00}"
   },
   "ItemDescription": {
-    "BaseDamageType": "Damage Type:",
+    "BaseDamageType": "Tipo de Dano:",
     "DamageTypes": {
-      "0": "Physical",
-      "1": "Magic",
-      "2": "True"
+      "0": "Físico",
+      "1": "Mágico",
+      "2": "Verdadeiro"
     },
-    "BaseDamage": "Base Damage:",
-    "CritChance": "Critical Chance:",
-    "CritMultiplier": "Critical Multiplier:",
-    "AttackSpeed": "Attack Speed:",
+    "BaseDamage": "Dano Base:",
+    "CritChance": "Chance Crítico:",
+    "CritMultiplier": "Multiplicador Crítico:",
+    "AttackSpeed": "Vel. Ataque:",
     "Seconds": "{00}s",
     "Percentage": "{00}%",
     "Multiplier": "{00}x",
     "RegularAndPercentage": "{00} + {01}%",
     "Stats": {
-      "0": "Attack",
-      "1": "Ability Power",
-      "2": "Defense",
-      "3": "Magic Resist",
-      "4": "Speed"
+      "0": "Ataque",
+      "1": "Inteligência",
+      "2": "Defesa",
+      "3": "Resistência Mágica",
+      "4": "Velocidade"
     },
     "StatCounts": {
-      "0": "Attack:",
-      "1": "Ability Power:",
-      "2": "Defense:",
-      "3": "Magic Resist:",
-      "4": "Speed:"
+      "0": "Ataque:",
+      "1": "Inteligência:",
+      "2": "Defesa:",
+      "3": "Resistência Mágica:",
+      "4": "Velocidade:"
     },
-    "ScalingStat": "Scaling Stat:",
-    "ScalingPercentage": "Scaling Percentage:",
+    "ScalingStat": "Status de Bônus:",
+    "ScalingPercentage": "Porcentagem de Bônus:",
     "Vitals": {
       "0": "HP:",
       "1": "MP:"
     },
     "VitalsRegen": {
-      "0": "HP Regen:",
-      "1": "MP Regen:"
+      "0": "Regen HP:",
+      "1": "Regen MP:"
     },
     "ConsumableTypes": {
-      "0": "Restores HP:",
-      "1": "Restores MP:",
-      "2": "Grants Experience:"
+      "0": "Restaura HP:",
+      "1": "Restaura MP:",
+      "2": "Add. EXP:"
     },
     "BonusEffects": {
       "0": "",
-      "1": "Cooldown Reduction:",
-      "2": "Lifesteal:",
-      "3": "Tenacity:",
-      "4": "Luck:",
-      "5": "Bonus Experience:"
+      "1": "Red. de Cooldown:",
+      "2": "Roubo de Vida:",
+      "3": "Tenacidade:",
+      "4": "Sorte:",
+      "5": "Bônus EXP:",
+      "6": "Roubo de Mana:"
     },
     "TwoHand": "2H",
     "ItemTypes": {
-      "0": "None",
-      "1": "Equipment",
-      "2": "Consumable",
-      "3": "Currency",
-      "4": "Spell",
-      "5": "Special",
-      "6": "Bag"
+      "0": "Nenhum",
+      "1": "Equipamento",
+      "2": "Consumável",
+      "3": "Moeda",
+      "4": "Feitiço",
+      "5": "Especial",
+      "6": "Mochila"
     },
     "Rarity": {
-      "0": "None",
-      "1": "Common",
-      "2": "Uncommon",
-      "3": "Rare",
-      "4": "Epic",
-      "5": "Legendary"
+      "None": "Nenhum",
+      "Common": "Comum",
+      "Uncommon": "Incomum",
+      "Rare": "Raro",
+      "Epic": "Épico",
+      "Legendary": "Lendário",
+      "Nenhum": "0:Nenhum",
+      "Comum": "1:Comum",
+      "Incomum": "2:Incomum",
+      "Raro": "3:Raro",
+      "Épico": "4:Épico",
+      "Lendário": "5:Lendário"
     },
     "Description": "{00}",
-    "CastSpell": "Casts Spell: {00}",
-    "TeachSpell": "Teaches Spell: {00}",
-    "SingleUse": "Single use",
+    "CastSpell": "Conjurar Feitiço: {00}",
+    "TeachSpell": "Ensinar Feitiço: {00}",
+    "SingleUse": "Uso Único",
     "BagSlots": "Bag Slots:",
-    "ItemLimits": "Can not be {00}",
+    "ItemLimits": "Não pode ser {00}",
     "Banked": "Banked",
     "GuildBanked": "Guild Banked",
-    "Sold": "Sold",
-    "Dropped": "Dropped",
+    "Sold": "Vendido",
+    "Dropped": "Dropado",
     "Bagged": "Bagged",
-    "Traded": "Traded",
-    "Amount": "Amount:",
-    "DropOnDeath": "Drop chance on death:",
-    "BlockChance": "Block Chance:",
-    "BlockAmount": "Block Amount:",
-    "BlockAbsorption": "Block Absorption:"
+    "Traded": "Trocado",
+    "Amount": "Qtd:",
+    "DropOnDeath": "Chance de dropar ao morrer:",
+    "BlockChance": "Chance de Block:",
+    "BlockAmount": "Qtd. de Block:",
+    "BlockAbsorption": "Absorção de Block:"
   },
   "Keys": {
+    "KeyNameWithModifier": "{00} + {01}",
     "keydict": {
       "a": "A",
       "add": "Add",
@@ -706,13 +735,13 @@
     "gamename": "Instituto de Magia Bandelugo"
   },
   "MainMenu": {
-    "Credits": "Credits",
-    "Exit": "Exit",
+    "Credits": "Créditos",
+    "Exit": "Sair",
     "Login": "Login",
-    "Register": "Register",
-    "Settings": "Settings",
+    "Register": "Registo",
+    "Settings": "Opções",
     "SettingsTooltip": "",
-    "Title": "Main Menu"
+    "Title": "Menu Principal"
   },
   "Settings": {
     "Apply": "Apply",
@@ -746,13 +775,25 @@
     "Title": "Settings",
     "UnlimitedFps": "No Limit",
     "VideoSettingsTab": "Video",
-    "Vsync": "V-Sync"
+    "Vsync": "V-Sync",
+    "InformationSettings": "Information",
+    "ShowExperienceAsPercentage": "Show Experience as percentage",
+    "ShowFriendOverheadInformation": "Show Friend Overhead Information",
+    "ShowGuildOverheadInformation": "Show Guild Overhead Information",
+    "ShowHealthAsPercentage": "Show Health as percentage",
+    "ShowNpcOverheadInformation": "Show Npc Overhead Information",
+    "ShowManaAsPercentage": "Show Mana as percentage",
+    "ShowMyOverheadInformation": "Show My Overhead Information",
+    "ShowPartyOverheadInformation": "Show Party Overhead Information",
+    "ShowPlayerOverheadInformation": "Show Players Overhead Information",
+    "StickyTarget": "Sticky Target",
+    "TargetingSettings": "Targeting"
   },
   "Parties": {
     "infight": "Estás no meio de uma batalha!",
     "inviteprompt": "{00} convidou-te para uma Party. Aceitas?",
-    "kick": "Kickar {00}",
-    "kicklbl": "Kickar",
+    "kick": "Expulsar {00}",
+    "kicklbl": "Expulsar",
     "leader": "Líder",
     "leadertip": "Líder da Party",
     "leave": "Sair da Party",
@@ -819,15 +860,15 @@
     "resourcesfatal": "Falha no carregamento de recursos da diretoria do client e do servidor Ascension Game Dev. Impossível iniciar o jogo!"
   },
   "Server": {
-    "StatusLabel": "Server Status: {00}",
+    "StatusLabel": "Status do Servidor: {00}",
     "Online": "Online",
     "Offline": "Offline",
-    "Failed": "Network Error",
-    "Connecting": "Connecting...",
-    "Unknown": "Unknown",
-    "VersionMismatch": "Bad Version",
-    "ServerFull": "Full",
-    "HandshakeFailure": "Handshake Error"
+    "Failed": "Erro de Rede",
+    "Connecting": "Conectando-se...",
+    "Unknown": "Desconhecido",
+    "VersionMismatch": "Versão Incorreta",
+    "ServerFull": "Lotado",
+    "HandshakeFailure": "Versão Incorreta"
   },
   "Shop": {
     "buyitem": "Comprar Item",
@@ -842,114 +883,114 @@
   },
   "SpellDescription": {
     "SpellTypes": {
-      "0": "Combat Spell",
-      "1": "Warp to Map",
-      "2": "Warp to Target",
+      "0": "Feitiço de Combate",
+      "1": "Aparatar para Mapa",
+      "2": "Aparatar para alvo",
       "3": "Dash",
-      "4": "Special"
+      "4": "Especial"
     },
     "Description": "{00}",
-    "CastTime": "Cast Time:",
-    "Instant": "Instant",
+    "CastTime": "Tempo de Conjuração:",
+    "Instant": "Instantâneo",
     "Seconds": "{00}s",
     "Percentage": "{00}%",
     "Multiplier": "{00}x",
     "VitalCosts": {
-      "0": "HP Cost:",
-      "1": "MP Cost:"
+      "0": "Custo HP:",
+      "1": "Custo MP:"
     },
     "VitalDamage": {
-      "0": "HP Damage:",
-      "1": "MP Damage:"
+      "0": "Dano HP:",
+      "1": "Dano MP:"
     },
     "VitalRecovery": {
-      "0": "HP Recovery:",
-      "1": "MP Recovery:"
+      "0": "Recuperação HP:",
+      "1": "Recuperação MP:"
     },
     "Cooldown": "Cooldown:",
-    "CooldownGroup": "Cooldown Group:",
-    "IgnoreGlobalCooldown": "Ignores Global Cooldown",
-    "IgnoreCooldownReduction": "Ignores Cooldown Reduction",
+    "CooldownGroup": "Grupo Cooldown:",
+    "IgnoreGlobalCooldown": "Ignora Cooldown Global",
+    "IgnoreCooldownReduction": "Ignora Redução de Cooldown",
     "TargetTypes": {
-      "0": "Self Cast",
-      "1": "Targetted - Range: {00} Tiles",
-      "2": "AOE",
-      "3": "Projectile - Range: {00} Tiles",
+      "0": "Si Mesmo",
+      "1": "Selecionável - Alcance: {00} Tiles",
+      "2": "Área de Efeito",
+      "3": "Projéctil - Alcance: {00} Tiles",
       "4": "On Hit",
-      "5": "Trap"
+      "5": "Armadilha"
     },
-    "Bound": "Can not be unlearned.",
-    "Distance": "Distance:",
-    "IgnoreMapBlock": "Ignores Map Blocks",
-    "IgnoreResourceBlock": "Ignores Active Resources",
-    "IgnoreZDimension": "Ignores Height Differences",
-    "IgnoreConsumedResourceBlock": "Ignores Consumed Resources",
+    "Bound": "Não pode desaprender.",
+    "Distance": "Distância:",
+    "IgnoreMapBlock": "Ignora Blocks do Mapa",
+    "IgnoreResourceBlock": "Ignora Recursos Ativos",
+    "IgnoreZDimension": "Ignora Diferença de Tamanhos",
+    "IgnoreConsumedResourceBlock": "Ignora Recursos Consumidos",
     "Tiles": "{00} Tiles",
-    "Friendly": "Support Spell",
-    "Unfriendly": "Damaging Spell",
-    "DamageType": "Damage Type:",
+    "Friendly": "Feitiço de Suporte",
+    "Unfriendly": "Feitiço de Dano",
+    "DamageType": "Tipo de Dano:",
     "DamageTypes": {
-      "0": "Physical",
-      "1": "Magic",
-      "2": "True"
+      "0": "Físico",
+      "1": "Mágico",
+      "2": "Verdadeiro"
     },
-    "CritChance": "Critical Chance:",
-    "CritMultiplier": "Critical Multiplier:",
+    "CritChance": "Chance de Crítico:",
+    "CritMultiplier": "Multiplicador Crítico:",
     "Stats": {
-      "0": "Attack",
-      "1": "Ability Power",
-      "2": "Defense",
-      "3": "Magic Resist",
-      "4": "Speed"
+      "0": "Ataque",
+      "1": "Inteligência",
+      "2": "Defesa",
+      "3": "Resistência Mágica",
+      "4": "Velocidade"
     },
-    "ScalingStat": "Scaling Stat:",
-    "ScalingPercentage": "Scaling Percentage:",
-    "HoT": "Heals over Time",
-    "DoT": "Damages over Time",
+    "ScalingStat": "Status Bônus:",
+    "ScalingPercentage": "Porcentagem Bônus:",
+    "HoT": "Cura com o Tempo",
+    "DoT": "Dano com o Tempo",
     "Tick": "Ticks every:",
     "Effects": {
       "0": "",
-      "1": "Silence",
-      "2": "Stun",
+      "1": "Silênciar",
+      "2": "Estuporar",
       "3": "Snare",
-      "4": "Blind",
+      "4": "Cegar",
       "5": "Stealth",
-      "6": "Transforms",
+      "6": "Transformar",
       "7": "Cleanse",
-      "8": "Invulnerable",
-      "9": "Shield",
-      "10": "Sleep",
+      "8": "Invulnerável",
+      "9": "Escudo",
+      "10": "Dormir",
       "11": "On-Hit",
-      "12": "Taunt"
+      "12": "Irritar"
     },
-    "Effect": "Effect:",
-    "Duration": "Duration:",
-    "ShieldSize": "Shield Size:",
+    "Effect": "Efeito:",
+    "Duration": "Duração:",
+    "ShieldSize": "Tamanho do Escudo:",
     "StatCounts": {
-      "0": "Attack:",
-      "1": "Ability Power:",
-      "2": "Defense:",
-      "3": "Magic Resist:",
-      "4": "Speed:"
+      "0": "Ataque:",
+      "1": "Inteligência:",
+      "2": "Defesa:",
+      "3": "Resistência Mágica:",
+      "4": "Velocidade:"
     },
     "RegularAndPercentage": "{00} + {01}%",
-    "StatBuff": "Stat Buff",
-    "HitRadius": "Hit Radius:",
+    "StatBuff": "Buff de Status",
+    "HitRadius": "Alcance do Hit:",
     "addsymbol": "+",
     "effectlist": {
       "0": "",
-      "1": "Silences Target",
-      "2": "Stuns Target",
-      "3": "Snares Target",
-      "4": "Blinds Target",
-      "5": "Stealths Target",
-      "6": "Transforms Target",
-      "7": "Cleanses Target",
-      "8": "Target becomes Invulnerable",
-      "9": "Shields Target",
-      "10": "Makes the target fall asleep",
-      "11": "Applies an On Hit effect to the target",
-      "12": "Taunts Target"
+      "1": "Silencia o Alvo",
+      "2": "Estupora o Alvo",
+      "3": "Snares Alvo",
+      "4": "Cega o Alvo",
+      "5": "Stealths Alvo",
+      "6": "Transforma o Alvo",
+      "7": "Cleanses Alvo",
+      "8": "Alvo se torna Invulnerável",
+      "9": "Coloca um Escudo no Alvo",
+      "10": "Adormece o Alvo",
+      "11": "Applies an On Hit effect to the Alvo",
+      "12": "Irrita o Alvo"
     }
   },
   "Spells": {
@@ -974,11 +1015,11 @@
     "youroffer": "A tua Oferta:"
   },
   "EscapeMenu": {
-    "CharacterSelect": "Characters",
-    "Close": "Close",
+    "CharacterSelect": "Personagens",
+    "Close": "Fechar",
     "ExitToDesktop": "Desktop",
     "Logout": "Logout",
-    "Settings": "Settings",
+    "Settings": "Configurações",
     "Title": "Menu"
   },
   "Numbers": {
@@ -989,13 +1030,13 @@
     "comma": ","
   },
   "Update": {
-    "Checking": "Checking for updates, please wait!",
-    "Updating": "Downloading updates, please wait!",
-    "Restart": "Update complete! Relaunch {00} to play!",
-    "Done": "Update complete! Launching game!",
-    "Error": "Update Error! Check logs for more info!",
-    "Files": "{00} Files Remaining",
-    "Size": "{00} Left",
+    "Checking": "Verificando atualizações, aguarde!",
+    "Updating": "Baixando atualizações, aguarde!",
+    "Restart": "Update completo! Reabra {00} para jogar!",
+    "Done": "Update completo! Abrindo jogo!",
+    "Error": "Erro no Update! Verifique os logs e contate o Discord!",
+    "Files": "{00} Arquivos Restantes",
+    "Size": "{00} Restantes",
     "Percent": "{00}%"
   },
   "GameWindow": {

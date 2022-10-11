@@ -1,5 +1,5 @@
 ﻿{
-  "Host": "institutobandelugo.ddns.net",
+  "Host": "192.168.0.25",
   "Port": 5400,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
@@ -18,5 +18,10 @@
   "MouseCursor": "cursor.png",
   "MusicFadeTimer": 1500,
   "EnableContextMenus": true,
-  "UiSkin": "Intersect2021"
+  "UiSkin": "Intersect2021",
+  "EntityBarDirections": [
+    "StartToEnd",
+    "StartToEnd",
+    "StartToEnd"
+  ]
 }

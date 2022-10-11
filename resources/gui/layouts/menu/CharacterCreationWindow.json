@@ -1,11 +1,11 @@
 {
-  "Bounds": "734,700,452,240",
+  "Bounds": "414,283,452,198",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
-  "AlignmentTransform": "0,0",
-  "Margin": "0,0,0,140",
+  "AlignmentTransform": "0,32",
+  "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
-  "Alignments": "Center,Bottom",
+  "Alignments": "Center",
   "DrawBackground": true,
   "MinimumSize": "1,1",
   "MaximumSize": "4096,4096",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "CharacterCreationHeader": {
-      "Bounds": "0,0,452,70",
+      "Bounds": "0,0,452,39",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -47,13 +47,13 @@
       "ClickedTextColor": "",
       "DisabledTextColor": "255,90,90,90",
       "TextAlign": "Center",
-      "TextPadding": "0,0,0,7",
+      "TextPadding": "0,0,0,0",
       "AutoSizeToContents": false,
       "Font": "sourcesansproblack,12",
       "TextScale": 1.0
     },
     "CharacterNamePanel": {
-      "Bounds": "228,66,210,35",
+      "Bounds": "228,50,212,30",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -71,13 +71,13 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "inputfield.png",
+      "Texture": "inputfield_newchar.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "CharacterNameLabel": {
-          "Bounds": "0,-4,176,20",
+          "Bounds": "0,-5,176,20",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -107,7 +107,7 @@
           "TextScale": 1.0
         },
         "CharacterNameField": {
-          "Bounds": "4,17,210,16",
+          "Bounds": "4,13,212,16",
           "Padding": "4,0,4,2",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -141,7 +141,7 @@
       }
     },
     "ClassPanel": {
-      "Bounds": "228,106,210,35",
+      "Bounds": "228,90,212,30",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -159,13 +159,13 @@
       "ToolTipBackground": null,
       "ToolTipFont": null,
       "ToolTipTextColor": "",
-      "Texture": "inputfield.png",
+      "Texture": "inputfield_newchar.png",
       "HoverSound": null,
       "LeftMouseClickSound": null,
       "RightMouseClickSound": null,
       "Children": {
         "ClassLabel": {
-          "Bounds": "0,-4,176,20",
+          "Bounds": "0,-5,176,20",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -195,7 +195,7 @@
           "TextScale": 1.0
         },
         "ClassCombobox": {
-          "Bounds": "0,14,210,16",
+          "Bounds": "0,13,212,16",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -552,7 +552,7 @@
       }
     },
     "HintLabel": {
-      "Bounds": "16,70,178,20",
+      "Bounds": "16,46,178,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -582,7 +582,7 @@
       "TextScale": 1.0
     },
     "Hint2Label": {
-      "Bounds": "16,85,178,20",
+      "Bounds": "16,60,178,20",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -612,7 +612,7 @@
       "TextScale": 1.0
     },
     "CharacterContainer": {
-      "Bounds": "16,115,178,79",
+      "Bounds": "16,90,178,79",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -660,7 +660,7 @@
           "RightMouseClickSound": null
         },
         "NextSpriteButton": {
-          "Bounds": "148,22,20,25",
+          "Bounds": "148,22,30,35",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -698,7 +698,7 @@
           "ClickSound": ""
         },
         "PreviousSpriteButton": {
-          "Bounds": "0,22,20,25",
+          "Bounds": "0,22,30,35",
           "Padding": "3,3,3,3",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -738,7 +738,7 @@
       }
     },
     "GenderPanel": {
-      "Bounds": "228,148,459,30",
+      "Bounds": "228,122,459,30",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -762,7 +762,7 @@
       "RightMouseClickSound": null,
       "Children": {
         "GenderLabel": {
-          "Bounds": "0,8,178,60",
+          "Bounds": "0,6,178,60",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -792,7 +792,7 @@
           "TextScale": 1.0
         },
         "MaleCheckbox": {
-          "Bounds": "70,1,80,24",
+          "Bounds": "74,0,80,24",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -811,7 +811,7 @@
           "ToolTipFont": null,
           "ToolTipTextColor": "",
           "Label": {
-            "Bounds": "5,6,10,16",
+            "Bounds": "0,6,10,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -882,7 +882,7 @@
           }
         },
         "FemaleCheckbox": {
-          "Bounds": "136,1,100,24",
+          "Bounds": "146,0,100,24",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -901,7 +901,7 @@
           "ToolTipFont": null,
           "ToolTipTextColor": "",
           "Label": {
-            "Bounds": "25,6,7,16",
+            "Bounds": "0,6,7,16",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -931,7 +931,7 @@
             "TextScale": 1.0
           },
           "Checkbox": {
-            "Bounds": "48,0,24,25",
+            "Bounds": "44,0,24,25",
             "Padding": "3,3,3,3",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -974,7 +974,7 @@
       }
     },
     "CreateButton": {
-      "Bounds": "223,188,96,35",
+      "Bounds": "220,156,96,35",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1012,7 +1012,7 @@
       "ClickSound": ""
     },
     "BackButton": {
-      "Bounds": "343,188,96,35",
+      "Bounds": "350,156,96,35",
       "Padding": "3,3,3,3",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",

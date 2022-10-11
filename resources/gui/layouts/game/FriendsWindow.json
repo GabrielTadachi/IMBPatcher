@@ -1,9 +1,9 @@
 {
-  "Bounds": "1514,681,400,339",
+  "Bounds": "874,211,400,339",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
   "AlignmentTransform": "0,0",
-  "Margin": "0,0,0,0",
+  "Margin": "0,0,6,150",
   "RenderColor": "255,255,255,255",
   "Alignments": "Bottom,Right",
   "DrawBackground": true,
@@ -24,13 +24,13 @@
   "InactiveColor": "",
   "Closable": true,
   "Titlebar": {
-    "Bounds": "0,0,400,30",
+    "Bounds": "0,150,400,39",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
     "RenderColor": "255,255,255,255",
-    "Alignments": "",
+    "Alignments": "Center",
     "DrawBackground": true,
     "MinimumSize": "1,1",
     "MaximumSize": "4096,4096",
@@ -51,13 +51,13 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,98,31",
-    "Padding": "40,7,4,4",
+    "Bounds": "173,9,54,20",
+    "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
     "RenderColor": "255,255,255,255",
-    "Alignments": "",
+    "Alignments": "Center",
     "DrawBackground": true,
     "MinimumSize": "1,1",
     "MaximumSize": "4096,4096",
@@ -81,11 +81,11 @@
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "374,5,26,25",
-    "Padding": "3,5,0,0",
+    "Bounds": "370,10,20,20",
+    "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
-    "Margin": "0,0,0,0",
+    "Margin": "0,10,10,0",
     "RenderColor": "255,255,255,255",
     "Alignments": "Top,Right",
     "DrawBackground": true,
@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "AddFriendButton": {
-        "Bounds": "380,3,16,16",
+        "Bounds": "374,3,16,16",
         "Padding": "3,3,3,3",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -177,7 +177,7 @@
         "ClickSound": ""
       },
       "FriendContainer": {
-        "Bounds": "0,27,400,282",
+        "Bounds": "9,27,400,282",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -190,7 +190,7 @@
         "Disabled": false,
         "Hidden": false,
         "RestrictToParent": false,
-        "MouseInputEnabled": false,
+        "MouseInputEnabled": true,
         "HideToolTip": false,
         "ToolTipBackground": null,
         "ToolTipFont": null,

@@ -33,9 +33,8 @@
       "MouseInputEnabled": false,
       "HideToolTip": false,
       "Texture": "",
-	        "HoverSound": "octave-tap-resonant.wav",
-			"RightMouseClickSound": "octave-beep-tapped.wav",
-
+      "HoverSound": "octave-tap-resonant.wav",
+      "RightMouseClickSound": "octave-beep-tapped.wav",
     }
   }
 }

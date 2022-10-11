@@ -23,11 +23,11 @@
   "RightMouseClickSound": null,
   "Children": {
     "Description": {
-      "Bounds": "3,0,204,16",
+      "Bounds": "0,0,10,10",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
-      "Margin": "0,0,5,2",
+      "Margin": "0,0,0,0",
       "RenderColor": "255,255,255,255",
       "Alignments": "",
       "DrawBackground": true,
@@ -36,7 +36,7 @@
       "Disabled": false,
       "Hidden": false,
       "RestrictToParent": false,
-      "MouseInputEnabled": false,
+      "MouseInputEnabled": true,
       "HideToolTip": false,
       "ToolTipBackground": null,
       "ToolTipFont": null,

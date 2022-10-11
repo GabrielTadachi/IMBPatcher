@@ -1,11 +1,11 @@
 {
-  "Bounds": "770,1037,380,43",
+  "Bounds": "859,4,417,48",
   "Padding": "0,0,0,0",
-  "AlignmentEdgeDistances": "0,0,0,0",
+  "AlignmentEdgeDistances": "0,4,4,0",
   "AlignmentTransform": "0,0",
   "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
-  "Alignments": "Center,Bottom",
+  "Alignments": "Top,Right",
   "DrawBackground": true,
   "MinimumSize": "1,1",
   "MaximumSize": "4096,4096",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "HotbarContainer0": {
-      "Bounds": "6,6,35,35",
+      "Bounds": "5,5,38,38",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -47,13 +47,13 @@
       "RightMouseClickSound": null,
       "Children": {
         "HotbarIcon0": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,3,32,32",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "",
+          "Alignments": "Center",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -97,7 +97,7 @@
           }
         },
         "HotbarEquippedLabel0": {
-          "Bounds": "25,0,10,11",
+          "Bounds": "28,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -127,7 +127,7 @@
           "TextScale": 1.0
         },
         "HotbarCooldownLabel0": {
-          "Bounds": "15,12,5,11",
+          "Bounds": "16,13,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -157,7 +157,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel0": {
-          "Bounds": "30,24,5,11",
+          "Bounds": "33,27,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -189,7 +189,7 @@
       }
     },
     "HotbarContainer1": {
-      "Bounds": "43,6,35,35",
+      "Bounds": "46,5,38,38",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -213,13 +213,13 @@
       "RightMouseClickSound": null,
       "Children": {
         "HotbarIcon1": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,3,32,32",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "",
+          "Alignments": "Center",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -263,7 +263,7 @@
           }
         },
         "HotbarEquippedLabel1": {
-          "Bounds": "25,0,10,11",
+          "Bounds": "28,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -293,7 +293,7 @@
           "TextScale": 1.0
         },
         "HotbarCooldownLabel1": {
-          "Bounds": "15,12,5,11",
+          "Bounds": "16,13,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -323,7 +323,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel1": {
-          "Bounds": "30,24,5,11",
+          "Bounds": "33,27,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -355,7 +355,7 @@
       }
     },
     "HotbarContainer2": {
-      "Bounds": "80,6,35,35",
+      "Bounds": "87,5,38,38",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -379,13 +379,13 @@
       "RightMouseClickSound": null,
       "Children": {
         "HotbarIcon2": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,3,32,32",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "",
+          "Alignments": "Center",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -429,7 +429,7 @@
           }
         },
         "HotbarEquippedLabel2": {
-          "Bounds": "25,0,10,11",
+          "Bounds": "28,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -459,7 +459,7 @@
           "TextScale": 1.0
         },
         "HotbarCooldownLabel2": {
-          "Bounds": "15,12,5,11",
+          "Bounds": "16,13,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -489,7 +489,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel2": {
-          "Bounds": "30,24,5,11",
+          "Bounds": "33,27,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -521,7 +521,7 @@
       }
     },
     "HotbarContainer3": {
-      "Bounds": "117,6,35,35",
+      "Bounds": "128,5,38,38",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -545,13 +545,13 @@
       "RightMouseClickSound": null,
       "Children": {
         "HotbarIcon3": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,3,32,32",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "",
+          "Alignments": "Center",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -595,7 +595,7 @@
           }
         },
         "HotbarEquippedLabel3": {
-          "Bounds": "25,0,10,11",
+          "Bounds": "28,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -625,7 +625,7 @@
           "TextScale": 1.0
         },
         "HotbarCooldownLabel3": {
-          "Bounds": "15,12,5,11",
+          "Bounds": "16,13,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -655,7 +655,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel3": {
-          "Bounds": "30,24,5,11",
+          "Bounds": "33,27,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -687,7 +687,7 @@
       }
     },
     "HotbarContainer4": {
-      "Bounds": "154,6,35,35",
+      "Bounds": "169,5,38,38",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -711,13 +711,13 @@
       "RightMouseClickSound": null,
       "Children": {
         "HotbarIcon4": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,3,32,32",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "",
+          "Alignments": "Center",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -761,7 +761,7 @@
           }
         },
         "HotbarEquippedLabel4": {
-          "Bounds": "25,0,10,11",
+          "Bounds": "28,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -791,7 +791,7 @@
           "TextScale": 1.0
         },
         "HotbarCooldownLabel4": {
-          "Bounds": "15,12,5,11",
+          "Bounds": "16,13,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -821,7 +821,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel4": {
-          "Bounds": "30,24,5,11",
+          "Bounds": "33,27,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -853,7 +853,7 @@
       }
     },
     "HotbarContainer5": {
-      "Bounds": "191,6,35,35",
+      "Bounds": "210,5,38,38",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -877,13 +877,13 @@
       "RightMouseClickSound": null,
       "Children": {
         "HotbarIcon5": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,3,32,32",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "",
+          "Alignments": "Center",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -927,7 +927,7 @@
           }
         },
         "HotbarEquippedLabel5": {
-          "Bounds": "25,0,10,11",
+          "Bounds": "28,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -957,7 +957,7 @@
           "TextScale": 1.0
         },
         "HotbarCooldownLabel5": {
-          "Bounds": "15,12,5,11",
+          "Bounds": "16,13,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -987,7 +987,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel5": {
-          "Bounds": "30,24,5,11",
+          "Bounds": "33,27,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1019,7 +1019,7 @@
       }
     },
     "HotbarContainer6": {
-      "Bounds": "228,6,35,35",
+      "Bounds": "251,5,38,38",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1043,13 +1043,13 @@
       "RightMouseClickSound": null,
       "Children": {
         "HotbarIcon6": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,3,32,32",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "",
+          "Alignments": "Center",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -1093,7 +1093,7 @@
           }
         },
         "HotbarEquippedLabel6": {
-          "Bounds": "25,0,10,11",
+          "Bounds": "28,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1123,7 +1123,7 @@
           "TextScale": 1.0
         },
         "HotbarCooldownLabel6": {
-          "Bounds": "15,12,5,11",
+          "Bounds": "16,13,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1153,7 +1153,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel6": {
-          "Bounds": "30,24,5,11",
+          "Bounds": "33,27,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1185,7 +1185,7 @@
       }
     },
     "HotbarContainer7": {
-      "Bounds": "265,6,35,35",
+      "Bounds": "292,5,38,38",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1209,13 +1209,13 @@
       "RightMouseClickSound": null,
       "Children": {
         "HotbarIcon7": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,3,32,32",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "",
+          "Alignments": "Center",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -1259,7 +1259,7 @@
           }
         },
         "HotbarEquippedLabel7": {
-          "Bounds": "25,0,10,11",
+          "Bounds": "28,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1289,7 +1289,7 @@
           "TextScale": 1.0
         },
         "HotbarCooldownLabel7": {
-          "Bounds": "15,12,5,11",
+          "Bounds": "16,13,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1319,7 +1319,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel7": {
-          "Bounds": "30,24,5,11",
+          "Bounds": "33,27,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1351,7 +1351,7 @@
       }
     },
     "HotbarContainer8": {
-      "Bounds": "302,6,35,35",
+      "Bounds": "333,5,38,38",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1375,13 +1375,13 @@
       "RightMouseClickSound": null,
       "Children": {
         "HotbarIcon8": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,3,32,32",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "",
+          "Alignments": "Center",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -1425,7 +1425,7 @@
           }
         },
         "HotbarEquippedLabel8": {
-          "Bounds": "25,0,10,11",
+          "Bounds": "28,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1455,7 +1455,7 @@
           "TextScale": 1.0
         },
         "HotbarCooldownLabel8": {
-          "Bounds": "15,12,5,11",
+          "Bounds": "16,13,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1485,7 +1485,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel8": {
-          "Bounds": "30,24,5,11",
+          "Bounds": "33,27,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1517,7 +1517,7 @@
       }
     },
     "HotbarContainer9": {
-      "Bounds": "339,6,35,35",
+      "Bounds": "374,5,38,38",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -1541,13 +1541,13 @@
       "RightMouseClickSound": null,
       "Children": {
         "HotbarIcon9": {
-          "Bounds": "1,1,32,32",
+          "Bounds": "3,3,32,32",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
           "Margin": "0,0,0,0",
           "RenderColor": "255,255,255,255",
-          "Alignments": "",
+          "Alignments": "Center",
           "DrawBackground": true,
           "MinimumSize": "1,1",
           "MaximumSize": "4096,4096",
@@ -1591,7 +1591,7 @@
           }
         },
         "HotbarEquippedLabel9": {
-          "Bounds": "25,0,10,11",
+          "Bounds": "28,0,10,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1621,7 +1621,7 @@
           "TextScale": 1.0
         },
         "HotbarCooldownLabel9": {
-          "Bounds": "15,12,5,11",
+          "Bounds": "16,13,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",
@@ -1651,7 +1651,7 @@
           "TextScale": 1.0
         },
         "HotbarLabel9": {
-          "Bounds": "30,24,5,11",
+          "Bounds": "33,27,5,11",
           "Padding": "0,0,0,0",
           "AlignmentEdgeDistances": "0,0,0,0",
           "AlignmentTransform": "0,0",

@@ -1,10 +1,10 @@
 {
-  "Bounds": "583,114,200,540",
+  "Bounds": "583,60,200,540",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
   "Margin": "0,0,0,0",
-  "RenderColor": "255,255,255,255",
+  "RenderColor": "245,49,19,88",
   "Alignments": "",
   "DrawBackground": true,
   "MinimumSize": "100,40",
@@ -51,13 +51,13 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "0,0,118,21",
-    "Padding": "8,1,0,0",
+    "Bounds": "46,5,107,20",
+    "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
     "RenderColor": "255,255,255,255",
-    "Alignments": "",
+    "Alignments": "Center",
     "DrawBackground": true,
     "MinimumSize": "1,1",
     "MaximumSize": "4096,4096",
@@ -81,11 +81,11 @@
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "176,0,24,24",
+    "Bounds": "176,4,20,20",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
-    "Margin": "0,0,0,0",
+    "Margin": "0,4,4,0",
     "RenderColor": "255,255,255,255",
     "Alignments": "Top,Right",
     "DrawBackground": true,
@@ -108,9 +108,9 @@
     "AutoSizeToContents": false,
     "Font": null,
     "TextScale": 1.0,
-    "NormalImage": null,
-    "HoveredImage": null,
-    "ClickedImage": null,
+    "NormalImage": "closenormal.png",
+    "HoveredImage": "closehover.png",
+    "ClickedImage": "closeclicked.png",
     "DisabledImage": null,
     "CenterImage": false,
     "HoverSound": null,
@@ -1437,7 +1437,7 @@
         "RightMouseClickSound": null
       },
       "LabelAccess": {
-        "Bounds": "6,232,34,14",
+        "Bounds": "6,232,35,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1860,7 +1860,7 @@
         "ClickSound": null
       },
       "LabelMapList": {
-        "Bounds": "4,294,42,14",
+        "Bounds": "4,294,72,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",

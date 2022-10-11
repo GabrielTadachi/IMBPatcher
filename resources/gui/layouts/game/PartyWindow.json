@@ -1,11 +1,11 @@
 {
-  "Bounds": "1670,355,250,370",
+  "Bounds": "1024,180,250,370",
   "Padding": "0,0,0,0",
-  "AlignmentEdgeDistances": "0,0,0,0",
+  "AlignmentEdgeDistances": "0,0,6,150",
   "AlignmentTransform": "0,0",
   "Margin": "0,0,0,0",
   "RenderColor": "255,255,255,255",
-  "Alignments": "Center,Right",
+  "Alignments": "Bottom,Right",
   "DrawBackground": true,
   "MinimumSize": "100,40",
   "MaximumSize": "4096,4096",
@@ -24,7 +24,7 @@
   "InactiveColor": "",
   "Closable": true,
   "Titlebar": {
-    "Bounds": "0,0,250,50",
+    "Bounds": "0,0,250,39",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
@@ -51,13 +51,13 @@
     "MouseDownSound": ""
   },
   "Title": {
-    "Bounds": "104,0,41,38",
-    "Padding": "0,18,0,0",
+    "Bounds": "104,9,41,20",
+    "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
     "Margin": "0,0,0,0",
     "RenderColor": "255,255,255,255",
-    "Alignments": "Center,Top",
+    "Alignments": "Center",
     "DrawBackground": true,
     "MinimumSize": "1,1",
     "MaximumSize": "4096,4096",
@@ -74,23 +74,23 @@
     "HoveredTextColor": "",
     "ClickedTextColor": "",
     "DisabledTextColor": "255,90,90,90",
-    "TextAlign": "CenterH",
+    "TextAlign": "Left, CenterV",
     "TextPadding": "0,0,0,0",
     "AutoSizeToContents": true,
     "Font": "sourcesansproblack,12",
     "TextScale": 1.0
   },
   "CloseButton": {
-    "Bounds": "222,21,15,16",
+    "Bounds": "220,10,20,20",
     "Padding": "0,0,0,0",
     "AlignmentEdgeDistances": "0,0,0,0",
     "AlignmentTransform": "0,0",
-    "Margin": "0,21,13,0",
+    "Margin": "0,10,10,0",
     "RenderColor": "255,255,255,255",
     "Alignments": "Top,Right",
     "DrawBackground": true,
     "MinimumSize": "1,1",
-    "MaximumSize": "15,15",
+    "MaximumSize": "30,30",
     "Disabled": false,
     "Hidden": false,
     "RestrictToParent": true,
@@ -106,7 +106,7 @@
     "TextAlign": "Center",
     "TextPadding": "3,3,3,3",
     "AutoSizeToContents": false,
-    "Font": "sourcesansproblack,10",
+    "Font": "arial,10",
     "TextScale": 1.0,
     "NormalImage": "closenormal.png",
     "HoveredImage": "closehover.png",
@@ -139,7 +139,7 @@
     "ToolTipTextColor": "",
     "Children": {
       "LeaderIcon": {
-        "Bounds": "151,8,34,34",
+        "Bounds": "148,4,34,34",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -163,7 +163,7 @@
         "RightMouseClickSound": null
       },
       "LeaderText": {
-        "Bounds": "42,5,168,16",
+        "Bounds": "42,5,188,16",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -223,7 +223,7 @@
         "TextScale": 1.0
       },
       "HealthBarContainer0": {
-        "Bounds": "42,25,168,14",
+        "Bounds": "42,25,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -241,13 +241,13 @@
         "ToolTipBackground": null,
         "ToolTipFont": null,
         "ToolTipTextColor": "",
-        "Texture": "emptybar.png",
+        "Texture": "emptybarparty.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
         "Children": {
           "HealthBar0": {
-            "Bounds": "0,0,168,14",
+            "Bounds": "0,0,188,14",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -265,7 +265,7 @@
             "ToolTipBackground": null,
             "ToolTipFont": null,
             "ToolTipTextColor": "",
-            "Texture": "hpbar.png",
+            "Texture": "hpbarparty.png",
             "HoverSound": null,
             "LeftMouseClickSound": null,
             "RightMouseClickSound": null
@@ -303,7 +303,7 @@
         "TextScale": 1.0
       },
       "HealthValue0": {
-        "Bounds": "42,23,168,14",
+        "Bounds": "42,23,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -333,7 +333,7 @@
         "TextScale": 1.0
       },
       "ManaBarContainer0": {
-        "Bounds": "42,45,168,14",
+        "Bounds": "42,45,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -344,7 +344,7 @@
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
         "Disabled": false,
-        "Hidden": false,
+        "Hidden": true,
         "RestrictToParent": false,
         "MouseInputEnabled": true,
         "HideToolTip": false,
@@ -357,7 +357,7 @@
         "RightMouseClickSound": null,
         "Children": {
           "ManaBar0": {
-            "Bounds": "0,0,168,14",
+            "Bounds": "0,0,188,14",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -413,7 +413,7 @@
         "TextScale": 1.0
       },
       "ManaValue0": {
-        "Bounds": "42,45,168,14",
+        "Bounds": "42,45,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -473,7 +473,7 @@
         "TextScale": 1.0
       },
       "HealthBarContainer1": {
-        "Bounds": "42,91,168,14",
+        "Bounds": "42,91,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -491,13 +491,13 @@
         "ToolTipBackground": null,
         "ToolTipFont": null,
         "ToolTipTextColor": "",
-        "Texture": "emptybar.png",
+        "Texture": "emptybarparty.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
         "Children": {
           "HealthBar1": {
-            "Bounds": "0,0,168,14",
+            "Bounds": "0,0,188,14",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -515,7 +515,7 @@
             "ToolTipBackground": null,
             "ToolTipFont": null,
             "ToolTipTextColor": "",
-            "Texture": "hpbar.png",
+            "Texture": "hpbarparty.png",
             "HoverSound": null,
             "LeftMouseClickSound": null,
             "RightMouseClickSound": null
@@ -553,7 +553,7 @@
         "TextScale": 1.0
       },
       "HealthValue1": {
-        "Bounds": "42,89,168,14",
+        "Bounds": "42,89,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -583,7 +583,7 @@
         "TextScale": 1.0
       },
       "ManaBarContainer1": {
-        "Bounds": "42,111,168,14",
+        "Bounds": "42,111,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -594,7 +594,7 @@
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
         "Disabled": false,
-        "Hidden": false,
+        "Hidden": true,
         "RestrictToParent": false,
         "MouseInputEnabled": true,
         "HideToolTip": false,
@@ -607,7 +607,7 @@
         "RightMouseClickSound": null,
         "Children": {
           "ManaBar1": {
-            "Bounds": "0,0,168,14",
+            "Bounds": "0,0,188,14",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -663,7 +663,7 @@
         "TextScale": 1.0
       },
       "ManaValue1": {
-        "Bounds": "42,109,168,14",
+        "Bounds": "42,109,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -761,7 +761,7 @@
         "TextScale": 1.0
       },
       "HealthBarContainer2": {
-        "Bounds": "42,157,168,14",
+        "Bounds": "42,157,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -779,13 +779,13 @@
         "ToolTipBackground": null,
         "ToolTipFont": null,
         "ToolTipTextColor": "",
-        "Texture": "emptybar.png",
+        "Texture": "emptybarparty.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
         "Children": {
           "HealthBar2": {
-            "Bounds": "0,0,168,14",
+            "Bounds": "0,0,188,14",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -803,7 +803,7 @@
             "ToolTipBackground": null,
             "ToolTipFont": null,
             "ToolTipTextColor": "",
-            "Texture": "hpbar.png",
+            "Texture": "hpbarparty.png",
             "HoverSound": null,
             "LeftMouseClickSound": null,
             "RightMouseClickSound": null
@@ -841,7 +841,7 @@
         "TextScale": 1.0
       },
       "HealthValue2": {
-        "Bounds": "42,155,168,14",
+        "Bounds": "42,155,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -871,7 +871,7 @@
         "TextScale": 1.0
       },
       "ManaBarContainer2": {
-        "Bounds": "42,177,168,14",
+        "Bounds": "42,177,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -882,7 +882,7 @@
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
         "Disabled": false,
-        "Hidden": false,
+        "Hidden": true,
         "RestrictToParent": false,
         "MouseInputEnabled": true,
         "HideToolTip": false,
@@ -895,7 +895,7 @@
         "RightMouseClickSound": null,
         "Children": {
           "ManaBar2": {
-            "Bounds": "0,0,168,14",
+            "Bounds": "0,0,188,14",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -951,7 +951,7 @@
         "TextScale": 1.0
       },
       "ManaValue2": {
-        "Bounds": "42,175,168,14",
+        "Bounds": "42,175,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1049,7 +1049,7 @@
         "TextScale": 1.0
       },
       "HealthBarContainer3": {
-        "Bounds": "42,223,168,14",
+        "Bounds": "42,223,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1067,13 +1067,13 @@
         "ToolTipBackground": null,
         "ToolTipFont": null,
         "ToolTipTextColor": "",
-        "Texture": "emptybar.png",
+        "Texture": "emptybarparty.png",
         "HoverSound": null,
         "LeftMouseClickSound": null,
         "RightMouseClickSound": null,
         "Children": {
           "HealthBar3": {
-            "Bounds": "0,0,168,14",
+            "Bounds": "0,0,188,14",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -1091,7 +1091,7 @@
             "ToolTipBackground": null,
             "ToolTipFont": null,
             "ToolTipTextColor": "",
-            "Texture": "hpbar.png",
+            "Texture": "hpbarparty.png",
             "HoverSound": null,
             "LeftMouseClickSound": null,
             "RightMouseClickSound": null
@@ -1129,7 +1129,7 @@
         "TextScale": 1.0
       },
       "HealthValue3": {
-        "Bounds": "42,221,168,14",
+        "Bounds": "42,221,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1159,7 +1159,7 @@
         "TextScale": 1.0
       },
       "ManaBarContainer3": {
-        "Bounds": "42,243,168,14",
+        "Bounds": "42,243,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1170,7 +1170,7 @@
         "MinimumSize": "1,1",
         "MaximumSize": "4096,4096",
         "Disabled": false,
-        "Hidden": false,
+        "Hidden": true,
         "RestrictToParent": false,
         "MouseInputEnabled": true,
         "HideToolTip": false,
@@ -1183,7 +1183,7 @@
         "RightMouseClickSound": null,
         "Children": {
           "ManaBar3": {
-            "Bounds": "0,0,168,14",
+            "Bounds": "0,0,188,14",
             "Padding": "0,0,0,0",
             "AlignmentEdgeDistances": "0,0,0,0",
             "AlignmentTransform": "0,0",
@@ -1239,7 +1239,7 @@
         "TextScale": 1.0
       },
       "ManaValue3": {
-        "Bounds": "42,241,168,14",
+        "Bounds": "42,241,188,14",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
         "AlignmentTransform": "0,0",
@@ -1334,9 +1334,9 @@
         "AutoSizeToContents": false,
         "Font": "sourcesansproblack,10",
         "TextScale": 1.0,
-        "NormalImage": "control_button.png",
-        "HoveredImage": "control_button_hovered.png",
-        "ClickedImage": "control_button_clicked.png",
+        "NormalImage": "smallbutton.png",
+        "HoveredImage": "smallbutton_hovered.png",
+        "ClickedImage": "smallbutton_clicked.png",
         "DisabledImage": "",
         "CenterImage": false,
         "HoverSound": "octave-tap-resonant.wav",

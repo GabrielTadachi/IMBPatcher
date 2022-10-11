@@ -1,5 +1,5 @@
 {
-  "Bounds": "0,0,35,35",
+  "Bounds": "0,0,34,35",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,0,0",
   "AlignmentTransform": "0,0",
@@ -23,7 +23,7 @@
   "RightMouseClickSound": null,
   "Children": {
     "IngredientItemIcon": {
-      "Bounds": "2,2,31,31",
+      "Bounds": "1,1,32,32",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
@@ -47,7 +47,7 @@
       "RightMouseClickSound": null
     },
     "IngredientItemValue": {
-      "Bounds": "15,24,20,11",
+      "Bounds": "8,24,26,11",
       "Padding": "0,0,0,0",
       "AlignmentEdgeDistances": "0,0,0,0",
       "AlignmentTransform": "0,0",
